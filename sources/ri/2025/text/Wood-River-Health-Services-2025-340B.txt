@@ -1,0 +1,154 @@
+        ,- -
+               ; 5"5&<0'<*0%&<4,"/%
+                  <27)<2+$+/)<20)2".< "/%"5&%<08&2&%</5+5:<&1025+/)
+                 "/%"5&%<&1025+/)<08&2<")&
+
+                                 !($+ &&*+ + $'+$ +$"%+#!$& + &+*+
+                                                + $+)+&! +  +
+
+                   08&2&%</5+5:<".&<                                   00%<+8&3<&",5*<&28+$&4</$<
+                   08&2&%</5+69<02102"5&<%%2&44<                      <"+/<5<01&<",,&:<<  <
+                    <<7.#&24<                                          <     <
+                   &1025+/)<(2<"-&/%"2<!&"2<                                           
+
+
+
+
+                                 
+
+                    %--$%- %- #'&-+%-%- %-
+                    $) $--  *-$%!&-                  
+
+
+                     (-$$-- $- -")-                
+
+
+
+
+                                                       
+
+
+
+
+                                                                       
+                                                           
+          
+               '(
+                      State of Rhode Island                                                      Schedule E
+
+               •• ·
+                      340B Drug Pricing Program - Covered Entity Repo1iing
+""'"''��   I
+
+   �   .,'v{':'
+                      Schedule E - Payments to Outside Entities (Vendors) for 340B Program Management,
+                      Administration, or Facilitation
+
+                      Covered Entity Name:                                    Wood River Health Services
+                      Reporting for Calendar Year:                                                  2025
+
+
+
+
+      Instruction: Aggregate detail by service/contractor category for all payments made to vendors/contractors relating to the
+      management, administration, and/or facilitation of any aspect of the Covered Entity's participation in the 3408 Program. Examples of
+      services/contractors to be aggregated include contracted pharmacies, split billing vendors, consultants, third-party administrators,
+      and other vendors. For consultants and other vendors, provide a brief description of service provided. Aggregate payments for
+      service/contractor categories individually paid less than $5,000.
+
+                           Program Management, Administration, or                                Description
+       Line No.                        Facilitation Category                              For Other/ Consultants                         Amount           Unit
+
+               1      Facilitation                                            Capture Referral, specialty referral workflows, Eli,             230,947    USO
+            2         Administration                                          Audit                                                             11,550    USO
+               3      Consultant                                              Compliance, Maximization, Regulartory                             25,500    USO
+            4                                                                                                                                             USO
+               5                                                                                                                                          USO
+               6                                                                                                                                          USO
+            7                                                                                                                                             USO
+               8                                                                                                                                          USO
+                      Total Vendor Categories individually under $5,000
+
+
+                      (Vendors) for 3408 Program Management,
+                      Administration, or Facilitation (Supports Schedule A­
+                      line 4)                                                                                                                  267,997
+                                                                                                                                     Schedule A- Line 4
+      Form RIOAG 3408-Sch E (revised January2026)
+        �
+          State of Rhode Island                                                                        Schedule G
+          340B Drug Pricing Program - Covered Entity Rep01iing
+      ./_
+          Schedule G - Detail of Prescription Drugs Relating to Covered Entity Participation in the 340B
+          Program Dispensed or Ad1ninistered During the Period.
+
+            Covered Entity Name:                               Wood River Health Services
+            Reporting for Calendar Year:                                          2025
+
+
+
+Instruction: list all prescription drugs relating to Covered Entity participation in the 3408 Program during the period. Detail the total amount (cost of
+prescription drug obtained through the 3408 program) and count of individual prescription drug claims dispensed or administered during the period.
+Aggregate all prescription drugs where costs for the particular drug were less than $5,000.
+
+
+Line No.                 Prescription Drug Name                        National Drug Code Number                 Amount            Unit        Count         Unit
+
+   1        ZAVZPRET SPR 10MG                                  00069350002                                               5,355     USO            8         Claims
+   2        BRIXADI SY356MG/ML0.27MLER SPD C3                  58284029601                                               5,934     USO            5         Claims
+   3        TRULICITY INJ 1.5/0.5                              00002143480                                               6,062     USO           14         Claims
+   4        FYCOMPA TAB 8MG                                    69616027830                                               6,066     USO           12         Claims
+   5        WIXELA INHUB AER 500/50                            00378932232                                               6,099     USO           73         Claims
+    6       VALTOCO SPR 15MG                                   72252051510                                               6,237     USO            7         Claims
+    9       PAXLOVID TAB 150-100                               00069531720                                               6,480     USO            6         Claims
+   10       PAXLOVID TAB 300-100                               00069504530                                               6,542     USO            8         Claims
+   11       BASAGLAR INJ 100UNIT                               00002771559                                               6,763     USO           14         Claims
+   12       VRAYLAR CAP 1.5MG                                  61874011530                                               6,773     USO            8         Claims
+   13       WEGOVY PEN .5MG/.5ML NOV4                          00169450514                                               6,938     USO           14         Claims
+   14       Descovy                                            61958200201                                               7,470     USO            4         Claims
+   15       WIXELA INHUB AER 250/50                            00378932132                                               9,251     USO           164        Claims
+   16       ZEPBOUND INJ 5/0.5ML                               00002249580                                               9,906     USO            12        Claims
+   17       SUBLOCADE INJ 100MG/0.5ML 1                        12496010001                                              11,143     USO            8         Claims
+   18       HUMIRA CF AUTO INJ 40MG/.4ML 2                     00074055402                                              11,209     USO            8         Claims
+   19       AJOVY INJ 225/1.5                                  51759020210                                              11,582     USO            78        Claims
+   20       REXULTI TAB 0.5MG                                  59148003613                                              11,639     USO            15        Claims
+<iilftl, ·�· State of Rhode Island                                                                                                     Schedule I
+        � 340B Drug Pricing Program - Covered Entity Repo1ting
+     :_-· �.A
+             Schedule I - Covered Entity Ce1tification Page
+
+                Covered Entity Name:                                                                             Wood River Health Services
+                Repo1ting for Calendar Year:                                                                                               2025
+
+
+
+
+  Line No.                           Covered Entity Certification                                 YES       NO    If Yes, explain any noncompliance noted.
+
+
+                During the reporting period, did the covered entity conduct a self-audit of
+      1         their participation in the 340B Program as required by the Health                                also did outside audit. Updates to Policy
+                Resources and Services Administration (HRSA)?                                 X                  document
+
+
+      2         During the reporting period, was the covered entity audited by HRSA or
+                subject to a drug manufacturer audit approved by HRSA?                                  X
+
+
+
+
+  I certify, to the best of my knowledge and belief, that the information reported in this reporting package is materially complete and accurate?
+
+
+
+                                                                                                                           3/30/ 5?6                    3/30/2026
+
+          /��                                                                                                                              Date
+
+
+
+                Donald R. Frink, CFO                                                                             .d.ollil td .fri o [email address in the PDF]
+                                                Name and Title                                                                               Email
+
+ Form RIOAG 3408-Sch I (revised January 2026)
+

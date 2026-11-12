@@ -1,0 +1,27 @@
+filing_id = "ri-2025-miriam-ryan-white"
+entity_id = "ri-miriam-ryan-white"
+state = "RI"
+reporting_year = 2025
+entity_type = "hospital"
+source_file = "Miriam-Hospital-Ryan-White-Care-Program-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "The Miriam Hospital Ryan White Care Program"
+corporate_address_as_filed = "164 Summit Ave, Providence, RI 02906"
+opais_ids_as_filed = "HV00018"
+recertification_date_as_filed = "Feb-26"
+reporting_basis_as_filed = "Cash"
+
+[[attachments]]
+pages = "2-4"
+kind = "notes"
+title_as_filed = ""
+note = "A filer's supplemental document from Brown University Health giving context and limitations for the reported data, with sections for Schedules A, G and H."
+
+[[attachments]]
+pages = "15"
+kind = "appendix"
+title_as_filed = "HV00018 Appendix A - Excel Spreadsheet Structure for 340B Annual Report Form_Final 3.2.2026"
+note = "An e-signature audit report page for an appendix document."

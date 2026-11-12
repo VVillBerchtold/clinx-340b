@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 538" width="860" height="538" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">
+<title id="t">External share of margin, Rhode Island 340B filings, 2025</title><desc id="d">For each filing: Schedule A lines 3 and 4 added together, divided by line 2 minus line 1. Listed alphabetically within health centers and hospitals.</desc>
+<path d="M350 36V510" stroke="#3a3a37" stroke-width="1"/>
+<text x="350" y="526" fill="#c3c2b7" text-anchor="middle">0%</text>
+<path d="M434 36V510" stroke="#3a3a37" stroke-width="1"/>
+<text x="434" y="526" fill="#c3c2b7" text-anchor="middle">10%</text>
+<path d="M518 36V510" stroke="#3a3a37" stroke-width="1"/>
+<text x="518" y="526" fill="#c3c2b7" text-anchor="middle">20%</text>
+<path d="M602 36V510" stroke="#3a3a37" stroke-width="1"/>
+<text x="602" y="526" fill="#c3c2b7" text-anchor="middle">30%</text>
+<path d="M686 36V510" stroke="#3a3a37" stroke-width="1"/>
+<text x="686" y="526" fill="#c3c2b7" text-anchor="middle">40%</text>
+<path d="M770 36V510" stroke="#3a3a37" stroke-width="1"/>
+<text x="770" y="526" fill="#c3c2b7" text-anchor="middle">50%</text>
+<text x="0" y="30" fill="#f0efec" font-weight="600">Health centers</text>
+<text x="0" y="59" fill="#c3c2b7">Blackstone Valley Community Health Care</text>
+<path d="M350 47h191.8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-191.8z" fill="#3987e5"/>
+<text x="553.8" y="59" fill="#f0efec">23.3%</text>
+<text x="0" y="89" fill="#c3c2b7">Comprehensive Community Action, Inc.</text>
+<path d="M350 77h136.3a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-136.3z" fill="#3987e5"/>
+<text x="498.3" y="89" fill="#f0efec">16.7%</text>
+<text x="0" y="119" fill="#c3c2b7">East Bay Community Action Program</text>
+<path d="M350 107h191.2a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-191.2z" fill="#3987e5"/>
+<text x="553.2" y="119" fill="#f0efec">23.2%</text>
+<text x="0" y="149" fill="#c3c2b7">The Providence Community Health Centers, Inc</text>
+<path d="M350 137h266.3a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-266.3z" fill="#3987e5"/>
+<text x="628.3" y="149" fill="#f0efec">32.2%</text>
+<text x="0" y="179" fill="#c3c2b7">Thundermist Health Center</text>
+<path d="M350 167h379.7a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-379.7z" fill="#3987e5"/>
+<text x="741.7" y="179" fill="#f0efec">45.7%</text>
+<text x="0" y="209" fill="#c3c2b7">WellOne Primary Medical and Dental Care (A)</text>
+<path d="M350 197h266.2a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-266.2z" fill="#3987e5"/>
+<text x="628.2" y="209" fill="#f0efec">32.2%</text>
+<text x="0" y="239" fill="#c3c2b7">Wood River Health Services, Inc.</text>
+<path d="M350 227h241.4a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-241.4z" fill="#3987e5"/>
+<text x="603.4" y="239" fill="#f0efec">29.2%</text>
+<text x="0" y="278" fill="#f0efec" font-weight="600">Hospitals</text>
+<text x="0" y="307" fill="#c3c2b7">Kent County Memorial Hospital</text>
+<path d="M350 295h93.5a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-93.5z" fill="#3987e5"/>
+<text x="455.5" y="307" fill="#f0efec">11.6%</text>
+<text x="0" y="337" fill="#c3c2b7">Landmark Medical center</text>
+<path d="M350 325h12.2a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-12.2z" fill="#3987e5"/>
+<text x="374.2" y="337" fill="#f0efec">1.9%</text>
+<text x="0" y="367" fill="#c3c2b7">Rhode Island Hospital</text>
+<path d="M350 355h103.3a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-103.3z" fill="#3987e5"/>
+<text x="465.3" y="367" fill="#f0efec">12.8%</text>
+<text x="0" y="397" fill="#c3c2b7">The Miriam Hospital Immunology Center</text>
+<path d="M350 385h280.4a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-280.4z" fill="#3987e5"/>
+<text x="642.4" y="397" fill="#f0efec">33.9%</text>
+<text x="0" y="427" fill="#c3c2b7">The Miriam Hospital RISE TB Clinic</text>
+<path d="M350 415h363.8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-363.8z" fill="#3987e5"/>
+<text x="725.8" y="427" fill="#f0efec">43.8%</text>
+<text x="0" y="457" fill="#c3c2b7">The Miriam Hospital Ryan White Care Program</text>
+<path d="M350 445h338.8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-338.8z" fill="#3987e5"/>
+<text x="700.8" y="457" fill="#f0efec">40.8%</text>
+<text x="0" y="487" fill="#c3c2b7">Women &amp; Infants Hospital of RI</text>
+<path d="M350 475h40.6a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-40.6z" fill="#3987e5"/>
+<text x="402.6" y="487" fill="#f0efec">5.3%</text>
+</svg>

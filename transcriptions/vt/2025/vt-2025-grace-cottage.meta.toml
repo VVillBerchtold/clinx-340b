@@ -1,0 +1,27 @@
+filing_id = "vt-2025-grace-cottage"
+entity_id = "vt-grace-cottage"
+state = "VT"
+reporting_year = 2025
+entity_type = "hospital"
+source_file = "Grace Cottage Hospital FY25 340B Financial Reporting Detail.pdf"
+form = "vt-gmcb-340b-financial"
+form_revision = "FY2025 340B Program Financial Reporting Detail"
+
+[cover]
+name_as_filed = "Grace Cottage Hospital"
+corporate_address_as_filed = ""
+opais_ids_as_filed = ""
+recertification_date_as_filed = ""
+reporting_basis_as_filed = ""
+
+[printed]
+status_as_filed = "draft"
+status_notice_as_filed = "NOTE: This is draft and may be adjusted for accuracy in the final GMCB dashboard publication."
+period_as_filed = "FY2025"
+submission_as_filed = "As Submitted to the Green Mountain Care Board in 2026"
+
+[[attachments]]
+file = "GCFHH FY 2025 340B Reporting Narrative.pdf"
+kind = "narrative"
+title_as_filed = ""
+note = "The hospital's 340B narrative reporting, a separate PDF listed beside the financial reporting detail on the state's page. It is not transcribed."

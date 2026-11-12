@@ -1,0 +1,13 @@
+page,schedule,line,amount,claims,answer
+1,payments,in_house_pharmacy,0.00,,
+1,payments,contract_pharmacy,"4,271,751.00",,
+1,payments,administered_paid_separately,"4,968,315.00",,
+1,payments,administered_bundled,"584,228.00",,
+1,payments,total,"9,824,295.00",,
+1,acquisition,cost,"3,615,939.00",,
+1,expenses,contract_pharmacies,"754,167.00",,
+1,expenses,internal,"33,616.00",,
+1,expenses,outside_vendors,"157,664.00",,
+1,expenses,total,"945,447.00",,
+1,result,net_revenue,"5,262,909.00",,
+1,result,operating_margin,53.57%,,

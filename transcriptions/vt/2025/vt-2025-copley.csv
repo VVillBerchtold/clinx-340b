@@ -1,0 +1,13 @@
+schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note
+payments,in_house_pharmacy,detail,In-House Pharmacy Dispensed,,,,0.00,,,1,text_and_image,
+payments,contract_pharmacy,detail,Contract Pharmacy Dispensed,,,,0.00,,,1,text_and_image,
+payments,administered_paid_separately,detail,Administered Drugs Paid Separately,,,,0.00,,,1,text_and_image,
+payments,administered_bundled,detail,Administered Drugs Bundled Payments,,,,"5,125,477.00",,,1,text_and_image,
+payments,total,total,Total 340B Payments Received,,,,"5,125,477.00",,,1,text_and_image,
+acquisition,cost,detail,340B Prescription Drug Acquisition Costs,,,,"2,947,751.00",,,1,text_and_image,
+expenses,contract_pharmacies,detail,Payments Made to Contract Pharmacies,,,,0.00,,,1,text_and_image,
+expenses,internal,detail,Internal 340B Program Expenses,,,,"1,788,395.00",,,1,text_and_image,
+expenses,outside_vendors,detail,Payments Made to Outside Vendors,,,,"25,200.00",,,1,text_and_image,
+expenses,total,total,Total 340B Expenses,,,,"1,813,595.00",,,1,text_and_image,
+result,net_revenue,detail,340B Net Revenue,,,,"364,131.00",,,1,text_and_image,Printed note: (payments received minus acquisition costs minus expenses)
+result,operating_margin,detail,340B Operating Margin,,,,7.10%,,,1,text_and_image,

@@ -1,0 +1,14 @@
+schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note
+payments,in_house_pharmacy,detail,In-House Pharmacy Dispensed,,,,0.00,,,1,text_and_image,
+payments,contract_pharmacy,detail,Contract Pharmacy Dispensed,,,,"1,194,329.00",,,1,text_and_image,
+payments,administered_paid_separately,detail,Administered Drugs Paid Separately,,,,N/R,,,1,text_and_image,
+payments,administered_bundled,detail,Administered Drugs Bundled Payments,,,,N/R,,,1,text_and_image,
+payments,total,total,Total 340B Payments Received,,,,"1,194,329.00",,,1,text_and_image,
+acquisition,cost,detail,340B Prescription Drug Acquisition Costs,,,,"1,197,956.00",,,1,text_and_image,
+expenses,contract_pharmacies,detail,Payments Made to Contract Pharmacies,,,,"188,714.00",,,1,text_and_image,
+expenses,internal,detail,Internal 340B Program Expenses,,,,"75,564.00",,,1,text_and_image,
+expenses,outside_vendors,detail,Payments Made to Outside Vendors,,,,"129,797.00",,,1,text_and_image,
+expenses,total,total,Total 340B Expenses,,,,"394,075.00",,,1,text_and_image,
+result,net_revenue,detail,340B Net Revenue,,,,"(397,702)",,,1,text_and_image,Printed note: (payments received minus acquisition costs minus expenses)
+result,operating_margin,detail,340B Operating Margin,,,,-33.30%,,,1,text_and_image,
+page_note,note_1,detail,NMC did not report 340B administered drug revenue they received either in the “Paid Separately” or “Bundled Payments” fields. NMC stated in their submission that their electronic medical record vendor does not have the capability to identify the two types of claims or to report aggregated reimbursement data for administered drugs.,,,,,,,1,text_and_image,

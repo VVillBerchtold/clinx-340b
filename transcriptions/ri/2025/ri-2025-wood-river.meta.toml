@@ -1,0 +1,15 @@
+filing_id = "ri-2025-wood-river"
+entity_id = "ri-wood-river"
+state = "RI"
+reporting_year = 2025
+entity_type = "health_center"
+source_file = "Wood-River-Health-Services-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "Wood River Health Services, Inc."
+corporate_address_as_filed = "823 Main St, Hope Valley, RI 02832"
+opais_ids_as_filed = "CH012230, CH012230A"
+recertification_date_as_filed = "2/7/2026"
+reporting_basis_as_filed = "Accrual"

@@ -1,0 +1,851 @@
+                                        Kent Hospital – Annual 340B Report
+
+        Kent County Memorial Hospital (“Kent”) submits the attached annual 340B report pursuant to R.I. Gen. Laws
+§ 5-19.3-6 (2025) (“Report”). This Report includes data from calendar year 2025, unless otherwise noted, and
+outlines 340B drug acquisition costs, reimbursement, contract pharmacy usage, and net savings. This Report,
+together with the summary below, explains how reduced drug acquisition costs associated with the 340B program
+support Kent’s ability to deliver community benefits to its patients.
+
+         Kent, located in Warwick, Rhode Island, is a 359-bed, non-profit, acute care hospital. As the second-largest
+hospital in the state, it serves approximately 300,000 residents in the central Rhode Island area. Kent has over
+2,000 employees, a medical staff of 600 and a volunteer corps of more than 300 and 327 auxilians. Kent's
+Emergency Department (ED) is the second busiest in the state with some 60,000 annual visits. Kent offers the
+state's only highly specialized, comprehensive geriatric program, including a verified Geriatric Surgery Facility, a
+silver-level Geriatric Emergency Department (GEDA), and an Age-Friendly Health System Initiative. The program
+focuses on specialized care, including palliative care, inpatient rehabilitation, and a Hospital at Home program.
+
+        Kent’s participation in the 340B program is critical to Kent’s ability to continue to provide the highest quality
+care to patients in Rhode Island and the surrounding region. The savings on drug costs due to Kent’s participation in
+the 340B program also allows Kent to maintain its commitment to serving patients without regard to their income or
+insurance status, allowing Kent to provide significant financial assistance and ensure that cost is not a barrier to
+care.
+
+Schedule A- Program Totals
+
+         Schedule A is a high-level overview of Kent’s 340B program financials. It includes acquisition costs for drugs
+obtained through the 340B program, payments and reimbursement received for 340B drugs, fees paid to contract
+pharmacies and external vendors as well as administrative expenses for operating the 340B program. Schedule A
+reflects that Kent generated $37,941,584.00 in 340B savings in 2025.
+
+Schedule B – Acquisition Cost by Vendor
+
+       Schedule B is a summary of the total costs to Kent of drugs purchased through the 340B program. Data for
+schedule B was pulled directly from Kent’s wholesalers for all 340B purchase accounts. In 2025, Kent used three
+wholesalers to obtain 340B drugs and spent a total of $44,095,350.32.
+
+Schedule C – Claim Reimbursements
+
+        Schedule C is a summary of payments Kent received for separately-billed 340B drugs, broken down by
+payer class. Data for Schedule C was pulled directly from our billing and revenue cycle management systems.
+
+        Kent is unable to separate payments for drugs on claims for services paid at a bundled rate. Drugs on such
+claims are not separately identified when paid, so it is not possible to determine the amount of the bundled rate that
+corresponds to the drugs administered to the patient.
+
+       For “other sources”, this includes government payers, such as Tricare along with cash payments received
+from patients in the form of copays and deductibles.
+
+        In 2025, Kent collected $87,366,669.74 in reimbursement for 340B drugs across all reimbursement sources.
+Schedule D – Payment to Contract Pharmacies
+
+        Schedule D is a summary of fees paid by Kent to contract pharmacies for dispensing 340B drugs to patients
+of Kent. Data for Schedule D was pulled from data systems maintained by the vendors that administer these
+arrangements. Any individual pharmacy paid more than $5,000 is listed by name and locations of national chain
+pharmacies used to dispense 340B drugs to Kent patients are aggregated by pharmacy company. In 2025, Kent
+paid $2,504,133.56 to five chain pharmacies.
+
+Schedule E – Payments to Vendors
+
+          Schedule E is a summary of fees paid to outside vendors related to the management, administration, and/or
+facilitation of Kent’s participation in the 340B program. Data for Schedule E was pulled from vendor data systems
+and vendor invoices. Kent used six 340B vendors during the year that were paid at least $5,000. In 2025, Kent paid
+a total of $2,517,183.36 to outside vendors.
+
+Schedule F – Administrative Expenses
+
+       Administrative expenses in this section include salaries plus fringe benefits of employees working with the
+340B program daily.
+
+Schedule G – Drug Claim Detail
+
+       Schedule G is a list of all drugs dispensed or administered to 340B patients that had a total annual cost of
+$5,000 or more. For drugs that exceeded a total cost of $5,000, the total number of combined dispenses plus
+administrations equals the number of claims reported for each medication. Any drug that had a cost of less than
+$5,000 is aggregated.
+
+Schedule H – Use of 340B Dollars
+
+        Schedule H details Kent’s use of 340B savings to ensure access to care for patients and texpand services
+needed in the community. Data for this schedule was compiled from 2024 data as that was the most complete
+available at the time of this filing. Community benefit expenditures reported on Schedule H for 2024 exceed any cost
+savings associated with Kent’s participation in the 340B program in 2025.
+
+Schedule I – Covered Entity Certification
+
+       During the reporting period, Kent was not audited by HRSA but did hire an independent third party to
+perform a comprehensive self-audit of its 340B program.
+
+
+
+
+James Burke
+Vice President, Finance
+340B Authorizing Official
+Kent Hospital
+            State of Rhode Island
+            340B Drug Pricing Program - Mandated Covered Entity Reporting
+            Mandated Reporting Cover Page
+
+                      Covered Entity 340B Drug Pricing Program Reporting Mandated by
+                                      RI General Law Section 5-19.3-6.
+
+            Covered Entity Name:                                     Kent County Memorial Hospital
+            Covered Entity Corporate Address:                        455 Toll Gate Rd. Warwick, RI 02886
+            340B ID Number(s)                                        DSH410009
+            Reporting for Calendar Year:                                            2025
+
+
+
+
+            Covered Entity Required Information
+
+            Date of most recent recertification with the Health
+            Resources and Service Administration                     8/15/2025
+
+            Reporting Basis (i.e., Cash or Accrual)                  Accrual
+
+
+
+
+                                                         #UNKNOWN!
+Form RIOAG-340B (Revised January 2026)
+             State of Rhode Island                                                                                                  Schedule A
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule A - Aggregate Reporting Schedule
+
+             Covered Entity Name:                         Kent County Memorial Hospital
+             Reporting for Calendar Year:                                     2025
+
+
+
+
+                                                                                                          Schedule
+Line No.                        Data Element                       Data Element Description                 Ref           Amount          Unit
+
+                                                          Total aggregated cost to entity for drugs
+            Total Aggregated Acquisition Cost for All
+     1                                                    purchased under 340B (actual paid, incl.           B           44,095,350.32    USD
+            340B Program Drugs
+                                                          fees) during the previous calendar year.
+
+                                                     Total payments (claim reimbursements)
+                                                     received for 340B drugs dispensed/
+            Total Aggregated Payment Amount Received
+     2                                               administered to patients with commercial                C           87,366,669.74    USD
+            for Dispensed/Administered 340B Drugs
+                                                     medical insurance, Medical Assistance,
+                                                     and/or Medicare Supplemental plans.
+
+            Total Aggregated Payments to Contract
+                                                          Total payments made to contract
+     3      Pharmacies for 340B Program Prescription                                                         D       $    2,504,133.56    USD
+                                                          pharmacies for dispensing 340B drugs.
+            Drugs
+
+            Total Aggregated Payments to Outside        Total payments to vendors managing,
+     4      Entities (Vendors) for 340B Program         administering, or facilitating any aspect of         E            2,517,183.36    USD
+            Management, Administration, or Facilitation the 340B covered entity's drug program.
+
+                                                          Total covered entity expenses for staffing,
+            Total Aggregated Administrative Expenses
+     5                                                    operations, and administration related to the      F              308,418.50    USD
+            for 340B Program
+                                                          340B program.
+
+
+                                                          Payments Received (Line 2) - (Acquisition
+            Net 340B Revenue Calculation (Auto-
+     6                                                    Costs (Line 1) + Administration Expenses                       $37,941,584.00   USD
+            Calculated)
+                                                          (Lines 3, 4 & 5)
+
+
+Form RIOAG 340B-Sch A (revised January 2026)
+            State of Rhode Island                                Schedule B
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule B - Acquisition Cost Detail Schedule
+
+            Covered Entity Name:                                     Kent County Memorial Hospital
+            Reporting for Calendar Year:                                     2025
+
+
+
+Instruction: Provide detail for all vendors (e.g. manufacturers, wholesalers) where the covered
+entity procured $5,000 or more of prescription drugs from an individual vendor/pharmacy under the
+340B program. Provide an aggregated total for vendors where procurement was less than $5,000.
+
+Line No.                            Vendor Name                          Amount Paid           Unit
+
+     1      Mckesson                                                           41,701,516.07   USD
+     2      Cardinal                                                            2,232,712.97   USD
+     3      Cencora                                                               161,121.28   USD
+     4                                                                                         USD
+     5                                                                                         USD
+     6                                                                                         USD
+     7                                                                                         USD
+     8                                                                                         USD
+     9                                                                                         USD
+    10                                                                                         USD
+            Total for vendors under $5,000                                                     USD
+
+            Total Aggregated Acquisition Cost for all 340B Program
+            Drugs - (Supports Schedule A, Line 1)
+                                                                                               USD
+                                                                               44,095,350.32
+                                                                       Schedule A - Line 1
+
+
+
+
+Form RIOAG 340B-Sch B (revised January 2026)
+            State of Rhode Island                               Schedule C
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule C - Claim Reimbursements For 340B
+            Dispensed / Administered Drugs
+
+            Covered Entity Name:                           Kent County Memorial Hospital
+            Reporting for Calendar Year:                         2025
+
+
+
+Instruction: Provide detail (amount and number of individual claims) for all reimbursements relating to
+pharmaceuticals obtained under the 340B Drug Program from commercial insurance (including
+Medicare Supplemental plans), Medical Assistance, Medicare, and or other sources. This schedule
+should total all reimbursements relating to pharmaceuticals obtained under the 340B Drug Program.
+
+                                                               Amount
+Line No.                 Reimbursement Source                Reimbursed          Unit   Count       Unit
+
+     1      Commercial Insurance                               43,388,233.40     USD    178,777    Claims
+     2      Medical Assistance (i.e., Medicaid)                 1,365,132.32     USD     39,042    Claims
+     3      Medicare                                           40,351,374.34     USD     39,545    Claims
+     4      Other Sources                                       2,261,929.68     USD     75,146    Claims
+
+
+
+
+            Total Aggregated Payment Amount Received for
+            Dispensed/Administered 340B Drugs (Supports
+            Schedule A - Line 2)                               87,366,669.74             332,510
+                                                           Schedule A - Line 2
+
+
+
+Form RIOAG 340B-Sch C (revised January 2026)
+            State of Rhode Island                                Schedule D
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule D - Payment to Contract Pharmacy Detail Schedule
+
+            Covered Entity Name:                                  Kent County Memorial Hospital
+            Reporting for Calendar Year:                                     2025
+
+
+Instruction: Provide detail for all payments made to contract pharmacies for dispensing 340B
+prescription drugs during the reporting period. Individually list any contract pharmacy paid $5,000 or
+more. Aggregate payments to contract pharmacies paid less than $5,000.
+
+Line No.                    Contract Pharmacy Name                       Amount Paid           Unit
+
+     1      CVS/Caremark                                          $            1,209,395.56    USD
+     2      Optum                                                 $              654,000.00    USD
+     3      Accredo                                               $              459,800.00    USD
+     4      Onco 360                                              $              141,388.00    USD
+     5      Walgreens                                             $               38,350.00    USD
+     6                                                                                         USD
+     7                                                                                         USD
+     8                                                                                         USD
+     9                                                                                         USD
+    10                                                                                         USD
+            Total for contract pharmacies under $5,000            $                 1,200.00
+
+            Total Aggregated Payments to Contract Pharmacies for
+            340B Program Prescription Drugs (Supports Schedule A -
+            Line 3)                                                $           2,504,133.56
+                                                                       Schedule A - Line 3
+
+
+
+
+Form RIOAG 340B-Sch D (revised January 2026)
+            State of Rhode Island                                                Schedule E
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule E - Payments to Outside Entities (Vendors) for 340B Program
+            Management, Administration, or Facilitation
+
+            Covered Entity Name:                                          Kent County Memorial Hospital
+            Reporting for Calendar Year:                                           2025
+
+
+
+Instruction: Aggregate detail by service/contractor category for all payments made to vendors/contractors relating to the
+management, administration, and/or facilitation of any aspect of the Covered Entity's participation in the 340B Program.
+Examples of services/contractors to be aggregated include contracted pharmacies, split billing vendors, consultants, third-
+party administrators, and other vendors. For consultants and other vendors, provide a brief description of service
+provided. Aggregate payments for service/contractor categories individually paid less than $5,000.
+
+                      Program Management, Administration, or                     Description
+Line No.                       Facilitation Category                       For Other / Consultants       Amount            Unit
+
+     1      Contract Pharmacy Third Party Administrator                                                    2,340,647.96    USD
+     2      Internal Third Party Administrator                                                                25,200.00    USD
+     3      Program Consultant                                                                                77,322.90    USD
+     4      External Compliance Auditor                                                                       14,000.00    USD
+     5      Professional Organization                                                                         14,070.00    USD
+     6      Outside Legal Services                                                                            45,942.50    USD
+     7                                                                                                                     USD
+     8                                                                                                                     USD
+            Total Vendor Categories individually under $5,000
+
+            Total Aggregated Payments to Outside Entities (Vendors) for
+            340B Program Management, Administration, or Facilitation
+            (Supports Schedule A - Line 4)                                                                 2,517,183.36
+                                                                                                     Schedule A - Line 4
+Form RIOAG 340B-Sch E (revised January 2026)
+            State of Rhode Island                                 Schedule F
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule F - Administrative Expenses for 340B Program
+
+            Covered Entity Name:                                Kent County Memorial Hospital
+            Reporting for Calendar Year:                                 2025
+
+
+Instruction: Provide detail for all covered entity expenses (noncontracted) relating to the
+administration of the 340B program including staffing, operational, and administrative expenses.
+Detail individual expense categories with expenses of $5,000 or more. Aggregate expense categories
+individually less than $5,000.
+
+Line No.                Expense Category Description                Amount/Value             Unit
+
+     1      Salaries                                                            308,418.50   USD
+     2                                                                                       USD
+     3                                                                                       USD
+     4                                                                                       USD
+     5                                                                                       USD
+     6                                                                                       USD
+     7                                                                                       USD
+     8                                                                                       USD
+     9                                                                                       USD
+    10                                                                                       USD
+            Total for expense categories individually under
+            $5,000
+
+            Total Aggregated Administrative Expenses for 340B
+            Program                                                             308,418.50
+                                                                   Schedule A - Line 5
+
+
+
+
+Form RIOAG 340B-Sch F (revised January 2026)
+           State of Rhode Island                                                              Schedule G
+           340B Drug Pricing Program - Covered Entity Reporting
+           Schedule G - Detail of Prescription Drugs Relating to Covered Entity Participation in the
+           340B Program Dispensed or Administered During the Period.
+
+           Covered Entity Name:                              Kent County Memorial Hospital
+           Reporting for Calendar Year:                                  2025
+
+
+Instruction: List all prescription drugs relating to Covered Entity participation in the 340B Program during the period. Detail the total amount
+(cost of prescription drug obtained through the 340B program) and count of individual prescription drug claims dispensed or administered during
+the period. Aggregate all prescription drugs where costs for the particular drug were less than $5,000.
+
+
+Line No.                Prescription Drug Name                National Drug Code Number        Amount           Unit        Count          Unit
+
+    1      KESIMPTA 20 MG/0.4 ML PEN                           00078100768                     $1,933,416.47    USD                 276   Claims
+    2      pembrolizumab 100 mg/4 mL INJ                       00006302602                     $1,559,990.40    USD                 171   Claims
+    3      daratumumab-hyaluronidase 1800 mg-30,000 units INJ 15 mL
+                                                                7894050301                     $1,240,777.54    USD                 206   Claims
+    4      BRUKINSA 80 MG CAPSULE                              72579001102                     $1,181,074.04    USD                 128   Claims
+    5      DUPIXENT 300 MG/2 ML PEN                            00024591502                     $1,168,095.81    USD                 171   Claims
+    6      TAGRISSO 80 MG TABLET                               00310135030                     $1,119,735.99    USD                  91   Claims
+    7      OFEV 150 MG CAPSULE                                 00597014560                       $996,080.90    USD                 112   Claims
+    8      CALQUENCE 100 MG TABLET                             00310351260                       $958,829.00    USD                 103   Claims
+    9      MPB OPDIVO 240MG/24ML SDV                           00003373413                       $866,349.21    USD                 154   Claims
+   10      NUBEQA 300 MG TABLET                                50419039501                       $693,979.05    USD                  88   Claims
+   11      HUMIRA(CF) PEN 40 MG/0.4 ML                         00074055402                       $631,773.90    USD                 376   Claims
+   12      NUCALA 100 MG/ML AUTO-INJECTOR                      00173089201                       $605,715.89    USD                  87   Claims
+   13      ivosidenib 250 mg Tab                               72694061760                       $592,600.36    USD                  26   Claims
+   14      venetoclax (Venclexta) 100 mg Tab                   00074057622                       $559,576.98    USD                  95   Claims
+   15      VERZENIO 100 MG TABLET                              00002481554                       $535,284.40    USD                   9   Claims
+   16      SKYRIZI 150 MG/ML PEN                               00074210001                       $528,240.25    USD                  32   Claims
+   17      tafamidis 61 mg cap                                 00069873030                       $525,724.66    USD                  31   Claims
+   18      palbociclib (Ibrance) 75 mg Tab                     00069028403                       $503,801.00    USD                  56   Claims
+   19      ravulizumab-cwvz 300 mg/3 mL INJ                    25682002501                       $475,610.73    USD                  10   Claims
+20   durvalumab (Imfinzi) 1,500 mg in sodium chloride 0.9 % 250 mL
+                                                             00310461150
+                                                                   IVPB    $466,661.08   USD    72   Claims
+21   OFEV 100 MG CAPSULE                                     00597014360   $462,673.60   USD    54   Claims
+22   teprotumumab (Tepezza) 500 mg injection                 75987013015   $421,049.28   USD     8   Claims
+23   MOUNJARO 5 MG/0.5 ML PEN                                00002149580   $408,777.81   USD    42   Claims
+24   talquetamab tgvs 40 mg/mL INJ                           57894047001   $388,414.12   USD    49   Claims
+25   VERZENIO 150 MG TABLET                                  00002533754   $368,827.48   USD    10   Claims
+26   MPB TEZSPIRE 210MG/1.91ML PEN                           55513012301   $335,617.81   USD   121   Claims
+27   Privigen 40 GM/400ML SOLN                               44206043940   $328,335.70   USD   148   Claims
+28   COSENTYX SNRDY 300MG DOSE-2PEN                          00078063941   $307,517.32   USD    43   Claims
+29   FASENRA PEN 30 MG/ML                                    00310183030   $288,508.19   USD    76   Claims
+30   Kcentra 1000 UNIT KIT                                   63833038702   $285,916.19   USD    82   Claims
+31   IBRANCE TAB 125MG                                       00069068803   $279,800.77   USD    30   Claims
+32   ERBITUX VL 2MG/ML       100ML                           66733095823   $279,398.77   USD   280   Claims
+33   XTANDI 40 MG TABLET                                     00469062599   $270,850.49   USD    50   Claims
+34   SKYRIZI 360 MG/2.4 ML ON-BODY                           00074107001   $266,341.39   USD    27   Claims
+35   MPB ERLEADA 60MG TAB 120                                59676060012   $259,454.97   USD    26   Claims
+36   Privigen 20 GM/200ML SOLN                               44206043820   $250,477.15   USD   220   Claims
+37   MPB GAZYVA INJ 1000MG/40ML INJ                          50242007001   $246,600.69   USD    47   Claims
+38   MPB TAVALISSE 100MG TAB 60                              71332000101   $239,946.48   USD    29   Claims
+39   STELARA PFS 90MG/1.0ML 1                                57894006103   $239,671.99   USD    29   Claims
+40   MEKINIST TAB 2MG                                        00078111215   $238,145.26   USD    14   Claims
+41   TALTZ 80 MG/ML AUTOINJECTOR                             00002144511   $237,833.62   USD    32   Claims
+42   TAFINLAR 75 MG CAPSULE                                  00078068166   $234,586.59   USD    14   Claims
+43   KISQALI 600 MG DAILY DOSE                               00078087463   $229,674.19   USD    12   Claims
+44   OZEMPIC 0.25-0.5 MG/DOSE PEN                            00169418113   $226,875.28   USD   701   Claims
+45   MOUNJARO 7.5 MG/0.5 ML PEN                              00002148480   $222,565.78   USD    18   Claims
+46   OZEMPIC 2 MG/DOSE (8 MG/3 ML)                           00169477212   $220,425.00   USD   820   Claims
+47   MOUNJARO 2.5 MG/0.5 ML PEN                              00002150680   $217,002.22   USD    15   Claims
+48   MPB TECENTRIQ 1200MG/20ML SDV                           50242091701   $207,753.69   USD    27   Claims
+49   asciminib (Scemblix) 40 mg Tab                          00078109820   $206,269.52   USD    20   Claims
+50   MOUNJARO 10 MG/0.5 ML PEN                               00002147180   $205,173.97   USD    23   Claims
+51   OZEMPIC 1 MG/DOSE (4 MG/3 ML)                           00169413013   $202,809.95   USD   562   Claims
+52   MPB LONSURF 20MG/8.19MG TAB 60                          64842102003   $200,790.95   USD    19   Claims
+53   MPB TEPMETKO 225MG TAB 30 DS                            44087500003   $198,564.10   USD    21   Claims
+54   VERZENIO 50 MG TABLET                                   00002448354   $197,159.48   USD     1   Claims
+55   MPB JAKAFI 10MG TAB 60                                  50881001060   $196,312.46   USD    34   Claims
+56   ACTEMRA ACTPEN INJ 162MG/0.9ML                          50242014301   $196,287.78   USD   100   Claims
+57   canakinumab (Ilaris, PF,) 150 mg/mL Soln                00078073461   $194,196.84   USD    14   Claims
+58   REPATHA 140MG/ML SURECLICK 2CT                     72511076002   $192,265.18   USD   1118   Claims
+59   Bridion 200 MG/2ML SOLN                            00006542312   $192,125.48   USD   2269   Claims
+60   MPB SARCLISA 500MG/25ML SDV                        00024065601   $188,067.09   USD     65   Claims
+61   GAMMAGARD LIQUID 10% VIAL                          00944270007   $186,216.80   USD    119   Claims
+62   osimertinib (Tagrisso) 40 mg Tab                   00310134930   $180,379.65   USD     14   Claims
+63   MPB REBLOZYL 75MG SDV                              59572077501   $170,509.02   USD     19   Claims
+64   glecaprevir-pibrentasvir (Mavyret) 100-40 mg Tab   00074262528   $169,321.81   USD      9   Claims
+65   MOUNJARO 15 MG/0.5 ML PEN                          00002145780   $168,293.50   USD     10   Claims
+66   KEVZARA INJ PFP200MG/1.14ML 2                      00024592201   $166,932.87   USD     88   Claims
+67   TRELEGY ELLIPTA 200-62.5-25                        00173089310   $163,642.98   USD    675   Claims
+68   MPB IMBRUVICA 420MG TAB 28                         57962042028   $154,896.66   USD     24   Claims
+69   MPB JAKAFI 20MG TAB 60                             50881002060   $150,533.78   USD     26   Claims
+70   midostaurin (Rydapt) 25 mg cap                     00078069819   $149,632.24   USD      6   Claims
+71   IBRANCE 100 MG TABLET                              00069048603   $149,033.77   USD     18   Claims
+72   enzalutamide 40 mg cap                             00469012599   $148,991.78   USD     13   Claims
+73   nilotinib HCl 150 mg cap                           00078059287   $148,606.03   USD     26   Claims
+74   RINVOQ ER 15 MG TABLET                             00074230630   $141,029.85   USD     52   Claims
+75   MPB DOPTELET 20MG TAB 15                           71369002015   $140,431.86   USD     37   Claims
+76   MPB VONJO 100MG CAP 120                            72482010012   $137,892.12   USD      9   Claims
+77   cabazitaxel 60 mg/6 mL INJ                         00024582411   $135,477.92   USD     23   Claims
+78   MPB LONSURF 15MG/6.14MG TAB 60                     64842102503   $134,817.20   USD     17   Claims
+79   iron dextran 100 mg/2 ml INJ                       00023608210   $133,832.32   USD    358   Claims
+80   MPB BRUKINSA 160MG TAB 60                          72579012201   $133,178.54   USD     11   Claims
+81   TRELEGY ELLIPTA 100-62.5-25                        00173088710   $128,672.64   USD    789   Claims
+82   ribociclib (Kisqali) 400 mg/day (200 mg x 2) Tab   00078086742   $127,830.02   USD     16   Claims
+83   HADLIMA PSH INJ 40MG/0.4ML 2PK                     78206018701   $127,026.66   USD    218   Claims
+84   MPB KYPROLIS 60MG INJ PWD                          76075010101   $126,559.70   USD     82   Claims
+85   Nplate 500 MCG SOLR                                55513022201   $122,752.37   USD    148   Claims
+86   MPB LENVIMA 18MG BPK CAP 90                        62856071830   $120,481.41   USD     11   Claims
+87   REPATHA LF INJ 140MG 1ML 2                         72511039302   $119,366.36   USD    697   Claims
+88   MPB ENHERTU 100MG SDV                              65597040601   $117,375.84   USD     56   Claims
+89   XGEVA SDV 120MG/1.7ML          1                   55513073001   $116,922.90   USD     78   Claims
+90   MPB POLIVY 30MG SDV                                50242010301   $116,002.13   USD     40   Claims
+91   TRULICITY 3 MG/0.5 ML PEN                          00002223680   $113,433.21   USD      6   Claims
+92   MPB YERVOY 50MG/10ML SDV                           00003232711   $112,974.18   USD     18   Claims
+93   DUPIXENT PFS300MG/2ML 2                            00024591401   $109,947.01   USD     50   Claims
+94   ZEPBOUND 5 MG/0.5 ML PEN                           00002249580   $109,749.40   USD      1   Claims
+95   MPB LAZCLUZE 80MG TAB 60                           57894008060   $109,267.39   USD      8   Claims
+ 96   capmatinib 200 mg Tab                             00078071656     $107,217.18   USD      7   Claims
+ 97   MPB SARCLISA 100MG/5ML SDV                         00024065401    $103,855.34   USD    180   Claims
+ 98   BESREMI 500 MCG/ML SYRINGE                        73536050001     $103,686.65   USD     37   Claims
+ 99   momelotinib (Ojjaara) 100 mg Tab                   81864010330    $103,634.09   USD      5   Claims
+100   ELIQUIS 5 MG TABLET                               00003089421     $103,028.64   USD   2377   Claims
+101   ZEPBOUND 2.5MG/0.5ML INJ (4PF PENS)                00002250680    $100,133.22   USD      1   Claims
+102   TRULICITY 4.5 MG/0.5 ML PEN                       00002318280      $99,808.57   USD      2   Claims
+103   Ruxience 500 MG/50ML SOLN                         00069024901      $99,734.08   USD    224   Claims
+104   MPB JAYPIRCA 100MG TAB 60                         00002702660      $99,586.02   USD      6   Claims
+105   Privigen 10 GM/100ML SOLN                         44206043710      $97,655.46   USD    160   Claims
+106   MPB BENLYSTA SC PEN 200MG/ML 4                     49401008835     $96,918.95   USD     29   Claims
+107   Botox 200 UNIT SOLR                               00023392102      $95,408.07   USD      4   Claims
+108   DUPIXENT 200 MG/1.14 ML PEN                       00024591902      $95,245.85   USD     15   Claims
+109   TERIPARATIDE INJ 250MCG/ML 1                      47781065289      $92,833.00   USD     25   Claims
+110   immune globulin (Gammagard) IV 10% 20 g/200 mL     00944270006     $91,936.40   USD     60   Claims
+111   MPB TAVALISSE 150MG TAB 60                         71332000201     $91,402.43   USD     11   Claims
+112   MOUNJARO 12.5 MG/0.5 ML PEN                       00002146080      $90,438.58   USD      6   Claims
+113   MPB IMBRUVICA 140MG CAP 90S                       57962014009      $90,138.54   USD     13   Claims
+114   POMALYST 3 MG CAPSULE                             59572050321      $89,061.64   USD     10   Claims
+115   NUCALA INJ 100MG/ML                               00173089242      $88,510.68   USD      2   Claims
+116   RINVOQ ER 30 MG TABLET                            00074231030      $88,166.23   USD     35   Claims
+117   TREMFYA 100MG 1                                   57894064011      $81,635.98   USD     20   Claims
+118   MPB KRAZATI 200MG TAB 180                          80739081218     $78,447.08   USD      5   Claims
+119   olaparib (Lynparza) 150 mg Tab                    00310067912      $78,210.90   USD      7   Claims
+120   MPB KADCYLA 160MG SDV                             50242008701      $76,928.74   USD     17   Claims
+121   ribociclib (Kisqali) 200 mg/day (200 mg x 1) Tab   00078086001     $76,772.60   USD     18   Claims
+122   TRULICITY 1.5 MG/0.5 ML PEN                       00002143480      $76,729.91   USD     17   Claims
+123   MPB LENVIMA 10MG BPK CAP 30                       62856071030      $76,718.04   USD      7   Claims
+124   SHINGRIX SDV 50MCG 0.5ML 10                       58160082311      $75,681.19   USD     39   Claims
+125   MPB JAKAFI 15MG TAB 60                            50881001560      $74,926.48   USD     13   Claims
+126   MPB ALUNBRIG 180MG TAB 30CT                        63020018030     $73,273.87   USD     13   Claims
+127   MPB ALECENSA 150MG CAP 240                         50242013001     $73,176.55   USD      6   Claims
+128   ENTRESTO 24 MG-26 MG TABLET                       00078065920      $72,489.30   USD    437   Claims
+129   secukinumab (Cosentyx UnoReady Pen) 300 mg/2 mL PnIj00078107068    $71,121.33   USD     29   Claims
+130   INVEGA SUSTENNA 234MG KIT                         50458056401      $71,043.83   USD     60   Claims
+131   MPB MEKTOVI 15MG TAB 180                           70255001002     $70,095.64   USD      7   Claims
+132   Vivitrol 380 MG SUSR                              65757030001      $69,790.54   USD    101   Claims
+133   MPB BRAFTOVI 75MG CAP 90X2                         70255002501     $69,467.86   USD      8   Claims
+134   MPB MEKINIST 0.5MG TAB 30                              00078110515      $69,328.24   USD    38   Claims
+135   DUPIXENT 200 MG/1.14 ML SYRING                         00024591801      $69,140.60   USD    13   Claims
+136   MPB LAZCLUZE 240MG TAB 30                              57894024030      $68,986.01   USD     5   Claims
+137   MPB POLIVY 140MG SDV                                   50242010501      $68,654.59   USD     5   Claims
+138   MPB LENVIMA 8MG BPK CAP 60                             62856070830      $66,005.92   USD     6   Claims
+139   MPB REBLOZYL 25MG SDV                                  59572071101      $65,831.69   USD    22   Claims
+140   MPB LENVIMA 20MG BPK CAP 60                            62856072030      $64,449.09   USD     5   Claims
+141   MPB SOLIRIS 10MG/ML30ML SDV DS                         25682000101      $63,379.03   USD    13   Claims
+142   MPB ESBRIET 801MG TAB 90                               50242012301      $62,538.08   USD     8   Claims
+143   MPB OJJAARA 200MG TAB 30                               81864010130      $62,120.57   USD     3   Claims
+144   tremelimumab-actl 300 mg in sodium chloride 0.9 % 100 mL
+                                                             00310453530
+                                                                 chemo IVPB   $60,842.00   USD     2   Claims
+145   capmatinib 150 mg Tab                                  00078070956      $60,774.23   USD     6   Claims
+146   MPB STIVARGA 40MG TAB 21 CT4                           50419017106      $59,914.88   USD     8   Claims
+147   ZEPBOUND 7.5MG/0.5MLX4PEND AM                          00002248480      $58,864.40   USD    74   Claims
+148   INLYTA TAB 5MG                                         00069015111      $58,027.99   USD     8   Claims
+149   BENDEKA MDV 100MG 4ML                                  63459034804      $57,919.66   USD    75   Claims
+150   BOSULIF 100 MG TABLET                                  00069013501      $57,324.41   USD    14   Claims
+151   octreotide LAR 20 mg PWDI                              00078081881      $56,665.27   USD    78   Claims
+152   MPB INREBIC 100MG CAP 120                              59572072012      $55,910.84   USD     3   Claims
+153   siponimod (Mayzent) 2 mg Tab                           00078098615      $55,654.31   USD     9   Claims
+154   nivolumab 40 mg/4 mL INJ                               00003377211      $54,644.18   USD    24   Claims
+155   BASAGLAR KWIKPEN 3ML 5                                 00002771559      $54,287.20   USD   240   Claims
+156   MPB ORGOVYX 120MG TAB 30                               72974012001      $52,991.22   USD    28   Claims
+157   WEGOVY 2.4 MG/0.75 ML PEN                              00169452414      $51,602.85   USD    86   Claims
+158   HyperRAB 1500 UNIT/5ML SOLN                            13533031805      $51,455.68   USD    30   Claims
+159   MPB MONJUVI 200MG SDV                                  50881001303      $51,328.50   USD    50   Claims
+160   BREZTRI AEROSPHERE INHALER                             00310461612      $51,036.19   USD   235   Claims
+161   MPB OCREVUS 300MG/10ML SDV                             50242015001      $50,978.22   USD     4   Claims
+162   MPB OCTAGAM 10% 20GM/200ML                             68982085004      $49,454.95   USD    38   Claims
+163   MPB PHESGO 1200MG/10ML SDV KIT                         50242026001      $49,387.50   USD    10   Claims
+164   TYENNE AUTO INJ 162MG/0.9ML 1                          65219058401      $49,093.88   USD   120   Claims
+165   ZEPBOUND 10 MG/0.5 ML PEN                              00002247180      $48,801.95   USD     7   Claims
+166   MPB KADCYLA 100MG SDV                                  50242008801      $48,089.31   USD    17   Claims
+167   Durolane 60 MG/3ML PRSY                                89130202001      $48,005.86   USD    41   Claims
+168   MPB IDHIFA 100MG TAB 30                                59572071030      $46,515.58   USD     2   Claims
+169   semaglutide, weight loss, (Wegovy) 0.25 mg/0.5 mL pen-injector
+                                                             00169452514      $45,223.35   USD    81   Claims
+170   MPB ENJAYMO 1100MG/22ML SDV                            55292082001      $45,205.20   USD    30   Claims
+171   MPB INQOVI 35MG/100MG TAB 5                            64842072709      $45,120.56   USD     7   Claims
+172   XIFAXAN TAB 550MG         60                           65649030302   $45,001.08   USD      65   Claims
+173   BOTOX 100 UNIT VIAL                                    00023114501   $44,857.60   USD      86   Claims
+174   BOSULIF 500 MG TABLET                                  00069013601   $44,825.91   USD      12   Claims
+175   DOVATO TB 50/300MG 30                                  49702024613   $44,139.63   USD      23   Claims
+176   semaglutide, weight loss, (Wegovy) 1.7 mg/0.75 mL pen-injector
+                                                             00169451714   $43,158.06   USD      71   Claims
+177   MPB FOTIVDA 0.89MG CAPS 21                             45629008902   $42,752.70   USD       2   Claims
+178   MPB FOTIVDA 0.89MG CAPS 21                             45629008901   $42,219.70   USD       2   Claims
+179   ORENCIA CLICKJECT 125 MG/ML                            00003218851   $42,076.33   USD      36   Claims
+180   TNKase 50 MG KIT                                       50242012047   $41,341.36   USD      40   Claims
+181   TRULICITY 0.75MG/0.5ML PEN 4                           00002143380   $40,755.43   USD     112   Claims
+182   COSENTYX SENSOREADY 150 MG PEN                         00078063968   $40,470.19   USD       3   Claims
+183   ZEPBOUND 12.5 MG/0.5 ML PEN                            00002246080   $39,719.49   USD       3   Claims
+184   ABILIFY MAINTENA ER 400MG KIT                          59148024512   $39,709.41   USD      27   Claims
+185   Kcentra 500 UNIT KIT                                   63833038602   $39,536.42   USD      52   Claims
+186   MPB EMPLICITI 300MG VIAL                               00003229111   $38,960.48   USD      23   Claims
+187   ZEPBOUND 15 MG/0.5 ML PEN                              00002245780   $38,932.39   USD       6   Claims
+188   STELARA PFS 45MG/0.5ML 1                               57894006003   $38,715.02   USD      10   Claims
+189   olaparib (Lynparza) 100 mg Tab                         00310066812   $38,397.12   USD       3   Claims
+190   semaglutide, weight loss, (Wegovy) 1 mg/0.5 mL pen-injector
+                                                             00169450114   $37,902.64   USD      71   Claims
+191   Prolia 60 MG/ML SOSY                                   55513071021   $37,444.18   USD      67   Claims
+192   VERZENIO 200 MG TABLET                                 00002621654   $37,386.50   USD       1   Claims
+193   MPB ILUMYA 100MG/1ML PFS                               47335017795   $37,334.02   USD       4   Claims
+194   BRILINTA 90 MG TABLET                                  00186077760   $37,212.56   USD      72   Claims
+195   ELIQUIS 2.5 MG TABLET                                  00003089321   $37,052.13   USD     472   Claims
+196   SIMLANDI 40MG/.4ML AI 2                                51759040202   $37,044.00   USD      72   Claims
+197   Dapagliflozin Propanediol 10 MG TABS                   66993045730   $36,621.73   USD     230   Claims
+198   NURTEC ODT 75MG 8                                      72618300002   $36,607.72   USD     137   Claims
+199   ADALIMUMAB-ADAZ PEN 40MG/0.4ML                         61314032720   $35,990.04   USD      66   Claims
+200   MPB BRAFTOVI 75MG CAP 60X2                             70255002503   $35,935.40   USD       6   Claims
+201   capivasertib (Truqap) 200 mg tablet                    00310950101   $35,310.22   USD       3   Claims
+202   MPB CABOMETYX 20MG TAB 30                              42388002446   $35,064.66   USD       3   Claims
+203   MPB GAMUNEX-C 10GM/100ML                               13533080071   $34,055.84   USD      52   Claims
+204   Acetaminophen 10 MG/ML SOLN                            63323043400   $33,972.62   USD   10589   Claims
+205   MPB BENLYSTA SC PFS 200MG/ML 4                         49401008847   $33,343.91   USD      10   Claims
+206   Ruxience 100 MG/10ML SOLN                              00069023801   $33,118.08   USD     170   Claims
+207   KEVZARA PFS 200MG/1.14 ML 2                            00024591001   $32,166.93   USD      17   Claims
+208   semaglutide (Rybelsus) 14 mg Tab                       00169431430   $31,521.91   USD      56   Claims
+209   Retacrit 40000 UNIT/ML SOLN                            00069130904   $30,873.76   USD     160   Claims
+210   durvalumab (Imfinzi) 860 mg in sodium chloride 0.9 % 250 mL
+                                                              0310450012
+                                                                  IVPB     $30,287.32   USD    20   Claims
+211   eltrombopag olamine (Promacta) 50 mg tablet            00078068615   $30,287.32   USD    19   Claims
+212   HyperRAB 300 UNIT/ML SOLN                              13533031801   $29,908.80   USD    39   Claims
+213   MPB KYPROLIS 30MG INJ PWD                              76075010201   $29,558.77   USD    34   Claims
+214   ENBREL MINI PF CART 50MG/ML 4                          58406004404   $29,331.31   USD   301   Claims
+215   MPB JAKAFI 25MG TAB 60                                 50881002560   $29,049.16   USD     5   Claims
+216   risankizumab-rzaa (Skyrizi) 150 mg/mL Syrg             00074105001   $28,799.24   USD     2   Claims
+217   semaglutide, weight loss, (Wegovy) 0.5 mg/0.5 mL pen-injector
+                                                             00169450514   $28,727.42   USD    51   Claims
+218   MPB BAVENCIO 200MG/10ML SDV                            44087353501   $27,909.00   USD    20   Claims
+219   MPB XOLAIR 300MG/2ML AUTO INJ                          50242022755   $27,716.39   USD    15   Claims
+220   octreotide LAR 30 mg PWDI                              00078082581   $27,694.33   USD    19   Claims
+221   inclisiran (Leqvio) 284 mg/1.5 mL Syrg                 00078100060   $27,611.19   USD    12   Claims
+222   VUMERITY 231 MG CAP                                    64406002003   $27,114.78   USD    10   Claims
+223   MPB APRETUDE 600MG/3ML KIT                             49702026423   $27,025.74   USD     9   Claims
+224   INCRUSE ELLIPTA 62.5 MCG INH                           00173087310   $27,020.82   USD   228   Claims
+225   RYBELSUS 7 MG TABLET                                   00169430730   $26,870.76   USD    46   Claims
+226   niraparib (Zejula) 200 mg Tab                          00173091213   $26,837.74   USD     2   Claims
+227   POMALYST 2 MG CAPSULE                                  59572050221   $26,722.29   USD     2   Claims
+228   REVLIMID 10 MG CAPSULE                                 59572041028   $25,789.86   USD    21   Claims
+229   MPB CYRAMZA 500MG/50ML SDV                             00002767801   $25,640.12   USD     5   Claims
+230   PAXLOVID NEW 300/100MG T STANDARD                      00069532130   $25,508.11   USD    24   Claims
+231   RabAvert SUSR                                          50632001001   $25,457.77   USD    63   Claims
+232   DEFERIPRONE TB 500MGTARO100@=@                         51672419601   $25,114.83   USD    11   Claims
+233   MPB NERLYNX 40MG TAB 180                               70437024018   $24,551.76   USD     3   Claims
+234   MPB DARZALEX 400MG/20ML SDV                            57894050520   $24,527.81   USD    14   Claims
+235   OLUMIANT TAB 2MG             30                        00002418230   $24,451.97   USD    14   Claims
+236   Santyl 250 UNIT/GM OINT                                50484001030   $24,266.10   USD    41   Claims
+237   DASATINIB TB 100MG APX 30@                             60505363103   $24,255.35   USD    15   Claims
+238   MPB NERLYNX 40MG TB 133                                70437024033   $24,044.36   USD     4   Claims
+239   ADBRY AUTOINJ 300MG/2ML 2PK                            50222035002   $23,841.51   USD    11   Claims
+240   OPZELURA CRM 1.5% 60GM                                 50881000705   $23,568.01   USD    21   Claims
+241   ritlecitinib (Litfulo) 50 mg cap                       00069033428   $23,548.58   USD    10   Claims
+242   MPB CABOMETYX 40MG TAB 30                              42388002546   $23,252.10   USD     2   Claims
+243   GILENYA 0.5 MG CAPSULE                                 00078060715   $22,988.96   USD     1   Claims
+244   HIZENTRA 10 GRAM/50 ML SYRINGE                         44206045525   $22,684.98   USD    40   Claims
+245   MPB NPLATE 250MCG/0.5ML SDV                            55513022101   $22,406.76   USD    24   Claims
+246   Neulasta Onpro 6 MG/0.6ML SOSY                         55513019201   $22,181.58   USD    89   Claims
+247   INVEGA SUSTENNA 156MG KIT                              50458056301   $22,010.18   USD    28   Claims
+248   ERBITUX VL 2MG/ML       50ML          66733094823   $21,918.33   USD      42   Claims
+249   MVASI SDV 400MG/16ML 1                55513020701   $21,811.09   USD      31   Claims
+250   Exparel 1.3 % SUSP                    65250013309   $21,434.43   USD     156   Claims
+251   ABILIFY MAINTENA PF SYR 400MG         59148007280   $21,403.39   USD      16   Claims
+252   MPB ADCETRIS 50MG VL LY DS            51144005001   $21,236.90   USD       6   Claims
+253   MPB NPLATE 125MCG/0.25ML SDV          55513022301   $21,157.01   USD      25   Claims
+254   momelotinib 150 mg Tab                81864010230   $20,974.86   USD       2   Claims
+255   MPB GAMUNEX-C 40GM/400ML              13533080040   $20,957.62   USD       8   Claims
+256   QULIPTA TAB 60MG                      00074709430   $20,742.41   USD      62   Claims
+257   COMBIVENT RESPIMAT 20-100 MCG         00597002402   $20,675.81   USD      32   Claims
+258   Tivicay 50 MG TABS                    49702022813   $20,187.12   USD      44   Claims
+259   TNKase 50 MG KIT                      50242017601   $19,982.29   USD      17   Claims
+260   Symbicort 160-4.5 MCG/ACT AERO        00186037028   $19,783.47   USD     623   Claims
+261   STIOLTO RESPIMAT INHALER (60)         00597015561   $19,497.56   USD     134   Claims
+262   BREO ELLIPTA 100-25 MCG INHALR        00173085910   $19,314.22   USD     214   Claims
+263   Veklury 100 MG SOLR                   61958290102   $19,308.00   USD       1   Claims
+264   MPB IBRANCE 100MG CAP 21              00069018821   $18,837.72   USD       2   Claims
+265   ENTRESTO 49 MG-51 MG TABLET           00078077720   $18,827.95   USD     141   Claims
+266   MPB KYPROLIS 10MG INJ PWD             76075010301   $18,102.34   USD      55   Claims
+267   STEQEYMA PFS 90MG/ML 1                72606002801   $18,066.24   USD      16   Claims
+268   EPINEPHRINE 0.3 MG AUTO-INJECT        00093598627   $17,995.59   USD     193   Claims
+269   capivasertib (Truqap) 160 mg Tab      00310950002   $17,903.54   USD       1   Claims
+270   MPB JAKAFI 5MG TAB 60                 50881000560   $17,583.60   USD       3   Claims
+271   UBRELVY 100MG TABLETS                 00023650110   $17,383.27   USD       2   Claims
+272   Entresto 97-103 MG TABS               00078069620   $17,208.00   USD      73   Claims
+273   EMGALITY INJ PEN 120MG/ML 1           00002143611   $16,740.44   USD      34   Claims
+274   ABRAXANE SDV 100MG                    68817013450   $16,692.96   USD      20   Claims
+275   VRAYLAR CAP 1.5MG         30          61874011530   $16,176.21   USD      21   Claims
+276   BREO ELLIPTA 200-25 MCG INHALR        00173088210   $16,169.19   USD     180   Claims
+277   ABILIFY MAINTENA 400MG KIT            59148001971   $15,548.74   USD      13   Claims
+278   Zerbaxa 1.5 (1-0.5) GM SOLR           67919003001   $15,272.11   USD      12   Claims
+279   Rexulti 1 MG TABS                     59148003713   $15,260.53   USD      26   Claims
+280   BUDESONIDE/FORM 160/4.5MCG(120 INH)   00310737020   $15,060.51   USD     163   Claims
+281   TOUJEO MAX SOLOSTR 300 UNIT/ML        00024587102   $14,986.82   USD      14   Claims
+282   GAMUNEX-C 20 GRAM/200 ML VIAL         13533080024   $14,740.04   USD      27   Claims
+283   Diprivan 200 MG/20ML EMUL             63323026929   $14,634.45   USD   13759   Claims
+284   MPB PHS NEULASTA 6MG/0.6ML PFS        55513019001   $14,595.41   USD      34   Claims
+285   SIVEXTRO TAB 200MG        30          67919004104   $14,261.32   USD       2   Claims
+286   BELRAPZO INJ 100MG/4ML                              42367052125   $14,216.67   USD    31   Claims
+287   Rexulti 0.5 MG TABS                                 59148003613   $14,104.88   USD    18   Claims
+288   TYMLOS 80 MCG DOSE PEN INJECTR                      70539000102   $14,064.42   USD    75   Claims
+289   Dapagliflozin Propanediol 5 MG TABS                 66993045630   $14,044.19   USD    82   Claims
+290   EMGALITY INJ PFS 120MG 1                            00002237711   $13,758.92   USD    28   Claims
+291   MPB LEUKINE 250MCG PWD SDV 5                        71837584305   $13,434.60   USD    24   Claims
+292   INVEGA TRINZA PFS 546MG 1                           50458060801   $13,414.18   USD     4   Claims
+293   DESCOVY 200MG/25MG TABLETS                          61958200201   $13,203.41   USD    31   Claims
+294   BIKTARVY 30-120-15 MG TABLET                        61958250501   $13,203.41   USD     1   Claims
+295   VRAYLAR CAP 3MG          30                         61874013030   $13,003.26   USD    17   Claims
+296   Venofer 20 MG/ML SOLN                               00517234010   $12,929.08   USD   247   Claims
+297   GLATOPA 40 MG/ML SYRINGE                            00781325089   $12,904.71   USD    27   Claims
+298   TRESIBA FLEXTOUCH 100 UNIT/ML                       00169266015   $12,777.63   USD    99   Claims
+299   Privigen 5 GM/50ML SOLN                             44206043605   $12,458.15   USD    43   Claims
+300   TYENNE AUTO INJ 162MG/0.9ML 1                       65219059601   $12,390.60   USD    30   Claims
+301   AUSTEDO XR 30 MG TABLET                             68546047356   $12,353.86   USD     3   Claims
+302   eltrombopag olamine (PROMACTA) 75 mg Tab            00078068715   $12,225.88   USD     5   Claims
+303   PREZCOBIX TAB 800MG 30                              59676057530   $12,177.30   USD    10   Claims
+304   MVASI SDV 100MG/4ML 1                               55513020601   $11,639.85   USD    92   Claims
+305   Rexulti 2 MG TABS                                   59148003813   $11,582.13   USD    17   Claims
+306   NovoLOG 100 UNIT/ML SOLN                            00169750111   $11,479.76   USD    75   Claims
+307   adalimumab-adbm (Cyltezo,CF, Pen) 40 mg/0.8 mL PnKt 00597037597   $11,159.72   USD    13   Claims
+308   GENVOYA TAB         30                              61958190101   $11,145.92   USD     5   Claims
+309   Exparel 1.3 % SUSP                                  65250026609   $10,998.39   USD    48   Claims
+310   KERENDIA TB 10MG 30                                 50419054001   $10,930.24   USD    29   Claims
+311   REVLIMID 5 MG CAPSULE                               59572040528   $10,588.67   USD    13   Claims
+312   GEMTESA TB 75MG 30                                  73336007530   $10,501.54   USD    56   Claims
+313   ZOLADEX PF SYR 3.6MG SNGL DS                        70720095036   $10,415.29   USD    13   Claims
+314   MPB XOLAIR 150MG/ML AUTO INJ                        50242021555   $10,356.21   USD    12   Claims
+315   LANTUS SOLOSTAR 100 UNIT/ML                         00088221905   $10,335.03   USD   586   Claims
+316   glatiramer 40 mg/mL Syrg                            00378696112   $10,302.25   USD    14   Claims
+317   ABILIFY MAINTENA ER 300MG KIT                       59148023212   $10,111.68   USD     7   Claims
+318   MPB AUSTEDO 9MG TAB 60                              68546017160   $10,040.76   USD     3   Claims
+319   Caplyta 42 MG CAPS                                  72060014240    $9,948.89   USD    12   Claims
+320   PAXLOVID STANDARD DOSE 300/100MG T                  00069504530    $9,608.60   USD    11   Claims
+321   Provocholine KIT                                    64281011006    $9,490.61   USD    75   Claims
+322   Dificid 200 MG TABS                                 52015008001    $9,483.82   USD    13   Claims
+323   AlbuRx 25 % SOLN                                    44206025110    $9,345.45   USD   157   Claims
+324   ferric carboxymaltose 750 mg/15 mL INJ                  00517065001      $9,193.32   USD     25   Claims
+325   insulin aspart (NovoLOG Flexpen U-100 Insulin) 100 unit/mL (3
+                                                              00169633910
+                                                                    mL) InPn   $9,136.01   USD    134   Claims
+326   YUPELRI INHAL SOL175MCG/3ML 30                          49502080693      $9,110.93   USD     32   Claims
+327   SOFOS/VELPA TB 400MG/100MG 28                           72626270101      $9,033.63   USD      2   Claims
+328   Glucagon HCl (Diagnostic) 1 MG SOLR                     63323059303      $8,840.87   USD     81   Claims
+329   MPB RITUXAN 500MG/50ML SDV                              50242005306      $8,833.99   USD      4   Claims
+330   Acetaminophen 10 MG/ML SOLN                             24201010024      $8,507.32   USD   2544   Claims
+331   AIMOVIG INJ 140MG/ML                                    55513084301      $8,428.38   USD     68   Claims
+332   MPB EVENITY 105MG/1.17ML PFS 2                          55513099802      $8,334.87   USD      5   Claims
+333   diazePAM 5 MG/ML SOLN                                   00409127332      $8,131.07   USD   1315   Claims
+334   VEOZAH TAB 45MG                                         00469266030      $7,925.27   USD     28   Claims
+335   EPINEPHrine 1 MG/10ML SOSY                              76329331801      $7,887.32   USD    324   Claims
+336   BUDESONIDE/FORM 80/4.5MCG (120 INH)                     00310737220      $7,825.80   USD     93   Claims
+337   SYMBICORT 160-4.5 MCG INHALER                           00186037020      $7,722.72   USD    130   Claims
+338   solriamfetoL (Sunosi) 150 mg Tab                        81968035101      $7,521.47   USD     40   Claims
+339   TREMFYA PEN 200MG/2ML 2                                 57894065104      $7,507.70   USD      1   Claims
+340   TRUXIMA SDV 500MG/50ML 1                                63459010450      $7,476.63   USD      7   Claims
+341   TYENNE PFS 162MG/0.9ML 1                                65219058604      $7,355.54   USD     18   Claims
+342   ZORYVE CRM 0.3% 60GM                                    80610013060      $7,330.84   USD     13   Claims
+343   AJOVY AUTOINJECT 225MG/1.5ML 1                          51759020210      $7,191.78   USD     42   Claims
+344   QULIPTA 30MG TABLETS                                    00074709630      $7,185.34   USD     20   Claims
+345   Retacrit 10000 UNIT/ML SOLN                             00069130810      $7,101.84   USD     87   Claims
+346   VASCEPA CAP 1GM                                         52937000120      $7,076.80   USD     16   Claims
+347   SUBLOCADE 100 MG/0.5 ML SYRING                          12496010001      $7,006.67   USD      2   Claims
+348   CINVANTI INJ SDV 130MG/18ML 1                           47426020101      $6,980.75   USD     53   Claims
+349   ceFAZolin Sodium 1 GM SOLR                              00143992490      $6,973.80   USD   6748   Claims
+350   VRAYLAR CAP 4.5MG         30                            61874014530      $6,894.24   USD      9   Claims
+351   Admelog SoloStar 100 UNIT/ML SOPN                       00024592505      $6,864.21   USD      4   Claims
+352   PLAQUENIL TAB 200MG                                     59212056210      $6,766.56   USD      4   Claims
+353   Vancomycin HCl 2000 MG/400ML SOLN                       70594004402      $6,662.42   USD    419   Claims
+354   Ventolin HFA 108 (90 Base) MCG/ACT AERS                 00173068224      $6,423.57   USD   1024   Claims
+355   MPB PEMGARDA 500MG/4ML 9 DS                             81960003103      $6,350.00   USD      1   Claims
+356   Sincalide 5 MCG SOLR                                    72266024805      $6,336.67   USD     98   Claims
+357   PHENobarbital Sodium 130 MG/ML SOLN                     00641047725      $6,281.50   USD     96   Claims
+358   MYFEMBREE TB 40/1/0.5MG 28                              72974041501      $6,210.60   USD     11   Claims
+359   Elitek 1.5 MG SOLR                                      00024515010      $6,203.74   USD      5   Claims
+360   Admelog 100 UNIT/ML SOLN                                00024592605      $6,142.50   USD   1510   Claims
+361   MPB DARZALEX 100MG/5ML SDV                              57894050505      $6,127.96   USD     14   Claims
+   362      MPB ONIVYDE 43MG/10ML SDV                            15054004301        $6,047.44   USD                4    Claims
+   363      LISDEXAMF DIM CP 70MG ALV 100@                       47781056801        $6,029.76   USD               16    Claims
+   364      FERAHEME VIAL 510MG 17ML 1                           59338077501        $6,019.56   USD               53    Claims
+   365      KINEVAC VIAL 5MCG         10                         00270055615        $5,996.20   USD                5    Claims
+   366      Furosemide 10 MG/ML SOLN                             00409610210        $5,931.54   USD             1281    Claims
+   367      CIMZIA PRE FILLED SYR 2X200MG                        50474071079        $5,890.27   USD               93    Claims
+   368      ProvayBlue 50 MG/10ML SOLN                           00517037405        $5,827.09   USD               81    Claims
+   369      Liletta (52 MG) 20.1 MCG/DAY IUD                     00023585801        $5,717.59   USD               18    Claims
+   370      MPB XOLAIR 75MG/0.5ML AUTO INJ                       50242021455        $5,681.46   USD               13    Claims
+   371      PHENobarbital Sodium 130 MG/ML SOLN                  54288013710        $5,679.52   USD               42    Claims
+   372      COPAXONE 40MG PREF SYR 12                            68546032512        $5,630.09   USD                5    Claims
+   373      MPB TECENTRIQ 840MG/14ML SDV                         50242091801        $5,556.49   USD                1    Claims
+   374      PRALUENT 75 MG/ML PEN                                61755002002        $5,552.53   USD              161    Claims
+   375      INVEGA SUSTENNA 117MG KIT                            50458056201        $5,538.05   USD                9    Claims
+   376      MPB QUTENZA 8% 179MG PATCH 4                         72512093001        $5,457.25   USD                2    Claims
+   377      LUPRON DEPOT 22.5MG KT 3346-03                       00074334603        $5,353.70   USD               18    Claims
+   378      BIMZELX 320MG/2ML PFS KIT                            50474078378        $5,327.36   USD                1    Claims
+   379      upadacitinib (Rinvoq) 45 mg Tb24                     00074104328        $5,276.29   USD                1    Claims
+   380      GVOKE HYPOPEN 2-PACK 1MG/0.2ML                       72065012112        $5,272.83   USD               15    Claims
+   381      Emerphed 5 MG/ML SOLN                                14789025010        $5,200.59   USD              743    Claims
+   382      Ketorolac Tromethamine 30 MG/ML SOLN                 63323016201        $5,196.11   USD             5762    Claims
+   383      ALBUTERO SUL HFA90MCG PRAS18G@                       66993001968        $5,169.08   USD              261    Claims
+   384      ramucirumab 100 mg/10 mL INJ                         00002766901        $5,082.86   USD                2    Claims
+   385      BIKTARVY TAB 50/200/25MG 30                          61958250101        $5,024.30   USD                2    Claims
+   386      PRALUENT2X150MG PREFILLED PENS                       61755002102        $5,020.76   USD               23    Claims
+   387      Acetylcysteine 200 MG/ML SOLN                        55150025930        $5,020.50   USD              117    Claims
+
+            Total Prescription Drugs individually under $5,000                  $2,341,457.11   USD      257,621        Claims
+
+
+            Total Costs of Prescription Drugs Obtained Through
+            340B Program Claimed for Reimbursement                             $44,095,350.32                332510
+
+                                                                                                       Mandated by
+                                                                                                      RIGL § 5-19.3-6
+
+Form RIOAG 340B-Sch G (revised January 2026)
+            State of Rhode Island                                   Schedule H
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule H - 340B Program Savings Usage by Covered Entity to
+            Benefit Patients and/or its Community Through Programs,
+            Projects, and/or Services.
+
+            Covered Entity Name:                                         Kent County Memorial Hospital
+            Reporting for Calendar Year:                                            2025
+
+
+Instruction: List all programs, projects, and/or services provided by the Covered Entity through 340B
+Program savings that benefited patients and/or its community. Detail individual programs, projects,
+and/or services provided and the related costs incurred by the covered entity. Individually list
+programs, projects, and services with costs of $5,000 or more. Aggregate all other programs, projects,
+and services where costs totaled less than $5,000.
+
+Line No.                 340B Net Revenue Usage Description                    Amount/Value             Unit
+
+     1      Health Services Expansion                                                                   USD
+     2      Community and Public Health Programs                                          136,581.00    USD
+     3      Improving Patient Access                                                   25,636,375.00    USD
+     4      Facility Upgrades                                                                           USD
+     5      Technology Upgrades                                                                         USD
+     6      Subsidize Losses - Medicaid and Medicare Program
+                                                                                                        USD
+            Underpayments                                                              11,347,087.00
+    7       Research and Innovation                                                                     USD
+    8       Community Programs                                                             98,310.00    USD
+    9       Charity Care/Uncompensated Care                                             5,534,589.00    USD
+    10      Other                                                                                       USD
+            Other programs, projects, and services where costs totaled
+                                                                                                        USD
+            less than $5,000.
+
+            Total Aggregate Costs of Programs, Projects, and/or
+            Services Supported by 340B Net Revenue                                     42,752,942.00
+
+                                                                         Mandated by RIGL § 5-19.3-6.
+
+Form RIOAG 340B-Sch H (revised January 2026)
+             State of Rhode Island                                                                                 Schedule I
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule I - Covered Entity Certification Page
+
+             Covered Entity Name:                                                                      Kent County Memorial Hospital
+             Reporting for Calendar Year:                                                                             2025
+
+
+                                                                                                              If Yes, explain any
+Line No.                            Covered Entity Certification                         YES     NO         noncompliance noted.
+
+            During the reporting period, did the covered entity conduct a self-audit
+     1      of their participation in the 340B Program as required by the Health
+            Resources and Services Administration (HRSA)?                              Yes
+
+
+            During the reporting period, was the covered entity audited by HRSA or
+     2
+            subject to a drug manufacturer audit approved by HRSA?                             No
+
+I certify, to the best of my knowledge and belief, that the information reported in this reporting package is materially complete and
+accurate?
+
+
+
+                                                                                                                    3/31/2026
+                                               Signature                                                               Date
+
+
+
+                                      James Burke, VP of Finance                                               [email address in the PDF]
+                                           Name and Title                                                            Email
+
+Form RIOAG 340B-Sch I (revised January 2026)
+

@@ -1,0 +1,55 @@
+entity_id,state,entity_type,name_as_filed,opais_ids_as_filed,entity_type_as_filed,city_as_filed
+mn-abbott-northwestern,MN,hospital,Abbott Northwestern Hospital,,Disproportionate Share Hospital,Minneapolis
+mn-cambridge,MN,hospital,Cambridge Medical Center,,Disproportionate Share Hospital,Cambridge
+mn-ccm-health,MN,hospital,CCM Health,,Critical Access Hospital,Montevideo
+mn-centracare-rice-memorial,MN,hospital,CentraCare - Rice Memorial Hospital,,Disproportionate Share Hospital,Willmar
+mn-centracare-st-cloud,MN,hospital,CentraCare - St. Cloud Hospital,,Disproportionate Share Hospital,St. Cloud
+mn-childrens-minnesota,MN,hospital,Children’s Minnesota,,Children's Hospital,Minneapolis
+mn-cuyuna,MN,hospital,Cuyuna Regional Medical Center,,Critical Access Hospital,Crosby
+mn-essentia-duluth,MN,hospital,Essentia Health Duluth,,Disproportionate Share Hospital,Duluth
+mn-essentia-st-josephs,MN,hospital,Essentia Health - St. Joseph's Medical Center,,Sole Community Hospital,Brainerd
+mn-essentia-virginia,MN,hospital,Essentia Health Virginia,,Disproportionate Share Hospital,Virginia
+mn-fairview-blood-clotting,MN,other,M Health Fairview - Center for Blood and Clotting Disorders,,CHD Treatment Center,Minneapolis
+mn-fairview-st-johns,MN,hospital,M Health Fairview - St. John's Hospital,,Disproportionate Share Hospital,Maplewood
+mn-fairview-umn-medical-center,MN,hospital,M Health Fairview - University of Minnesota Medical Center,,Disproportionate Share Hospital,Minneapolis
+mn-faribault,MN,hospital,Faribault Medical Center,,Disproportionate Share Hospital,Faribault
+mn-gillette-childrens,MN,hospital,Gillette Children's Specialty Healthcare,,Children's Hospital,St. Paul
+mn-grand-itasca,MN,hospital,Grand Itasca Clinic and Hospital,,Sole Community Hospital,Grand Rapids
+mn-hennepin-healthcare,MN,hospital,Hennepin Healthcare,,Disproportionate Share Hospital,Minneapolis
+mn-mayo-albert-lea,MN,hospital,Mayo Clinic Health System in Albert Lea,,Sole Community Hospital,Albert Lea
+mn-mercy-hospital,MN,hospital,Mercy Hospital,,Disproportionate Share Hospital,Coon Rapids
+mn-new-ulm,MN,hospital,New Ulm Medical Center,,Critical Access Hospital,New Ulm
+mn-north-memorial,MN,hospital,North Memorial Health,,Disproportionate Share Hospital,Robbinsdale
+mn-range-regional,MN,hospital,Range Regional Health Services,,Disproportionate Share Hospital,Hibbing
+mn-regions-hospital,MN,hospital,Regions Hospital,,Disproportionate Share Hospital,St. Paul
+mn-sanford-bemidji,MN,hospital,Sanford Bemidji Medical Center,,Disproportionate Share Hospital,Bemidji
+mn-st-lukes-duluth,MN,hospital,St. Luke's Hospital of Duluth,,Disproportionate Share Hospital,Duluth
+mn-statewide,MN,state_total,,,,
+mn-united-hospital,MN,hospital,United Hospital,,Disproportionate Share Hospital,St. Paul
+ri-blackstone-valley,RI,health_center,Blackstone Valley Community Health Care,"CH011990, CH01199A, CH01199B, CH01199C, CH01199D, CH01199E, CH01199F",,
+ri-comprehensive-community-action,RI,health_center,"Comprehensive Community Action, Inc.","CHC06666-00, CHC06666-01, CHC06666-02, CHC066666-04",,
+ri-east-bay-cap,RI,health_center,East Bay Community Action Program,CH015160,,
+ri-kent-hospital,RI,hospital,Kent County Memorial Hospital,DSH410009,,
+ri-landmark,RI,hospital,Landmark Medical center,DSH410011,,
+ri-miriam-immunology-center,RI,hospital,The Miriam Hospital Immunology Center,STD02904,,
+ri-miriam-rise-tb-clinic,RI,hospital,The Miriam Hospital RISE TB Clinic,TB02906,,
+ri-miriam-ryan-white,RI,hospital,The Miriam Hospital Ryan White Care Program,HV00018,,
+ri-providence-chc,RI,health_center,"The Providence Community Health Centers, Inc",CH010580,,
+ri-rhode-island-hospital,RI,hospital,Rhode Island Hospital,DSH410007,,
+ri-thundermist,RI,health_center,Thundermist Health Center,"CH011820, CH01182C, CH01182J, CH01182N, CH01182P, CH01182Q, CH01182R, CH01182S, CH01182U, CH01182V, CH01182W, FP028951",,
+ri-wellone,RI,health_center,WellOne Primary Medical and Dental Care (A),CH010480,,
+ri-women-and-infants,RI,hospital,Women & Infants Hospital of RI,DSH410010,,
+ri-wood-river,RI,health_center,"Wood River Health Services, Inc.","CH012230, CH012230A",,
+vt-central-vermont,VT,hospital,Central Vermont Medical Center,,,
+vt-copley,VT,hospital,Copley Hospital,,,
+vt-gifford,VT,hospital,Gifford Medical Center,,,
+vt-grace-cottage,VT,hospital,Grace Cottage Hospital,,,
+vt-mt-ascutney,VT,hospital,Mount Ascutney Hospital,,,
+vt-north-country,VT,hospital,North Country Hospital,,,
+vt-northeastern-vermont,VT,hospital,Northeastern Vermont Regional Hospital,,,
+vt-northwestern,VT,hospital,Northwestern Medical Center,,,
+vt-porter,VT,hospital,Porter Medical Center,,,
+vt-rutland,VT,hospital,Rutland Regional Medical Center,,,
+vt-southwestern-vermont,VT,hospital,Southwestern Vermont Medical Center,,,
+vt-springfield,VT,hospital,Springfield Hospital,,,
+vt-uvm-medical-center,VT,hospital,University of Vermont Medical Center,,,

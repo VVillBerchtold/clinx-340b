@@ -1,0 +1,29 @@
+                      Porter Medical Center
+     FY2025 340B Program Financial Reporting Detail
+As Submitted to the Green Mountain Care Board in 2026
+
+            NOTE: This is draft and may be adjusted for accuracy in the
+                       final GMCB dashboard publication.
+
+
+Aggregated Payment Amounts Received, Separated by Distribution Channel
+
+In-House Pharmacy Dispensed                                                  $0.00
+Contract Pharmacy Dispensed                                          $4,271,751.00
+Administered Drugs Paid Separately                                   $4,968,315.00
+Administered Drugs Bundled Payments                                   $584,228.00
+Total 340B Payments Received                                         $9,824,295.00
+
+340B Prescription Drug Acquisition Costs                             $3,615,939.00
+
+Aggregated 340B Program Expenses
+Payments Made to Contract Pharmacies                                      $754,167.00
+Internal 340B Program Expenses                                             $33,616.00
+Payments Made to Outside Vendors                                          $157,664.00
+Total 340B Expenses                                                       $945,447.00
+
+
+340B Net Revenue                                                     $5,262,909.00
+(payments received minus acquisition costs minus expenses)
+340B Operating Margin                                                         53.57%
+

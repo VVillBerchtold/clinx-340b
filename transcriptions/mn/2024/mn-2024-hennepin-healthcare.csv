@@ -1,0 +1,3 @@
+schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note
+table_6_1,net_revenue,detail,Hennepin Healthcare,,Net 340B Revenue ($),,"99,659,845",,,42,text_and_image,
+table_6_1,pct_of_statewide,detail,Hennepin Healthcare,,% of Statewide Net 340B Revenue,,7.8%,,,42,text_and_image,

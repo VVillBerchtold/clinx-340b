@@ -1,0 +1,29 @@
+                   Mount Ascutney Hospital
+     FY2025 340B Program Financial Reporting Detail
+As Submitted to the Green Mountain Care Board in 2026
+
+            NOTE: This is draft and may be adjusted for accuracy in the
+                       final GMCB dashboard publication.
+
+
+Aggregated Payment Amounts Received, Separated by Distribution Channel
+
+In-House Pharmacy Dispensed                                                  $0.00
+Contract Pharmacy Dispensed                                          $1,136,958.00
+Administered Drugs Paid Separately                                     $958,541.00
+Administered Drugs Bundled Payments                                          $0.00
+Total 340B Payments Received                                         $2,095,499.00
+
+340B Prescription Drug Acquisition Costs                                  $987,457.00
+
+Aggregated 340B Program Expenses
+Payments Made to Contract Pharmacies                                      $251,490.00
+Internal 340B Program Expenses                                             $97,185.00
+Payments Made to Outside Vendors                                           $39,766.00
+Total 340B Expenses                                                       $388,441.00
+
+
+340B Net Revenue
+(payments received minus acquisition costs minus expenses)                $719,601.00
+340B Operating Margin                                                         34.34%
+

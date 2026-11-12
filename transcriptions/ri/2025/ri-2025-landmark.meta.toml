@@ -1,0 +1,21 @@
+filing_id = "ri-2025-landmark"
+entity_id = "ri-landmark"
+state = "RI"
+reporting_year = 2025
+entity_type = "hospital"
+source_file = "Landmark-Medical-Center-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "Landmark Medical center"
+corporate_address_as_filed = "115 Cass Ave Woonsocket RI 02895"
+opais_ids_as_filed = "DSH410011"
+recertification_date_as_filed = "11-Aug-25"
+reporting_basis_as_filed = "Cash"
+
+[[attachments]]
+pages = "1-3"
+kind = "cover_letter"
+title_as_filed = ""
+note = "A three-page letter dated April 1, 2026 on Landmark Medical Center letterhead, addressed to the Office of the Auditor General, describing each schedule."

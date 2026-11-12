@@ -1,0 +1,29 @@
+                     North Country Hospital
+     FY2025 340B Program Financial Reporting Detail
+As Submitted to the Green Mountain Care Board in 2026
+
+            NOTE: This is draft and may be adjusted for accuracy in the
+                       final GMCB dashboard publication.
+
+
+Aggregated Payment Amounts Received, Separated by Distribution Channel
+
+In-House Pharmacy Dispensed                                                  $0.00
+Contract Pharmacy Dispensed                                          $1,705,203.00
+Administered Drugs Paid Separately                                           $0.00
+Administered Drugs Bundled Payments                                  $2,019,472.00
+Total 340B Payments Received                                         $3,724,675.00
+
+340B Prescription Drug Acquisition Costs                             $1,259,053.00
+
+Aggregated 340B Program Expenses
+Payments Made to Contract Pharmacies                                  $836,534.00
+Internal 340B Program Expenses                                       $1,024,451.00
+Payments Made to Outside Vendors                                      $358,846.00
+Total 340B Expenses                                                  $2,219,831.00
+
+
+340B Net Revenue
+(payments received minus acquisition costs minus expenses)                $245,791.00
+340B Operating Margin                                                          6.60%
+

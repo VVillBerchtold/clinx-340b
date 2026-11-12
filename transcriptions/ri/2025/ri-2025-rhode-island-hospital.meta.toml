@@ -1,0 +1,27 @@
+filing_id = "ri-2025-rhode-island-hospital"
+entity_id = "ri-rhode-island-hospital"
+state = "RI"
+reporting_year = 2025
+entity_type = "hospital"
+source_file = "Rhode-Island-Hospital-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "Rhode Island Hospital"
+corporate_address_as_filed = "593 Eddy St. Providence, RI 02903"
+opais_ids_as_filed = "DSH410007"
+recertification_date_as_filed = "8/27/2025"
+reporting_basis_as_filed = "Cash"
+
+[[attachments]]
+pages = "2-4"
+kind = "notes"
+title_as_filed = "Addressing and quantifying outliers and other concerns regarding data sharing requirements under S.0114"
+note = "A filer's supplemental document with comments on the reporting requirements and on Schedules A, C, G and H."
+
+[[attachments]]
+pages = "40"
+kind = "appendix"
+title_as_filed = "DSH410007 Appendix A - Excel Spreadsheet Structure for 340B Annual Report Form_Final"
+note = "An electronic-signature audit report page dated April 2026 listing the signing history of the appendix document."

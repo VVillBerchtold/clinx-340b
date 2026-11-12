@@ -1,0 +1,13 @@
+page,schedule,line,amount,claims,answer
+44,table_6_2,top_unadjusted_net_revenue,"1,152,403,307",,
+44,table_6_2,top_unadjusted_pct_of_total,90.3%,,
+44,table_6_2,remaining_unadjusted_net_revenue,"123,840,474",,
+44,table_6_2,remaining_unadjusted_pct_of_total,9.7%,,
+44,table_6_2,total_unadjusted_net_revenue,"1,276,243,781",,
+44,table_6_2,total_unadjusted_pct_of_total,100%,,
+45,table_6_2,top_adjusted_net_revenue,"1,199,240,413",,
+45,table_6_2,top_adjusted_pct_of_total,89.5%,,
+45,table_6_2,remaining_adjusted_net_revenue,"141,030,552",,
+45,table_6_2,remaining_adjusted_pct_of_total,10.5%,,
+45,table_6_2,total_adjusted_net_revenue,"1,340,270,964",,
+45,table_6_2,total_adjusted_pct_of_total,100%,,

@@ -1,0 +1,555 @@
+Office of the Auditor General
+State of Rhode Island
+33 Broad Street
+Suite 301
+Providence, RI 02903
+
+April 1, 2026
+
+In accordance with reporting requirements required by R.I. Gen. Laws § 5-19.3-6, we are
+writing to highlight the role the 340B Drug Pricing Program plays in sustaining essential
+healthcare services for the Woonsocket community through Landmark Medical Center.
+The attached report provides transparency into how the financial spread is being used to
+benefit Woonsocket residents and the surrounding community.
+
+The report will detail the following
+
+   1) Total acquisition costs: Total amount Landmark spent to purchase all medications
+      through the 340B program in 2025.
+
+   2) Total payments received: The aggregated reimbursement Landmark received for
+      the medications when dispensed or administered to patients.
+
+   3) Administrative and Vendor Expenses: Total amount Landmark Medical Center
+      spent for contract pharmacies, vendor fees (including 3rd party
+      administrators/auditors), and operational costs.
+
+   4) Community Benefits: This is most critical as this section outlines how 340B funds
+      support the following:
+         a. Charity Work: subsidizing medications for Woonsocket’s uninsured
+         b. Clinical Programs: Funding for Cancer Center and Emergency Department
+         c. Health Disparities: Specific initiatives aimed at Woonsocket’s high
+             poverty neighborhoods
+
+It is important to highlight several challenges associated with completing each schedule.
+We submit the following overview of challenges encountered in completing each
+reporting schedule. All the information shared is to provide transparency and to support
+continued alignment with the state expectations
+
+
+   1) Schedule A: This report schedule details all costs associated with the 340B
+      program along with total aggregated payments received for dispensed and
+      administered 340B medications. The net 340B revenue compares difference
+      between reimbursement and operational costs of the 340B program.
+
+
+                    115 Cass Avenue, Woonsocket, RI 02895 | 401 -769-4100
+                      landmarkmedical.org | Member of Prime Healthcare
+2) Schedule B: This report schedule details purchasing records of all vendors where
+   340B medications were purchased from.
+
+3) Schedule C: This report schedule details medication reimbursement from
+   insurances including commercial insurance, medical assistance, Medicare, and
+   other resources. For Landmark Medical Center, the difficulty lies in “unbundling”
+   medication costs from general hospital services to meet the Auditor General’s
+   specific line-item requests.
+
+       a. Unbundling medication costs: DRG, or Diagnosis-Related Group, is a flat
+          “bundle” payment based on patient’s diagnosis. Because DRG payments
+          cover the entire stay, there is no specific reimbursement price for a 340B
+          medication used during that hospital stay. Landmark has provided the best
+          estimate of claims payment attributable from 340b medications. This is an
+          estimate due to the complex reimbursement structure for hospital services.
+
+       b. In the Outpatient settings (i.e Infusion Center), medications are billed
+          using J-codes that identify specific medications (using NDC numbers) and
+          dosages administered. These codes all for separate billing of medications
+          from accompanying administration procedures (CPT codes). Landmark
+          Medical Center has provided reimbursement from third parties based on J-
+          codes. Of note, Landmark Medical Center ensures Medicaid
+          reimbursements are excluded since the institution currently “carves-out”
+          Medicaid to prevent duplicate discounts.
+
+4) Schedule D: Landmark Medical Center is not associated with contract pharmacies
+   at the time of this report.
+
+5) Schedule E: This report schedule details vendors used to manage the operational
+   and compliance aspects of the 340B drug pricing program. Landmark Medical
+   Center contracts with Verity, our third-party administrator (TPA), to review
+   pharmacy claims with patient information and to maintain compliance with
+   regulations. Verity also assists with compliance and audit support along with
+   optimizing claims management. Landmark Medical Center is also subjected to
+   external audits performed by CPS. The audits by CPS provide independent
+   verification to ensure compliance within the 340B program
+
+
+
+
+                115 Cass Avenue, Woonsocket, RI 02895 | 401 -769-4100
+                  landmarkmedical.org | Member of Prime Healthcare
+   6) Schedule F: This report schedule details noncontracted expenses relating to the
+      340B program including staffing, operational costs, and administrative expenses.
+      While external audits provide an independent verification of the program,
+      Landmark Medical Center’s internal team ensures we remain compliant on a daily
+      basis. The team includes a corporate administrative team that perform audits,
+      work with TPA to maintain inventory compliance, and perform policy review.
+      The local team at Landmark Medical Center is responsible for internal audits,
+      maintenance of drug libraries, and ensuring eligible medications are ordered using
+      correct vendor accounts.
+
+   7) Schedule G: This report schedule details medications purchased using the 340B
+      program. For 2025, a total of $5,743,276.33 was spent on 340B medications.
+
+   8) Schedule H: This report schedule details programs, projects, and services
+      provided by Landmark Medical Center that were supported by the 340B program.
+      It is important to note however the significant technical difficulties isolating a
+      singular “340B” savings figure as standard healthcare accounting systems do not
+      utilize a segregated bank account for 340B savings. This number does not reflect
+      the total amount spent on community services provided by Landmark. Our total
+      community benefit includes medical education, research, health fairs, and
+      unreimbursed cost of treating Medicaid patients.
+
+
+The 340B program is a vital supplement to Landmark Medical Center’s mission but it is
+only one component of the annual investment we make to provide health care services to
+our surrounding neighbors.
+
+
+Sincerely,
+
+
+
+
+                            Date: 4/1/2026
+
+Michael Souza
+Chief Executive Officer
+115 Cass Ave
+Woonsocket RI, 02895
+
+
+
+
+                   115 Cass Avenue, Woonsocket, RI 02895 | 401 -769-4100
+                     landmarkmedical.org | Member of Prime Healthcare
+            State of Rhode Island
+            340B Drug Pricing Program - Mandated Covered Entity Reporting
+            Mandated Reporting Cover Page
+
+                      Covered Entity 340B Drug Pricing Program Reporting Mandated by
+                                      RI General Law Section 5-19.3-6.
+
+            Covered Entity Name:                                  Landmark Medical center
+            Covered Entity Corporate Address:                     115 Cass Ave Woonsocket RI 02895
+            340B ID Number(s)                                     DSH410011
+            Reporting for Calendar Year:                                        2025
+
+
+
+
+            Covered Entity Required Information
+
+            Date of most recent recertification with the Health
+            Resources and Service Administration                  11-Aug-25
+
+            Reporting Basis (i.e., Cash or Accrual)               Cash
+
+
+
+
+Form RIOAG-340B (Revised January 2026)
+             State of Rhode Island                                                                                                       Schedule A
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule A - Aggregate Reporting Schedule
+
+                                                             LANDMARK MEDICAL
+             Covered Entity Name:
+                                                                  CENTER
+             Reporting for Calendar Year:                                     2025
+
+
+
+
+                                                                                                          Schedule
+Line No.                        Data Element                       Data Element Description                 Ref            Amount            Unit
+                                                          Total aggregated cost to entity for drugs
+            Total Aggregated Acquisition Cost for All     purchased under 340B (actual paid, incl.
+     1                                                                                                       B           $5,730,570.93       USD
+            340B Program Drugs                            fees) during the previous calendar year.
+
+
+                                                     Total payments (claim reimbursements)
+                                                     received for 340B drugs dispensed/
+            Total Aggregated Payment Amount Received administered to patients with commercial
+     2                                                                                                       C       $     10,450,891.17     USD
+            for Dispensed/Administered 340B Drugs    medical insurance, Medical Assistance,
+                                                     and/or Medicare Supplemental plans.
+
+
+            Total Aggregated Payments to Contract         Total payments made to contract
+     3      Pharmacies for 340B Program Prescription      pharmacies for dispensing 340B drugs.              D              $0.00            USD
+            Drugs
+                                                        Total payments to vendors managing,
+            Total Aggregated Payments to Outside        administering, or facilitating any aspect of
+     4      Entities (Vendors) for 340B Program         the 340B covered entity's drug program.              E            $91,090.00         USD
+            Management, Administration, or Facilitation
+
+                                                          Total covered entity expenses for staffing,
+            Total Aggregated Administrative Expenses      operations, and administration related to the
+     5                                                                                                       F           $150,994.00         USD
+            for 340B Program                              340B program.
+
+
+
+                                                          Payments Received (Line 2) - (Acquisition
+            Net 340B Revenue Calculation (Auto-
+     6                                                    Costs (Line 1) + Administration Expenses                       $4,478,236.24       USD
+            Calculated)
+                                                          (Lines 3, 4 & 5)
+
+Form RIOAG 340B-Sch A (revised January 2026)
+            State of Rhode Island                                Schedule B
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule B - Acquisition Cost Detail Schedule
+
+                                                                     LANDMARK
+            Covered Entity Name:                                      MEDICAL
+                                                                      CENTER
+            Reporting for Calendar Year:                                   2025
+
+
+
+Instruction: Provide detail for all vendors (e.g. manufacturers, wholesalers) where the covered
+entity procured $5,000 or more of prescription drugs from an individual vendor/pharmacy under the
+340B program. Provide an aggregated total for vendors where procurement was less than $5,000.
+
+Line No.                            Vendor Name                        Amount Paid         Unit
+
+     1                              Cardinal Health                    $5,730,570.93       USD
+     2                                                                                     USD
+     3                                                                                     USD
+     4                                                                                     USD
+     5                                                                                     USD
+     6                                                                                     USD
+            Total for vendors under $5,000                                                 USD
+
+            Total Aggregated Acquisition Cost for all 340B Program
+            Drugs - (Supports Schedule A, Line 1)
+                                                                                           USD
+                                                                     Schedule A - Line 1
+
+
+
+
+Form RIOAG 340B-Sch B (revised January 2026)
+            State of Rhode Island                               Schedule C
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule C - Claim Reimbursements For 340B
+            Dispensed / Administered Drugs
+
+                                                        LANDMAR
+            Covered Entity Name:
+                                                        K MEDICAL
+            Reporting for Calendar Year:                        2025
+
+
+
+Instruction: Provide detail (amount and number of individual claims) for all reimbursements relating to
+pharmaceuticals obtained under the 340B Drug Program from commercial insurance (including
+Medicare Supplemental plans), Medical Assistance, Medicare, and or other sources. This schedule
+should total all reimbursements relating to pharmaceuticals obtained under the 340B Drug Program.
+
+                                                               Amount
+Line No.                 Reimbursement Source                Reimbursed        Unit   Count       Unit
+
+     1      Commercial Insurance                        $      9,311,744.03    USD    26,187     Claims
+     2      Medical Assistance (i.e., Medicaid)                            0   USD       0       Claims
+     3      Medicare                                    $      1,086,892.68    USD    3,056      Claims
+     4      Other Sources                               $         52,254.46    USD     158       Claims
+
+
+            Total Aggregated Payment Amount Received for
+            Dispensed/Administered 340B Drugs (Supports
+            Schedule A - Line 2)                         $    10,450,891.17             29,401
+                                                         Schedule A - Line 2
+
+Form RIOAG 340B-Sch C (revised January 2026)
+            *Medicaid Carve-out
+            State of Rhode Island                            Schedule D
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule D - Payment to Contract Pharmacy Detail Schedule
+
+                                                             LANDMARK
+            Covered Entity Name:                              MEDICAL
+                                                              CENTER
+            Reporting for Calendar Year:                           2025
+
+
+Instruction: Provide detail for all payments made to contract pharmacies for dispensing 340B
+prescription drugs during the reporting period. Individually list any contract pharmacy paid
+$5,000 or more. Aggregate payments to contract pharmacies paid less than $5,000.
+
+Line No.                 Contract Pharmacy Name                Amount Paid          Unit
+
+     1      NONE                                                   $0.00            USD
+     2                                                                              USD
+     3                                                                              USD
+     4                                                                              USD
+     5                                                                              USD
+     6                                                                              USD
+            Total for contract pharmacies under $5,000             $0.00
+
+            Total Aggregated Payments to Contract
+            Pharmacies for 340B Program Prescription Drugs         $0.00
+            (Supports Schedule A - Line 3)
+                                                             Schedule A - Line 3
+
+
+
+
+Form RIOAG 340B-Sch D (revised January 2026)
+            State of Rhode Island                                                                                               Schedule E
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule E - Payments to Outside Entities (Vendors) for 340B Program
+            Management, Administration, or Facilitation
+
+                                                              LANDMARK MEDICAL
+            Covered Entity Name:
+                                                                   CENTER
+            Reporting for Calendar Year:                                        2025
+
+Instruction: Aggregate detail by service/contractor category for all payments made to vendors/contractors relating to the
+management, administration, and/or facilitation of any aspect of the Covered Entity's participation in the 340B Program.
+Examples of services/contractors to be aggregated include contracted pharmacies, split billing vendors, consultants, third-
+party administrators, and other vendors. For consultants and other vendors, provide a brief description of service provided.
+Aggregate payments for service/contractor categories individually paid less than $5,000.
+
+            Program Management, Administration, or                          Description
+Line No.             Facilitation Category                            For Other / Consultants                     Amount            Unit
+
+
+                                                           Split Billing Vendor: Assists with managing 340b
+     1                           Verity                                                                           $60,156           USD
+                                                                          ordering and reporting
+
+
+                                                          340b Operational Compliance Company: Performs
+     2                   CPS Solutions, LLC                                                                       $30,934           USD
+                                                           external 340b audit for Landmark Medical Center
+
+            Total Vendor Categories individually
+            under $5,000
+            Total Aggregated Payments to Outside
+            Entities (Vendors) for 340B Program
+            Management, Administration, or                                                                       $91,090.00
+            Facilitation (Supports Schedule A - Line 4)
+                                                                                                              Schedule A - Line 4
+Form RIOAG 340B-Sch E (revised January 2026)
+            State of Rhode Island                                 Schedule F
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule F - Administrative Expenses for 340B Program
+
+                                                                   LANDMARK
+            Covered Entity Name:                                    MEDICAL
+                                                                    CENTER
+            Reporting for Calendar Year:                                 2025
+
+
+Instruction: Provide detail for all covered entity expenses (noncontracted) relating to the
+administration of the 340B program including staffing, operational, and administrative expenses.
+Detail individual expense categories with expenses of $5,000 or more. Aggregate expense categories
+individually less than $5,000.
+
+Line No.                Expense Category Description                Amount/Value         Unit
+
+               Corporate Administrative Team: 1 Pharmacist and 1
+     1                                                                                   USD
+                                    Analyst                           $61,400.00
+
+                LMC Administrative Team for LMC/Retail/Infusion
+     2                                                                 $89,544           USD
+                  Center: 3 Rph and 3 Pharmacy Technicians
+
+     3                                                                                   USD
+     4                                                                                   USD
+     5                                                                                   USD
+     6                                                                                   USD
+     7                                                                                   USD
+     8                                                                                   USD
+     9                                                                                   USD
+    10                                                                                   USD
+            Total for expense categories individually under
+            $5,000
+
+            Total Aggregated Administrative Expenses for 340B
+            Program                                                   $150,944.00
+                                                                   Schedule A - Line 5
+
+
+
+
+Form RIOAG 340B-Sch F (revised January 2026)
+           State of Rhode Island                                                      Schedule G
+           340B Drug Pricing Program - Covered Entity Reporting
+           Schedule G - Detail of Prescription Drugs Relating to Covered Entity
+           Participation in the 340B Program Dispensed or Administered During the Period.
+
+                                                                LANDMARK
+           Covered Entity Name:                                  MEDICAL
+                                                                 CENTER
+           Reporting for Calendar Year:                                 2025
+
+
+Instruction: List all prescription drugs relating to Covered Entity participation in the 340B Program during the period. Detail the total
+amount (cost of prescription drug obtained through the 340B program) and count of individual prescription drug claims dispensed or
+administered during the period. Aggregate all prescription drugs where costs for the particular drug were less than $5,000.
+
+                                                                 National Drug Code
+Line No.                Prescription Drug Name                        Number                 Amount            Unit       Count      Unit
+
+    1      Keytruda 100 MG/4ML SOLN                            00006302602                    $1,078,787.86    USD         66       Claims
+    2      Tecentriq 1200 MG/20ML SOLN                         50242091701                      $478,405.44    USD         41       Claims
+    3      Darzalex Faspro 1800-30000 MG-UT/15ML SOLN          57894050301                      $435,845.02    USD         39       Claims
+    4      Opdivo 240 MG/24ML SOLN                             00003373413                      $404,055.36    USD         31       Claims
+    5      Imfinzi 500 MG/10ML SOLN                            00310461150                      $399,610.38    USD         48       Claims
+    6      Opdualag 240-80 MG/20ML SOLN                        00003712511                      $250,084.10    USD         11       Claims
+    7      Yervoy 50 MG/10ML SOLN                              00003232711                      $229,513.07    USD         17       Claims
+    8      Enhertu 100 MG SOLR                                 65597040601                      $174,837.16    USD         19       Claims
+    9      Reblozyl 75 MG SOLR                                 59572077501                      $163,969.50    USD         12       Claims
+   10      Gamunex-C 20 GM/200ML SOLN                          13533080024                      $150,080.52    USD         39       Claims
+   11      Polivy 140 MG SOLR                                  50242010501                      $124,042.24    USD         8        Claims
+   12      Zepzelca 4 MG SOLR                                  68727071201                      $107,619.78    USD         10       Claims
+   13      Ocrevus 300 MG/10ML SOLN                            50242015001                      $103,916.83    USD         5        Claims
+   14      Gazyva 1000 MG/40ML SOLN                            50242007001                      $100,738.13    USD         15       Claims
+   15      Sylvant 400 MG SOLR                                 73090042101                       $95,644.92    USD         8        Claims
+   16      Imjudo 300 MG/15ML SOLN                             00310453530                       $91,273.56    USD         3        Claims
+17   Tecentriq 840 MG/14ML SOLN                  50242091801   $89,155.50   USD   8    Claims
+18   Kyprolis 60 MG SOLR                         76075010101   $76,134.36   USD   27   Claims
+19   Mvasi 400 MG/16ML SOLN                      55513020701   $75,387.36   USD   43   Claims
+20   Cyramza 500 MG/50ML SOLN                    00002767801   $71,719.46   USD   11   Claims
+21   Xgeva 120 MG/1.7ML SOLN                     55513073001   $67,831.80   USD   33   Claims
+22   Venofer 20 MG/ML SOLN                       00517231005   $67,587.68   USD   98   Claims
+24   Jevtana 60 MG/1.5ML SOLN                    00024582411   $59,606.24   USD   7    Claims
+25   Herceptin 150 MG SOLR                       50242013201   $56,873.68   USD   19   Claims
+26   Imfinzi 120 MG/2.4ML SOLN                   00310450012   $49,890.86   USD   27   Claims
+27   Kadcyla 160 MG SOLR                         50242008701   $45,751.12   USD   10   Claims
+28   Somatuline Depot 120 MG/0.5ML SOLN          15054112004   $41,537.48   USD   12   Claims
+29   Cyramza 100 MG/10ML SOLN                    00002766901   $37,929.39   USD   12   Claims
+30   Gamunex-C 10 GM/100ML SOLN                  13533080071   $36,850.00   USD   23   Claims
+31   Nplate 250 MCG SOLR                         55513022101   $34,980.28   USD   26   Claims
+32   Retacrit 40000 UNIT/ML SOLN                 00069130904   $33,526.99   USD   31   Claims
+33   Truxima 500 MG/50ML SOLN                    63459010450   $32,794.03   USD   23   Claims
+34   Kadcyla 100 MG SOLR                         50242008801   $31,479.64   USD   9    Claims
+35   Erbitux 200 MG/100ML SOLN                   66733095823   $27,419.14   USD   13   Claims
+36   PACLitaxel Protein-Bound Part 100 MG SUSR   00781353191   $24,388.82   USD   20   Claims
+37   Aranesp (Albumin Free) 200 MCG/0.4ML SOSY   55513002801   $22,614.40   USD   33   Claims
+38   Kyprolis 30 MG SOLR                         76075010201   $19,329.46   USD   19   Claims
+39   Padcev 30 MG SOLR                           51144003001   $17,798.40   USD   5    Claims
+40   Padcev 20 MG SOLR                           51144002001   $17,797.86   USD   6    Claims
+41   Yondelis 1 MG SOLR                          59676061001   $16,501.68   USD   4    Claims
+42   Nplate 125 MCG SOLR                         55513022301   $16,261.56   USD   15   Claims
+43   Neulasta Onpro 6 MG/0.6ML SOSY              55513019201   $15,462.07   USD   46   Claims
+44   Bridion 200 MG/2ML SOLN                     00006542312   $15,095.86   USD   20   Claims
+45   Mvasi 100 MG/4ML SOLN                       55513020601   $15,008.28   USD   38   Claims
+46   Bendeka 100 MG/4ML SOLN                     63459034804   $14,727.96   USD   8    Claims
+47   Bendamustine HCl 100 MG/4ML SOLN            60505622800   $13,259.75   USD   9    Claims
+48   Ablysinol SOLN                              54288010515   $11,989.99   USD   2    Claims
+49   SandoSTATIN LAR Depot 30 MG KIT             00078082581   $11,427.84   USD   7    Claims
+50   TNKase 50 MG KIT                            50242012047   $11,411.85   USD   6    Claims
+51   Truxima 100 MG/10ML SOLN                    63459010310   $10,808.69   USD   25   Claims
+52   Opdivo 120 MG/12ML SOLN                     00003375614    $8,555.11   USD   3    Claims
+53   SandoSTATIN LAR Depot 20 MG KIT             00078081881    $7,666.46   USD   10   Claims
+54   Kyprolis 10 MG SOLR                         76075010301    $7,316.40   USD   18   Claims
+55   Abraxane 100 MG SUSR                        68817013450    $7,199.22   USD   6    Claims
+    56      Opdivo 100 MG/10ML SOLN                              00003377412       $7,005.91   USD       3          Claims
+    57      Kanjinti 150 MG SOLR                                 55513014101       $6,666.04   USD       13         Claims
+    58      Reblozyl 25 MG SOLR                                  59572071101       $6,074.54   USD       2          Claims
+    59      Kedrab 1500 UNIT/10ML SOLN                           76125015010       $5,539.75   USD       2          Claims
+            Total Prescription Drugs individually under $5,000                  $108,489.55    USD     28,277       Claims
+
+
+            Total Costs of Prescription Drugs Obtained Through
+            340B Program Claimed for Reimbursement                             $5,743,276.33           29,401
+                                                                                                      Mandated
+                                                                                                     by RIGL § 5-
+                                                                                                        19.3-6
+
+Form RIOAG 340B-Sch G (revised January 2026)
+            State of Rhode Island                                   Schedule H
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule H - 340B Program Savings Usage by Covered Entity to
+            Benefit Patients and/or its Community Through Programs,
+            Projects, and/or Services.
+
+                                                                            LANDMARK
+            Covered Entity Name:                                             MEDICAL
+                                                                             CENTER
+            Reporting for Calendar Year:                                            2025
+
+
+Instruction: List all programs, projects, and/or services provided by the Covered Entity through 340B
+Program savings that benefited patients and/or its community. Detail individual programs, projects,
+and/or services provided and the related costs incurred by the covered entity. Individually list
+programs, projects, and services with costs of $5,000 or more. Aggregate all other programs, projects,
+and services where costs totaled less than $5,000.
+
+Line No.                 340B Net Revenue Usage Description                    Amount/Value             Unit
+
+     1      Health Services Expansion                                            $29,003.00             USD
+     2      Community and Public Health Programs                                 $41,775.00             USD
+     3      Facility Upgrades                                                   $1,058,235.18           USD
+     4      Technology Upgrades                                                 $2,257,673.35           USD
+     5      Subsidize Losses - Medicaid and Medicare Program
+                                                                                                        USD
+            Underpayments
+     6      Research and Innovation                                              $10,690.00             USD
+     7      Community Programs                                                   $115,199.97            USD
+     8      Charity Care/Uncompensated Care                                     $2,257,160.37           USD
+     9      Other                                                                 $47,510.11            USD
+            Other programs, projects, and services where costs totaled
+                                                                                                        USD
+            less than $5,000.
+
+            Total Aggregate Costs of Programs, Projects, and/or
+            Services Supported by 340B Net Revenue                                      $5,817,246.98
+
+                                                                         Mandated by RIGL § 5-19.3-6.
+
+Form RIOAG 340B-Sch H (revised January 2026)
+            State of Rhode Island                                                                                   Schedule I
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule I - Covered Entity Certification Page
+
+                                                                                                         LANDMARK MEDICAL
+             Covered Entity Name:                                                                             CENTER
+            Reporting for Calendar Year:                                                                               2025
+
+
+                                                                                                               If Yes, explain any
+Line No.                            Covered Entity Certification                         YES     NO          noncompliance noted.
+
+            During the reporting period, did the covered entity conduct a self-audit
+     1      of their participation in the 340B Program as required by the Health          x             LMC conducted self audit which did
+            Resources and Services Administration (HRSA)?                                                not produce any potential issues.
+
+
+            During the reporting period, was the covered entity audited by HRSA or
+     2
+            subject to a drug manufacturer audit approved by HRSA?
+                                                                                                  X
+
+I certify, to the best of my knowledge and belief, that the information reported in this reporting package is materially complete and
+accurate?
+
+
+
+                                                                                                                     4/1/2026
+                                                 Signature                                                             Date
+
+
+
+            Michael Souza CEO                                                                          [email address in the PDF]
+                                               Name and Title                                                      Email
+
+Form RIOAG 340B-Sch I (revised January 2026)
+

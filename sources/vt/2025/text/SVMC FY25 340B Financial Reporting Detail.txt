@@ -1,0 +1,29 @@
+        Southwestern Vermont Medical Center
+     FY2025 340B Program Financial Reporting Detail
+As Submitted to the Green Mountain Care Board in 2026
+
+            NOTE: This is draft and may be adjusted for accuracy in the
+                       final GMCB dashboard publication.
+
+
+Aggregated Payment Amounts Received, Separated by Distribution Channel
+
+In-House Pharmacy Dispensed                                                  $0.00
+Contract Pharmacy Dispensed                                          $7,235,632.00
+Administered Drugs Paid Separately                                  $14,795,254.00
+Administered Drugs Bundled Payments                                   $186,603.00
+Total 340B Payments Received                                        $22,217,489.00
+
+340B Prescription Drug Acquisition Costs                             $7,296,479.00
+
+Aggregated 340B Program Expenses
+Payments Made to Contract Pharmacies                                  $973,639.00
+Internal 340B Program Expenses                                         $375,677.00
+Payments Made to Outside Vendors                                     $1,617,611.00
+Total 340B Expenses                                                  $2,966,927.00
+
+
+340B Net Revenue                                                    $11,954,083.00
+(payments received minus acquisition costs minus expenses)
+340B Operating Margin                                                      53.80%
+

@@ -1,0 +1,1461 @@
+            State of Rhode Island
+            340B Drug Pricing Program - Mandated Covered Entity Reporting
+            Mandated Reporting Cover Page
+
+                         Covered Entity 340B Drug Pricing Program Reporting Mandated by
+                                         RI General Law Section 5-19.3-6.
+
+            Covered Entity Name:                                  Rhode Island Hospital
+            Covered Entity Corporate Address:                     593 Eddy St. Providence, RI 02903
+            340B ID Number(s)                                     DSH410007
+            Reporting for Calendar Year:                                          2025
+
+
+
+
+            Covered Entity Required Information
+
+            Date of most recent recertification with the Health
+            Resources and Service Administration                  8/27/2025
+
+            Reporting Basis (i.e., Cash or Accrual)               Cash
+
+
+
+
+Form RIOAG-340B (Revised January 2026)
+Title: Addressing and quantifying outliers and other concerns regarding data sharing
+requirements under S.0114
+
+Brown University Health has long supported the 340B program and are grateful to our
+legislative leaders for their commitment to protecting it. This vital program allows hospitals
+and health centers to care for more patients and sustain critical services. Brown Health invests
+340B savings throughout our health system including into pharmacy care services that directly
+impact patient care to ensure that patients stay adherent to their medication therapies to
+improve overall health.
+Throughout the legislative process during the 2025 session, we communicated concerns
+around the data reporting requirements, including challenges in producing accurate data
+under the statutory language and the potential for misinterpretation and misuse if the data is
+presented without appropriate context. These concerns remain relevant as the reporting
+framework is implemented.
+
+Other states have recognized these challenges and have taken steps to provide
+contextualized reporting. For example, Minnesota supplements submitted data with detailed
+summaries that explain methodology, limitations, and key considerations. Hawaii is expected
+to follow a similar approach, though its initial report has not yet been published. In contrast,
+Rhode Island’s approach of publishing submitted data without additional context does not
+sufficiently account for the complexity of the information and may lead to misunderstandings
+among stakeholders and the public.
+
+In light of these considerations, we are submitting this supplemental document to accompany
+our report. The intent is to highlight key areas where the data may be overstated,
+understated, or otherwise misaligned with standard 340B reporting practices, and to provide
+the necessary clarification to support accurate interpretation. The following sections outline
+specific methodological limitations, reporting constraints, and contextual factors relevant to
+each schedule.
+
+Schedule A
+Net 340B Revenue Calculation does not align with how 340B Covered Entities traditionally
+report their 340B benefit. Hospital revenue is not used as a financial marker, instead the
+focus is on the net savings they realize by purchasing the drug at the 340B price instead of a
+Group Purchasing Organization (GPO) price. This savings calculation is not included in the
+legislation or Schedules of the report.
+Schedule C
+
+Hospital billing and contract pharmacy reimbursements are wildly different in nature. The
+complexity and insurance requirements for hospital billing make it near impossible to report
+just the reimbursement received for 340B drugs. 72-hour roll-up billing, where any charges
+within a 72-hour timeframe must be billed together, will not allow for extraction of drug
+specific values. Bundled payments for hospital charges will include non-drug reimbursements
+that also cannot be split accurately. Based on the value entered, 33% is tied to bundled
+payments, meaning 33% of that revenue is overstated.
+These are a few scenarios where the values within this Schedule will be overstated.
+
+Bundled inpatient transactions have been excluded from the data as the majority of the
+reimbursement value is for non-340B drug services and would grossly inflate revenues
+attributable to 340B activity. The data points we used to identify 340B transactions for this
+report were not a system requirement for all drugs until March 2025. Therefore, some, but
+not all, reimbursement values for 340B drugs from January and February 2025 are included in
+the data. There are also several revenue codes where we do not receive any reimbursement
+for 340B drugs and these also have been excluded from this Schedule.
+
+These are a few scenarios where the values within this Schedule will be understated.
+Regarding the reimbursement sources, we carve out Medicaid FFS from our contract
+pharmacy program – when combined with hospital transactions, it will dilute actual levels of
+Medicaid care we provide if taken as a percentage comparison, and will not align with
+publicly posted information.
+
+Schedule G
+
+Some claims with reported reimbursement will not have associated drug expense included
+due to timing of drug orders, package size, and accumulation amounts being less than 1.
+Conversely, there may be drug expenses tied to claims from the previous calendar year that
+are not included in this data set due to the timing of drug orders, availability of the NDC (i.e.
+backorders, NDC changes, buydowns ahead of NDC discontinuation), etc.
+
+Where there were packaging label changes throughout the year that caused prescription drug
+names to change and would cause duplicate lines in the data, the name used for the last
+purchase of each NDC was copied for consistency. This would particularly impact factor
+products, where the units can vary but the NDC remains the same. Because purchasing is
+done at the NDC level, and not the packaging name, this ensures the most accurate and clean
+data is shared.
+Schedule H
+
+For this Schedule, we have used details from our FY25 AFS Report and other publicly reported
+information to provide as accurate a picture of our 340B savings use as possible. There is no
+benchmark for appropriate use of savings within the 340B statute for this Covered Entity
+type. Instead, we rely on surveys and feedback from our community to determine the best
+way to address the healthcare needs of our state.
+
+As demonstrated in this detail, our total expenditures in this community benefit exceed what
+we realize in 340B benefit, a further demonstration of how critical the 340B program is to the
+healthcare system in this state and why the protections included in S.0114 were necessary
+and enforcement of the law is critical.
+
+In summary, while we have made every effort to comply with the reporting requirements
+under S.0114, the limitations outlined above highlight the challenges in presenting this data
+in a manner that is both precise and fully representative of 340B program activity. Without
+appropriate context, these figures risk being misunderstood or misapplied.
+
+We respectfully encourage consideration of these factors when reviewing the submitted data
+and reiterate the importance of continued dialogue to ensure reporting requirements
+support transparency without compromising accuracy. We remain committed to compliance
+and to working collaboratively to improve the clarity and usefulness of future reporting.
+             State of Rhode Island                                                                                               Schedule A
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule A - Aggregate Reporting Schedule
+
+             Covered Entity Name:                         Rhode Island Hospital
+             Reporting for Calendar Year:                                     2025
+
+
+
+
+                                                                                                          Schedule
+Line No.                        Data Element                       Data Element Description                 Ref        Amount          Unit
+
+                                                          Total aggregated cost to entity for drugs
+            Total Aggregated Acquisition Cost for All
+     1                                                    purchased under 340B (actual paid, incl.           B       $357,096,076.44   USD
+            340B Program Drugs
+                                                          fees) during the previous calendar year.
+
+                                                     Total payments (claim reimbursements)
+                                                     received for 340B drugs dispensed/
+            Total Aggregated Payment Amount Received
+     2                                               administered to patients with commercial                C       $815,169,802.88   USD
+            for Dispensed/Administered 340B Drugs
+                                                     medical insurance, Medical Assistance,
+                                                     and/or Medicare Supplemental plans.
+
+            Total Aggregated Payments to Contract
+                                                          Total payments made to contract
+     3      Pharmacies for 340B Program Prescription                                                         D        $51,279,393.77   USD
+                                                          pharmacies for dispensing 340B drugs.
+            Drugs
+
+            Total Aggregated Payments to Outside        Total payments to vendors managing,
+     4      Entities (Vendors) for 340B Program         administering, or facilitating any aspect of         E         $7,217,846.70   USD
+            Management, Administration, or Facilitation the 340B covered entity's drug program.
+
+                                                          Total covered entity expenses for staffing,
+            Total Aggregated Administrative Expenses
+     5                                                    operations, and administration related to the      F          $786,709.95    USD
+            for 340B Program
+                                                          340B program.
+
+
+                                                          Payments Received (Line 2) - (Acquisition
+            Net 340B Revenue Calculation (Auto-
+     6                                                    Costs (Line 1) + Administration Expenses                   $398,789,776.02   USD
+            Calculated)
+                                                          (Lines 3, 4 & 5)
+
+
+Form RIOAG 340B-Sch A (revised January 2026)
+            State of Rhode Island                                                             Schedule B
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule B - Acquisition Cost Detail Schedule
+
+            Covered Entity Name:                             Rhode Island Hospital
+            Reporting for Calendar Year:                                2025
+
+
+
+Instruction: Provide detail for all vendors (e.g. manufacturers, wholesalers) where the covered entity
+procured $5,000 or more of prescription drugs from an individual vendor/pharmacy under the 340B
+program. Provide an aggregated total for vendors where procurement was less than $5,000.
+
+Line No.                         Vendor Name                        Amount Paid               Unit
+
+     1      Cencora                                                         $323,930,565.70   USD
+     2      McKesson                                                         $15,746,801.63   USD
+     3      Novartis                                                          $5,429,976.00   USD
+     4      Cardinal                                                          $3,457,056.29   USD
+     5      Genzyme                                                           $2,840,755.21   USD
+     6      CSL Behring                                                       $2,691,500.00   USD
+     7      Curascript                                                        $1,929,464.97   USD
+     8      Takeda                                                              $786,529.91   USD
+     9      Biogen                                                              $102,238.37   USD
+    10      Foundation Care                                                      $92,512.63   USD
+    11      Optum Frontier                                                       $76,600.00   USD
+    12      Baxter                                                               $10,752.05   USD
+            Total for vendors under $5,000                                        $1,323.68   USD
+
+            Total Aggregated Acquisition Cost for all 340B
+            Program Drugs - (Supports Schedule A, Line 1)    $               357,096,076.44   USD
+                                                                  Schedule A - Line 1
+
+
+
+
+Form RIOAG 340B-Sch B (revised January 2026)
+            State of Rhode Island                                                            Schedule C
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule C - Claim Reimbursements For 340B
+            Dispensed / Administered Drugs
+
+            Covered Entity Name:                         Rhode Island Hospital
+            Reporting for Calendar Year:                                 2025
+
+
+
+Instruction: Provide detail (amount and number of individual claims) for all reimbursements relating to
+pharmaceuticals obtained under the 340B Drug Program from commercial insurance (including Medicare
+Supplemental plans), Medical Assistance, Medicare, and or other sources. This schedule should total all
+reimbursements relating to pharmaceuticals obtained under the 340B Drug Program.
+
+Line No.                 Reimbursement Source                Amount Reimbursed       Unit   Count    Unit
+
+     1      Commercial Insurance                                   $329,307,652.00   USD    146529 Claims
+     2      Medical Assistance (i.e., Medicaid)                    $104,033,649.90   USD     88934 Claims
+     3      Medicare                                               $359,401,763.67   USD    168110 Claims
+     4      Other Sources                                           $22,426,737.31   USD     38085 Claims
+
+
+
+
+            Total Aggregated Payment Amount Received for
+            Dispensed/Administered 340B Drugs (Supports
+            Schedule A - Line 2)                         $          815,169,802.88          441658
+                                                              Schedule A - Line 2
+
+
+
+Form RIOAG 340B-Sch C (revised January 2026)
+            State of Rhode Island                                Schedule D
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule D - Payment to Contract Pharmacy Detail Schedule
+
+            Covered Entity Name:                         Rhode Island Hospital
+            Reporting for Calendar Year:                              2025
+
+
+Instruction: Provide detail for all payments made to contract pharmacies for dispensing 340B
+prescription drugs during the reporting period. Individually list any contract pharmacy paid $5,000 or
+more. Aggregate payments to contract pharmacies paid less than $5,000.
+
+Line No.               Contract Pharmacy Name                    Amount Paid                 Unit
+
+     1      Accredo                                                           $598,374.95    USD
+     2      Brown University Health, LLC                                   $42,134,193.85    USD
+     3      CVS                                                             $7,707,730.02    USD
+     4      Optum                                                             $598,396.60    USD
+     5      Walgreens                                                         $240,698.35    USD
+     6                                                                                       USD
+     7                                                                                       USD
+     8                                                                                       USD
+     9                                                                                       USD
+    10                                                                                       USD
+            Total for contract pharmacies under $5,000
+
+
+
+            Total Aggregated Payments to Contract
+            Pharmacies for 340B Program Prescription
+            Drugs (Supports Schedule A - Line 3)         $                   51,279,393.77
+                                                               Schedule A - Line 3
+
+Form RIOAG 340B-Sch D (revised January 2026)
+            State of Rhode Island                                                                                           Schedule E
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule E - Payments to Outside Entities (Vendors) for 340B Program
+            Management, Administration, or Facilitation
+
+            Covered Entity Name:                                          Rhode Island Hospital
+            Reporting for Calendar Year:                                                  2025
+
+
+
+Instruction: Aggregate detail by service/contractor category for all payments made to vendors/contractors relating to the
+management, administration, and/or facilitation of any aspect of the Covered Entity's participation in the 340B Program. Examples
+of services/contractors to be aggregated include contracted pharmacies, split billing vendors, consultants, third-party
+administrators, and other vendors. For consultants and other vendors, provide a brief description of service provided. Aggregate
+payments for service/contractor categories individually paid less than $5,000.
+
+                      Program Management, Administration, or                          Description
+Line No.                       Facilitation Category                            For Other / Consultants       Amount            Unit
+
+     1      Program Management                                            Third-Party Administrators           $6,960,350.05    USD
+     2      Program Compliance                                            340B Audit Vendor                       $29,000.00    USD
+     3      Program Facilitation                                          Switch Fees                             $36,735.28    USD
+     4      Program Compliance                                            340B Law Firm                           $24,005.00    USD
+     5      Program Facilitation                                          Couriers                               $167,756.37    USD
+     6                                                                                                                          USD
+            Total Vendor Categories individually under $5,000
+
+            Total Aggregated Payments to Outside Entities (Vendors) for
+            340B Program Management, Administration, or Facilitation
+            (Supports Schedule A - Line 4)                                                                $     7,217,846.70
+                                                                                                          Schedule A - Line 4
+Form RIOAG 340B-Sch E (revised January 2026)
+            State of Rhode Island                                Schedule F
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule F - Administrative Expenses for 340B Program
+
+            Covered Entity Name:                              Rhode Island Hospital
+            Reporting for Calendar Year:                                 2025
+
+
+Instruction: Provide detail for all covered entity expenses (noncontracted) relating to the
+administration of the 340B program including staffing, operational, and administrative expenses.
+Detail individual expense categories with expenses of $5,000 or more. Aggregate expense categories
+individually less than $5,000.
+
+Line No.             Expense Category Description                   Amount/Value                Unit
+
+     1      340B Health membership                                                 $13,132.00   USD
+     2      Salaries                                                              $766,633.89   USD
+     3                                                                                          USD
+     4                                                                                          USD
+     5                                                                                          USD
+     6                                                                                          USD
+     7                                                                                          USD
+     8                                                                                          USD
+     9                                                                                          USD
+    10                                                                                          USD
+            Total for expense categories individually under
+            $5,000                                                                  $6,944.06
+
+            Total Aggregated Administrative Expenses for
+            340B Program                                      $                   786,709.95
+                                                                   Schedule A - Line 5
+
+
+
+
+Form RIOAG 340B-Sch F (revised January 2026)
+           State of Rhode Island                                                                   Schedule G
+           340B Drug Pricing Program - Covered Entity Reporting
+           Schedule G - Detail of Prescription Drugs Relating to Covered Entity Participation in the
+           340B Program Dispensed or Administered During the Period.
+
+           Covered Entity Name:                                Rhode Island Hospital
+           Reporting for Calendar Year:                                       2025
+
+
+Instruction: List all prescription drugs relating to Covered Entity participation in the 340B Program during the period. Detail the total amount (cost of
+prescription drug obtained through the 340B program) and count of individual prescription drug claims dispensed or administered during the period.
+Aggregate all prescription drugs where costs for the particular drug were less than $5,000.
+
+
+Line No.                Prescription Drug Name                     National Drug Code Number             Amount           Unit         Count         Unit
+
+    1      KEYTRUDA 100MG SDV 4ML                                                    00006302602 $      32,042,093.78     USD               4641   Claims
+    2      DARZALEX FASPRO 1800 MG SDV 15 ML                                         57894050301 $      13,989,522.71     USD               1545   Claims
+    3      VYNDAMAX 61MG CAPS 3X10                                                   00069873030 $      11,268,756.45     USD                632   Claims
+    4      OPDIVO 240MG VL 24ML                                                      00003373413 $       8,983,854.58     USD                903   Claims
+    5      IMFINZI 500 MG SDV 10 ML                                                  00310461150 $       5,812,396.86     USD                615   Claims
+    6      TRIKAFTA 150MG TAB 4X21                                                   51167033101 $       5,721,598.74     USD                364   Claims
+    7      TAGRISSO 80 MG TAB 30                                                     00310135030 $       5,280,189.01     USD                409   Claims
+    8      ENTYVIO 300 MG SDV                                                        64764030020 $       4,784,502.23     USD                801   Claims
+    9      HEMLIBRA 105 MG SDV 0.7 ML                                                50242092201 $       4,336,357.33     USD                159   Claims
+   10      AMVUTTRA 25MG/0.5ML PFS                                                   71336100301 $       4,112,254.59     USD                 31   Claims
+   11      DUPIXENT 300 MG PFP 2X2ML                                                 00024591502 $       3,560,670.59     USD               1367   Claims
+   12      PLUVICTO                                                                  69488001061 $       3,559,810.00     USD                103   Claims
+   13      ENHERTU 100 MG SDV                                                        65597040601 $       3,538,492.55     USD                610   Claims
+   14      TECENTRIQ 1200 MG SDV 20 ML                                               50242091701 $       3,418,700.21     USD                345   Claims
+   15      STELARA 90 MG PFS 1 ML                                                    57894006103 $       3,278,776.15     USD                366   Claims
+   16      CALQUENCE 100 MG TAB 60                                                   00310351260 $       3,247,570.71     USD                296   Claims
+   17      BRUKINSA 80 MG CAP 120                                                    72579001102 $       3,202,500.95     USD                335   Claims
+   18      INFLECTRA 100 MG VL                                                       00069080901 $       3,196,296.59     USD               4382   Claims
+   19      PADCEV 20 MG SDV                                                          51144002001 $       3,181,274.23     USD                957   Claims
+20   YERVOY 50MG VL 10ML                  00003232711 $   3,086,327.24   USD    218   Claims
+21   XTANDI 40 MG TAB 120                 00469062599 $   3,009,730.12   USD    553   Claims
+22   ASPARLAS INJ 3750/5ML                72694051501 $   2,995,940.39   USD    107   Claims
+23   OPDUALAG 240/80 MG SDV 20 ML         00003712511 $   2,995,022.38   USD    107   Claims
+24   VYNDAQEL 20MG CAPS 4X30              00069197540 $   2,882,319.72   USD    169   Claims
+25   NUBEQA 300MG TAB 120                 50419039501 $   2,813,033.97   USD    332   Claims
+26   HEMGENIX 111-115 kg                  00053023023 $   2,691,500.00   USD      1   Claims
+27   RINVOQ 15 MG ER TAB 30               00074230630 $   2,677,670.30   USD    716   Claims
+28   BLINCYTO 35 MCG KIT                  55513016001 $   2,674,633.89   USD    476   Claims
+29   ILARIS 150 MG VL                     00078073461 $   2,637,281.05   USD     94   Claims
+30   GAMMAGARD LIQ 30GM VL 300ML NONRET   00944270007 $   2,625,371.30   USD    784   Claims
+31   VENCLEXTA 100MG TAB 120              00074057622 $   2,521,058.23   USD    409   Claims
+32   SKYRIZI 360 MG KIT                   00074107001 $   2,447,993.63   USD    240   Claims
+33   HEMLIBRA 60 MG SDV 0.4 ML            50242092101 $   2,427,512.64   USD    119   Claims
+34   SKYRIZI PEN 150 MG PFS 1 ML          00074210001 $   2,424,814.65   USD    228   Claims
+35   REBLOZYL 75 MG SDV                   59572077501 $   2,382,443.03   USD    254   Claims
+36   ATTRUBY 356 MG TAB 112 (4X28) BP     82228071228 $   2,345,998.47   USD    131   Claims
+37   IMDELLTRA 10 MG VL                   55513007701 $   2,276,513.40   USD    146   Claims
+38   TALTZ 80 MG/ML AUTO INJ 1 ML         00002144511 $   2,186,382.48   USD    649   Claims
+39   NPLATE 250 MCG SDV 0.5 ML            55513022101 $   2,182,659.19   USD   1669   Claims
+40   HEMLIBRA 150 MG SDV 1 ML             50242092301 $   2,147,248.82   USD     61   Claims
+41   ULTOMIRIS 300MG/3ML VL DS            25682002501 $   2,093,059.31   USD     32   Claims
+42   HUMIRA CF 40 MG-0.4 ML PFP KIT 2     00074055402 $   2,015,282.13   USD   1535   Claims
+43   ERBITUX 100 MG SDV 50 ML             66733094823 $   1,894,761.70   USD    374   Claims
+44   LUTATHERA                            69488000301 $   1,870,166.00   USD     42   Claims
+45   KYPROLIS 60MG PWD LYO SDV            76075010101 $   1,794,151.77   USD    581   Claims
+46   KISQALI 200 MG TAB 3X21 REF          00078087463 $   1,773,345.39   USD    183   Claims
+47   KISQALI 200 MG TAB 3X14 REF          00078086742 $   1,717,562.65   USD    218   Claims
+48   RYBREVANT 350 MG SDV 7 ML            57894050101 $   1,713,993.78   USD    149   Claims
+49   BOTOX THERAPEUTIC 100 UN VL DS       00023114501 $   1,710,348.68   USD   1872   Claims
+50   TECVAYLI 153 MG SDV 1.7 ML SD        57894045001 $   1,671,022.98   USD    311   Claims
+51   VERZENIO 100 MG TAB 14               00002481554 $   1,667,901.00   USD    166   Claims
+52   GAMMAGARD LIQ 20GM 200ML NONRET      00944270006 $   1,636,051.82   USD    863   Claims
+53   HEMLIBRA 300 MG SDV 2 ML             50242093001 $   1,620,840.11   USD     44   Claims
+54   PERJETA 420 MG SDV 14 ML             50242014501 $   1,585,692.18   USD    286   Claims
+55   POLIVY 140 MG SDV                    50242010501 $   1,522,579.69   USD    110   Claims
+56   VERZENIO 150 MG TAB 14               00002533754 $   1,468,896.00   USD    146   Claims
+57   IMBRUVICA 420 MG TAB 28              57962042028 $   1,440,465.70   USD    140   Claims
+58   CABOMETYX 40 MG TAB 30              42388002546 $   1,402,827.81   USD    153   Claims
+59   FABRAZYME VIAL 35MG D/S             58468004001 $   1,363,847.54   USD    182   Claims
+60   PRIVIGEN 40 GM SDV 400 ML           44206043940 $   1,343,127.39   USD    322   Claims
+61   TRETTEN 2496IU SDV                  00169701301 $   1,341,015.12   USD     26   Claims
+62   DUPIXENT 300 MG PFS 2X2ML           00024591401 $   1,318,247.66   USD    517   Claims
+63   EVENITY 105 MG PFS 1.17 ML 2 PK     55513099802 $   1,310,269.07   USD    591   Claims
+64   ALECENSA 150MG CAP 240              50242013001 $   1,305,450.09   USD    122   Claims
+65   COLUMVI 10 MG SDV 10 ML             50242012701 $   1,239,274.72   USD     55   Claims
+66   INVEGA TRINZA 819MG SYG 2.63 ML     50458060901 $   1,227,319.97   USD    240   Claims
+67   ORENCIA 250 MG VL                   00003218713 $   1,222,395.74   USD    661   Claims
+68   SOLIRIS 300MG/30ML NON-RETURN DS    25682000101 $   1,189,617.23   USD     56   Claims
+69   PRIVIGEN 20 GM SDV 200 ML           44206043820 $   1,126,956.36   USD    713   Claims
+70   TRUQAP 200 MG TAB 64                00310950101 $   1,117,956.52   USD     55   Claims
+71   Nexviazyme 100 mg/10 Ml             58468042601 $   1,112,966.55   USD    465   Claims
+72   BENLYSTA 200 MG INJ 4               49401008835 $   1,110,340.74   USD    309   Claims
+73   OPDIVO 40MG VL 4ML                  00003377211 $   1,105,654.93   USD    397   Claims
+74   IBRANCE 100 MG TAB 21               00069048603 $   1,085,057.98   USD    115   Claims
+75   CEREZYME INJ 400UNIT                58468466301 $   1,073,665.99   USD    777   Claims
+76   INVEGA SUSTEN 234 MG SYG 1.5 ML     50458056401 $   1,042,132.62   USD    848   Claims
+77   ORGOVYX 120 MG TAB 30               72974012001 $   1,037,852.10   USD    532   Claims
+78   INFLIXIMAB 100 MG SDV 20 ML         57894016001 $   1,022,201.02   USD    901   Claims
+79   POLIVY 30 MG SDV                    50242010301 $   1,013,173.51   USD    191   Claims
+80   PROLIA 60 MG PFS 1 ML               55513071021 $   1,008,064.76   USD   1012   Claims
+81   IBRANCE 125 MG TAB 21               00069068803 $     999,470.69   USD    105   Claims
+82   TIBSOVO 250 MG TAB 60               72694061760 $     983,042.82   USD     37   Claims
+83   ELAHERE 100 MG SDV 20 ML            72903085301 $     967,847.27   USD     71   Claims
+84   OFEV 150MG GEL CAP 60               00597014560 $     966,705.00   USD    134   Claims
+85   COSENTYX UNOREADY 300 MG PFP 2 ML   00078107068 $     948,474.97   USD    427   Claims
+86   BRIDION INJ 200MG SDV 10X2ML        00006542312 $     930,879.73   USD   7067   Claims
+87   KADCYLA 100MG SDV 15ML              50242008801 $     928,686.35   USD    150   Claims
+88   SKYRIZI 600 MG SDV 10 ML SD         00074501501 $     924,156.25   USD    126   Claims
+89   VYONDYS 53 100MG/2ML SDV            60923046502 $     909,585.61   USD     37   Claims
+90   BRUKINSA 160 MG TAB 60              72579012201 $     893,689.12   USD     88   Claims
+91   LIBTAYO 350 MG SDV 7 ML             61755000801 $     890,555.79   USD     90   Claims
+92   RUXIENCE 500 MG SDV 50 ML           00069024901 $     878,571.33   USD    936   Claims
+93   KIMMTRAK 100 MCG SDV 0.5 ML         80446040101 $     876,500.75   USD     80   Claims
+94   VERZENIO 50 MG TAB 14               00002448354 $     857,828.07   USD     64   Claims
+95   TALVEY 40 MG SDV 1 ML               57894047001 $     842,081.14   USD     75   Claims
+ 96   HADLIMA PUSHTOUCH 40MG AUTO INJ 2X0.4 ML   78206018701 $   836,913.90   USD   1072   Claims
+ 97   OCREVUS 300MG SDV 10ML                     50242015001 $   831,622.78   USD     30   Claims
+ 98   SANDOSTATIN LAR DEPOT 30 MG KIT            00078082581 $   822,357.28   USD    457   Claims
+ 99   DOPTELET 20MG TAB 30                       71369002030 $   771,861.13   USD     71   Claims
+100   KANJINTI 420 MG MDV                        55513013201 $   770,650.64   USD    785   Claims
+101   CABOMETYX 20 MG TAB 30                     42388002446 $   766,301.30   USD     71   Claims
+102   EPIDIOLEX 100 MG/ML SOL KIT 100 ML         70127010010 $   762,519.41   USD    432   Claims
+103   ADCETRIS 50 MG SDV                         51144005001 $   758,224.38   USD    173   Claims
+104   SOMATULINE DEPOT 120 MG PFS 0.5 ML         15054112004 $   750,430.04   USD    179   Claims
+105   MVASI 400 MG SDV 16 ML                     55513020701 $   743,007.00   USD    783   Claims
+106   TAFINLAR 75 MG CAP 120                     00078068166 $   740,989.22   USD     96   Claims
+107   PACLITAXEL PROTEIN-BOUND 100 MG SDV        00517430001 $   736,064.90   USD    709   Claims
+108   POTELIGEO INJ 20MG/5ML                     42747076101 $   734,698.82   USD    150   Claims
+109   KEVZARA 200 MG PFP 2X1.14 ML               00024592201 $   731,148.51   USD    329   Claims
+110   CRYSVITA INJ 30MG/ML                       42747030401 $   719,549.66   USD     44   Claims
+111   DUPIXENT 200 MG PFP 2X1.14 ML              00024591902 $   714,963.69   USD    301   Claims
+112   MEKINIST 2 MG TAB 30                       00078111215 $   700,443.30   USD     88   Claims
+113   LUMIZYME 50MG VIAL DS                      58468016001 $   698,760.14   USD    132   Claims
+114   LYNPARZA 150MG TAB 120                     00310067912 $   694,370.82   USD     71   Claims
+115   INFED 100 MG SDV 10X2 ML                   00023608210 $   690,110.91   USD   2355   Claims
+116   TAGRISSO 40 MG TAB 30                      00310134930 $   689,798.03   USD     49   Claims
+117   IMFINZI 120 MG SDV 2.4 ML                  00310450012 $   683,826.13   USD    344   Claims
+118   ELOCTATE KIT 4000 IU VL                    71104080801 $   676,912.09   USD     13   Claims
+119   BIMZELX 320 MG AUTO INJ 2 ML               50474078284 $   670,938.34   USD     64   Claims
+120   KRAZATI 200 MG TAB 180                     80739081218 $   666,128.93   USD     63   Claims
+121   VORANIGO 40 MG TAB 30                      72694072840 $   663,429.10   USD     27   Claims
+122   ACTEMRA ACTPEN 162 MG INJ 0.9 ML           50242014301 $   660,622.94   USD    390   Claims
+123   SPINRAZA INJ 12MG/5ML                      64406005801 $   647,624.74   USD      6   Claims
+124   OGSIVEO 150MG TAB 14                       82448015014 $   646,562.96   USD     34   Claims
+125   SUPPRELIN LA 50 MG KIT DS                  67979000201 $   645,411.87   USD     42   Claims
+126   TREMFYA 100 MG INJ 1 ML                    57894064011 $   640,872.04   USD    152   Claims
+127   SCEMBLIX 40 MG TAB 60                      00078109820 $   639,851.18   USD     44   Claims
+128   TRODELVY 180MG SDV                         55135013201 $   634,730.92   USD    145   Claims
+129   VORANIGO 10 MG TAB 30                      72694087910 $   632,925.04   USD     21   Claims
+130   GAZYVA 1000MG VL 40ML                      50242007001 $   627,742.81   USD     91   Claims
+131   TRIKAFTA 75MG TAB 4X21                     51167010602 $   625,428.50   USD     45   Claims
+132   ILUMYA 100MG/ML PFS 1ML                    47335017795 $   620,736.39   USD     58   Claims
+133   NEULASTA 6 MG PFS 0.6 ML 340B              55513019001 $   618,794.27   USD    931   Claims
+134   RYTELO 188 MG SDV                          82959011101 $   614,217.57   USD     31   Claims
+135   COSENTYX SYG 150MG/ML 2 SENSOREADY PEN     00078063941 $   607,841.57   USD    416   Claims
+136   NULOJIX 250 MG VL                          00003037113 $   603,531.00   USD    609   Claims
+137   ABRAXANE 100 MG SDV                        68817013450 $   592,682.20   USD    597   Claims
+138   TEPEZZA 500 MG SDV                         75987013015 $   583,450.64   USD     26   Claims
+139   JEVTANA W/DIL 60 MG SDV 1.5 ML             00024582411 $   581,105.40   USD    116   Claims
+140   JEMPERLI 500 MG SDV 10ML                   00173089803 $   579,790.44   USD     28   Claims
+141   ALTUVIIIO 4000 IU LFP VL                   71104098401 $   567,323.70   USD     12   Claims
+142   GATTEX ANCILLARY 5MG KIT 30                68875010201 $   561,227.62   USD     25   Claims
+143   SARCLISA 500 MG SDV 25 ML                  00024065601 $   555,977.77   USD    111   Claims
+144   IMJUDO 300 MG SDV 15 ML                    00310453530 $   546,518.52   USD     14   Claims
+145   IBRANCE 75 MG TAB 21                       00069028403 $   546,194.58   USD     46   Claims
+146   VENCLEXTA 100 MG TAB 28                    00074057630 $   545,313.00   USD     85   Claims
+147   BESPONSA 0.9 MG SDV                        00008010001 $   544,435.78   USD     19   Claims
+148   WELIREG 40 MG TAB 90                       00006533101 $   541,540.74   USD     28   Claims
+149   ZYNLONTA 10 MG VL DS                       79952011001 $   516,744.67   USD     42   Claims
+150   RINVOQ 30 MG ER TAB 30                     00074231030 $   514,925.64   USD    161   Claims
+151   BIMZELX 160 MG INJ 2X1 ML                  50474078185 $   514,892.89   USD     68   Claims
+152   REBLOZYL 25 MG SDV                         59572071101 $   510,252.98   USD    161   Claims
+153   MONJUVI 200MG SDV                          50881001303 $   510,169.65   USD    120   Claims
+154   DUPIXENT 200 MG PFS 2X1.14 ML              00024591801 $   508,169.78   USD    200   Claims
+155   ACTEMRA 400 MG SDV 20 ML                   50242013701 $   506,448.75   USD    276   Claims
+156   POMALYST DS 4 MG CAP 21                    59572050421 $   498,136.96   USD      1   Claims
+157   EPKINLY 48 MG SDV 0.8 ML                   82705001001 $   493,545.78   USD     36   Claims
+158   PRIVIGEN 10 GM SDV 100 ML                  44206043710 $   476,636.39   USD    563   Claims
+159   VECTIBIX 100MG SDV 5ML                     55513095401 $   470,044.62   USD    150   Claims
+160   RITUXAN 500 MG SDV 50 ML                   50242005306 $   459,079.69   USD     80   Claims
+161   RINVOQ 45 MG ER TAB 28                     00074104328 $   458,813.90   USD     91   Claims
+162   JAYPIRCA 100 MG TAB 60                     00002702660 $   453,007.86   USD     38   Claims
+163   CYRAMZA 100 MG SDV 10 ML                   00002766901 $   447,953.73   USD     65   Claims
+164   REPATHA 140MG/ML AUTO INJ 2PK              72511076002 $   442,470.03   USD      0   Claims
+165   ZEPZELCA 4 MG SDV                          68727071201 $   441,838.89   USD     50   Claims
+166   QINLOCK 50 MG TAB 90                       73207010130 $   439,745.13   USD      7   Claims
+167   LUMAKRAS 320 MG TAB 90                     55513050450 $   438,465.47   USD     39   Claims
+168   BENLYSTA 400MG SDV                         49401010201 $   436,387.73   USD    116   Claims
+169   STELARA 45 MG PFS 0.5 ML                   57894006003 $   430,958.21   USD    102   Claims
+170   ELIGARD PSS 22.5 MG 3 MONTH RPLCMENT KIT   62935022710 $   426,311.86   USD   1279   Claims
+171   SAPHNELO 300MG SDV 2ML                     00310304000 $   421,710.59   USD     82   Claims
+172   ABILIFY MAINTENA 400 MG KIT             59148024512 $   417,827.54   USD    267   Claims
+173   FASENRA 30MG PFS                        00310173030 $   414,085.24   USD     98   Claims
+174   NORDITROPIN FLEX PRO 10 MG PFP 1.5 ML   00169770521 $   409,237.93   USD    754   Claims
+175   VYVGART 400MG SDV 20ML DS               73475304105 $   394,761.90   USD     45   Claims
+176   FULPHILA 6 MG PFS 0.6 ML                83257000541 $   393,619.18   USD    637   Claims
+177   ADVATE BAXJECT III 5ML 2401- 3600 IU    00944304610 $   387,578.40   USD     31   Claims
+178   TREMFYA 200 MG SDV 20 ML                57894065002 $   385,849.12   USD     25   Claims
+179   QALSODY SOL 100/15ML                    64406010901 $   385,600.09   USD    214   Claims
+180   KESIMPTA 20 MG PFP 0.4 ML               00078100768 $   384,002.56   USD     65   Claims
+181   PROLASTIN-C INJ 1000MG                  13533070501 $   379,334.73   USD   1027   Claims
+182   RYLAZE 10 MG SDV 3X0.5 ML               68727090003 $   371,404.08   USD     36   Claims
+183   ZOLADEX 3.6MG PFS DS                    70720095036 $   368,714.21   USD    371   Claims
+184   NUCALA PFS 100MG/ML                     00173089242 $   367,366.49   USD     87   Claims
+185   LENVIMA 14MG CAP 60                     62856071430 $   366,604.18   USD     34   Claims
+186   IMBRUVICA 140MG CAP 90                  57962014009 $   362,555.08   USD     37   Claims
+187   TABRECTA 200 MG TAB 56                  00078071656 $   356,001.56   USD     22   Claims
+188   ADALIMUMAB-ADAZ 40 MG PFP 2X0.4 ML      61314032720 $   348,590.79   USD    518   Claims
+189   YONDELIS 1MG PWD SDV                    59676061001 $   343,573.34   USD     71   Claims
+190   EMPLICITI 300MG SDV LYO                 00003229111 $   341,900.37   USD     65   Claims
+191   TRUXIMA 500 MG SDV 50 ML                63459010450 $   334,600.21   USD    135   Claims
+192   OGSIVEO 100MG TAB 14                    82448010014 $   333,104.44   USD     18   Claims
+193   ERLEADA 60MG TAB 120                    59676060012 $   332,979.87   USD     33   Claims
+194   TALZENNA 0.5 MG SGC 30                  00069054630 $   332,051.43   USD     24   Claims
+195   SUBLOCADE 300 MG SDV 1.5 ML             12496030001 $   329,831.92   USD    199   Claims
+196   PHESGO 600MG-600MG SDV 10ML             50242026001 $   325,000.00   USD     51   Claims
+197   LUNSUMIO 30 MG SDV 30 ML                50242014201 $   324,523.30   USD     16   Claims
+198   IDHIFA 100 MG TAB 30                    59572071030 $   323,544.77   USD     15   Claims
+199   PARSABIV 5MG SDV 10X1ML                 55513074110 $   323,210.42   USD   2145   Claims
+200   ENTYVIO 108 MG PFP 0.68 ML              64764010821 $   319,055.26   USD     87   Claims
+201   INGREZZA S72 40MG CAP 30                70370204001 $   318,876.70   USD     55   Claims
+202   REPATHA 140 MG AUTO INJ 2X1 ML L/F      72511039302 $   318,412.86   USD    925   Claims
+203   INVEGA HAFYERA 1560 MG ER PFS 5 ML      50458061201 $   316,164.39   USD     25   Claims
+204   SCEMBLIX 20 MG TAB 60                   00078109120 $   315,129.03   USD     22   Claims
+205   LYNPARZA 100MG TAB 120                  00310066812 $   315,078.02   USD     24   Claims
+206   CRYSVITA INJ 20MG/ML                    42747020301 $   313,127.65   USD     32   Claims
+207   LONSURF 20MG TAB 20                     64842102001 $   310,459.94   USD     30   Claims
+208   COSENTYX SYG 150MG/ML SENSOREADY PEN    00078063968 $   306,389.07   USD    438   Claims
+209   XGEVA SDV 120MG/1.7ML      1            55513073001 $   304,748.52   USD    158   Claims
+210   GAMUNEX-C 10% 10GM VL 100ML            13533080071 $   302,050.80   USD   191   Claims
+211   SIMLANDI 40 MG-0.4 ML AUTO INJ KIT 2   51759040202 $   293,096.67   USD   447   Claims
+212   GAMMAGARD 10% 5GM VL 50ML DS           00944270004 $   291,195.24   USD   711   Claims
+213   TRUQAP 160 MG TAB 64 (4X16) BP         00310950002 $   288,302.64   USD    14   Claims
+214   FASENRA AUTOINJ 30MG/ML                00310183030 $   287,312.64   USD    72   Claims
+215   EPIDIOLEX 100 MG/ML SOL KIT 60 ML      70127010060 $   287,073.29   USD   136   Claims
+216   BRAFTOVI 75MG 2X60 CAP 120 BTL         70255002503 $   285,867.05   USD    45   Claims
+217   TALTZ 80 MG/ML AUTO INJ 2X1 ML         00002144527 $   279,623.07   USD    45   Claims
+218   SKYRIZI 150 MG PFS 1 ML                00074105001 $   279,598.18   USD    28   Claims
+219   VIVITROL 380 MG SUS                    65757030001 $   276,498.80   USD   392   Claims
+220   BENLYSTA 120MG SDV                     49401010101 $   272,750.17   USD   216   Claims
+221   TRIKAFTA 80/40/60 ORAL                 51167044501 $   272,625.48   USD    14   Claims
+222   ISTODAX 10 MG SDV KIT                  59572098401 $   270,077.93   USD   117   Claims
+223   JAKAFI 5MG TAB 60                      50881000560 $   263,048.11   USD    41   Claims
+224   ZEPBOUND 15 MG PFP 4X0.5 ML            00002245780 $   262,702.75   USD   257   Claims
+225   HYPERRAB 300IU VL 1ML                  13533031801 $   257,767.94   USD   117   Claims
+226   COSENTYX 125 MG SDV 5 ML               00078116861 $   255,343.94   USD    69   Claims
+227   OJJAARA 200 MG TAB 30                  81864010130 $   251,636.06   USD    12   Claims
+228   INVEGA TRINZA 546 MG SYG 1.75 ML       50458060801 $   249,621.53   USD    68   Claims
+229   GAVRETO 100 MG CAP 60                  71332000660 $   247,485.01   USD    24   Claims
+230   LENVIMA 8 MG CAP 60                    62856070830 $   243,998.77   USD    26   Claims
+231   RUXIENCE 100 MG SDV 10 ML              00069023801 $   241,966.10   USD   882   Claims
+232   FABRAZYME VIAL 5MG       D/S           58468004101 $   240,447.90   USD   262   Claims
+233   KALYDECO 150MG TAB 56                  51167020001 $   240,067.20   USD    11   Claims
+234   XOSPATA 40MG TAB 90                    00469142590 $   239,577.56   USD    10   Claims
+235   ALYFTREK 10/50/125 TAB 56              51167012101 $   238,523.91   USD    10   Claims
+236   BIZENGRI 375 MG SDV 2X18.75 ML DS      71837100002 $   237,428.75   USD     4   Claims
+237   LAZCLUZE 240 MG TAB 30                 57894024030 $   236,630.80   USD    17   Claims
+238   ADVATE BAXJECT III 5ML 1801-2400 IU    00944304510 $   235,923.31   USD    13   Claims
+239   ELOCTATE KIT 1679 IU VL                71104080501 $   232,822.38   USD     0   Claims
+240   ARISTADA 882MG SYG 3.2ML               65757040303 $   232,397.01   USD   104   Claims
+241   OLUMIANT 2 MG TAB 30                   00002418230 $   231,990.31   USD    74   Claims
+242   NUCALA PFS AUTO 100MG INJ ML           00173089201 $   231,956.56   USD    41   Claims
+243   KCENTRA 511IU SDV                      63833038602 $   231,849.91   USD   246   Claims
+244   ACTEMRA 200 MG SDV 10 ML               50242013601 $   229,400.83   USD   217   Claims
+245   WEGOVY 2.4 MG PFP 4X0.75 ML            00169452414 $   229,175.33   USD   380   Claims
+246   BIKTARVY 50MG/200MG/25MG TAB 30        61958250101 $   228,677.82   USD    77   Claims
+247   SUBLOCADE 100 MG SDV 0.5 ML            12496010001 $   227,109.54   USD   150   Claims
+248   HUMIRA CF 40 MG-0.4 ML PFS KIT 2         00074024302 $   225,946.94   USD   117   Claims
+249   OFEV 100MG GEL CAP 60                    00597014360 $   222,732.65   USD    25   Claims
+250   PULMOZYME AMP 30X2.5 ML                  50242010040 $   222,670.96   USD   428   Claims
+251   ONUREG 300 MG TAB 7                      59572074007 $   221,268.53   USD    17   Claims
+252   SKYRIZI 180 MG KIT                       00074106501 $   218,476.10   USD    13   Claims
+253   GAMUNEX-C 20GM/200ML                     13533080024 $   216,884.98   USD    79   Claims
+254   FOLOTYN 40 MG VL 2 ML                    72893000501 $   214,922.25   USD     6   Claims
+255   LORBRENA 25MG TAB 30                     00069022701 $   214,487.36   USD    25   Claims
+256   LORBRENA 100MG TAB 30                    00069023101 $   213,731.50   USD    13   Claims
+257   JIVI FACTOR FVIII 3383 IU VL             00026394825 $   212,773.34   USD     1   Claims
+258   MAVYRET 100/40 MG TAB 84                 00074262528 $   211,664.50   USD    23   Claims
+259   REMICADE 100 MG SDV                      57894003001 $   211,340.60   USD   237   Claims
+260   BAVENCIO 200 MG VL 10 ML                 44087353501 $   210,487.74   USD    21   Claims
+261   CIMZIA 2X200 MG/ML SDV KIT               50474070062 $   206,739.49   USD   117   Claims
+262   BRIXADI 128 MG ER PFS KIT 0.36 ML        58284022801 $   204,277.67   USD   177   Claims
+263   INQOVI 35MG/100MG TAB 5                  64842072709 $   203,864.66   USD    30   Claims
+264   ACTEMRA 80 MG SDV 4 ML                   50242013501 $   199,847.58   USD   527   Claims
+265   LENVIMA 10MG CAP 30                      62856071030 $   199,628.82   USD    18   Claims
+266   POMALYST DS 3 MG CAP 21                  59572050321 $   195,257.48   USD    17   Claims
+267   ARANESP 200 MCG PFS 0.4 ML               55513002801 $   193,120.00   USD   426   Claims
+268   TASIGNA 150 MG CAP 112 (4X28)            00078059287 $   192,884.78   USD    59   Claims
+269   JIVI FACTOR FVIII 1999 IU VL             00026394625 $   192,092.20   USD     7   Claims
+270   UDENYCA 6 MG PFS 0.6 ML                  70114010101 $   191,458.63   USD   292   Claims
+271   CABLIVI 11MG LYP PWD SDV KIT             58468022501 $   188,395.50   USD     1   Claims
+272   TREMFYA 200 MG PFP 2 ML                  57894065102 $   188,164.30   USD    43   Claims
+273   TEZSPIRE 210 MG PFS 1.91 ML              55513011201 $   188,042.43   USD    55   Claims
+274   OZEMPIC 0.25/0.5 MG PFP 3 ML             00169418113 $   186,028.34   USD   521   Claims
+275   ABILIFY MAINT 400 MG KIT                 59148001971 $   184,165.74   USD   147   Claims
+276   INGREZZA 80MG CAP 30                     70370108001 $   183,721.00   USD    33   Claims
+277   MOUNJARO 7.5 MG PFP 4X0.5 ML             00002148480 $   183,185.50   USD   242   Claims
+278   DOPTELET 20MG TAB 10                     71369002010 $   182,442.57   USD    38   Claims
+279   TNKASE 50 MG SDV                         50242012047 $   181,672.74   USD   207   Claims
+280   POMALYST DS 2 MG CAP 21                  59572050221 $   177,736.29   USD    10   Claims
+281   MOUNJARO 5 MG PFP 4X0.5 ML               00002149580 $   176,918.44   USD   265   Claims
+282   PROCRIT 40 MU SDV 4X1 ML                 59676034001 $   175,216.41   USD   512   Claims
+283   XPOVIO 60 MG ONCE WKLY TAB (60MGX4) BP   72237010401 $   174,760.63   USD     8   Claims
+284   TRULICITY 3 MG PFP 4X0.5ML               00002223680 $   174,570.83   USD   204   Claims
+285   TEZSPIRE 210 MG PFP 1.91 ML              55513012301 $   174,013.36   USD    61   Claims
+286   TEPMETKO 225 MG TAB 60 (6X10) DS   44087500006 $   170,527.29   USD     13   Claims
+287   SIMPONI ARIA 50 MG SDV 4 ML        57894035001 $   169,842.59   USD    180   Claims
+288   MVASI 100 MG SDV 4 ML              55513020601 $   169,469.59   USD    741   Claims
+289   TRIKAFTA 100/50/75 ORAL            51167044601 $   168,661.68   USD      7   Claims
+290   TYENNE 400 MG SDV 20 ML            65219059420 $   168,535.44   USD    123   Claims
+291   PROMACTA 25 MG TAB 30              00078068515 $   166,617.34   USD    132   Claims
+292   VYLOY 100 MG SDV                   00469342510 $   163,453.43   USD     12   Claims
+293   INVEGA SUSTEN 156 MG PFS 1 ML      50458056301 $   162,867.93   USD    183   Claims
+294   XOLAIR 150MG/ML PFS 1ML            50242021501 $   162,698.92   USD    119   Claims
+295   IBRANCE 125MG CAP 21               00069018921 $   160,787.33   USD     17   Claims
+296   POMALYST DS 1 MG CAP 21            59572050121 $   159,677.74   USD     18   Claims
+297   ITOVEBI 9 MG TAB 28                50242007908 $   157,110.01   USD     10   Claims
+298   XOLAIR 300 MG PFS 2 ML             50242022701 $   155,221.87   USD     50   Claims
+299   PRALUENT 75 MG/ML PFP 2            61755002002 $   153,224.00   USD    374   Claims
+300   ALTUVIIIO 2000 IU LFP VL           71104098201 $   152,739.96   USD      6   Claims
+301   AUSTEDO 12 MG TAB 60               68546017260 $   152,708.19   USD     34   Claims
+302   PARSABIV 2.5 MG SDV 10X0.5 ML      55513074010 $   152,266.09   USD   1140   Claims
+303   MOUNJARO 15 MG PFP 4X0.5 ML        00002145780 $   152,049.52   USD    227   Claims
+304   TZIELD INJ 2MG/2ML                 73650031614 $   151,638.56   USD      1   Claims
+305   ZYNYZ 500 MG SDV 20 ML             50881000603 $   151,115.99   USD     19   Claims
+306   KALYDECO PED GRAN 50MG 56          51167030001 $   150,965.50   USD      7   Claims
+307   ELOCTATE KIT 2000 IU VL            71104080601 $   150,655.00   USD      6   Claims
+308   KISQALI 200 MG TAB 21 REF          00078086001 $   150,279.32   USD     43   Claims
+309   XTANDI 40 MG CAP 120               00469012599 $   149,866.21   USD     34   Claims
+310   XOLAIR 150 MG PFS 1 ML             50242021503 $   149,750.00   USD     99   Claims
+311   OZEMPIC 2MG/0.75ML PFP 3 ML        00169477212 $   148,986.70   USD    434   Claims
+312   TNKASE 50 MG SDV                   50242017601 $   147,584.93   USD     79   Claims
+313   INLYTA 5MG TAB 60                  00069015111 $   146,759.46   USD     19   Claims
+314   VOTRIENT 200 MG TAB 120            00078107766 $   146,121.03   USD     18   Claims
+315   JIVI FACTOR FVIII 4110 IU VL       00026395050 $   145,645.32   USD      4   Claims
+316   SANDOSTATIN LAR DEPOT 20 MG KIT    00078081881 $   145,199.88   USD     89   Claims
+317   LENVIMA 4MG CAP 30                 62856070430 $   144,985.51   USD     12   Claims
+318   XOLAIR 150MG PSVFREE LYPOH SDV     50242004062 $   143,293.50   USD     52   Claims
+319   IBRANCE 75MG CAP 21                00069018721 $   141,725.26   USD     21   Claims
+320   ARANESP 40 MCG SYG 4X0.4 ML        55513002104 $   140,786.67   USD   1176   Claims
+321   ARANESP 100 MCG PFS 4X0.5 ML       55513002504 $   140,518.83   USD    536   Claims
+322   OZEMPIC 1MG/0.75ML PFP 3 ML        00169413013 $   136,825.78   USD    399   Claims
+323   IMBRUVICA 280 MG TAB 28            57962028028 $   136,716.24   USD     11   Claims
+324   OLUMIANT 4 MG TAB 30                      00002447930 $   135,871.39   USD     33   Claims
+325   ADAKVEO 100MG SDV 10ML                    00078088361 $   135,267.34   USD     36   Claims
+326   PRIVIGEN 5 GM SDV 50ML                    44206043605 $   134,952.18   USD    465   Claims
+327   JAKAFI 15MG TAB 60                        50881001560 $   134,466.91   USD     22   Claims
+328   MOUNJARO 2.5 MG PFP 4X0.5 ML              00002150680 $   134,244.17   USD    206   Claims
+329   MOUNJARO 10 MG PFP 4X0.5 ML               00002147180 $   133,243.03   USD    169   Claims
+330   GAMMAGARD 10% 10GM VL 100ML DS            00944270005 $   133,015.43   USD    176   Claims
+331   SPEVIGO 150 MG PFS 2X1 ML                 00597062020 $   132,987.70   USD      8   Claims
+332   AFINITOR 5MG TAB 4X7                      00078056651 $   131,368.50   USD     25   Claims
+333   JAKAFI 10MG TAB 60                        50881001060 $   128,691.97   USD     31   Claims
+334   VPRIV 400 UNIT SDV                        54092070104 $   128,637.43   USD      9   Claims
+335   IBRANCE 100MG CAP 21                      00069018821 $   127,703.16   USD     13   Claims
+336   DYSPORT 500 UNIT SDV                      15054050001 $   126,105.00   USD    116   Claims
+337   ZEPBOUND 10 MG PFP 4X0.5 ML               00002247180 $   125,800.78   USD    162   Claims
+338   SARCLISA 100MG SDV 5ML                    00024065401 $   122,332.49   USD     98   Claims
+339   VENOFER 100 MG SDV 10X5 ML                00517234010 $   122,092.35   USD   1660   Claims
+340   ACTEMRA SUBQ 162 MG PFS 0.9 ML            50242013801 $   120,926.37   USD     93   Claims
+341   GABLOFEN 2000MCG/ML PFS 20ML DS           66794015701 $   120,840.00   USD    120   Claims
+342   FIRMAGON 80 MG KIT                        55566830301 $   120,102.73   USD    415   Claims
+343   BRAFTOVI 75MG 2X90 CAP 180 BTL            70255002501 $   118,079.30   USD     17   Claims
+344   WEGOVY 1.7 MG PFP 4X0.75 ML               00169451714 $   117,674.61   USD    200   Claims
+345   ZEPBOUND 5 MG PFP 4X0.5 ML                00002249580 $   116,820.55   USD    166   Claims
+346   IMBRUVICA 70 MG-ML SOL 108 ML             57962000712 $   116,493.56   USD      8   Claims
+347   OTULFI 90 MG PFS 1 ML                     65219082626 $   114,967.76   USD     57   Claims
+348   HERCEPTIN 150 MG SDV                      50242013201 $   113,769.56   USD     37   Claims
+349   RADICAVA ORS 105MG/5ML SUS KIT 50 ML      70510232201 $   113,432.64   USD     12   Claims
+350   TYMLOS 80MCG PF MULTI-DOSE PEN            70539000102 $   112,528.68   USD     83   Claims
+351   VALTOCO 10 MG NASAL SPY 5 (5X10MG) BP     72252051005 $   112,059.92   USD    127   Claims
+352   DATROWAY 100 MG SDV                       65597080101 $   112,006.20   USD      1   Claims
+353   ZEPBOUND 7.5 MG PFP 4X0.5 ML              00002248480 $   110,771.54   USD    154   Claims
+354   IMBRUVICA 140MG TAB 28                    57962001428 $   109,540.80   USD     12   Claims
+355   ARANESP 500 MCG PFS 1 ML                  55513003201 $   109,289.17   USD     92   Claims
+356   TYENNE 80 MG SDV 4 ML                     65219059004 $   108,897.87   USD    307   Claims
+357   ABILIFY MAINTENA 300 MG KIT               59148023212 $   108,561.54   USD     83   Claims
+358   HUMIRA 80 MG-0.8 ML PFP KIT 2             00074012402 $   106,105.10   USD     22   Claims
+359   NEULASTA ONPRO KIT 6 MG PFS 0.6 ML 340B   55513019201 $   105,895.78   USD    532   Claims
+360   XROMI 100 MG-ML ORAL SOL 148 ML           62484001505 $   105,520.68   USD    160   Claims
+361   AUSTEDO 9 MG TAB 60                       68546017160 $   105,256.36   USD     17   Claims
+362   ORENCIA CLICKJECT 125MG/ML INJ 4    00003218851 $   105,041.64   USD    418   Claims
+363   BESREMI 500 MCG PFS 1 ML            73536050001 $   103,614.34   USD     10   Claims
+364   ELOCTATE KIT 744IU VL               71104080301 $   102,528.09   USD      0   Claims
+365   VUMERITY 231 MG BOTTLE 120 CAP      64406002003 $   102,238.37   USD     26   Claims
+366   WINREVAIR 60MG PWD KIT              00006509101 $   101,147.24   USD      9   Claims
+367   PROMACTA 75 MG TAB 30               00078068715 $   100,882.64   USD     30   Claims
+368   PROMACTA 25 MG PAK 30               00078069761 $    97,643.06   USD     21   Claims
+369   AFSTYLA 2768IU SDV                  69911048102 $    95,911.20   USD      3   Claims
+370   PROMACTA 50 MG TAB 30               00078068615 $    95,455.56   USD     22   Claims
+371   RISPERIDONE 50 MG ER INJ SUS KIT    00480145308 $    95,203.29   USD    121   Claims
+372   SPRYCEL 100 MG TAB 30               00003085222 $    94,497.86   USD    114   Claims
+373   TYENNE 162 MG AUTO INJ 0.9 ML       65219058401 $    93,219.87   USD     73   Claims
+374   VENCLEXTA 1 X 100 MG TAB            00074057611 $    92,698.62   USD     45   Claims
+375   Adzynma 1664U 1 EA                  64764014505 $    92,684.80   USD     14   Claims
+376   MEKTOVI 15MG TAB 180                70255001002 $    92,380.45   USD      7   Claims
+377   TAVALISSE 100 MG TAB 60             71332000101 $    92,133.10   USD     15   Claims
+378   LYNPARZA 100MG TAB 60               00310066860 $    91,790.84   USD     16   Claims
+379   TUKYSA 150 MG TAB 60                51144000260 $    90,969.17   USD      6   Claims
+380   HALAVEN 1 MG SDV 2 ML               62856038901 $    90,303.86   USD     78   Claims
+381   TABRECTA 150 MG TAB 56              00078070956 $    90,001.30   USD      7   Claims
+382   GLUCAGON 1 MG VL 10X3ML             63323059613 $    89,251.68   USD    354   Claims
+383   ZENPEP 20000 UN DR CAP 100          73562011201 $    89,060.62   USD     33   Claims
+384   ENTRESTO FCT 24/ 26MG TAB 60        00078065920 $    88,381.79   USD    603   Claims
+385   XOLAIR 300 MG AUTO INJ 2 ML         50242022755 $    88,079.72   USD     38   Claims
+386   INVEGA HAFYERA 1092 MG PFS 3.5 ML   50458061101 $    87,817.69   USD     12   Claims
+387   MOUNJARO 12.5 MG PFP 4X0.5 ML       00002146080 $    87,629.90   USD    121   Claims
+388   INVEGA TRINZA 410MG SYG 1.32ML      50458060701 $    86,607.64   USD     34   Claims
+389   TAFINLAR 50 MG CAP 120              00078068266 $    86,038.73   USD     19   Claims
+390   BAQSIMI 3 MG PWD 2                  00548835202 $    85,196.97   USD    239   Claims
+391   ARANESP 60 MCG PFS 4X0.3 ML         55513002304 $    85,009.18   USD    668   Claims
+392   GLEEVEC 400 MG TAB 30 (3X10) BP     00078064913 $    84,672.95   USD     22   Claims
+393   RECOTHROM 5000IU KIT                00338032201 $    84,269.15   USD   1194   Claims
+394   HUMIRA CF 20 MG-0.2 ML PFS KIT 2    00074061602 $    83,808.22   USD     53   Claims
+395   TYENNE 200 MG SDV 10 ML             65219059210 $    83,733.79   USD     99   Claims
+396   BENEFIX-RT PDS 3100IU VL            58394063703 $    82,864.74   USD      3   Claims
+397   TRULICITY PEN INJ 1.5MG 4X0.5 ML    00002143480 $    82,132.53   USD    226   Claims
+398   TALZENNA 0.5 MG CAP 30              00069150130 $    81,422.52   USD      5   Claims
+399   ARANESP 300 MCG PFS 0.6 ML          55513011101 $    80,350.74   USD    118   Claims
+400   FIRMAGON 240 MG KIT                      55566840301 $   80,102.17   USD    99   Claims
+401   ERIVEDGE 150MG CAP 28                    50242014001 $   80,088.20   USD    17   Claims
+402   NORDITROPIN FLEX PRO 15 MG PFP 1.5 ML    00169770821 $   79,614.12   USD   565   Claims
+403   AVSOLA 100 MG SDV                        55513067001 $   79,471.11   USD   110   Claims
+404   PERTZYE 24 MU DR CAP 200                 59767002402 $   79,152.40   USD    14   Claims
+405   ERLEADA 240 MG TAB 30                    59676060430 $   79,137.16   USD    11   Claims
+406   BASAGLAR 100 UN/ML PFP 5X3 ML            00002771559 $   78,808.24   USD   348   Claims
+407   LENVIMA 12MG CAP 90                      62856071230 $   77,309.34   USD     7   Claims
+408   TRULICITY 4.5 MG PFP 4X0.5 ML            00002318280 $   76,761.40   USD    91   Claims
+409   CRESEMBA 186 MG CAP 14                   00469052002 $   76,425.35   USD    31   Claims
+410   BOTOX DS 200 UNITS VL                    00023392102 $   76,111.63   USD    43   Claims
+411   GENVOYA 150/150/200/10MG TAB 30          61958190101 $   76,033.28   USD    46   Claims
+412   RETACRIT 40000 UN/ML VL 4X1ML            00069130904 $   75,556.37   USD   415   Claims
+413   SKYTROFA 9.1MG HGH 1X4BX                 73362000901 $   75,539.72   USD    30   Claims
+414   BRIXADI 96 MG ER PFS KIT 0.27 ML         58284029601 $   75,496.83   USD    61   Claims
+415   HUMATE-P 2400 RCOF 1000 IU FVIII         63833061702 $   75,243.51   USD    19   Claims
+416   JASCAYD 18 MG TAB 60                     00597731321 $   74,650.50   USD     6   Claims
+417   CAYSTON 75MG 28DAY KIT GIL               61958090101 $   74,248.76   USD    21   Claims
+418   ABILIFY ASIMTUFII 960 MG ER PFS 3.2 ML   59148011480 $   74,157.53   USD    17   Claims
+419   CYCLOPHOSPHAMIDE 1 GM SDV                10019095601 $   73,795.60   USD   731   Claims
+420   ONIVYDE 43MG SDV 10ML                    15054004301 $   73,757.10   USD    22   Claims
+421   LEQVIO 284 MG PFS 1.5 ML                 00078100060 $   73,701.79   USD    23   Claims
+422   LITFULO 50 MG CAP 28                     00069033428 $   73,197.31   USD    29   Claims
+423   AFSTYLA 3347 IU SDV                      69911047802 $   72,161.32   USD     2   Claims
+424   GAMMAGARD SD INJ 10GM HU                 00944265804 $   70,895.35   USD   234   Claims
+425   ZEPBOUND 2.5 MG PFP 4X0.5 ML             00002250680 $   70,564.32   USD   101   Claims
+426   DAPAGLIFLOZIN 10 MG TAB 30               66993045730 $   69,769.79   USD   246   Claims
+427   VOSEVI 400/100/100 MG TAB 28             61958240101 $   69,446.46   USD     4   Claims
+428   IDHIFA 50 MG TAB 30                      59572070530 $   68,749.73   USD     5   Claims
+429   IBTROZI 200 MG CAP 90 (3X30)             84651020093 $   67,858.74   USD     3   Claims
+430   TIVICAY 50 MG TAB 30                     49702022813 $   67,468.53   USD   190   Claims
+431   ZEJULA 200 MG TAB 30                     00173091213 $   67,313.38   USD     5   Claims
+432   GENOTROPIN 12 MG CRT                     00013264681 $   67,269.56   USD    88   Claims
+433   REVLIMID DS 10 MG CAP 28                 59572041028 $   67,266.48   USD    17   Claims
+434   WINREVAIR 120MG PWD KIT 2                00006508801 $   67,238.58   USD     3   Claims
+435   ENVARSUS 4MG TAB 100                     68992304001 $   66,056.53   USD   434   Claims
+436   BOSULIF 100MG TAB 120                    00069013501 $   64,711.15   USD    19   Claims
+437   AVASTIN 400 MG SDV 16 ML                 50242006101 $   64,614.75   USD    23   Claims
+438   INVEGA SUSTEN 117 MG SYG 0.75 ML        50458056201 $   64,081.75   USD    107   Claims
+439   TOBI PODHALER 28 MG CAP 4X56            49502040124 $   63,444.78   USD     15   Claims
+440   KONVOMEP 2-84 MG-ML KIT 300 ML          65628027210 $   63,244.16   USD    205   Claims
+441   Adzynma 0500U 1 EA                      64764014005 $   62,647.80   USD     14   Claims
+442   TRULICITY PEN INJ 0.75MG 4X0.5 ML       00002143380 $   61,780.72   USD    161   Claims
+443   AUSTEDO XR 24 MG ER TAB 30              68546047256 $   61,611.86   USD     14   Claims
+444   LUPRON DEPOT 3 MO 11.25 MG KIT          00074366303 $   61,228.64   USD     61   Claims
+445   ZEPBOUND 12.5 MG PFP 4X0.5 ML           00002246080 $   61,092.31   USD     81   Claims
+446   TAVNEOS 10 MG CAP 180                   73556016801 $   60,668.31   USD      3   Claims
+447   WEGOVY 1 MG PFP 4X0.5 ML                00169450114 $   60,392.75   USD    108   Claims
+448   VANFLYTA 17.7 MG TAB 14                 65597050404 $   59,738.62   USD      6   Claims
+449   KUVAN TAB 100MG 120 DS                  68135030002 $   59,072.75   USD     11   Claims
+450   VYEPTI 100MG/ML SDV                     67386013051 $   58,764.16   USD     16   Claims
+451   BELRAPZO 100 MG MDV 4 ML                42367052125 $   58,610.51   USD     46   Claims
+452   FRUZAQLA 5 MG CAP 21                    63020022521 $   58,571.22   USD      3   Claims
+453   JAKAFI 25MG TAB 60                      50881002560 $   58,470.40   USD      9   Claims
+454   ENTRESTO FCT 49/ 51MG TAB 60            00078077720 $   58,375.39   USD    237   Claims
+455   ZYMFENTRA 120 MG AUTO INJ KIT           72606002501 $   57,673.58   USD     31   Claims
+456   PALYNZIQ PFS 20MG/ML 10 DS              68135067345 $   56,801.94   USD      4   Claims
+457   ORKAMBI 75/94MG PACK 56                 51167012201 $   56,639.43   USD      5   Claims
+458   GEMCITABINE 1 GM SDV                    71288011450 $   56,330.79   USD   1743   Claims
+459   AKOVAZ 25 MG PFS 10X5 ML                51754425003 $   56,136.65   USD   5515   Claims
+460   ISOSULFAN BLUE 1% SDV 6X5 ML            67457022005 $   54,993.75   USD     90   Claims
+461   SANDOSTATIN LAR DEPOT 10MG VL           00078081181 $   54,533.04   USD     42   Claims
+462   BENLYSTA 200 MG PFS 4                   49401008847 $   54,376.51   USD     15   Claims
+463   ADVATE BAXJECT III 5ML 3601- 4800 IU    00944304710 $   54,129.48   USD      5   Claims
+464   ARISTADA 441MG SYG 1.6ML                65757040103 $   54,116.02   USD     43   Claims
+465   GAMUNEX-C 5GM VL 50ML                   13533080020 $   53,706.87   USD    107   Claims
+466   LUPRON DEPOT 30 MG PED KIT              00074969403 $   53,126.97   USD     25   Claims
+467   DASATINIB 100 MG TAB 30                 60505363103 $   53,078.19   USD     50   Claims
+468   YONSA 125MG TAB 120                     47335040181 $   52,737.55   USD     11   Claims
+469   ZENPEP 25000 UN DR CAP 100              73562011601 $   50,468.18   USD     11   Claims
+470   XPOVIO 40 MG ONCE WKLY TAB (10MGX16)    72237010601 $   50,363.37   USD      2   Claims
+471   SKYTROFA 11MG HGH 1X4BX                 73362001001 $   50,360.19   USD     18   Claims
+472   HEMOFIL M NF AHF 1501-2000 IU in 10mL   00944394602 $   50,000.50   USD      0   Claims
+473   PADCEV 30 MG SDV                        51144003001 $   49,477.14   USD     11   Claims
+474   ARANESP 25 MCG PFS 4X0.42 ML            55513005704 $   49,285.56   USD    724   Claims
+475   ZOLADEX 10.8 MG PFS DS                  70720095130 $   49,255.05   USD     20   Claims
+476   ARISTADA 1064MG SYG 3.9 ML                 65757040403 $   48,800.02   USD     17   Claims
+477   PANCREAZE 37000 UN DR CAP 100              62541040610 $   48,790.56   USD      4   Claims
+478   ADVATE BAXJECT III 2ML 1201- 1800 IU       00944305402 $   48,751.36   USD      3   Claims
+479   SOGROYA 15 MG PFP 1.5 ML                   00169203711 $   47,913.60   USD     34   Claims
+480   TALTZ 80 MG/ML AUTO INJ 3X1 ML             00002144509 $   47,549.17   USD      4   Claims
+481   BUDESONIDE-FORMOT 160-4.5MCG INH 10.2 GM   00310737020 $   47,312.77   USD    427   Claims
+482   WEGOVY 0.25 MG PFP 4X0.5 ML                00169452514 $   46,739.80   USD     81   Claims
+483   TRELEGY ELLIPTA 200-62.5-25 MCG PWD 60     00173089310 $   46,607.77   USD    220   Claims
+484   ELTROMBOPAG 25 MG TAB 30                   31722084230 $   46,591.03   USD     13   Claims
+485   MIRENA 52 MG SYS IUD                       50419042301 $   46,253.54   USD     94   Claims
+486   REVLIMID DS 5 MG CAP 28                    59572040528 $   46,220.75   USD      7   Claims
+487   KENGREAL 50 MG VL 10X10ML                  10122062010 $   46,174.30   USD     59   Claims
+488   LYNPARZA 150MG TAB 60                      00310067960 $   46,131.90   USD      8   Claims
+489   Iclusig 15mg (30 tablets ea)               63020053530 $   45,970.26   USD     35   Claims
+490   ENTRESTO FCT 97/ 103MG TAB 60              00078069620 $   45,845.79   USD    168   Claims
+491   ACTIVASE CATHFLO 2 MG SDV                  50242004164 $   45,609.78   USD    742   Claims
+492   ELTROMBOPAG 75 MG TAB 30                   31722084430 $   45,516.90   USD      4   Claims
+493   BIMZELX 160 MG INJ 1 ML                    50474078184 $   45,495.42   USD     13   Claims
+494   PHESGO 1200MG-600MG SDV 15ML               50242024501 $   45,000.00   USD      5   Claims
+495   TREMFYA 200 MG PFP 2X2 ML                  57894065104 $   44,823.39   USD      6   Claims
+496   SUBOXONE FL 8-2MG 30 SL       C3           12496120803 $   44,820.63   USD    142   Claims
+497   CIMZIA 2X200 MG/ML PFS KIT                 50474071079 $   44,701.11   USD    270   Claims
+498   FLUOROURACIL 2.5 GM PBP VL 50 ML           63323011751 $   44,545.93   USD   2865   Claims
+499   ALPHANATE AHF 2110IU RCOF 2360IU VL        68516462002 $   44,106.39   USD      2   Claims
+500   ZOSYN 4.5 GM BAG 12X100 ML DS              00338963812 $   43,967.31   USD   4544   Claims
+501   NILOTINIB 150 MG CAP 112 (4X28) BP         60505380102 $   43,939.70   USD     21   Claims
+502   SOTYKTU 6 MG TAB 30                        00003089511 $   43,378.70   USD     22   Claims
+503   ADBRY 150 MG PFS 4X1 ML                    50222034604 $   43,334.37   USD     20   Claims
+504   STEQEYMA 90 MG PFS 1 ML                    72606002801 $   43,294.70   USD     41   Claims
+505   SOFOSBUVIR VELPATASVR 400MG-100MG TAB 28   72626270101 $   42,805.56   USD      9   Claims
+506   NINLARO 4 MG CAP 1X3                       63020040002 $   42,737.11   USD      5   Claims
+507   LEUKINE 250 MCG SDV 5                      71837584305 $   42,287.69   USD     24   Claims
+508   AZACITIDINE 100 MG SDV                     71288011530 $   42,238.57   USD   1032   Claims
+509   XPOVIO 40 MG ONCE WKLY TAB (40MGX4)        72237010207 $   41,964.44   USD      0   Claims
+510   RYTELO 47 MG SDV                           82959011201 $   41,648.06   USD     24   Claims
+511   ELIQUIS 5 MG TAB 60                        00003089421 $   41,601.92   USD   2857   Claims
+512   PEMETREXED 500 MG LYO PWD SDV              71288016750 $   41,562.28   USD   1057   Claims
+513   OMVOH 100 MG PFP 2X1 ML                    00002801127 $   41,461.16   USD      7   Claims
+514   TESTOPEL 75 MG PEL 10 DS                   66887000410 $   41,389.70   USD     57   Claims
+515   ALTUVIIIO 500 IU LFP VL                    71104097901 $   41,197.08   USD      6   Claims
+516   XIFAXAN 550 MG TAB 60                      65649030302 $   40,966.08   USD     52   Claims
+517   PHENYLEPHRINE HCL 2.5% O/S 2 ML            70756062925 $   40,935.21   USD   2617   Claims
+518   ENVARSUS XR 1MG TAB 100                    68992301001 $   40,799.03   USD    149   Claims
+519   LUPRON 3 MO 11.25MG PE KIT                 00074377903 $   40,568.69   USD     15   Claims
+520   LEUKERAN 2 MG TAB 25                       80725061025 $   40,177.23   USD      9   Claims
+521   WEGOVY 0.5 MG PFP 4X0.5 ML                 00169450514 $   39,616.02   USD     72   Claims
+522   ALBURX 5% VL 250ML                         44206031025 $   39,594.67   USD    226   Claims
+523   TRELEGY ELLIPTA 100/62.5/25MCG INH 60 BP   00173088710 $   39,585.15   USD    167   Claims
+524   SIMPONI AUTO 100 MG/ML INJ 1 ML            57894007102 $   39,504.76   USD     32   Claims
+525   Iclusig 45mg (30 tablets ea)               63020053430 $   39,313.78   USD      6   Claims
+526   LUPRON DEPOT 3 MO 22.5 MG SYG KIT          00074334603 $   39,233.23   USD    100   Claims
+527   AUSTEDO 6 MG TAB 60                        68546017060 $   39,131.17   USD     33   Claims
+528   DASATINIB 80 MG TAB 30                     60505381603 $   39,012.70   USD     21   Claims
+529   ZOLINZA DS 100 MG CAP 120                  00006056840 $   38,881.31   USD     12   Claims
+530   TYENNE 162 MG PFS 0.9 ML                   65219058604 $   38,757.52   USD     37   Claims
+531   VALTOCO 15 MG NASAL SPY 5 (5X15MG) BP      72252051510 $   38,523.28   USD     52   Claims
+532   DOPTELET 20MG TAB 15                       71369002015 $   38,402.62   USD     11   Claims
+533   NURTEC ODT 75 MG TAB 8                     72618300002 $   38,354.90   USD     97   Claims
+534   ZYDELIG 150MG TAB 60                       61958170201 $   38,152.86   USD      5   Claims
+535   ABILIFY MAINT 300 MG KIT                   59148001871 $   37,777.47   USD     40   Claims
+536   STIVARGA 40 MG TAB 4X21                    50419017106 $   37,772.04   USD      8   Claims
+537   EPCLUSA 400/100 MG TAB 28                  61958220101 $   37,675.68   USD      8   Claims
+538   VALTOCO 20 MG NASAL SPY 5 (5X20MG) BP      72252052010 $   37,600.84   USD     32   Claims
+539   DEFERIPRONE 1000 MG TAB 50                 00054071119 $   37,527.20   USD      7   Claims
+540   ZARXIO 480 MCG PFS 10X0.8 ML               61314032610 $   37,273.09   USD    202   Claims
+541   NEUPOGEN 300 MCG SDV 10X1 ML               55513053010 $   37,090.95   USD     37   Claims
+542   ELIGARD PSS 45 MG 6 MONTH SUS KIT DS       62935046150 $   36,690.23   USD     50   Claims
+543   FENSOLVI 45 MG SYG KIT DS                  62935016360 $   36,573.67   USD      2   Claims
+544   RUBRACA 300 MG TAB 60                      82154078501 $   36,445.20   USD      5   Claims
+545   FOSAPREPITANT 150 MG SDV                   72205005401 $   36,296.77   USD   3660   Claims
+546   TREMFYA 100MG/ML PFS                       57894064001 $   35,978.27   USD      9   Claims
+547   ADBRY 300 MG PFP 2X2 ML                    50222035002 $   35,448.80   USD     16   Claims
+548   JAKAFI 20MG TAB 60                         50881002060 $   35,407.80   USD      6   Claims
+549   ADALIMUMAB-ADAZ 40 MG PFS 2X0.4 ML         61314032764 $   35,134.29   USD     56   Claims
+550   BIKTARVY TB50-200-25MG 30CPLT BPK          61958250103 $   35,021.45   USD     87   Claims
+551   CARBOPLATIN 450 MG MDV 45 ML               61703033950 $   34,907.85   USD   1571   Claims
+552   RETEVMO 80 MG TAB 60                00002608260 $   34,755.12   USD      2   Claims
+553   TALTZ 80 MG/ML INJ PFS 1 ML         00002772411 $   34,738.86   USD     12   Claims
+554   TIOPRONIN 300 MG DR TAB 90          00254303509 $   34,307.54   USD     10   Claims
+555   ELOCTATE KIT 3200 IU VL             71104080701 $   34,304.00   USD      1   Claims
+556   INDOMETHACIN 50 MG SUP 30           70710185207 $   34,147.77   USD     66   Claims
+557   ELOCTATE KIT 499IU VL               71104080201 $   33,682.50   USD      3   Claims
+558   EBGLYSS 250 MG PFP 2 ML             00002777211 $   33,410.00   USD      6   Claims
+559   INVEGA TRINZA 273MG SYG 0.88ML      50458060601 $   33,252.13   USD     18   Claims
+560   HYLENEX 150 USP VL 4X1ML            18657011704 $   33,100.18   USD    588   Claims
+561   HADLIMA 40 MG PFS 2X0.4 ML          78206018601 $   33,071.27   USD     50   Claims
+562   KOSELUGO 25 MG CAP 60               00310062560 $   33,063.87   USD      2   Claims
+563   AUSTEDO 12 MG ER TAB 30             68546047156 $   32,660.82   USD     11   Claims
+564   SKYTROFA 7.6MG HGH 1X4BX            73362000801 $   32,179.04   USD      9   Claims
+565   KEVZARA 150 MG PFP 2X1.14 ML        00024592001 $   31,955.41   USD     16   Claims
+566   NOREPINEPHRINE 8 MG BAG 10X250 ML   81298965503 $   31,751.09   USD   1320   Claims
+567   PERTZYE DR CAP 24000USP UN 80       59767002401 $   31,194.24   USD      9   Claims
+568   THYROGEN VL 2 DS                    58468003002 $   31,066.54   USD     90   Claims
+569   TRIPTODUR 22.5MG KIT                24338015020 $   30,704.70   USD      6   Claims
+570   BRIXADI 64 MG ER PFS KIT 0.18 ML    58284026401 $   30,682.75   USD     30   Claims
+571   SAPROPTERIN DIHCL 100 MG TAB 120    49884072008 $   30,591.35   USD     10   Claims
+572   VENCLEXTA STARTER PACK              00074057928 $   30,306.72   USD     12   Claims
+573   NEXPLANON IMP 68MG                  78206014501 $   30,220.63   USD     55   Claims
+574   NUZYRA 150MG TAB 30                 71715000227 $   29,898.95   USD      8   Claims
+575   LONSURF 15MG TAB 20                 64842102501 $   29,863.33   USD      7   Claims
+576   IMDELLTRA 1 MG VL                   55513005901 $   28,506.30   USD     19   Claims
+577   AFINITOR 10MG TAB 28                00078056751 $   28,089.44   USD      0   Claims
+578   MYFORTIC 360 MG DR TAB 120          00078038666 $   27,975.77   USD     73   Claims
+579   LAZCLUZE 80 MG TAB 60               57894008060 $   27,857.30   USD      5   Claims
+580   INFUMORPH 25 MG/ML AMP 20 ML        00641604001 $   27,828.39   USD     86   Claims
+581   PROGRAF 1 MG CAP 100                00469061773 $   27,802.81   USD    112   Claims
+582   VEMLIDY 25 MG TAB 30                61958230101 $   27,686.92   USD     28   Claims
+583   KINERET 100 MG PFS 7X0.67ML         66658023407 $   27,647.34   USD     60   Claims
+584   BACLOFEN 10MG-5ML ORAL SOL 237 ML   52817062008 $   27,442.33   USD     39   Claims
+585   BRILINTA 90 MG TAB 60               00186077760 $   27,174.91   USD    193   Claims
+586   CAPLYTA 42 MG CAP 30                72060014240 $   27,171.36   USD     18   Claims
+587   XCOPRI 100 MG TAB 30                71699010030 $   27,104.16   USD     38   Claims
+588   BALVERSA 3 MG TAB 56                59676003056 $   27,061.68   USD      2   Claims
+589   TECVAYLI 30 MG SDV 3 ML SD          57894044901 $   27,004.02   USD     32   Claims
+590   ORENCIA 50MG/0.4ML SYG 4                   00003281411 $   26,884.40   USD     13   Claims
+591   ZARXIO 300 MCG PFS 10X0.5 ML               61314031810 $   26,852.04   USD    205   Claims
+592   INBRIJA 42MG CAP 60                        10144034260 $   26,844.44   USD     22   Claims
+593   TETRACAINE HCL 0.5% O/S 12X4 ML            00065074114 $   26,784.98   USD   2340   Claims
+594   HIZENTRA 4GM PFS 20ML                      44206045824 $   26,413.72   USD     22   Claims
+595   DIAZEPAM 10 MG C/J 10X2 ML LL              00409127332 $   26,301.15   USD   3422   Claims
+596   LENVIMA 20MG CAP 60                        62856072030 $   26,290.00   USD      2   Claims
+597   ZONISADE 20 MG/ML SUS 150 ML               52652800101 $   26,260.28   USD     51   Claims
+598   ITOVEBI 3 MG TAB 28                        50242008408 $   26,146.92   USD      3   Claims
+599   RYBELSUS 7 MG TAB 30                       00169430730 $   25,742.86   USD     51   Claims
+600   EMGALITY 120 MG PFP                        00002143611 $   25,641.04   USD     30   Claims
+601   SKYTROFA 4.3MG HGH 1X4 BX                  73362000501 $   25,414.69   USD     23   Claims
+602   HUMATE-P PDS 1200 RCOF VL 500 IU FVIII     63833061602 $   25,264.47   USD      7   Claims
+603   ODOMZO 200MG CAP 30                        47335030383 $   25,192.86   USD      3   Claims
+604   DIFICID 200 MG TAB 20                      52015008001 $   25,162.43   USD     45   Claims
+605   CIBINQO 200 MG TAB 30                      00069043530 $   25,076.18   USD     11   Claims
+606   IDELVION 2095IU VL                         69911086702 $   24,867.60   USD      2   Claims
+607   PROCRIT 20M UN/ML MDV 4X1ML                59676032004 $   24,740.30   USD    127   Claims
+608   PAXLOVID 300/100 MG TAB 30 (3X10) BP       00069532130 $   24,684.95   USD     24   Claims
+609   GLEEVEC 100 MG TAB 90                      00078040134 $   24,346.71   USD     11   Claims
+610   AFINITOR DISPERZ 2MG TAB 28 (4X7)          00078062651 $   24,099.34   USD      8   Claims
+611   SKYTROFA 13.3MG HGH-6XNDL/4XSD CARTRIDGE   73362001101 $   24,095.27   USD      7   Claims
+612   CYLTEZO 40 MG-0.4 ML PFP KIT 2             00597049550 $   23,910.39   USD     44   Claims
+613   ALPHANATE AHF 1070IU RCOF 1120IU VL        68516461802 $   23,593.50   USD      2   Claims
+614   VALTOCO 10 MG NASAL SPY 2 BP               72252051002 $   23,514.54   USD     33   Claims
+615   CREON 12000 DR CAP 100                     00032004770 $   23,185.33   USD    173   Claims
+616   ADVATE BAXJECT III 2ML 801-1200 IU         00944305302 $   23,122.55   USD     15   Claims
+617   OMVOH 200 MG-2ML-100 MG-ML PFP 2           00002771711 $   22,984.91   USD      4   Claims
+618   DIGIFAB 40 MG VL 1                         50633012011 $   22,930.15   USD      2   Claims
+619   TREMFYA 100 MG PFP 1 ML                    57894064006 $   22,638.83   USD      7   Claims
+620   WINREVAIR 90MG PWD KIT 2                   00006508701 $   22,491.26   USD      1   Claims
+621   ZEJULA 100 MG TAB 30                       00173090913 $   22,356.83   USD      1   Claims
+622   DASATINIB 140 MG TAB 30                    60505381703 $   22,336.01   USD      9   Claims
+623   RITUXAN 100 MG SDV 10 ML                   50242005121 $   22,274.16   USD     19   Claims
+624   KEVZARA 200MG PFS 2X1.14ML                 00024591001 $   22,240.75   USD      5   Claims
+625   CEFAZOLIN-DEXT 2GM/50ML DUP BAG 24X50 ML   00264310511 $   22,159.93   USD   2614   Claims
+626   PROCRIT 10 MU SDV 6X1 ML                   59676031001 $   22,099.56   USD    173   Claims
+627   SIMULECT 20 MG SDV                         00078033184 $   22,085.21   USD     18   Claims
+628   OMVOH 300 MG SDV 15 ML                     00002757501 $   21,996.30   USD       3   Claims
+629   SIKLOS 1000 MG TAB 30                      71770012030 $   21,987.15   USD      18   Claims
+630   PHENOBARBITAL 130 MG VL 25X1 ML            42494041625 $   21,950.00   USD     252   Claims
+631   DACTINOMYCIN 500 MCG SDV                   55150043101 $   21,851.30   USD      20   Claims
+632   BUDESONIDE-FORMOT 80-4.5 MCG INH 10.2 GM   00310737220 $   21,766.44   USD     246   Claims
+633   FULVESTRANT 250 MG PFS 2X5 ML              00143902202 $   21,698.78   USD     420   Claims
+634   KALYDECO PED GRAN 25MG 56                  51167060001 $   21,566.50   USD       2   Claims
+635   CEFTRIAXONE-DEXT 1 GM BAG 24X50 ML DS      00338500241 $   21,480.32   USD    2403   Claims
+636   TEMSIROLIMUS 25 MG-ML SDV KIT              72611078502 $   21,348.75   USD      27   Claims
+637   XCOPRI 150 MG TAB 30                       71699015030 $   21,243.25   USD      23   Claims
+638   ISOPROTERENOL HCL 1 MG SDV 5X5 ML          23155066142 $   21,242.95   USD     387   Claims
+639   ALBUTEROL SULF HFA 90 MCG INH 18 GM        66993001968 $   21,114.02   USD     958   Claims
+640   XOLAIR 150 MG AUTO INJ 1 ML                50242021555 $   21,079.08   USD      19   Claims
+641   RASUVO AUTO 20 MG INJ 4X0.4 ML             59137053004 $   20,943.21   USD      90   Claims
+642   LANTUS SOLOSTAR 100 UN/ML PFP 5X3 ML       00088221905 $   20,796.22   USD    1059   Claims
+643   ELIQUIS 2.5 MG TAB 60                      00003089321 $   20,758.45   USD     788   Claims
+644   HERCEPTIN HYLECTA 600MG SDV                50242007701 $   20,718.82   USD       5   Claims
+645   OMNITROPE 10MG /1.5ML CRT                  00781300407 $   20,644.41   USD      65   Claims
+646   LEUCOVORIN CALCIUM 350 MG 50 ML SDV        00143955201 $   20,339.34   USD     750   Claims
+647   CEFTRIAXONE-DEXT 2 GM BAG 24X50 ML DS      00338500341 $   20,324.97   USD     933   Claims
+648   ABIRATERONE ACETATE 250 MG TAB 120         71921017820 $   20,305.62   USD     465   Claims
+649   ONDANSETRON 4 MG ORAL SOL 30X5 ML          60687025286 $   19,960.52   USD    1796   Claims
+650   PREDNISOLONE ACETATE 1% OPH DRP 5 ML       61314063705 $   19,736.90   USD    1465   Claims
+651   EYLEA 2MG VL KIT PAP                       61755000502 $   19,561.16   USD       5   Claims
+652   XPOVIO 100 MG ONCE WKLY TAB (50MGX8) BP    72237010305 $   19,541.13   USD       0   Claims
+653   VONVENDI 1320IU VL 10ML                    00944755302 $   19,453.50   USD      16   Claims
+654   STELARA IV 130 MG SDV 26 ML                57894005427 $   19,442.38   USD       3   Claims
+655   GLEOSTINE 100 MG CAP 5                     58181304205 $   19,417.62   USD      14   Claims
+656   BOSULIF 500MG TAB 30                       00069013601 $   19,413.03   USD       3   Claims
+657   DOCETAXEL 80 MG MDV 4 ML                   00409036701 $   19,267.40   USD     634   Claims
+658   SODIUM FERRIC 62.5 MG 10X5 ML SDV          00143957010 $   19,237.57   USD    1191   Claims
+659   VIJOICE 50 MG PKT 28                       00078117551 $   18,864.65   USD       1   Claims
+660   ADALIMUMAB-ADBM 40 MG-0.4 ML PFP KIT 2     00597057550 $   18,841.69   USD      43   Claims
+661   ORENCIA 125 MG/ML PFS 4X1 ML               00003218811 $   18,633.80   USD      71   Claims
+662   DEXAMETHASONE 4 MG SDV 25X1 ML             67457042312 $   18,494.21   USD   19543   Claims
+663   ELTROMBOPAG 12.5 MG TAB 30                 31722084130 $   18,255.31   USD       5   Claims
+664   BALVERSA 4 MG TAB 56                       59676004056 $   18,043.95   USD       0   Claims
+665   LOKELMA 10 GM PKT 30                       00310111030 $   17,942.13   USD     523   Claims
+666   HUMIRA 80 MG-0.8 ML PFP KIT 3           00074012403 $   17,863.04   USD       3   Claims
+667   AMBRISENTAN 10 MG TAB 30                00591240630 $   17,748.65   USD      30   Claims
+668   TERIPARATIDE 560 MCG PFP 2.24 ML        47781065289 $   17,722.00   USD      15   Claims
+669   HUMIRA 40 MG-0.8 ML PFP KIT 2           00074433902 $   17,720.54   USD     135   Claims
+670   ADALIMUMAB-ADAZ 80 MG PFP 2X0.8 ML      61314032520 $   17,521.33   USD      16   Claims
+671   DESMOPRESSIN ACETATE 40 MCG MDV 10 ML   83634045110 $   17,516.72   USD     154   Claims
+672   INCRUSE ELLIPTA INH 30                  00173087310 $   17,498.18   USD     175   Claims
+673   DIPRIVAN 200 MG VL 10X20 ML             63323026929 $   17,481.36   USD   35823   Claims
+674   RETEVMO 160 MG TAB 60                   00002556260 $   17,377.55   USD       2   Claims
+675   COSENTYX PFS 150MG/ML 2                 00078063998 $   16,973.62   USD      12   Claims
+676   JAYPIRCA 50 MG TAB 30                   00002690230 $   16,843.72   USD       3   Claims
+677   SOMATULINE DEPOT 60 MG PFS 0.2 ML       15054106004 $   16,760.97   USD       9   Claims
+678   XOLAIR 75 MG PFS 0.5 ML                 50242021401 $   16,736.30   USD      54   Claims
+679   CEFAZOLIN 1 GM VL 25                    00143992490 $   16,728.05   USD   10503   Claims
+680   GABLOFEN 20 MU MCG PFS 20 ML DS         66794015601 $   16,709.00   USD      40   Claims
+681   HERNEXEOS 60 MG TAB 60                  00597925786 $   16,620.28   USD       2   Claims
+682   ZENPEP 10000 UN DR CAP 100              73562011001 $   16,541.05   USD      18   Claims
+683   ARANESP 10 MCG PFS 4X0.4 ML             55513009804 $   16,455.99   USD    1106   Claims
+684   ZYMFENTRA 120 MG-ML PFP KIT 2           72606002502 $   16,411.42   USD      11   Claims
+685   DAPAGLIFLOZIN 5 MG TAB 30               66993045630 $   16,249.65   USD      57   Claims
+686   UZEDY 125 MG ER PFS 0.35 ML             51759063010 $   16,141.09   USD      11   Claims
+687   KONVOMEP 2-84 MG-ML KIT 150 ML          65628027205 $   16,124.40   USD      88   Claims
+688   GONAL-F REDI-JECT 900 IU PFP            44087111701 $   16,031.19   USD      21   Claims
+689   XOLAIR 75 MG PFS 0.5 ML                 50242021403 $   15,989.90   USD      36   Claims
+690   ZOLEDRONIC ACID 5 MG SOL 100 ML         71288080651 $   15,969.73   USD     681   Claims
+691   HUMATE-P PDS 600 RCOF VL 250 IU FVIII   63833061502 $   15,969.14   USD      11   Claims
+692   HYDROMORPHONE HCL 500 MG SDV 50 ML      00409263450 $   15,768.92   USD      18   Claims
+693   PREVYMIS 480MG TAB 28 BP DS             00006307602 $   15,758.01   USD       4   Claims
+694   VONJO 100 MG CAP 120                    72482010012 $   15,672.52   USD       3   Claims
+695   NUPLAZID 34MG CAP 30                    63090034030 $   15,593.80   USD       7   Claims
+696   COSENTYX SYRINGE 150MG/ML               00078063997 $   15,560.25   USD      14   Claims
+697   OXALIPLATIN 50 MG SDV 10 ML             60505613206 $   15,529.19   USD    1741   Claims
+698   ENBREL MINI 50MG/ML CRT 4               58406004404 $   15,521.53   USD     170   Claims
+699   DALVANCE 500 MG VL                      57970010001 $   15,499.60   USD       7   Claims
+700   RYTARY 36.25MG/145MG CAP 100            64896066201 $   15,418.64   USD      40   Claims
+701   ACETAMINOPHEN 1000 MG BAG 20X100 ML     63323043400 $   15,414.17   USD    3446   Claims
+702   PROMACTA 12.5 MG TAB 30                 00078068415 $   15,312.15   USD      11   Claims
+703   RISPERDAL CON 37.5 MG ER SYG 2 ML KIT   50458030711 $   15,190.22   USD      31   Claims
+704   DEPO MEDROL 40 MG SDV 25X1ML              00009307303 $   15,111.19   USD   2788   Claims
+705   PRALUENT 150 MG/ML PFP 2                  61755002102 $   15,099.60   USD     57   Claims
+706   BENEFIX-RT PDS 2080IU VL                  58394063603 $   15,015.51   USD      2   Claims
+707   LUMAKRAS 120 MG TAB 240                   55513048824 $   14,966.67   USD      5   Claims
+708   ADMELOG SOLOSTAR 100 UN/ML PFP 5X3ML      00024592505 $   14,909.64   USD    140   Claims
+709   TREMFYA 200 MG PFS 2 ML                   57894065122 $   14,713.92   USD      4   Claims
+710   PROPARACAINE HCL 0.5% O/S 15 ML           24208073006 $   14,697.74   USD   1653   Claims
+711   LUPRON DEPOT 3.75 MG KIT                  00074364103 $   14,687.13   USD    217   Claims
+712   MESNA 400 MG TAB 10                       50742035401 $   14,665.64   USD     30   Claims
+713   DEXRAZOXANE-SOD LAC 250 MG SDV KIT        55150043401 $   14,640.52   USD    128   Claims
+714   ERIBULIN MESYLATE 1 MG SDV 2 ML           60505628900 $   14,617.08   USD     16   Claims
+715   ARISTADA 662MG SYG 2.4ML                  65757040203 $   14,589.99   USD      6   Claims
+716   LUMAKRAS 240 MG TAB 120                   55513051260 $   14,421.04   USD      4   Claims
+717   BUPRENORPHINE 10 MCG-HR PAT 4             42858049340 $   14,402.05   USD    568   Claims
+718   LENALIDOMIDE 20 MG CAP 21 DS              00480124521 $   14,352.56   USD      2   Claims
+719   ABILIFY MAINTENA 300MG SYRINGE            59148004580 $   14,350.92   USD     11   Claims
+720   SPRYCEL 80 MG TAB 30                      00003085522 $   14,306.93   USD     29   Claims
+721   RADICAVA ORS 105MG/5ML SUS KIT 2X35 ML    70510232102 $   14,276.88   USD      1   Claims
+722   VALTOCO 15 MG NASAL SPY 2 (2X7.5MG) BP    72252051504 $   14,251.52   USD     28   Claims
+723   TOUJEO MAX SOLOSTAR 300 UN/ML PFP 2X3ML   00024587102 $   14,189.86   USD     95   Claims
+724   MONJUVI 200MG/5ML SDV                     73535020801 $   14,161.14   USD     10   Claims
+725   DESCOVY 200-25 MG TAB 30                  61958200201 $   14,142.19   USD     10   Claims
+726   MYFORTIC 180 MG DR TAB 120                00078038566 $   14,078.97   USD     51   Claims
+727   TALZENNA 0.35 MG SGC 30                   00069045430 $   13,952.08   USD      2   Claims
+728   RASUVO AUTO 15 MG INJ 4X0.3 ML            59137052004 $   13,763.23   USD     64   Claims
+729   SYNAGIS 100 MG-ML SDV                     66658023101 $   13,751.68   USD      1   Claims
+730   ENVARSUS XR 1MG TAB 30                    68992301003 $   13,736.29   USD    635   Claims
+731   RYBELSUS 14 MG TAB 30                     00169431430 $   13,670.54   USD     43   Claims
+732   PROVAYBLUE 50MG AMP 5X10ML                00517037405 $   13,635.47   USD     74   Claims
+733   ABILIFY MAINTENA 400MG SYRINGE            59148007280 $   13,622.48   USD     10   Claims
+734   ALBURX 25% VL 50 ML                       44206025105 $   13,557.62   USD    207   Claims
+735   REVLIMID DS 5 MG CAP 100                  59572040500 $   13,528.44   USD      0   Claims
+736   BUPRENORPHINE-NALOXONE 8-2 MG FLM 30      00378876793 $   13,509.38   USD    277   Claims
+737   RASUVO AUTO INJ 4 25MG/0.50ML             59137054004 $   13,376.68   USD     64   Claims
+738   SKYTROFA 5.2MG HGH 1X4BX                  73362000601 $   13,284.82   USD      8   Claims
+739   BENEFIX-RT PDS 1080 IU VL                 58394063503 $   13,268.58   USD      2   Claims
+740   ZEJULA 300 MG TAB 30                      00173091513 $   13,207.09   USD      2   Claims
+741   ACTIVASE 50 MG VL                         50242004413 $   13,202.58   USD     10   Claims
+742   MOTEGRITY 2 MG TAB 30                     54092054701 $   13,185.46   USD      32   Claims
+743   GVOKE HYPOPEN 1 MG AUTO INJ 2X0.2 ML      72065012112 $   13,063.20   USD      30   Claims
+744   LEDIPASVIR-SOFOSBUVIR 90-400MG TAB 28     72626260101 $   13,024.00   USD       0   Claims
+745   KATERZIA 1 MG/ML SUS 150 ML               52652500101 $   13,020.52   USD      64   Claims
+746   XIAFLEX 0.9 MG SDV DS                     66887000301 $   12,906.72   USD       1   Claims
+747   YESINTEK 90 MG PFS 1 ML                   83257002541 $   12,786.45   USD      46   Claims
+748   PACLITAXEL 300 MG MDV 50 ML               25021025550 $   12,768.41   USD    1303   Claims
+749   SYMBICORT 120 160-4.5 MCG INH 10.2 GM     00186037020 $   12,709.68   USD     169   Claims
+750   VONVENDI 765IU VL 5ML                     00944755102 $   12,703.07   USD      14   Claims
+751   VEKLURY 100MG LYPH PWD SDV                61958290102 $   12,678.49   USD      18   Claims
+752   ELTROMBOPAG 25 MG ORAL SUS 30 PKT KIT     31722030132 $   12,627.27   USD       2   Claims
+753   ONDANSETRON 4 MG SDV 25X2 ML              00641607825 $   12,626.71   USD   29437   Claims
+754   DOVATO TB 50-300MG 30 BPK                 49702024633 $   12,511.12   USD       9   Claims
+755   RYTARY 48.75MG/195MG CAP 100              64896066301 $   12,412.74   USD      25   Claims
+756   ZOLEDRONIC 4 MG BAG 1X100 ML              25021082682 $   12,318.46   USD     915   Claims
+757   FLUTICASONE PROP 44 MCG INH AER 10.6 GM   66993007896 $   12,264.61   USD     175   Claims
+758   FLUTICASONE PROP 110 MCG INH AER 12 GM    66993007996 $   12,250.50   USD     121   Claims
+759   ENVARSUS .75MG TAB 100                    68992307501 $   12,210.95   USD     290   Claims
+760   KOVALTRY ADAPTER 2142 IU VL               00026382650 $   12,175.16   USD       2   Claims
+761   BUPRENORPHINE 20 MCG-HR PAT 4             42858083940 $   12,137.85   USD     165   Claims
+762   TACROLIMUS 1 MG CAP 100                   55111052601 $   12,121.07   USD     991   Claims
+763   MAVYRET 50/20MG PEL 28                    00074260028 $   12,070.16   USD       1   Claims
+764   AIMOVIG 140 MG AUTO INJ 1 ML              55513084301 $   11,869.18   USD      87   Claims
+765   NOVOLOG INSULIN FLX 100UN/ML PFS 5X3ML    00169633910 $   11,821.33   USD     207   Claims
+766   ABILIFY ASIMTUFII 720 MG ER PFS 2.4 ML    59148010280 $   11,749.68   USD       0   Claims
+767   SANTYL 250 U/GM ONT 30 GM                 50484001030 $   11,696.46   USD      35   Claims
+768   YUFLYMA 40 MG-0.4 ML AUTO INJ KIT 2       72606003010 $   11,627.66   USD      32   Claims
+769   EVEROLIMUS 5 MG TAB 30                    00054048113 $   11,599.25   USD      24   Claims
+770   RISPERDAL CON 50 MG ER SYG 2 ML KIT       50458030811 $   11,598.56   USD      26   Claims
+771   TALVEY 3 MG SDV 1.5 ML                    57894046901 $   11,515.91   USD      12   Claims
+772   AMBRISENTAN 5 MG TAB 30                   00591240530 $   11,475.45   USD      17   Claims
+773   INSULIN LISPRO 100UN/ML VL 10 ML          00002773701 $   11,448.27   USD     232   Claims
+774   RENFLEXIS 100 MG SDV                      78206016201 $   11,383.09   USD      10   Claims
+775   APREPITANT 80 MG CAP 6                    68462058476 $   11,308.10   USD     237   Claims
+776   AUVI-Q 0.1 MG AUTO INJ 2X0.1 ML           60842002102 $   11,215.39   USD      19   Claims
+777   HIZENTRA 2GM/10ML PFS                     44206045722 $   11,210.64   USD      11   Claims
+778   ADALIMUMAB-AACF 40 MG-0.8 ML PFP KIT 2    65219061299 $   11,194.32   USD      17   Claims
+779   NOVOLOG 100 UN/ML VL 10 ML                00169750111 $   11,149.32   USD     136   Claims
+780   INVEGA SUSTEN 78 MG SYG 0.50 ML          50458056101 $   11,127.70   USD      26   Claims
+781   NYVEPRIA 6 MG PFS 0.6 ML                 00069032401 $   11,100.81   USD      10   Claims
+782   XEOMIN DS 100 UNIT SDV 1                 00259161001 $   11,050.15   USD      17   Claims
+783   HEMLIBRA 30MG SDV                        50242092001 $   11,014.48   USD       4   Claims
+784   ANORO 62.5/25MCG INH 60 (2X30)           00173086910 $   11,013.23   USD     222   Claims
+785   ENVARSUS XR 4MG TAB 30                   68992304003 $   11,008.12   USD      23   Claims
+786   DOXIL 20 MG SDV 10 ML                    00338966701 $   10,987.32   USD      44   Claims
+787   LENVIMA 18MG CAP 90                      62856071830 $   10,957.18   USD       0   Claims
+788   FENTANYL CIT PF 100 MCG SDV 25X2 ML      00409909422 $   10,880.24   USD   27726   Claims
+789   DOXIL 20 MG SDV 10 ML                    00338006301 $   10,800.32   USD      43   Claims
+790   AMPICILLIN-SULBACTAM 3 GM SDV 10         71288003221 $   10,714.45   USD    3327   Claims
+791   SPIRIVA RESPIMAT 2.5MCG INH 4GM          00597010061 $   10,711.00   USD     230   Claims
+792   ESPEROCT 1082 IU VL                      00169810001 $   10,674.66   USD       4   Claims
+793   ETOPOSIDE 50 MG CAP 20 BP                00378326694 $   10,662.06   USD      15   Claims
+794   PLAQUENIL TB 200MG 100                   59212056210 $   10,659.02   USD      17   Claims
+795   BREZTRI AEROSPHERE INH AER 10.7 GM       00310461612 $   10,652.59   USD      50   Claims
+796   TROPICAMIDE 1% O/S 15 ML                 70069012101 $   10,641.04   USD    1785   Claims
+797   ALBUKED 5% VL 250ML                      76125079025 $   10,635.35   USD     154   Claims
+798   PRAXBIND 2.5 GM SDV 2X50 ML              00597019705 $   10,589.01   USD       2   Claims
+799   GLATIRAMER ACETATE 40MG-ML PFS 12X1ML    00378696112 $   10,490.38   USD      13   Claims
+800   DEXAMETHASONE 6 MG TAB 100(10X10)        60687072901 $   10,458.15   USD    4232   Claims
+801   ACTIVASE 100 MG VL                       50242008527 $   10,367.83   USD       6   Claims
+802   NEUPOGEN 480 MCG SDV 10X1.6 ML           55513054610 $   10,340.25   USD       2   Claims
+803   ELITEK W/DIL 1.5 MG SDV 3                00024515010 $   10,332.11   USD       6   Claims
+804   CARDENE IV 40 MG BAG 10X200 ML           43066001610 $   10,251.09   USD     559   Claims
+805   ONYDA XR 0.1 MG ER SUS 30 ML             24478014803 $   10,223.55   USD      25   Claims
+806   ADMELOG 100UN/ML VL 3 ML                 00024592605 $   10,179.23   USD    5811   Claims
+807   MAGNESIUM SULFATE 2 GM BAG 24X50 ML      63323010605 $   10,145.12   USD    5194   Claims
+808   BELBUCA 600 MCG FLM 60                   59385002560 $   10,115.15   USD      41   Claims
+809   INGREZZA SPRINKLE 40 MG CAP 30           70370404001 $   10,091.94   USD       2   Claims
+810   COLUMVI 2.5 MG SDV 2.5 ML                50242012501 $   10,090.12   USD       3   Claims
+811   VASCEPA 1 GM CAP 120                     52937000120 $   10,081.36   USD      22   Claims
+812   KETOROLAC TROMETH 15 MG-ML SDV 25X1 ML   63323016101 $    9,999.16   USD   11463   Claims
+813   RISPERIDONE 37.5 MG ER INJ SUS KIT       00480134208 $    9,916.00   USD       5   Claims
+814   HIZENTRA 10GM/50ML PFS                   44206045525 $    9,871.23   USD      10   Claims
+815   SOMATULINE DEPOT 90 MG PFS 0.3 ML        15054109004 $    9,730.89   USD       3   Claims
+816   ANECREAM 4% TEGA PATCH KIT 5X5 GM        24357070107 $    9,718.13   USD    2165   Claims
+817   MERCAPTOPURINE 2000 MG ORAL SUS 100 ML   00054087949 $    9,680.72   USD      55   Claims
+818   ALBUTEROL SULF 90 MCG INH AER 6.7 GM       60687066291 $   9,572.41   USD   2176   Claims
+819   DIPRIVAN 1000 MG EML VL 10X100 ML          63323026965 $   9,533.81   USD   2177   Claims
+820   VEOZAH TB 45MG 30                          00469266030 $   9,483.57   USD     28   Claims
+821   CREON 24000 DR CAP 100                     00032263601 $   9,444.37   USD    342   Claims
+822   LEUCOVORIN CALCIUM 350 MG SDV              67457053035 $   9,151.28   USD    195   Claims
+823   INSULIN GLARGINE-YFGN 100UN/ML PFP 5X3ML   83257001532 $   9,065.30   USD    164   Claims
+824   MORPHINE SULFATE PF 4 MG/ML CJ LL 10X1ML   00409189101 $   9,063.44   USD   9462   Claims
+825   IRINOTECAN HCL 100 MG SDV 5 ML             60505612801 $   9,056.07   USD    977   Claims
+826   ABIRATERONE ACET 250 MG TAB 120            68462013508 $   9,031.32   USD    162   Claims
+827   PROTAMINE SULFATE 10 MG-ML VL 25X5 ML      63323022905 $   9,005.34   USD   1914   Claims
+828   TRESIBA FLEX TOUCH 100 UN-ML PFP 5X3 ML    00169266015 $   8,983.15   USD     72   Claims
+829   CEFEPIME-DEXT 2 GM IVPB 12X100 ML DS       00338130148 $   8,935.65   USD    689   Claims
+830   REVLIMID DS 15 MG CAP 21                   59572041521 $   8,894.66   USD      9   Claims
+831   SAXENDA 18MG/3ML PF INJ 5                  00169280015 $   8,883.85   USD     15   Claims
+832   GLIADEL WAF 8 DS                           24338005008 $   8,868.51   USD      1   Claims
+833   ELTROMBOPAG 50 MG TAB 30                   31722084330 $   8,813.18   USD      2   Claims
+834   ADALIMUMAB-ADBM 40 MG-0.8 ML PFP KIT 2     00597054522 $   8,790.70   USD     17   Claims
+835   ETOPOSIDE 1 GM MDV 50 ML                   16729011411 $   8,780.72   USD    842   Claims
+836   ALBUTEROL SULF HFA 90 MCG INH AER 6.7 GM   00781729685 $   8,752.21   USD   1041   Claims
+837   HEPARIN 5% DEXTROSE 50UN-ML BAG 24X500ML   63323052277 $   8,687.20   USD    965   Claims
+838   CYLTEZO 40 MG-0.8 ML PFP KIT 2             00597037597 $   8,646.14   USD     16   Claims
+839   NINLARO 3 MG CAP 1X3                       63020039002 $   8,560.60   USD     15   Claims
+840   KEPIVANCE 5.16 MG VL 3                     66658011303 $   8,529.52   USD      3   Claims
+841   NINLARO 2.3 MG CAP 3 (1X3)                 63020023002 $   8,519.32   USD      1   Claims
+842   CALCIUM GLUCON-NACL 2000 MG BAG 24X100ML   44567062124 $   8,493.20   USD    463   Claims
+843   EPRONTIA 25MG ORAL SOL 473 ML              52652900101 $   8,481.97   USD     37   Claims
+844   LIDOCAINE 2% GLYDO JELLY 10X11 ML          25021067377 $   8,474.95   USD   1718   Claims
+845   STEGLATRO 15 MG TAB 30                     00006536403 $   8,432.59   USD     25   Claims
+846   PENTAM LYOPHZ 300 MG SDV 10X15 ML          63323011310 $   8,340.36   USD    184   Claims
+847   RYTARY 23.75MG/95MG CAP 100                64896066101 $   8,329.88   USD     20   Claims
+848   SEVELAMER CARBONATE 800 MG TAB 270         65162005827 $   8,296.13   USD    334   Claims
+849   ENVARSUS XR .75MG TAB 30                   68992307503 $   8,263.70   USD     67   Claims
+850   PEGASYS 180 MCG VL 1 ML                    82154044901 $   8,260.08   USD     30   Claims
+851   AUVI-Q 0.15 MG AUTO INJ 2X0.15 ML          60842002202 $   8,227.41   USD     15   Claims
+852   NGENLA 60 MG PFP 1.2 ML                    00069052002 $   8,183.15   USD      8   Claims
+853   MYCOPHENOLIC ACID 360 MG DR TAB 120        16729018929 $   8,146.98   USD    973   Claims
+854   LOKELMA 10 GM PKT 11                       00310111039 $   8,127.79   USD     24   Claims
+855   EOHILIA 2 MG SUS PKT 60X10 ML              64764010560 $   8,091.51   USD     10   Claims
+856   DIAZEPAM RECTAL GEL 10 MG KIT 2            68682065220 $   8,077.70   USD     58   Claims
+857   COMBIVENT RESPIM INH 4 GM                  00597002402 $   8,067.81   USD     35   Claims
+858   DYSPORT 300 UNIT VL                        15054053006 $   8,066.50   USD     29   Claims
+859   ESBRIET 267MG CAP 270                      50242012101 $   7,934.36   USD      0   Claims
+860   LEUCOVORIN CALCIUM 350 MG LYO SDV          25021081630 $   7,929.77   USD   1082   Claims
+861   OCTAGAM 10% 20GM 200ML VL                  68982085004 $   7,922.22   USD      4   Claims
+862   STIOLTO RESPIMAT 2.5/2.5MCG INH 60X4 GM    00597015561 $   7,905.96   USD     97   Claims
+863   VANCOMYCIN-SOD 1 GM BAG 6X200ML DS         00338358301 $   7,886.19   USD    952   Claims
+864   BAQSIMI 3 MG PWD                           00548835101 $   7,870.71   USD     22   Claims
+865   OTULFI 45 MG PFS 0.5 ML                    65219082401 $   7,817.95   USD     10   Claims
+866   PANCREAZE CP 21000U 100 DR                 62541040510 $   7,816.44   USD      4   Claims
+867   LEUCOVORIN CALCIUM 200 MG LYO SDV          00143955301 $   7,813.00   USD    294   Claims
+868   AFRIN ORIGINAL SPRAY 30ML                  11523116705 $   7,787.68   USD   1029   Claims
+869   AMBRISENTAN 10 MG TAB 30                   00378427193 $   7,778.26   USD     47   Claims
+870   OPZELURA 1.5% CRM 60 GM                    50881000705 $   7,765.62   USD      5   Claims
+871   BREO ELLIPTA 200-25MCG INH 60 (2X30) BP    00173088210 $   7,677.99   USD     94   Claims
+872   EPINEPHRINE 0.3 MG INJ PFS 2               49502010202 $   7,636.04   USD    268   Claims
+873   INLYTA 1MG TAB 180                         00069014501 $   7,627.16   USD      4   Claims
+874   ABIRATERONE ACETATE 250 MG TAB 120         72205003092 $   7,614.19   USD    124   Claims
+875   TRUXIMA 100 MG SDV 10 ML                   63459010310 $   7,613.80   USD     31   Claims
+876   HUMALOG 100 UN/ML VL 10 ML                 00002751001 $   7,607.66   USD    182   Claims
+877   VRAYLAR 1.5 MG CAP 30                      61874011530 $   7,582.26   USD      4   Claims
+878   HADLIMA PUSHTOUCH 40MG AUTO INJ 2X0.8 ML   78206018401 $   7,580.85   USD     13   Claims
+879   CIBINQO 100 MG TAB 30                      00069033530 $   7,549.10   USD      2   Claims
+880   RYBELSUS 3 MG TAB 30                       00169430330 $   7,545.00   USD     18   Claims
+881   VENCLEXTA 50MG TAB 7 WALLET                00074056607 $   7,532.55   USD      3   Claims
+882   GVOKE HYPOPEN 2-PACK 0.5 MG PER 0.1 ML     72065012012 $   7,487.98   USD     23   Claims
+883   QVAR REDIHALER 80 MCG INH 10.6 GM          59310030480 $   7,429.53   USD     62   Claims
+884   AJOVY 225 MG AUTO INJ 1.5 ML               51759020210 $   7,417.49   USD     23   Claims
+885   NOREPINEPHRINE-DEXT 8MG-5% BAG 20X250 ML   00338010820 $   7,414.68   USD   1002   Claims
+886   TERIPARATIDE 560 MCG PFP 2.24 ML           66993049528 $   7,355.63   USD     26   Claims
+887   SANTYL OI 250U/GM 90GM TUBE PF             50484001090 $   7,346.13   USD      4   Claims
+888   DEXAMETHASONE 4 MG TAB 100 (10X10)         60687071801 $   7,284.17   USD   5127   Claims
+889   AVASTIN 100 MG SDV 4 ML                    50242006001 $   7,262.34   USD     14   Claims
+890   Iclusig 30mg (30 tablets ea)               63020053330 $   7,228.59   USD      5   Claims
+891   AZATHIOPRINE 75 MG TAB 100                 68682023101 $   7,208.92   USD     21   Claims
+892   TIOTROPIUM BROMIDE 18 MCG CAP 30           68180096412 $   7,181.68   USD     36   Claims
+893   SOLU MEDROL 125 MG AOV 25X2 ML             00009004722 $   7,157.98   USD   3670   Claims
+894   PRUCALOPRIDE 1 MG TAB 30                   70954059610 $   7,152.01   USD     23   Claims
+895   DOXORUBICIN HCL LIPOSOME 20 MG SDV 10 ML   70710153001 $   7,139.48   USD     40   Claims
+896   PROPOFOL 500 MG EML VL 20X50 ML            23155034542 $   7,117.96   USD   7332   Claims
+897   CIMZIA START 2X200 MG/ML KIT 3             50474071081 $   6,907.28   USD     15   Claims
+898   SIROLIMUS 1 MG TAB 100                     68462068301 $   6,892.88   USD    208   Claims
+899   METHYLPREDNISOLONE ACE 40 MG SDV 25X1 ML   70121157305 $   6,886.66   USD    831   Claims
+900   LIDOCAINE HCL 2% VISCOUS SOL 40X15 ML      00121495040 $   6,796.73   USD   2403   Claims
+901   ESPEROCT 2235 IU VL                        00169820001 $   6,749.70   USD      2   Claims
+902   PALONOSETRON HCL 0.25 MG SDV 5 ML          68001035525 $   6,717.94   USD   1248   Claims
+903   TRESIBA FLEX TOUCH 200 UN-ML PFP 3X3 ML    00169255013 $   6,637.02   USD     17   Claims
+904   GLATOPA 20 MG PFS 30X1 ML                  00781323434 $   6,619.38   USD     12   Claims
+905   SOGROYA 10 MG PFP 1.5 ML                   00169203011 $   6,573.71   USD     15   Claims
+906   HARVONI 90MG/400MG TAB 28                  61958180101 $   6,538.22   USD      0   Claims
+907   MESNEX 400 MG TAB 10                       67108356509 $   6,466.11   USD     18   Claims
+908   ZEMPLAR 5 MCG FTV 25X1 ML                  00074165801 $   6,419.10   USD    537   Claims
+909   RISPERDAL CON 25 MG ER SYG 2 ML KIT        50458030611 $   6,408.90   USD     24   Claims
+910   RYDAPT 25 MG SGC 56 (2X28)                 00078069899 $   6,399.25   USD      1   Claims
+911   VALGANCICLOVIR 450 MG TAB 60               31722083260 $   6,374.35   USD    132   Claims
+912   DR VIGABATRIN 500MG PWD50                  43598069750 $   6,345.92   USD     24   Claims
+913   SOGROYA 5 MG PFP 1.5 ML                    00169203511 $   6,338.42   USD     28   Claims
+914   CAPECITABINE 500 MG TAB 120                55111049704 $   6,336.18   USD    293   Claims
+915   SPIRIVA RESPIMAT 1.25 MCG INH 4GM          00597016061 $   6,315.36   USD    100   Claims
+916   XYNTHA PDS 3040 IU SOLOFUSE KIT SYG        58394001603 $   6,300.00   USD      1   Claims
+917   QBRELIS 1MG/ML SOL 150ML                   52652300101 $   6,218.43   USD      7   Claims
+918   VENTOLIN HFA 90 MCG INH 18 GM              00173068220 $   6,205.42   USD    404   Claims
+919   REVLIMID DS 10 MG CAP 100                  59572041000 $   6,119.76   USD      4   Claims
+920   AFINITOR DISPERZ 3MG TAB 28 (4X7)          00078062751 $   6,106.58   USD      3   Claims
+921   AMINOCAPROIC ACID 0.25GM-ML SOL 236.5 ML   31722003523 $   6,099.21   USD     34   Claims
+922   SYMBICORT INS 160/ 4.5MCG INH 6 GM         00186037028 $   6,075.29   USD    340   Claims
+923   EPKINLY 4 MG SDV 0.8 ML                    82705000201 $   6,027.42   USD      7   Claims
+924   SUNITINIB MALATE 12.5 MG CAP 28            00378667828 $   6,016.48   USD      1   Claims
+925   BREO ELLIPTA 100-25 MCG INH 60 (2X30) BP   00173085910 $   5,982.47   USD     65   Claims
+926   REXULTI 3MG TAB 30                         59148003913 $   5,943.59   USD     11   Claims
+927   MOTPOLY XR 150 MG ER CAP 60                73289006402 $   5,922.17   USD      9   Claims
+928   REVLIMID DS 25 MG CAP 21                   59572042521 $   5,879.71   USD      0   Claims
+929   TYENNE 162 MG AUTO INJ 0.9 ML              65219059601 $   5,871.46   USD     10   Claims
+930   DECITABINE 50 MG SDV                       71288011920 $   5,868.43   USD    401   Claims
+931   PALONOSETRON HCL 0.25 MG SDV 5 ML          71288040905 $   5,815.34   USD   2083   Claims
+932   CIPROFLOXACIN-DEXAME 0.3-0.1% SUS 7.5ML   72485062513 $   5,795.90   USD    373   Claims
+933   LEVETIRACETAM 500 MG-5 ML SDV 25X5 ML     00409188602 $   5,795.26   USD   1436   Claims
+934   AUVI-Q 0.3 MG AUTO INJ 2X0.3 ML           60842002302 $   5,791.89   USD     18   Claims
+935   WIXELA INHUB IN 250-50MCG 60              00378932132 $   5,766.72   USD    152   Claims
+936   REPATHA 140 MG PFS 1 ML L/F               72511050101 $   5,762.48   USD     27   Claims
+937   BUPRENORPHINE 5 MCG-HR PAT 4              42858075040 $   5,735.38   USD    466   Claims
+938   ADVATE BAXJECT III 2ML 200-400 IU         00944305102 $   5,683.99   USD      7   Claims
+939   GENOTROPIN M/Q 2MG SYG 7                  00013265802 $   5,680.91   USD      8   Claims
+940   LUNSUMIO 1 MG SDV 1 ML                    50242015901 $   5,670.94   USD      4   Claims
+941   HUMALOG KWIK PEN 200 UN 2X3ML             00002771227 $   5,649.29   USD     12   Claims
+942   JANUVIA 100 MG TAB 90                     00006027754 $   5,593.40   USD     36   Claims
+943   TASIMELTEON 20 MG CAP 30                  00480449056 $   5,584.56   USD      8   Claims
+944   GENOTROPIN 5 MG SYG CRT 1                 00013262681 $   5,576.64   USD     37   Claims
+945   ZENPEP 40000 USP DR CAP 100               73562011401 $   5,546.79   USD      4   Claims
+946   OLANZAPINE 10 MG SDV                      31722030801 $   5,532.71   USD    690   Claims
+947   ABIRATERONE ACETATE 250 MG TAB 120        60505432701 $   5,512.03   USD     39   Claims
+948   HUMIRA 80 MG/0.8 ML 40 MG/0.4 ML KIT 3    00074153903 $   5,502.24   USD      0   Claims
+949   VINBLASTINE 10 MG MDV 10 ML               63323027810 $   5,492.66   USD    141   Claims
+950   UZEDY 250 MG ER PFS 0.7 ML                51759096010 $   5,477.90   USD      1   Claims
+951   SUNITINIB MALATE 50 MG CAP 28             00378668028 $   5,468.56   USD      5   Claims
+952   ATROPINE SULF 0.4 MG SDV 25X1 ML          00517100425 $   5,445.19   USD   1079   Claims
+953   EPINEPHRINE 1 MG PFS 10X10 ML             76329331801 $   5,410.49   USD    695   Claims
+954   YUSIMRY 40 MG PFP 2X0.8 ML                70114022002 $   5,410.14   USD      0   Claims
+955   RETACRIT 10000 UN/ML VL 10X1ML            00069130810 $   5,392.43   USD    238   Claims
+956   HEPARIN SOD 5000 UN-ML VL 25X1 ML         63323026206 $   5,330.92   USD   5808   Claims
+957   XOLAIR 75 MG AUTO INJ 0.5 ML              50242021455 $   5,306.16   USD      6   Claims
+958   PURIXAN 2000MG 100ML EA                   62484002002 $   5,302.26   USD     28   Claims
+959   EVEROLIMUS 10 MG TAB 30                   00054048213 $   5,289.34   USD      6   Claims
+960   SYMBICORT 120 80-4.5 MCG INH 10.2 GM      00186037220 $   5,230.37   USD    114   Claims
+961   POT CHL 10 MEQ P-B 24X100 ML              00338070948 $   5,200.63   USD   2430   Claims
+962   MYXREDLIN SOD CHL 0.9% BAG 12X100ML       00338012612 $   5,186.23   USD    486   Claims
+963   ADRENALIN 4 MG BAG 10X250 ML              42023031510 $   5,183.47   USD    163   Claims
+964   MITOMYCIN 20 MG LYO VL                    00143927901 $   5,162.05   USD     51   Claims
+965   COBENFY 100-20 MG CAP 60                  00003110060 $   5,147.55   USD      5   Claims
+966   LIDOCAINE HCL 1% MDV 25X20 ML             00409427601 $   5,133.68   USD   6974   Claims
+967   XYOSTED SY 75MG/0.5ML 4X0.5ML C3          54436027504 $   5,121.48   USD     21   Claims
+968   HUMATROPE 12 MG CRT                       00002814801 $   5,116.08   USD      0   Claims
+969   SACUBITRIL-VALSARTAN 24-26 MG TAB 60      62332055660 $   5,101.40   USD     83   Claims
+   970      LIDOCAINE-EPINEPH 1%-1:100K MDV 10X20 ML             00409000710 $        5,093.82   USD            5329     Claims
+   971      SYMBICORT INS 80/ 4.5MCG INH 6.9 GM                  00186037228 $        5,051.20   USD             168     Claims
+   972      VASOSTRICT 20 UN SDV 10X100 ML                       42023023710 $        5,049.88   USD             168     Claims
+   973      THIAMINE 200 MG MDV 25X2 ML                          63323001302 $        5,000.61   USD             670     Claims
+            Total Prescription Drugs individually under $5,000               $    1,588,416.20   USD          547295     Claims
+
+
+            Total Costs of Prescription Drugs Obtained Through
+            340B Program Claimed for Reimbursement                           $ 357,096,076.09                 982072
+
+                                                                                                        Mandated by
+                                                                                                       RIGL § 5-19.3-6
+
+Form RIOAG 340B-Sch G (revised January 2026)
+            State of Rhode Island                                       Schedule H
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule H - 340B Program Savings Usage by Covered Entity to
+            Benefit Patients and/or its Community Through Programs, Projects,
+            and/or Services.
+
+            Covered Entity Name:                                         Rhode Island Hospital
+            Reporting for Calendar Year:                                                2025
+
+
+Instruction: List all programs, projects, and/or services provided by the Covered Entity through 340B Program
+savings that benefited patients and/or its community. Detail individual programs, projects, and/or services
+provided and the related costs incurred by the covered entity. Individually list programs, projects, and
+services with costs of $5,000 or more. Aggregate all other programs, projects, and services where costs
+totaled less than $5,000.
+
+Line No.                 340B Net Revenue Usage Description                        Amount/Value               Unit
+
+     1      Health Services Expansion                                                        $43,866,875.36   USD
+     2      Community and Public Health Programs                                              $1,110,000.00   USD
+     3      Improving Patient Access                                                         $36,112,000.00   USD
+     4      Facility Upgrades                                                                $51,842,670.88   USD
+     5      Technology Upgrades                                                              $21,933,437.68   USD
+     6      Subsidize Losses - Medicaid and Medicare Program
+                                                                                                              USD
+            Underpayments                                                                    $47,576,000.00
+    7       Research and Innovation                                                          $14,636,000.00   USD
+    8       Community Programs - duplicate of line 2                                                  $0.00   USD
+    9       Charity Care/Uncompensated Care                                                  $37,494,000.00   USD
+    10      Unbudgeted drug expense - manufacturer restrictions                              $15,470,000.00
+    11      Other - Medical Education                                                       $141,744,000.00   USD
+            Other programs, projects, and services where costs totaled
+                                                                                                              USD
+            less than $5,000.
+
+            Total Aggregate Costs of Programs, Projects, and/or
+            Services Supported by 340B Net Revenue                       $                  411,784,983.93
+                                                                             Mandated by RIGL § 5-19.3-6.
+
+Form RIOAG 340B-Sch H (revised January 2026)
+             State of Rhode Island                                                                                   Schedule I
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule I - Covered Entity Certification Page
+
+             Covered Entity Name:                                                                         Rhode Island Hospital
+             Reporting for Calendar Year:                                                                              2025
+
+
+                                                                                                                If Yes, explain any
+Line No.                                  Covered Entity Certification                     YES       NO       noncompliance noted.
+
+            During the reporting period, did the covered entity conduct a self-audit
+     1      of their participation in the 340B Program as required by the Health
+            Resources and Services Administration (HRSA)?                              X
+
+
+            During the reporting period, was the covered entity audited by HRSA or
+     2
+            subject to a drug manufacturer audit approved by HRSA?                               X
+
+I certify, to the best of my knowledge and belief, that the information reported in this reporting package is materially complete and
+accurate?
+
+
+             Peter K. Markell
+            Peter K. Markell (Apr 1, 2026 13:27:41 EDT)
+                                                                                                          04/01/26
+                                                            Signature                                                   Date
+              Peter K. Markell
+
+               EVP & CFO                                                                                  [email address in the PDF]
+                                                          Name and Title                                               Email
+
+Form RIOAG 340B-Sch I (revised January 2026)
+DSH410007 Appendix A - Excel Spreadsheet
+Structure for 340B Annual Report Form_Final
+3.2.2026
+Final Audit Report                                                           2026-04-01
+
+  Created:                2026-03-31
+
+  By:                     Barbara Dominguez ([email address in the PDF])
+
+  Status:                 Signed
+
+  Transaction ID:         CBJCHBCAABAA-grWPhxTLvW9Pq-3AEyVfbDz5fgKXreo
+
+
+
+
+"DSH410007 Appendix A - Excel Spreadsheet Structure for 340
+B Annual Report Form_Final 3.2.2026" History
+    Document created by Barbara Dominguez ([email address in the PDF])
+    2026-03-31 - 6:28:53 PM GMT
+
+
+    Document emailed to [email address in the PDF] for signature
+    2026-03-31 - 6:29:06 PM GMT
+
+
+    Email viewed by [email address in the PDF]
+    2026-04-01 - 5:26:20 PM GMT
+
+
+    Signer [email address in the PDF] entered name at signing as Peter K. Markell
+    2026-04-01 - 5:27:39 PM GMT
+
+
+    Document e-signed by Peter K. Markell ([email address in the PDF])
+    Signature Date: 2026-04-01 - 5:27:41 PM GMT - Time Source: server
+
+
+    Agreement completed.
+    2026-04-01 - 5:27:41 PM GMT
+

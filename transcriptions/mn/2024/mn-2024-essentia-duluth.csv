@@ -1,0 +1,3 @@
+schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note
+table_6_1,net_revenue,detail,Essentia Health Duluth,,Net 340B Revenue ($),,"76,920,741",,,42,text_and_image,
+table_6_1,pct_of_statewide,detail,Essentia Health Duluth,,% of Statewide Net 340B Revenue,,6.0%,,,42,text_and_image,

@@ -1,0 +1,21 @@
+filing_id = "ri-2025-wellone"
+entity_id = "ri-wellone"
+state = "RI"
+reporting_year = 2025
+entity_type = "health_center"
+source_file = "WellOne-Primary-Medical-and-Dental-Care-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "WellOne Primary Medical and Dental Care (A)"
+corporate_address_as_filed = "PO Box 312, Pascoag, RI 02859"
+opais_ids_as_filed = "CH010480"
+recertification_date_as_filed = "2/11/2026"
+reporting_basis_as_filed = "Accrual"
+
+[[attachments]]
+pages = "9-80"
+kind = "supplemental_detail"
+title_as_filed = "Tab G Supplemental Detail (Walgreens Contract)"
+note = "Filer-made per-drug listing with drug cost and claim count; pages 9-35 are headed Walgreens Contract and pages 36-80 are headed Wellpartner Contract."

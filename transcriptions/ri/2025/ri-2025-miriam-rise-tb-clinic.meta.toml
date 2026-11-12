@@ -1,0 +1,27 @@
+filing_id = "ri-2025-miriam-rise-tb-clinic"
+entity_id = "ri-miriam-rise-tb-clinic"
+state = "RI"
+reporting_year = 2025
+entity_type = "hospital"
+source_file = "Miriam-Hospital-Rise-TB-Clinic-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "The Miriam Hospital RISE TB Clinic"
+corporate_address_as_filed = "164 Summit Ave, Fain 2 Rm 238 Providence, RI 02906"
+opais_ids_as_filed = "TB02906"
+recertification_date_as_filed = "5/29/2025"
+reporting_basis_as_filed = "Cash"
+
+[[attachments]]
+pages = "2-3"
+kind = "notes"
+title_as_filed = "Addressing and quantifying outliers and other concerns regarding data sharing requirements under S.0114"
+note = "A supplemental note from the filer on data-reporting concerns, with comments on Schedules A, G and H."
+
+[[attachments]]
+pages = "13"
+kind = "appendix"
+title_as_filed = "TB02906 Appendix A - Excel Spreadsheet Structure for 340B Annual Report Form_Final 3.2.2026"
+note = "An e-signature audit report page for an appendix document."

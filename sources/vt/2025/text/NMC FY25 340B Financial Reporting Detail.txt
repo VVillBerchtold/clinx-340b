@@ -1,0 +1,37 @@
+                     Northwestern Medical Center
+        FY2025 340B Program Financial Reporting Detail
+ As Submitted to the Green Mountain Care Board in 2026
+
+                NOTE: This is draft and may be adjusted for accuracy in the
+                           final GMCB dashboard publication.
+
+
+ Aggregated Payment Amounts Received, Separated by Distribution Channel
+
+ In-House Pharmacy Dispensed                                                                   $0.00
+ Contract Pharmacy Dispensed                                                           $1,194,329.00
+ Administered Drugs Paid Separately                                                             N/R
+ Administered Drugs Bundled Payments                                                            N/R
+ Total 340B Payments Received                                                          $1,194,329.00
+
+ 340B Prescription Drug Acquisition Costs                                              $1,197,956.00
+
+ Aggregated 340B Program Expenses
+ Payments Made to Contract Pharmacies                                                    $188,714.00
+ Internal 340B Program Expenses                                                           $75,564.00
+ Payments Made to Outside Vendors                                                        $129,797.00
+ Total 340B Expenses                                                                     $394,075.00
+
+
+ 340B Net Revenue                                                                          ($397,702)
+ (payments received minus acquisition costs minus expenses)
+ 340B Operating Margin                                                                        -33.30%
+
+
+
+
+NMC did not report 340B administered drug revenue they received either in the “Paid Separately” or
+“Bundled Payments” fields. NMC stated in their submission that their electronic medical record vendor
+does not have the capability to identify the two types of claims or to report aggregated reimbursement
+data for administered drugs.
+

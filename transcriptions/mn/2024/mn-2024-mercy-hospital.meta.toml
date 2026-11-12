@@ -1,0 +1,20 @@
+filing_id = "mn-2024-mercy-hospital"
+entity_id = "mn-mercy-hospital"
+state = "MN"
+reporting_year = 2024
+entity_type = "hospital"
+record_kind = "state_report_row"
+source_file = "2025report.pdf"
+form = "mn-mdh-340b-report"
+form_revision = "340B Covered Entity Report, 2025"
+
+[cover]
+name_as_filed = "Mercy Hospital"
+corporate_address_as_filed = ""
+opais_ids_as_filed = ""
+recertification_date_as_filed = ""
+reporting_basis_as_filed = ""
+
+[printed]
+entity_type_as_filed = "Disproportionate Share Hospital"
+city_as_filed = "Coon Rapids"

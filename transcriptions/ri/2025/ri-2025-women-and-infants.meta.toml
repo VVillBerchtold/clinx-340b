@@ -1,0 +1,21 @@
+filing_id = "ri-2025-women-and-infants"
+entity_id = "ri-women-and-infants"
+state = "RI"
+reporting_year = 2025
+entity_type = "hospital"
+source_file = "Women-and-Infants-Hospital-of-Rhode-Island-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "Women & Infants Hospital of RI"
+corporate_address_as_filed = "101 Dudley St. Providence, RI 02905"
+opais_ids_as_filed = "DSH410010"
+recertification_date_as_filed = "8/13/2025"
+reporting_basis_as_filed = "Accrual"
+
+[[attachments]]
+pages = "1-2"
+kind = "cover_letter"
+title_as_filed = "Women & Infants Hospital of Rhode Island – Annual 340B Report"
+note = "Two-page letter on hospital letterhead, embedded as images, introducing the report and summarizing the schedules."

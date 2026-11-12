@@ -1,0 +1,477 @@
+            State of Rhode Island
+            340B Drug Pricing Program - Mandated Covered Entity Reporting
+            Mandated Reporting Cover Page
+
+                       Covered Entity 340B Drug Pricing Program Reporting Mandated by
+                                       RI General Law Section 5-19.3-6.
+
+
+            Covered Entity Name:                       The Miriam Hospital Immunology Center
+                                                       164 Summit Ave, Fain 2 Rm 238,
+            Covered Entity Corporate Address:
+                                                       Providence, RI 02906
+            340B ID Number(s)                          STD02904
+            Reporting for Calendar Year:                                 2025
+
+
+
+
+            Covered Entity Required Information
+
+
+
+            Date of most recent recertification with the
+            Health Resources and Service Administration 5/29/2025
+
+            Reporting Basis (i.e., Cash or Accrual)    Cash
+
+
+
+
+Form RIOAG-340B (Revised January 2026)
+Title: Addressing and quantifying outliers and other concerns regarding data sharing
+requirements under S.0114
+
+Brown University Health has long supported the 340B program and are grateful to our
+legislative leaders for their commitment to protecting it. This vital program allows hospitals
+and health centers to care for more patients and sustain critical services. Brown Health invests
+340B savings throughout our health system including into pharmacy care services that directly
+impact patient care to ensure that patients stay adherent to their medication therapies to
+improve overall health.
+
+Throughout the legislative process during the 2025 session, we communicated concerns
+around the data reporting requirements, including challenges in producing accurate data
+under the statutory language and the potential for misinterpretation and misuse if the data is
+presented without appropriate context. These concerns remain relevant as the reporting
+framework is implemented.
+
+Other states have recognized these challenges and have taken steps to provide
+contextualized reporting. For example, Minnesota supplements submitted data with detailed
+summaries that explain methodology, limitations, and key considerations. Hawaii is expected
+to follow a similar approach, though its initial report has not yet been published. In contrast,
+Rhode Island’s approach of publishing submitted data without additional context does not
+sufficiently account for the complexity of the information and may lead to misunderstandings
+among stakeholders and the public.
+
+In light of these considerations, we are submitting this supplemental document to accompany
+our report. The intent is to highlight key areas where the data may be overstated,
+understated, or otherwise misaligned with standard 340B reporting practices, and to provide
+the necessary clarification to support accurate interpretation. The following sections outline
+specific methodological limitations, reporting constraints, and contextual factors relevant to
+each schedule.
+
+Schedule A
+This Schedule requires data to be reported in a manner that may be different from current
+reporting requirements for our grant funding.
+Schedule G
+
+Some claims with reported reimbursement will not have associated drug expense included
+due to timing of drug orders, package size, and accumulation amounts being less than 1.
+Conversely, there may be drug expenses tied to claims from the previous calendar year that
+are not included in this data set due to the timing of drug orders, availability of the NDC (i.e.
+backorders), etc.
+
+Schedule H
+
+For this Schedule, we have used details from our FY25 funding report as part of our
+obligations under our grant application and approval. Not all use of savings includes the pre-
+populated categories, which have been marked as Not Applicable, and should not be
+misinterpreted as not fulfilling our requirements under our grant or the 340B program.
+
+In summary, while we have made every effort to comply with the reporting requirements
+under S.0114, the limitations outlined above highlight the challenges in presenting this data
+in a manner that is both precise and fully representative of 340B program activity. Without
+appropriate context, these figures risk being misunderstood or misapplied.
+
+We respectfully encourage consideration of these factors when reviewing the submitted data
+and reiterate the importance of continued dialogue to ensure reporting requirements
+support transparency without compromising accuracy. We remain committed to compliance
+and to working collaboratively to improve the clarity and usefulness of future reporting.
+             State of Rhode Island                                                                                                   Schedule A
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule A - Aggregate Reporting Schedule
+
+             Covered Entity Name:                       The Miriam Hospital Immunology Center
+             Reporting for Calendar Year:                                               2025
+
+
+
+
+                                                                                                                   Schedule
+Line No.                        Data Element                          Data Element Description                       Ref        Amount     Unit
+
+                                                        Total aggregated cost to entity for drugs purchased
+            Total Aggregated Acquisition Cost for All
+     1                                                  under 340B (actual paid, incl. fees) during the previous      B       $2,859,268.09 USD
+            340B Program Drugs
+                                                        calendar year.
+
+
+                                                        Total payments (claim reimbursements) received for
+            Total Aggregated Payment Amount
+                                                        340B drugs dispensed/ administered to patients with
+     2      Received for Dispensed/Administered                                                                       C       $4,783,953.08 USD
+                                                        commercial medical insurance, Medical Assistance,
+            340B Drugs
+                                                        and/or Medicare Supplemental plans.
+
+
+            Total Aggregated Payments to Contract
+                                                     Total payments made to contract pharmacies for
+     3      Pharmacies for 340B Program Prescription                                                                  D        $590,314.48 USD
+                                                     dispensing 340B drugs.
+            Drugs
+
+            Total Aggregated Payments to Outside
+                                                        Total payments to vendors managing, administering,
+            Entities (Vendors) for 340B Program
+     4                                                  or facilitating any aspect of the 340B covered entity's       E         $61,397.88 USD
+            Management, Administration, or
+                                                        drug program.
+            Facilitation
+
+            Total Aggregated Administrative Expenses Total covered entity expenses for staffing, operations,
+     5                                                                                                                F         $61,512.80 USD
+            for 340B Program                         and administration related to the 340B program.
+
+
+
+            Net 340B Revenue Calculation (Auto-         Payments Received (Line 2) - (Acquisition Costs (Line
+     6                                                                                                                        $1,211,459.83 USD
+            Calculated)                                 1) + Administration Expenses (Lines 3, 4 & 5)
+
+
+Form RIOAG 340B-Sch A (revised January 2026)
+            State of Rhode Island                                                                  Schedule B
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule B - Acquisition Cost Detail Schedule
+
+                                                             The Miriam Hospital
+            Covered Entity Name:
+                                                             Immunology Center
+            Reporting for Calendar Year:                                     2025
+
+
+
+Instruction: Provide detail for all vendors (e.g. manufacturers, wholesalers) where the covered entity
+procured $5,000 or more of prescription drugs from an individual vendor/pharmacy under the 340B
+program. Provide an aggregated total for vendors where procurement was less than $5,000.
+
+Line No.                       Vendor Name                           Amount Paid                   Unit
+
+     1      Cardinal                                         $                         64,057.44 USD
+     2      Cencora                                          $                      2,480,083.82 USD
+     3      McKesson                                         $                        315,126.83 USD
+     4                                                                                             USD
+     5                                                                                             USD
+     6                                                                                             USD
+     7                                                                                             USD
+     8                                                                                             USD
+     9                                                                                             USD
+    10                                                                                             USD
+            Total for vendors under $5,000                                                         USD
+
+            Total Aggregated Acquisition Cost for all 340B
+            Program Drugs - (Supports Schedule A, Line 1)    $                      2,859,268.09
+                                                                                                   USD
+                                                                   Schedule A - Line 1
+
+Form RIOAG 340B-Sch B (revised January 2026)
+            State of Rhode Island                                Schedule C
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule C - Claim Reimbursements For 340B Dispensed /
+            Administered Drugs
+
+                                                        The Miriam Hospital
+            Covered Entity Name:
+                                                        Immunology Center
+            Reporting for Calendar Year:                                2025
+
+
+
+Instruction: Provide detail (amount and number of individual claims) for all reimbursements relating to
+pharmaceuticals obtained under the 340B Drug Program from commercial insurance (including Medicare
+Supplemental plans), Medical Assistance, Medicare, and or other sources. This schedule should total all
+reimbursements relating to pharmaceuticals obtained under the 340B Drug Program.
+
+Line No.                 Reimbursement Source                Amount Reimbursed         Unit Count    Unit
+
+     1      Commercial Insurance                        $               2,826,980.52   USD   1398   Claims
+     2      Medical Assistance (i.e., Medicaid)         $                 618,514.05   USD    391   Claims
+     3      Medicare                                    $               1,270,540.56   USD    574   Claims
+     4      Other Sources                               $                  67,917.95   USD     33   Claims
+
+
+
+            Total Aggregated Payment Amount Received for
+            Dispensed/Administered 340B Drugs (Supports
+            Schedule A - Line 2)                         $              4,783,953.08         2396
+                                                              Schedule A - Line 2
+
+
+
+Form RIOAG 340B-Sch C (revised January 2026)
+            State of Rhode Island                                 Schedule D
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule D - Payment to Contract Pharmacy Detail Schedule
+
+                                                         The Miriam Hospital
+            Covered Entity Name:
+                                                         Immunology Center
+            Reporting for Calendar Year:                              2025
+
+
+
+Instruction: Provide detail for all payments made to contract pharmacies for dispensing 340B
+prescription drugs during the reporting period. Individually list any contract pharmacy paid $5,000
+or more. Aggregate payments to contract pharmacies paid less than $5,000.
+
+Line No.               Contract Pharmacy Name                     Amount Paid                 Unit
+
+     1      Brown University Health, LLC                 $                       494,757.37   USD
+     2      CVS                                          $                        95,557.11   USD
+     3                                                                                        USD
+     4                                                                                        USD
+     5                                                                                        USD
+     6                                                                                        USD
+     7                                                                                        USD
+     8                                                                                        USD
+     9                                                                                        USD
+    10                                                                                        USD
+            Total for contract pharmacies under $5,000
+
+            Total Aggregated Payments to Contract
+            Pharmacies for 340B Program Prescription
+            Drugs (Supports Schedule A - Line 3)         $                       590,314.48
+                                                                Schedule A - Line 3
+
+
+
+Form RIOAG 340B-Sch D (revised January 2026)
+            State of Rhode Island                                                                                     Schedule E
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule E - Payments to Outside Entities (Vendors) for 340B Program
+            Management, Administration, or Facilitation
+
+                                                                 The Miriam Hospital
+            Covered Entity Name:
+                                                                 Immunology Center
+            Reporting for Calendar Year:                                            2025
+
+
+
+Instruction: Aggregate detail by service/contractor category for all payments made to vendors/contractors relating to the
+management, administration, and/or facilitation of any aspect of the Covered Entity's participation in the 340B Program.
+Examples of services/contractors to be aggregated include contracted pharmacies, split billing vendors, consultants, third-
+party administrators, and other vendors. For consultants and other vendors, provide a brief description of service provided.
+Aggregate payments for service/contractor categories individually paid less than $5,000.
+
+                Program Management, Administration, or                           Description
+Line No.                 Facilitation Category                             For Other / Consultants       Amount            Unit
+
+     1      Program Management                                   Third Party Administrators          $       56,397.88     USD
+     2      Program Compliance                                   340B Audit Vendor                   $        5,000.00     USD
+     3                                                                                                                     USD
+     4                                                                                                                     USD
+     5                                                                                                                     USD
+            Total Vendor Categories individually under
+            $5,000
+
+            Total Aggregated Payments to Outside Entities
+            (Vendors) for 340B Program Management,
+            Administration, or Facilitation (Supports Schedule
+            A - Line 4)                                                                              $       61,397.88
+                                                                                                     Schedule A - Line 4
+Form RIOAG 340B-Sch E (revised January 2026)
+            State of Rhode Island                                                                     Schedule F
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule F - Administrative Expenses for 340B Program
+
+                                                              The Miriam Hospital
+            Covered Entity Name:
+                                                              Immunology Center
+            Reporting for Calendar Year:                                  2025
+
+
+Instruction: Provide detail for all covered entity expenses (noncontracted) relating to the
+administration of the 340B program including staffing, operational, and administrative expenses.
+Detail individual expense categories with expenses of $5,000 or more. Aggregate expense categories
+individually less than $5,000.
+
+Line No.             Expense Category Description                    Amount/Value                     Unit
+
+     1      Salary                                            $                           61,512.80   USD
+     2                                                                                                USD
+     3                                                                                                USD
+     4                                                                                                USD
+     5                                                                                                USD
+     6                                                                                                USD
+     7                                                                                                USD
+     8                                                                                                USD
+     9                                                                                                USD
+    10                                                                                                USD
+            Total for expense categories individually under
+            $5,000
+
+            Total Aggregated Administrative Expenses for
+            340B Program                                      $                           61,512.80
+                                                                    Schedule A - Line 5
+
+
+
+
+Form RIOAG 340B-Sch F (revised January 2026)
+            State of Rhode Island                                                             Schedule G
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule G - Detail of Prescription Drugs Relating to Covered Entity Participation in the
+            340B Program Dispensed or Administered During the Period.
+            Covered Entity Name:                                 The Miriam Hospital Immunology Center
+            Reporting for Calendar Year:                                                        2025
+
+
+Instruction: List all prescription drugs relating to Covered Entity participation in the 340B Program during the period. Detail the total amount
+(cost of prescription drug obtained through the 340B program) and count of individual prescription drug claims dispensed or administered during
+the period. Aggregate all prescription drugs where costs for the particular drug were less than $5,000.
+                                                                 National Drug Code
+Line No.                       Prescription Drug Name                 Number               Amount             Unit         Count           Unit
+
+     1      MAVYRET 100/40 MG TAB 84                             00074262528          $         187,047.21    USD                   22    Claims
+     2      TIVICAY 50 MG TAB 30                                 49702022813          $          11,171.42    USD                    6    Claims
+     3      CABENUVA 600-900 MG SUS KIT                          49702024015          $           5,044.77    USD                    0    Claims
+     4      DOVATO 50MG-300MG TAB 30                             49702024613          $          10,078.38    USD                    4    Claims
+     5      APRETUDE 600 MG KIT                                  49702026423          $       1,285,350.78    USD                  419    Claims
+     6      HARVONI 90MG/400MG TAB 28                            61958180101          $           6,485.78    USD                    1    Claims
+     7      DESCOVY 200-25 MG TAB 30                             61958200201          $       1,055,345.28    USD                  994    Claims
+     8      DESCOVY 200MG-25MG TAB 30 UD                         61958200202          $           8,762.95    USD                    5    Claims
+     9      EPCLUSA 400/100 MG TAB 28                            61958220101          $          47,134.64    USD                    9    Claims
+    10      BIKTARVY 50MG/200MG/25MG TAB 30                      61958250101          $          24,266.40    USD                    5    Claims
+    11      YEZTUGO 300 MG TAB 4                                 61958340101          $          19,841.58    USD                   11    Claims
+    12      YEZTUGO 463.5 MG SDV 2X1.5 ML                        61958340201          $         119,049.70    USD                   11    Claims
+    13      SOFOSBUVIR VELPATASVR 400MG-100MG TAB 28             72626270101          $          66,655.91    USD                   13    Claims
+            Total Prescription Drugs individually under $5,000                        $          13,033.29    USD                  799    Claims
+
+            Total Costs of Prescription Drugs Obtained Through
+            340B Program Claimed for Reimbursement                                    $       2,859,268.09                         2299
+                                                                                                                      Mandated by RIGL
+                                                                                                                         § 5-19.3-6
+Form RIOAG 340B-Sch G (revised January 2026)
+            State of Rhode Island                                      Schedule H
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule H - 340B Program Savings Usage by Covered Entity to
+            Benefit Patients and/or its Community Through Programs, Projects,
+            and/or Services.
+
+                                                           The Miriam Hospital
+            Covered Entity Name:
+                                                           Immunology Center
+            Reporting for Calendar Year:                                    2025
+
+
+Instruction: List all programs, projects, and/or services provided by the Covered Entity through 340B
+Program savings that benefited patients and/or its community. Detail individual programs, projects, and/or
+services provided and the related costs incurred by the covered entity. Individually list programs, projects,
+and services with costs of $5,000 or more. Aggregate all other programs, projects, and services where costs
+totaled less than $5,000.
+
+Line No.           340B Net Revenue Usage Description                  Amount/Value                   Unit
+
+     1      Health Services Expansion                      N/A                                        USD
+     2      Community and Public Health Programs           N/A                                        USD
+     3      Improving Patient Access                       N/A                                        USD
+     4      Facility Upgrades                              N/A                                        USD
+     5      Technology Upgrades                            N/A                                        USD
+     6      Subsidize Losses - Medicaid and Medicare
+                                                                                                      USD
+            Program Underpayments                          N/A
+    7       Research and Innovation                        N/A                                        USD
+    8       Community Programs                             N/A                                        USD
+    9       Charity Care/Uncompensated Care                N/A                                        USD
+    10      Facility                                       $                             121,763.00   USD
+    11      Education                                      $                               7,268.08   USD
+    12      Uninsured patient care                         $                             356,125.27   USD
+    13      Salaries                                       $                             419,691.07   USD
+    14      Other                                                                                     USD
+            Other programs, projects, and services where
+                                                                                                      USD
+            costs totaled less than $5,000.
+            Total Aggregate Costs of Programs, Projects,
+            and/or Services Supported by 340B Net
+            Revenue                                        $                             904,847.42
+                                                                 Mandated by RIGL § 5-19.3-6.
+
+Form RIOAG 340B-Sch H (revised January 2026)
+             State of Rhode Island                                                                                  Schedule I
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule I - Covered Entity Certification Page
+                                                                                                The Miriam Hospital
+             Covered Entity Name:
+                                                                                                Immunology Center
+             Reporting for Calendar Year:                                                                              2025
+
+
+Line No.                                               Covered Entity Certification    YES NO If Yes, explain any noncompliance noted.
+
+            During the reporting period, did the covered entity conduct a self-audit
+     1      of their participation in the 340B Program as required by the Health
+            Resources and Services Administration (HRSA)?                              X
+
+
+            During the reporting period, was the covered entity audited by HRSA or
+     2
+            subject to a drug manufacturer audit approved by HRSA?                         X
+
+
+
+I certify, to the best of my knowledge and belief, that the information reported in this reporting package is materially complete and accurate?
+
+
+               Peter K. Markell
+              Peter K. Markell (Apr 1, 2026 13:10:42 EDT)                                       04/01/26
+                                                                Signature                                               Date
+                 Peter K. Markell
+                                                                                                    [email address in the PDF]
+                  EVP & CFO
+                                                              Name and Title                                           Email
+
+Form RIOAG 340B-Sch I (revised January 2026)
+STD02904 Appendix A - Excel Spreadsheet
+Structure for 340B Annual Report Form_Final
+3.2.2026
+Final Audit Report                                                           2026-04-01
+
+  Created:                2026-03-31
+
+  By:                     Barbara Dominguez ([email address in the PDF])
+
+  Status:                 Signed
+
+  Transaction ID:         CBJCHBCAABAAeQ9ArTnz78au86cR0B4IAMdVX1xz8tFC
+
+
+
+
+"STD02904 Appendix A - Excel Spreadsheet Structure for 340B
+Annual Report Form_Final 3.2.2026" History
+    Document created by Barbara Dominguez ([email address in the PDF])
+    2026-03-31 - 6:33:29 PM GMT
+
+
+    Document emailed to [email address in the PDF] for signature
+    2026-03-31 - 6:33:35 PM GMT
+
+
+    Email viewed by [email address in the PDF]
+    2026-04-01 - 5:08:46 PM GMT
+
+
+    Signer [email address in the PDF] entered name at signing as Peter K. Markell
+    2026-04-01 - 5:10:40 PM GMT
+
+
+    Document e-signed by Peter K. Markell ([email address in the PDF])
+    Signature Date: 2026-04-01 - 5:10:42 PM GMT - Time Source: server
+
+
+    Agreement completed.
+    2026-04-01 - 5:10:42 PM GMT
+

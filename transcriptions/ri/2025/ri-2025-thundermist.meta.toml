@@ -1,0 +1,15 @@
+filing_id = "ri-2025-thundermist"
+entity_id = "ri-thundermist"
+state = "RI"
+reporting_year = 2025
+entity_type = "health_center"
+source_file = "Thundermist-Health-Center-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "Thundermist Health Center"
+corporate_address_as_filed = "25 John A Cummings Way, Woonsocket RI 02895"
+opais_ids_as_filed = "CH011820, CH01182C, CH01182J, CH01182N, CH01182P, CH01182Q, CH01182R, CH01182S, CH01182U, CH01182V, CH01182W, FP028951"
+recertification_date_as_filed = "02/10/2026 (CH IDs), 5/9/2025 (FP IDs)"
+reporting_basis_as_filed = "Accrual"

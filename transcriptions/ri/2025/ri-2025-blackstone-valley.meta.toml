@@ -1,0 +1,15 @@
+filing_id = "ri-2025-blackstone-valley"
+entity_id = "ri-blackstone-valley"
+state = "RI"
+reporting_year = 2025
+entity_type = "health_center"
+source_file = "Blackstone-Valley-Community-Health-Center-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "Blackstone Valley Community Health Care"
+corporate_address_as_filed = "39 East Avenue, Pawtucket, RI 02860"
+opais_ids_as_filed = "CH011990, CH01199A, CH01199B, CH01199C, CH01199D, CH01199E, CH01199F"
+recertification_date_as_filed = "02/02/2026"
+reporting_basis_as_filed = "Accrual"

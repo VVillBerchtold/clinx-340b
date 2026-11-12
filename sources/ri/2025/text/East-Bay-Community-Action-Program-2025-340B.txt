@@ -1,0 +1,469 @@
+April 1, 2026
+
+David A. Bergantino, CPA, CFE.
+RI Auditor General
+33 Broad Street, Ste. 201
+Providence, RI 02903
+
+RE: 340B State Report – Schedule H
+
+Dear Auditor General Bergantino:
+
+On behalf of East Bay Community Action Program (EBCAP), I am formally submitting our Covered Entity 340B Drug
+Pricing Program Report for calendar year 2025. I would like to thank you for the opportunity to go through this process
+and become familiar with our reporting requirements.
+
+This letter will serve as our official response to and explanation of Schedule H in this report. EBCAP utilizes 340B
+Program savings as General Operating revenue to ensure maximum flexibility in meeting the evolving needs of the
+communities we serve. As an integrated Federally Qualified Health Center, Community Action Agency, and
+Community Mental Health Center, EBCAP delivers a broad continuum of medical, behavioral health, dental, and social
+services. Allocating 340B savings to general operations allows these funds to eligible programs where and when they
+are needed. We have utilized 340B revenue to support virtually every reporting category each year and allows us to
+ensure the continuity of critical services to the more than 30,000 Rhode Island residents served in 2025.
+
+Because these savings are not restricted to specific program budgets and are instead deployed across the organization to
+address priority needs in real time, EBCAP cannot assign precise dollar amounts to individual programs, projects, or
+services. Rather, 340B savings are integrated into the overall financial structure to sustain and enhance services across
+all departments, ensuring continuity of care and responsiveness to patient and community needs. This approach is
+particularly critical given the dynamic healthcare and policy environment, including ongoing state and federal
+regulatory changes and manufacturer-imposed 340B restrictions that require rapid operational adjustments. Maintaining
+340B savings within general operating revenue enables EBCAP to pivot quickly, preserve access to care, and continue
+delivering comprehensive, high-quality services to underserved populations without disruption. As an example, In 2025,
+EBCAP supported 10,682 patients of which 4,947 receive healthcare coverage from Medicaid (46%). Using that
+percentage, we estimate our annual losses due to underpayments from Medicaid/Medicare programs to be
+approximately $2,920,000 spread across our medical, behavioral health, and dental programs.
+
+We will continue to look for avenues that will support a more detailed report for 340B revenue.
+
+Sincerely
+
+
+
+
+Gwen Redmond,
+Director, Strategic Initiatives
+            State of Rhode Island
+            340B Drug Pricing Program - Mandated Covered Entity Reporting
+            Mandated Reporting Cover Page
+
+                      Covered Entity 340B Drug Pricing Program Reporting Mandated by
+                                      RI General Law Section 5-19.3-6.
+
+            Covered Entity Name:                                  East Bay Community Action Program
+            Covered Entity Corporate Address:                     19 Broadway, Newport, RI 02840
+            340B ID Number(s)                                     CH015160
+            Reporting for Calendar Year:                                           2025
+
+
+
+
+            Covered Entity Required Information
+
+            Date of most recent recertification with the Health
+            Resources and Service Administration                  2/28/2026
+
+            Reporting Basis (i.e., Cash or Accrual)               Accrual
+
+
+
+
+Form RIOAG-340B (Revised January 2026)
+             State of Rhode Island                                                                                             Schedule A
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule A - Aggregate Reporting Schedule
+
+             Covered Entity Name:                                          EBCAP
+             Reporting for Calendar Year:                                     2025
+
+
+
+
+                                                                                                          Schedule
+Line No.                        Data Element                       Data Element Description                 Ref      Amount          Unit
+
+                                                          Total aggregated cost to entity for drugs
+            Total Aggregated Acquisition Cost for All
+     1                                                    purchased under 340B (actual paid, incl.           B       $2,022,482.80   USD
+            340B Program Drugs
+                                                          fees) during the previous calendar year.
+
+                                                     Total payments (claim reimbursements)
+                                                     received for 340B drugs dispensed/
+            Total Aggregated Payment Amount Received
+     2                                               administered to patients with commercial                C       $4,641,428.56   USD
+            for Dispensed/Administered 340B Drugs
+                                                     medical insurance, Medical Assistance,
+                                                     and/or Medicare Supplemental plans.
+
+            Total Aggregated Payments to Contract
+                                                          Total payments made to contract
+     3      Pharmacies for 340B Program Prescription                                                         D        $256,363.02    USD
+                                                          pharmacies for dispensing 340B drugs.
+            Drugs
+
+            Total Aggregated Payments to Outside        Total payments to vendors managing,
+     4      Entities (Vendors) for 340B Program         administering, or facilitating any aspect of         E        $352,207.69    USD
+            Management, Administration, or Facilitation the 340B covered entity's drug program.
+
+                                                          Total covered entity expenses for staffing,
+            Total Aggregated Administrative Expenses
+     5                                                    operations, and administration related to the      F        $357,105.45    USD
+            for 340B Program
+                                                          340B program.
+
+
+                                                          Payments Received (Line 2) - (Acquisition
+            Net 340B Revenue Calculation (Auto-
+     6                                                    Costs (Line 1) + Administration Expenses                   $1,653,269.60   USD
+            Calculated)
+                                                          (Lines 3, 4 & 5)
+
+Form RIOAG 340B-Sch A (revised January 2026)
+            State of Rhode Island                                Schedule B
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule B - Acquisition Cost Detail Schedule
+
+            Covered Entity Name:                                        EBCAP
+            Reporting for Calendar Year:                                   2025
+
+
+
+Instruction: Provide detail for all vendors (e.g. manufacturers, wholesalers) where the covered
+entity procured $5,000 or more of prescription drugs from an individual vendor/pharmacy under the
+340B program. Provide an aggregated total for vendors where procurement was less than $5,000.
+
+Line No.                            Vendor Name                        Amount Paid           Unit
+
+     1      Cardinal Health 110 LLC                                          $1,936,789.08   USD
+     2      Amerisource Bergen 340B                                             $85,693.72   USD
+     3                                                                                       USD
+     4                                                                                       USD
+     5                                                                                       USD
+     6                                                                                       USD
+     7                                                                                       USD
+     8                                                                                       USD
+     9                                                                                       USD
+    10                                                                                       USD
+            Total for vendors under $5,000                                                   USD
+
+            Total Aggregated Acquisition Cost for all 340B Program
+            Drugs - (Supports Schedule A, Line 1)                                            USD
+                                                                             $2,022,482.80
+                                                                     Schedule A - Line 1
+
+
+
+
+Form RIOAG 340B-Sch B (revised January 2026)
+            State of Rhode Island                               Schedule C
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule C - Claim Reimbursements For 340B
+            Dispensed / Administered Drugs
+
+            Covered Entity Name:                              EBCAP
+            Reporting for Calendar Year:                         2025
+
+
+
+Instruction: Provide detail (amount and number of individual claims) for all reimbursements relating to
+pharmaceuticals obtained under the 340B Drug Program from commercial insurance (including
+Medicare Supplemental plans), Medical Assistance, Medicare, and or other sources. This schedule
+should total all reimbursements relating to pharmaceuticals obtained under the 340B Drug Program.
+
+                                                               Amount
+Line No.                 Reimbursement Source                Reimbursed          Unit   Count      Unit
+
+     1      Commercial Insurance                               $1,163,581.55     USD    2,900     Claims
+     2      Medical Assistance (i.e., Medicaid)                $1,487,872.42     USD    2,391     Claims
+     3      Medicare                                           $1,989,719.61     USD    3,027     Claims
+     4      Other Sources                                            $254.98     USD      14      Claims
+
+
+
+
+            Total Aggregated Payment Amount Received for
+            Dispensed/Administered 340B Drugs (Supports
+            Schedule A - Line 2)                               $4,641,428.56              8,332
+                                                           Schedule A - Line 2
+
+
+
+Form RIOAG 340B-Sch C (revised January 2026)
+            State of Rhode Island                                Schedule D
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule D - Payment to Contract Pharmacy Detail Schedule
+
+            Covered Entity Name:                                        EBCAP
+            Reporting for Calendar Year:                                   2025
+
+
+
+Instruction: Provide detail for all payments made to contract pharmacies for dispensing 340B
+prescription drugs during the reporting period. Individually list any contract pharmacy paid $5,000 or
+more. Aggregate payments to contract pharmacies paid less than $5,000.
+
+Line No.                    Contract Pharmacy Name                     Amount Paid          Unit
+
+     1      CVS                                                                $49,740.00   USD
+     2      Walgreens                                                          $30,275.00   USD
+     3      Genoa Healthcare                                                  $176,348.02   USD
+     4                                                                                      USD
+     5                                                                                      USD
+     6                                                                                      USD
+     7                                                                                      USD
+     8                                                                                      USD
+     9                                                                                      USD
+    10                                                                                      USD
+            Total for contract pharmacies under $5,000
+
+            Total Aggregated Payments to Contract Pharmacies for
+            340B Program Prescription Drugs (Supports Schedule A -
+            Line 3)                                                           $256,363.02
+                                                                     Schedule A - Line 3
+
+
+
+
+Form RIOAG 340B-Sch D (revised January 2026)
+            State of Rhode Island                                                Schedule E
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule E - Payments to Outside Entities (Vendors) for 340B Program
+            Management, Administration, or Facilitation
+
+            Covered Entity Name:                                          EBCAP
+            Reporting for Calendar Year:                                             2025
+
+
+
+Instruction: Aggregate detail by service/contractor category for all payments made to vendors/contractors relating to the
+management, administration, and/or facilitation of any aspect of the Covered Entity's participation in the 340B Program.
+Examples of services/contractors to be aggregated include contracted pharmacies, split billing vendors, consultants, third-
+party administrators, and other vendors. For consultants and other vendors, provide a brief description of service
+provided. Aggregate payments for service/contractor categories individually paid less than $5,000.
+
+                      Program Management, Administration, or                      Description
+Line No.                       Facilitation Category                        For Other / Consultants       Amount            Unit
+
+     1      340B Technologies DBA NuvemRx                                 Third Party Administrator         $240,440.83     USD
+     2      CVS WellPartner                                               Third Party Administrator          $78,350.69     USD
+     3      Walgreens 340B Complete                                       Third Party Administrator          $33,416.17     USD
+     4                                                                                                                      USD
+     5                                                                                                                      USD
+     6                                                                                                                      USD
+     7                                                                                                                      USD
+     8                                                                                                                      USD
+            Total Vendor Categories individually under $5,000
+
+            Total Aggregated Payments to Outside Entities (Vendors) for
+            340B Program Management, Administration, or Facilitation
+            (Supports Schedule A - Line 4)                                                                  $352,207.69
+                                                                                                      Schedule A - Line 4
+Form RIOAG 340B-Sch E (revised January 2026)
+            State of Rhode Island                                 Schedule F
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule F - Administrative Expenses for 340B Program
+
+            Covered Entity Name:                                   EBCAP
+            Reporting for Calendar Year:                              2025
+
+
+Instruction: Provide detail for all covered entity expenses (noncontracted) relating to the
+administration of the 340B program including staffing, operational, and administrative expenses.
+Detail individual expense categories with expenses of $5,000 or more. Aggregate expense categories
+individually less than $5,000.
+
+Line No.                Expense Category Description             Amount/Value             Unit
+
+     1      Personnel                                                       $86,702.00    USD
+     2      Administrative Overhead                                        $266,803.45    USD
+     3                                                                                    USD
+     4                                                                                    USD
+     5                                                                                    USD
+     6                                                                                    USD
+     7                                                                                    USD
+     8                                                                                    USD
+     9                                                                                    USD
+    10                                                                                    USD
+            Total for expense categories individually under
+            $5,000                                                            $3,600.00
+
+            Total Aggregated Administrative Expenses for 340B
+            Program                                                        $357,105.45
+                                                                Schedule A - Line 5
+
+
+
+
+Form RIOAG 340B-Sch F (revised January 2026)
+           State of Rhode Island                                                                  Schedule G
+           340B Drug Pricing Program - Covered Entity Reporting
+           Schedule G - Detail of Prescription Drugs Relating to Covered Entity Participation in the
+           340B Program Dispensed or Administered During the Period.
+
+           Covered Entity Name:                                             EBCAP
+           Reporting for Calendar Year:                                        2025
+
+
+Instruction: List all prescription drugs relating to Covered Entity participation in the 340B Program during the period. Detail the total amount (cost of
+prescription drug obtained through the 340B program) and count of individual prescription drug claims dispensed or administered during the period.
+Aggregate all prescription drugs where costs for the particular drug were less than $5,000.
+
+
+Line No.                  Prescription Drug Name                    National Drug Code Number          Amount            Unit        Count          Unit
+
+    1      Invega Trinza 819 MG/2.63ML SUSY 2.63x1 ML                              50458060901          $154,664.97      USD                  28   Claims
+    2      Ozempic (0.25 or 0.5 MG/DOSE) 2 MG/3ML SOPN 3x1 ML                      00169418113          $112,305.65      USD                 342   Claims
+    3      Invega Sustenna 234 MG/1.5ML SUSY 1.5x1 ML                              50458056401          $109,300.97      USD                  84   Claims
+    4      Invega Sustenna 156 MG/ML SUSY 1x1 ML                                   50458056301          $103,664.19      USD                 120   Claims
+    5      Ingrezza 60 MG CAPS 30x1 EA                                             70370106001          $100,695.99      USD                  19   Claims
+    6      Invega Trinza 546 MG/1.75ML SUSY 1.75x1 ML                              50458060801           $99,257.53      USD                  27   Claims
+    7      Ozempic (1 MG/DOSE) 4 MG/3ML SOPN 3x1 ML                                00169413013           $76,889.77      USD                 215   Claims
+    8      Abilify Maintena 400 MG PRSY 1x1 EA                                     59148007280           $67,409.32      USD                  46   Claims
+    9      Vraylar 3 MG CAPS 30x1 EA                                               61874013030           $62,168.13      USD                  78   Claims
+   10      Ozempic (2 MG/DOSE) 8 MG/3ML SOPN 3x1 ML                                00169477212           $61,657.77      USD                 197   Claims
+   11      Suboxone 8-2 MG FILM 30x1 EA                                            12496120803           $55,353.06      USD                 187   Claims
+   12      Vraylar 1.5 MG CAPS 30x1 EA                                             61874011530           $42,279.36      USD                  51   Claims
+   13      Mounjaro 10 MG/0.5ML SOAJ 0.5x4 ML                                      00002147180           $41,637.77      USD                  51   Claims
+   14      Aristada 882 MG/3.2ML PRSY 3.2x1 ML                                     65757040303           $39,782.15      USD                  19   Claims
+   15      Vraylar 6 MG CAPS 30x1 EA                                               61874016030           $39,427.62      USD                  49   Claims
+   16      Rexulti 1 MG TABS 30x1 EA                                               59148003713           $33,473.68      USD                  44   Claims
+   17      Mounjaro 7.5 MG/0.5ML SOAJ 0.5x4 ML                                     00002148480           $33,051.95      USD                  42   Claims
+   18      Mounjaro 15 MG/0.5ML SOAJ 0.5x4 ML                                      00002145780           $30,119.19      USD                  32   Claims
+   19      Trulicity 3 MG/0.5ML SOAJ 0.5x4 ML                                      00002223680           $29,582.27      USD                  40   Claims
+20   Rexulti 0.5 MG TABS 30x1 EA                        59148003613   $28,939.17   USD    36   Claims
+21   Abilify Maintena 300 MG PRSY 1x1 EA                59148004580   $28,591.07   USD    26   Claims
+22   Trelegy Ellipta 100-62.5-25 MCG/ACT AEPB 60x1 EA   00173088710   $26,377.32   USD   104   Claims
+23   Rexulti 2 MG TABS 30x1 EA                          59148003813   $23,455.82   USD    31   Claims
+24   Rexulti 3 MG TABS 30x1 EA                          59148003913   $22,231.23   USD    31   Claims
+25   Mounjaro 5 MG/0.5ML SOAJ 0.5x4 ML                  00002149580   $22,038.16   USD    28   Claims
+26   BIKTARVY TAB                                       61958250101   $19,401.31   USD     7   Claims
+27   Mounjaro 12.5 MG/0.5ML SOAJ 0.5x4 ML               00002146080   $18,880.44   USD    22   Claims
+28   Mounjaro 2.5 MG/0.5ML SOAJ 0.5x4 ML                00002150680   $18,810.78   USD    24   Claims
+29   Sublocade 100 MG/0.5ML SOSY 0.5x1 ML               12496010001   $18,139.27   USD    13   Claims
+30   risperiDONE Microspheres ER 50 MG SRER 1x1 EA      00480145308   $17,981.60   USD    28   Claims
+31   ENVARSUS XR TAB 4MG                                68992304003   $16,244.57   USD    12   Claims
+32   Caplyta 42 MG CAPS 30x1 EA                         72060014240   $14,744.38   USD    13   Claims
+33   Trelegy Ellipta 200-62.5-25 MCG/ACT AEPB 60x1 EA   00173089310   $14,735.23   USD    58   Claims
+34   Wegovy 0.25 MG/0.5ML SOAJ 0.5x4 ML                 00169452514   $14,034.74   USD    24   Claims
+35   Wegovy 0.5 MG/0.5ML SOAJ 0.5x4 ML                  00169450514   $13,178.10   USD    23   Claims
+36   Descovy 200-25 MG TABS 30x1 EA                     61958200201   $13,102.18   USD    13   Claims
+37   Wegovy 1.7 MG/0.75ML SOAJ 0.75x4 ML                00169451714   $12,031.00   USD    21   Claims
+38   XCOPRI TAB 25MG                                    71699002530   $11,937.04   USD     6   Claims
+39   metFORMIN HCl 625 MG TABS 30x1 EA                  62135068130   $11,859.99   USD    11   Claims
+40   Uzedy 100 MG/0.28ML SUSY 0.28x1 ML                 51759052010   $11,730.29   USD    14   Claims
+41   Aristada 441 MG/1.6ML PRSY 1.6x1 ML                65757040103   $11,615.99   USD    11   Claims
+42   XCOPRI TAB 100MG                                   71699010030   $11,031.46   USD     9   Claims
+43   XCOPRI TAB 50MG                                    71699005030   $10,906.05   USD     5   Claims
+44   Uzedy 125 MG/0.35ML SUSY 0.35x1 ML                 51759063010   $10,829.55   USD    10   Claims
+45   Nurtec 75 MG TBDP 8x1 EA                           72618300002   $10,810.14   USD    30   Claims
+46   Caplyta 10.5 MG CAPS 30x1 EA                       72060011040   $10,532.17   USD    10   Claims
+47   Wegovy 1 MG/0.5ML SOAJ 0.5x4 ML                    00169450114   $10,387.62   USD    18   Claims
+48   RisperDAL Consta 25 MG SRER 1x1 EA                 50458030611   $10,084.38   USD    27   Claims
+49   Abilify Maintena 400 MG SRER 1x1 EA                59148001971    $9,197.39   USD     7   Claims
+50   risperiDONE Microspheres ER 25 MG SRER 1x1 EA      00480123208    $8,229.60   USD    26   Claims
+51   AUVELITY TAB 45-105MG                              81968004560    $7,620.46   USD    10   Claims
+52   PAXLOVID NEW 300/100MG T STANDARD                  00069532130    $7,580.35   USD     7   Claims
+53   Vraylar 4.5 MG CAPS 30x1 EA                        61874014530    $7,414.14   USD    10   Claims
+54   Zepbound 7.5 MG/0.5ML SOAJ 0.5x4 ML                00002248480    $7,366.92   USD     9   Claims
+55   Wegovy 2.4 MG/0.75ML SOAJ 0.75x4 ML                00169452414    $7,354.82   USD    13   Claims
+56   Trintellix 20 MG TABS 30x1 EA                      64764075030    $7,169.76   USD   109   Claims
+57   Entresto 24-26 MG TABS 60x1 EA                     00078065920    $7,050.32   USD    13   Claims
+    58      Qelbree 200 MG CP24 30x1 EA                               17772013330      $6,561.54    USD               15Claims
+    59      Abilify Maintena 400 MG SRER 1x1 EA                       59148024512      $6,447.00    USD                3Claims
+    60      Trulicity 0.75 MG/0.5ML SOAJ 0.5x4 ML                     00002143380      $6,371.31    USD               15Claims
+    61      Ajovy 225 MG/1.5ML SOAJ 1.5x1 ML                          51759020210      $5,883.46    USD               31Claims
+    62      Zepbound 5 MG/0.5ML SOAJ 0.5x4 ML                         00002249580      $5,832.94    USD                7Claims
+    63      Breztri Aerosphere 160-9-4.8 MCG/ACT AERO 10.7x1 GM       00310461612      $5,750.34    USD               24Claims
+    64      Incruse Ellipta 62.5 MCG/ACT AEPB 30x1 EA                 00173087310      $5,630.74    USD               61Claims
+    65      Basaglar KwikPen 100 UNIT/ML SOPN 3x5 ML                  00002771559      $5,623.55    USD               18Claims
+    66      Ingrezza 80 MG CAPS 30x1 EA                               70370108001      $5,559.94    USD                1Claims
+    67      Invega Trinza 410 MG/1.32ML SUSY 1.32x1 ML                50458060701      $5,540.43    USD                2Claims
+    68      Breo Ellipta 100-25 MCG/ACT AEPB 60x1 EA                  00173085910      $5,452.14    USD               59Claims
+    69      Aristada 1064 MG/3.9ML PRSY 3.9x1 ML                      65757040403      $5,213.76    USD                2Claims
+    70      Ingrezza 40 MG CAPS 30x1 EA                               70370204001      $5,060.62    USD                1Claims
+            Total Prescription Drugs individually under $5,000                        $200,283.95   USD            5573 Claims
+
+            Total Costs of Prescription Drugs Obtained Through 340B
+            Program Claimed for Reimbursement                                       $2,101,557.87                   8352
+
+                                                                                                           Mandated by
+                                                                                                          RIGL § 5-19.3-6
+
+Form RIOAG 340B-Sch G (revised January 2026)
+            State of Rhode Island                                   Schedule H
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule H - 340B Program Savings Usage by Covered Entity to
+            Benefit Patients and/or its Community Through Programs,
+            Projects, and/or Services.
+
+            Covered Entity Name:                                                 EBCAP
+            Reporting for Calendar Year:                                            2025
+
+
+Instruction: List all programs, projects, and/or services provided by the Covered Entity through 340B
+Program savings that benefited patients and/or its community. Detail individual programs, projects,
+and/or services provided and the related costs incurred by the covered entity. Individually list
+programs, projects, and services with costs of $5,000 or more. Aggregate all other programs, projects,
+and services where costs totaled less than $5,000.
+
+Line No.                 340B Net Revenue Usage Description                    Amount/Value             Unit
+
+     1      Health Services Expansion                                                                   USD
+     2      Community and Public Health Programs                                                        USD
+     3      Improving Patient Access                                                                    USD
+     4      Facility Upgrades                                                                           USD
+     5      Technology Upgrades                                                                         USD
+     6      Subsidize Losses - Medicaid and Medicare Program
+                                                                                                        USD
+            Underpayments
+    7       Research and Innovation                                                                     USD
+    8       Community Programs                                                                          USD
+    9       Charity Care/Uncompensated Care                                                             USD
+    10      Other                                                                                       USD
+            Other programs, projects, and services where costs totaled
+                                                                                                        USD
+            less than $5,000.
+
+            Total Aggregate Costs of Programs, Projects, and/or
+            Services Supported by 340B Net Revenue
+
+
+                                                                         Mandated by RIGL § 5-19.3-6.
+            ** See attached documentation
+Form RIOAG 340B-Sch H (revised January 2026)
+             State of Rhode Island                                                                                  Schedule I
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule I - Covered Entity Certification Page
+
+             Covered Entity Name:                                                                                  EBCAP
+             Reporting for Calendar Year:                                                                              2025
+
+
+                                                                                                               If Yes, explain any
+Line No.                            Covered Entity Certification                         YES     NO          noncompliance noted.
+
+            During the reporting period, did the covered entity conduct a self-audit
+     1      of their participation in the 340B Program as required by the Health          √                            None
+            Resources and Services Administration (HRSA)?
+
+
+            During the reporting period, was the covered entity audited by HRSA or
+     2
+            subject to a drug manufacturer audit approved by HRSA?
+                                                                                                  √
+
+I certify, to the best of my knowledge and belief, that the information reported in this reporting package is materially complete and
+accurate?
+
+
+
+                                                                                                                     4/1/2026
+                                               Signature                                                               Date
+
+
+
+            Gwen Redmond, Director, Strategic Initiatives                                                     [email address in the PDF]
+                                      Name and Title                                                                 Email
+
+Form RIOAG 340B-Sch I (revised January 2026)
+

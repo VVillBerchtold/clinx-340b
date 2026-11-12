@@ -1,0 +1,21 @@
+filing_id = "ri-2025-kent-hospital"
+entity_id = "ri-kent-hospital"
+state = "RI"
+reporting_year = 2025
+entity_type = "hospital"
+source_file = "Kent-County-Memorial-Hospital-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "Kent County Memorial Hospital"
+corporate_address_as_filed = "455 Toll Gate Rd. Warwick, RI 02886"
+opais_ids_as_filed = "DSH410009"
+recertification_date_as_filed = "8/15/2025"
+reporting_basis_as_filed = "Accrual"
+
+[[attachments]]
+pages = "1-2"
+kind = "cover_letter"
+title_as_filed = "Kent Hospital – Annual 340B Report"
+note = "A two-page narrative letter from the hospital that describes the hospital and summarizes each schedule."

@@ -1,0 +1,380 @@
+            State of Rhode Island
+            340B Drug Pricing Program - Mandated Covered Entity Reporting
+            Mandated Reporting Cover Page
+
+                      Covered Entity 340B Drug Pricing Program Reporting Mandated by
+                                      RI General Law Section 5-19.3-6.
+
+            Covered Entity Name:                                  Comprehensive Community Action, Inc.
+            Covered Entity Corporate Address:                     1 Capital Way, Cranston, RI 02910
+            340B ID Number(s)                                     CHC06666-00, CHC06666-01, CHC06666-02, CHC066666-04
+
+            Reporting for Calendar Year:                                                2025
+
+
+
+
+            Covered Entity Required Information
+
+            Date of most recent recertification with the Health
+            Resources and Service Administration                                     2/9/2026
+
+            Reporting Basis (i.e., Cash or Accrual)               Cash
+
+
+
+
+Form RIOAG-340B (Revised January 2026)
+             State of Rhode Island                                                                                            Schedule A
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule A - Aggregate Reporting Schedule
+
+             Covered Entity Name:                         Comprehensive Community Action, Inc.
+
+             Reporting for Calendar Year:                                     2025
+
+
+
+
+                                                                                                          Schedule
+Line No.                        Data Element                       Data Element Description                 Ref      Amount         Unit
+
+                                                          Total aggregated cost to entity for drugs
+            Total Aggregated Acquisition Cost for All
+     1                                                    purchased under 340B (actual paid, incl.           B         250279.19    USD
+            340B Program Drugs
+                                                          fees) during the previous calendar year.
+
+                                                     Total payments (claim reimbursements)
+                                                     received for 340B drugs dispensed/
+            Total Aggregated Payment Amount Received
+     2                                               administered to patients with commercial                C         530567.01    USD
+            for Dispensed/Administered 340B Drugs
+                                                     medical insurance, Medical Assistance,
+                                                     and/or Medicare Supplemental plans.
+
+            Total Aggregated Payments to Contract
+                                                          Total payments made to contract
+     3      Pharmacies for 340B Program Prescription                                                         D             46815    USD
+                                                          pharmacies for dispensing 340B drugs.
+            Drugs
+
+            Total Aggregated Payments to Outside        Total payments to vendors managing,
+     4      Entities (Vendors) for 340B Program         administering, or facilitating any aspect of         E                 0    USD
+            Management, Administration, or Facilitation the 340B covered entity's drug program.
+
+                                                          Total covered entity expenses for staffing,
+            Total Aggregated Administrative Expenses
+     5                                                    operations, and administration related to the      F           48110.4    USD
+            for 340B Program
+                                                          340B program.
+
+
+                                                          Payments Received (Line 2) - (Acquisition
+            Net 340B Revenue Calculation (Auto-
+     6                                                    Costs (Line 1) + Administration Expenses                    $185,362.42   USD
+            Calculated)
+                                                          (Lines 3, 4 & 5)
+
+Form RIOAG 340B-Sch A (revised January 2026)
+            State of Rhode Island                                Schedule B
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule B - Acquisition Cost Detail Schedule
+
+            Covered Entity Name:                                     Comprehensive Community Action, Inc.
+
+            Reporting for Calendar Year:                                        2025
+
+
+
+Instruction: Provide detail for all vendors (e.g. manufacturers, wholesalers) where the covered
+entity procured $5,000 or more of prescription drugs from an individual vendor/pharmacy under the
+340B program. Provide an aggregated total for vendors where procurement was less than $5,000.
+
+Line No.                            Vendor Name                             Amount Paid             Unit
+
+     1      McKesson                                                                   250270.19    USD
+     2                                                                                              USD
+     3                                                                                              USD
+     4                                                                                              USD
+     5                                                                                              USD
+     6                                                                                              USD
+     7                                                                                              USD
+     8                                                                                              USD
+     9                                                                                              USD
+    10                                                                                              USD
+            Total for vendors under $5,000                                                          USD
+
+            Total Aggregated Acquisition Cost for all 340B Program
+            Drugs - (Supports Schedule A, Line 1)                                                   USD
+                                                                                       250270.19
+                                                                         Schedule A - Line 1
+
+
+
+
+Form RIOAG 340B-Sch B (revised January 2026)
+            State of Rhode Island                               Schedule C
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule C - Claim Reimbursements For 340B
+            Dispensed / Administered Drugs
+
+            Covered Entity Name:                            Comprehensive Community Action, Inc.
+            Reporting for Calendar Year:                            2025
+
+
+
+Instruction: Provide detail (amount and number of individual claims) for all reimbursements relating to
+pharmaceuticals obtained under the 340B Drug Program from commercial insurance (including
+Medicare Supplemental plans), Medical Assistance, Medicare, and or other sources. This schedule
+should total all reimbursements relating to pharmaceuticals obtained under the 340B Drug Program.
+
+                                                                  Amount
+Line No.                 Reimbursement Source                   Reimbursed          Unit        Count      Unit
+
+     1      Commercial Insurance                                       121492.89    USD          807      Claims
+     2      Medical Assistance (i.e., Medicaid)*                       142076.88    USD         1189      Claims
+     3      Medicare                                                   266997.24    USD         1139      Claims
+     4      Other Sources                                                      0    USD           0       Claims
+
+
+
+
+            Total Aggregated Payment Amount Received for
+            Dispensed/Administered 340B Drugs (Supports
+            Schedule A - Line 2)                                       530567.01                   3135
+                                                              Schedule A - Line 2
+
+            *Medicaid claims are patients covered by an MCO coverage not traditional Medicaid
+Form RIOAG 340B-Sch C (revised January 2026)
+            State of Rhode Island                                Schedule D
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule D - Payment to Contract Pharmacy Detail Schedule
+
+            Covered Entity Name:                                     Comprehensive Community Action, Inc.
+
+            Reporting for Calendar Year:                                      2025
+
+
+Instruction: Provide detail for all payments made to contract pharmacies for dispensing 340B
+prescription drugs during the reporting period. Individually list any contract pharmacy paid $5,000 or
+more. Aggregate payments to contract pharmacies paid less than $5,000.
+
+Line No.                    Contract Pharmacy Name                        Amount Paid           Unit
+
+     1      Walgreens                                                                   46815   USD
+     2                                                                                          USD
+     3                                                                                          USD
+     4                                                                                          USD
+     5                                                                                          USD
+     6                                                                                          USD
+     7                                                                                          USD
+     8                                                                                          USD
+     9                                                                                          USD
+    10                                                                                          USD
+            Total for contract pharmacies under $5,000
+
+            Total Aggregated Payments to Contract Pharmacies for
+            340B Program Prescription Drugs (Supports Schedule A -
+            Line 3)                                                                     46815
+                                                                        Schedule A - Line 3
+
+
+
+
+Form RIOAG 340B-Sch D (revised January 2026)
+            State of Rhode Island                                                Schedule E
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule E - Payments to Outside Entities (Vendors) for 340B Program
+            Management, Administration, or Facilitation
+
+            Covered Entity Name:                                          Comprehensive Community Action, Inc.
+
+            Reporting for Calendar Year:                                            2025
+
+
+
+Instruction: Aggregate detail by service/contractor category for all payments made to vendors/contractors relating to the
+management, administration, and/or facilitation of any aspect of the Covered Entity's participation in the 340B Program.
+Examples of services/contractors to be aggregated include contracted pharmacies, split billing vendors, consultants, third-
+party administrators, and other vendors. For consultants and other vendors, provide a brief description of service
+provided. Aggregate payments for service/contractor categories individually paid less than $5,000.
+
+                      Program Management, Administration, or                     Description
+Line No.                       Facilitation Category                       For Other / Consultants       Amount            Unit
+
+     1                                                                                                                     USD
+     2                                                                                                                     USD
+     3                                                                                                                     USD
+     4                                                                                                                     USD
+     5                                                                                                                     USD
+     6                                                                                                                     USD
+     7                                                                                                                     USD
+     8                                                                                                                     USD
+            Total Vendor Categories individually under $5,000
+
+            Total Aggregated Payments to Outside Entities (Vendors) for
+            340B Program Management, Administration, or Facilitation
+            (Supports Schedule A - Line 4)
+                                                                                                     Schedule A - Line 4
+Form RIOAG 340B-Sch E (revised January 2026)
+            State of Rhode Island                                 Schedule F
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule F - Administrative Expenses for 340B Program
+
+            Covered Entity Name:                                Comprehensive Community Action, Inc.
+
+            Reporting for Calendar Year:                                   2025
+
+
+Instruction: Provide detail for all covered entity expenses (noncontracted) relating to the
+administration of the 340B program including staffing, operational, and administrative expenses.
+Detail individual expense categories with expenses of $5,000 or more. Aggregate expense categories
+individually less than $5,000.
+
+Line No.                Expense Category Description                  Amount/Value             Unit
+
+     1      Staff salaries conducting 340B compliance           $                  48,110.40   USD
+     2                                                                                         USD
+     3                                                                                         USD
+     4                                                                                         USD
+     5                                                                                         USD
+     6                                                                                         USD
+     7                                                                                         USD
+     8                                                                                         USD
+     9                                                                                         USD
+    10                                                                                         USD
+            Total for expense categories individually under
+            $5,000
+
+            Total Aggregated Administrative Expenses for 340B
+            Program                                             $                  48,110.40
+                                                                     Schedule A - Line 5
+
+
+
+
+Form RIOAG 340B-Sch F (revised January 2026)
+           State of Rhode Island                                                              Schedule G
+           340B Drug Pricing Program - Covered Entity Reporting
+           Schedule G - Detail of Prescription Drugs Relating to Covered Entity Participation in the
+           340B Program Dispensed or Administered During the Period.
+
+           Covered Entity Name:                              Comprehensive Community Action, Inc.
+
+           Reporting for Calendar Year:                                 2025
+
+
+Instruction: List all prescription drugs relating to Covered Entity participation in the 340B Program during the period. Detail the total amount
+(cost of prescription drug obtained through the 340B program) and count of individual prescription drug claims dispensed or administered during
+the period. Aggregate all prescription drugs where costs for the particular drug were less than $5,000.
+
+
+Line No.                 Prescription Drug Name              National Drug Code Number          Amount           Unit        Count        Unit
+
+    1      Trulicity 3MG/0.5ML Inj                           00002223680                  $        14,542.08    USD           37         Claims
+    2      Trulicity 0.75MG/0.5ML Inj                        00002143380                  $        14,542.08    USD           49         Claims
+    3      Mounjaro 5MG/0.5ML Inj                            00002149580                  $        12,512.25    USD           20         Claims
+    4      Mounjaro 7.5MG/0.5ML Inj                          00002148480                  $        11,678.10    USD           25         Claims
+    5      Trulicity 1.5MG/0.5ML Inj                         00002143480                  $        11,360.75    USD           36         Claims
+    6      Januvia 50MG/0.5ML Inj                            00006011231                  $        11,307.19    USD           61         Claims
+    7      Ozempic 2MG                                       00169477212                  $        11,018.74    USD           65         Claims
+    8      Trelegy Ellipta 100-62.5MCG                       00173089310                  $        10,988.01    USD           118        Claims
+    9      Mounjaro 2.5MG/0.5ML Inj                          00002150680                  $        10,844.08    USD           19         Claims
+   10      Ozempic .25 OR .5MG                               00169418113                  $        10,149.51    USD           41         Claims
+   11      Januvia 100MG Tablets                             00006027731                  $         7,937.52    USD           39         Claims
+   12      Ozempic 1MG                                       00169413013                  $         7,000.40    USD           46         Claims
+   13      Januvia 25MG Tablets                              00006022131                  $         6,613.34    USD           38         Claims
+   14      Wegovy 2.4MG/0.75ML                               00169452414                  $         5,618.88    USD           15         Claims
+   15      Trulicity 4.5MG/0.5ML Inj                         00002318280                  $         5,471.06    USD            9         Claims
+   16      Zepbound 5MG/0.5ML Inj                            00002250680                  $         5,216.10    USD           14         Claims
+   17      Genvoya Tab                                       61958190101                  $         5,168.92    USD            5         Claims
+   18      Rexulti 2MG Tablets                               59148003813                  $         5,005.34    USD            4         Claims
+   19      Mounjaro 12.5MG/0.5ML Inj                         00002146080                  $         5,004.90    USD           10         Claims
+            Total Prescription Drugs individually under $5,000   $    78,299.94   USD       4309          Claims
+
+
+            Total Costs of Prescription Drugs Obtained Through
+            340B Program Claimed for Reimbursement               $   250,279.19              4960
+
+                                                                                         Mandated by
+                                                                                        RIGL § 5-19.3-6
+Form RIOAG 340B-Sch G (revised January 2026)
+            State of Rhode Island                                   Schedule H
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule H - 340B Program Savings Usage by Covered Entity to
+            Benefit Patients and/or its Community Through Programs,
+            Projects, and/or Services.
+
+            Covered Entity Name:                                      Comprehensive Community Action, Inc.
+
+            Reporting for Calendar Year:                                          2025
+
+
+Instruction: List all programs, projects, and/or services provided by the Covered Entity through 340B
+Program savings that benefited patients and/or its community. Detail individual programs, projects,
+and/or services provided and the related costs incurred by the covered entity. Individually list
+programs, projects, and services with costs of $5,000 or more. Aggregate all other programs, projects,
+and services where costs totaled less than $5,000.
+
+Line No.                 340B Net Revenue Usage Description                  Amount/Value             Unit
+
+     1      Health Services Expansion                                  $                  29,722.42   USD
+     2      Community and Public Health Programs                                                      USD
+     3      Improving Patient Access                                                                  USD
+     4      Facility Upgrades                                                                         USD
+     5      Technology Upgrades                                        $                 155,640.00   USD
+     6      Subsidize Losses - Medicaid and Medicare Program
+                                                                                                      USD
+            Underpayments
+    7       Research and Innovation                                                                   USD
+    8       Community Programs                                                                        USD
+    9       Charity Care/Uncompensated Care                                                           USD
+    10      Other                                                                                     USD
+            Other programs, projects, and services where costs totaled
+                                                                                                      USD
+            less than $5,000.
+
+            Total Aggregate Costs of Programs, Projects, and/or
+            Services Supported by 340B Net Revenue                    $                  185,362.42
+
+                                                                       Mandated by RIGL § 5-19.3-6.
+
+Form RIOAG 340B-Sch H (revised January 2026)
+             State of Rhode Island                                                                                  Schedule I
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule I - Covered Entity Certification Page
+
+             Covered Entity Name:                                                                      Comprehensive Community Action, Inc.
+
+             Reporting for Calendar Year:                                                                              2025
+
+
+                                                                                                               If Yes, explain any
+Line No.                            Covered Entity Certification                         YES     NO          noncompliance noted.
+
+            During the reporting period, did the covered entity conduct a self-audit
+     1      of their participation in the 340B Program as required by the Health          X                       We found none.
+            Resources and Services Administration (HRSA)?
+
+
+            During the reporting period, was the covered entity audited by HRSA or
+     2                                                                                            X
+            subject to a drug manufacturer audit approved by HRSA?
+
+
+I certify, to the best of my knowledge and belief, that the information reported in this reporting package is materially complete and
+accurate?
+
+
+
+                                                                                                                    3/31/2026
+                                               Signature                                                               Date
+
+
+
+            Gina E. Eubank, Chief Operating Officer                                                    [email address in the PDF]
+                                       Name and Title                                                              Email
+
+Form RIOAG 340B-Sch I (revised January 2026)
+

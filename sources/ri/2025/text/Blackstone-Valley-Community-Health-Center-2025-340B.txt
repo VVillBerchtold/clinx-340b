@@ -1,0 +1,418 @@
+            State of Rhode Island
+            340B Drug Pricing Program - Mandated Covered Entity Reporting
+            Mandated Reporting Cover Page
+
+                        Covered Entity 340B Drug Pricing Program Reporting Mandated by
+                                        RI General Law Section 5-19.3-6.
+
+            Covered Entity Name:                                  Blackstone Valley Community Health Care
+            Covered Entity Corporate Address:                     39 East Avenue, Pawtucket, RI 02860
+                                                                  CH011990, CH01199A, CH01199B, CH01199C, CH01199D,
+            340B ID Number(s)                                     CH01199E, CH01199F
+            Reporting for Calendar Year:                                                2025
+
+
+
+
+            Covered Entity Required Information
+
+            Date of most recent recertification with the Health
+                                                                  02/02/2026
+            Resources and Service Administration
+
+            Reporting Basis (i.e., Cash or Accrual)               Accrual
+
+
+
+
+Form RIOAG-340B (Revised January 2026)
+            State of Rhode Island                                                                                               Schedule A
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule A - Aggregate Reporting Schedule
+
+            Covered Entity Name:                          Blackstone Valley Community Health Care
+
+            Reporting for Calendar Year:                                       2025
+
+
+
+
+                                                                                                           Schedule
+Line No.                        Data Element                        Data Element Description                 Ref      Amount         Unit
+
+                                                          Total aggregated cost to entity for drugs
+            Total Aggregated Acquisition Cost for All
+     1                                                    purchased under 340B (actual paid, incl. fees)      B       1,408,968.83   USD
+            340B Program Drugs
+                                                          during the previous calendar year.
+
+
+                                                     Total payments (claim reimbursements)
+                                                     received for 340B drugs dispensed/
+            Total Aggregated Payment Amount Received
+     2                                               administered to patients with commercial                 C       3,812,076.02   USD
+            for Dispensed/Administered 340B Drugs
+                                                     medical insurance, Medical Assistance, and/or
+                                                     Medicare Supplemental plans.
+
+            Total Aggregated Payments to Contract
+                                                          Total payments made to contract pharmacies
+     3      Pharmacies for 340B Program Prescription                                                          D        383,222.45    USD
+                                                          for dispensing 340B drugs.
+            Drugs
+
+
+            Total Aggregated Payments to Outside        Total payments to vendors managing,
+     4      Entities (Vendors) for 340B Program         administering, or facilitating any aspect of the      E        176,794.29    USD
+            Management, Administration, or Facilitation 340B covered entity's drug program.
+
+
+                                                          Total covered entity expenses for staffing,
+            Total Aggregated Administrative Expenses
+     5                                                    operations, and administration related to the       F        445,625.02    USD
+            for 340B Program
+                                                          340B program.
+
+
+                                                          Payments Received (Line 2) - (Acquisition
+            Net 340B Revenue Calculation (Auto-
+     6                                                    Costs (Line 1) + Administration Expenses                    1,397,465.43   USD
+            Calculated)
+                                                          (Lines 3, 4 & 5)
+
+Form RIOAG 340B-Sch A (revised January 2026)
+            State of Rhode Island                                                                                              Schedule B
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule B - Acquisition Cost Detail Schedule
+
+            Covered Entity Name:                                             Blackstone Valley Community Health Care
+
+            Reporting for Calendar Year:                                                        2025
+
+
+
+Instruction: Provide detail for all vendors (e.g. manufacturers, wholesalers) where the covered entity procured $5,000 or more
+of prescription drugs from an individual vendor/pharmacy under the 340B program. Provide an aggregated total for vendors
+where procurement was less than $5,000.
+
+Line No.                                 Vendor Name                                        Amount Paid                         Unit
+
+     1      McKesson (Walgreens & CVS specialty drugs)                                                           395,241.93     USD
+     2      Cardinal Health (CVS & In House 340B - retail drugs removed)                                         931,116.29     USD
+     3      Theracom                                                                                              82,610.61     USD
+     4                                                                                                                          USD
+     5                                                                                                                          USD
+     6                                                                                                                          USD
+     7                                                                                                                          USD
+     8                                                                                                                          USD
+     9                                                                                                                          USD
+    10                                                                                                                          USD
+            Total for vendors under $5,000                                                                                      USD
+
+            Total Aggregated Acquisition Cost for all 340B Program Drugs -
+            (Supports Schedule A, Line 1)
+                                                                                                                1,408,968.83    USD
+                                                                                          Schedule A - Line 1
+
+
+
+
+Form RIOAG 340B-Sch B (revised January 2026)
+                State of Rhode Island                                                                                    Schedule C
+                340B Drug Pricing Program - Covered Entity Reporting
+                Schedule C - Claim Reimbursements For 340B Dispensed /
+                Administered Drugs
+
+                Covered Entity Name:                           Blackstone Valley Community Health Care
+
+                Reporting for Calendar Year:                                      2025
+
+
+
+    Instruction: Provide detail (amount and number of individual claims) for all reimbursements relating to pharmaceuticals obtained
+    under the 340B Drug Program from commercial insurance (including Medicare Supplemental plans), Medical Assistance,
+    Medicare, and or other sources. This schedule should total all reimbursements relating to pharmaceuticals obtained under the
+    340B Drug Program.
+
+
+    Line No.                 Reimbursement Source                         Amount Reimbursed                      Unit   Count      Unit
+
+,        1      Commercial Insurance                                                              1,248,139.22   USD      9,401   Claims
+         2      Medical Assistance (i.e., Medicaid)                                                 915,120.31   USD     14,156   Claims
+         3      Medicare                                                                          1,475,762.36   USD     11,411   Claims
+         4      Other Sources                                                                       173,054.13   USD      4,770   Claims
+
+
+
+                Total Aggregated Payment Amount Received for
+                Dispensed/Administered 340B Drugs (Supports                                       3,812,076.02           39,738
+                Schedule A - Line 2)
+                                                                            Schedule A - Line 2
+
+
+
+    Form RIOAG 340B-Sch C (revised January 2026)
+            State of Rhode Island                                                                                    Schedule D
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule D - Payment to Contract Pharmacy Detail Schedule
+
+            Covered Entity Name:                                     Blackstone Valley Community Health Care
+
+            Reporting for Calendar Year:                                                2025
+
+
+Instruction: Provide detail for all payments made to contract pharmacies for dispensing 340B prescription drugs during
+the reporting period. Individually list any contract pharmacy paid $5,000 or more. Aggregate payments to contract
+pharmacies paid less than $5,000.
+
+Line No.                    Contract Pharmacy Name                                  Amount Paid                       Unit
+
+    1       Wellpartner/CVS                                                                             166,013.24    USD
+    2       Walgreens                                                                                   217,209.21    USD
+    3                                                                                                                 USD
+    4                                                                                                                 USD
+    5                                                                                                                 USD
+    6                                                                                                                 USD
+    7                                                                                                                 USD
+    8                                                                                                                 USD
+    9                                                                                                                 USD
+    10                                                                                                                USD
+            Total for contract pharmacies under $5,000
+
+            Total Aggregated Payments to Contract Pharmacies for
+            340B Program Prescription Drugs (Supports Schedule A -                                      383,222.45
+            Line 3)
+                                                                                  Schedule A - Line 3
+
+
+
+
+Form RIOAG 340B-Sch D (revised January 2026)
+            State of Rhode Island                                                         Schedule E
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule E - Payments to Outside Entities (Vendors) for 340B Program Management,
+            Administration, or Facilitation
+
+            Covered Entity Name:                                          Blackstone Valley Community Health Care
+
+            Reporting for Calendar Year:                                                       2025
+
+
+
+Instruction: Aggregate detail by service/contractor category for all payments made to vendors/contractors relating to the management,
+administration, and/or facilitation of any aspect of the Covered Entity's participation in the 340B Program. Examples of
+services/contractors to be aggregated include contracted pharmacies, split billing vendors, consultants, third-party administrators, and
+other vendors. For consultants and other vendors, provide a brief description of service provided. Aggregate payments for
+service/contractor categories individually paid less than $5,000.
+
+                      Program Management, Administration, or                               Description
+Line No.                       Facilitation Category                                 For Other / Consultants            Amount            Unit
+
+     1      Cloudmed/R1                                                   Referral 340B script Coordinator                  172,007.47    USD
+     2                                                                                                                                    USD
+     3                                                                                                                                    USD
+     4                                                                                                                                    USD
+     5                                                                                                                                    USD
+     6                                                                                                                                    USD
+     7                                                                                                                                    USD
+     8                                                                                                                                    USD
+            Total Vendor Categories individually under $5,000                                                                 4,786.82
+
+
+            Total Aggregated Payments to Outside Entities (Vendors) for
+            340B Program Management, Administration, or Facilitation                                                        176,794.29
+            (Supports Schedule A - Line 4)
+                                                                                                                    Schedule A - Line 4
+Form RIOAG 340B-Sch E (revised January 2026)
+            State of Rhode Island                                                                               Schedule F
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule F - Administrative Expenses for 340B Program
+
+            Covered Entity Name:                                Blackstone Valley Community Health Care
+
+            Reporting for Calendar Year:                                           2025
+
+
+
+Instruction: Provide detail for all covered entity expenses (noncontracted) relating to the administration of the 340B
+program including staffing, operational, and administrative expenses. Detail individual expense categories with
+expenses of $5,000 or more. Aggregate expense categories individually less than $5,000.
+
+Line No.                Expense Category Description                          Amount/Value                       Unit
+
+     1      Personnel - Pharmacy & Administrative Wages         $                                  341,781.86    USD
+     2      Fringe benefits                                     $                                   23,249.26    USD
+     3      Consumable supplies                                 $                                   18,596.33    USD
+     4      Licenses,Taxes,Fees                                 $                                   44,689.72    USD
+     5      Other/Misc                                          $                                   17,307.85    USD
+     6                                                                                                           USD
+     7                                                                                                           USD
+     8                                                                                                           USD
+     9                                                                                                           USD
+    10                                                                                                           USD
+            Total for expense categories individually under
+            $5,000
+
+            Total Aggregated Administrative Expenses for 340B
+                                                                $                                  445,625.02
+            Program
+                                                                             Schedule A - Line 5
+
+
+
+
+Form RIOAG 340B-Sch F (revised January 2026)
+            State of Rhode Island                                                                                          Schedule G
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule G - Detail of Prescription Drugs Relating to Covered Entity Participation in the 340B Program Dispensed or
+            Administered During the Period.
+
+            Covered Entity Name:                                 Blackstone Valley Community Health Care
+
+            Reporting for Calendar Year:                                                           2025
+
+Instruction: List all prescription drugs relating to Covered Entity participation in the 340B Program during the period. Detail the total amount (cost of prescription drug obtained through the
+340B program) and count of individual prescription drug claims dispensed or administered during the period. Aggregate all prescription drugs where costs for the particular drug were less
+than $5,000.
+
+
+Line No.                      Prescription Drug Name                                   National Drug Code Number                              Amount           Unit          Count         Unit
+
+     1      OZEMPIC                                              169418113, 169413013, 169477212                                                508,090.64     USD           583          Claims
+     2      JARDIANCE                                            597015230, 597015290, 597015330, 597015390                                     441,945.42     USD           401          Claims
+     3      TRULICITY                                            00002-1434-80, 2143380, 2223680, 2318280                                       208,081.14     USD           198          Claims
+     4      LANTUS SOLOSTAR 100UNIT/ML SOPN                      88222033, 88221905                                                             173,895.41     USD           560          Claims
+     5      FARXIGA TABS                                         310621030, 310621090, 310620530, 310620590                                     173,518.31     USD           206          Claims
+     6      JANUVIA TABLETS                                      00006027731, 6027754, 00006022131, 6022154, 6011231, 6011254                   129,158.56     USD           163          Claims
+     7      ELIQUIS TABS                                         3089321, 3089421                                                                97,349.06     USD           127          Claims
+     8      BASAGLAR KWIKPEN SOPN                                00002-7715-59                                                                    49,427.30    USD           151          Claims
+     9      MOUNJARO                                             2147180, 2150680,2148480                                                         44,721.96    USD            43          Claims
+    10      VIVITROL 380MG SUSR                                  65757030001                                                                      43,382.12    USD            29          Claims
+    11      XARELTO 20MG TABS                                    50458057990                                                                      39,623.52    USD            42          Claims
+    12      VIAGRA TABS                                          69422030, 58151042893, 69421030                                                  37,293.10    USD            28          Claims
+    13      DAPAGLIFLOZIN PROPANEDIOL TABS                       66993045630, 66993045730                                                         36,497.74    USD           206          Claims
+    14      SKYRIZI PEN 150 MG/ML (1ML)                          00074210001                                                                      34,645.33    USD             3          Claims
+    15      TRADJENTA 5MG TABS                                   597014030, 597014090                                                             33,445.99    USD            37          Claims
+    16      INVOKANA TABS                                        50458014030, 50458014090, 50458014130                                            29,287.20    USD            22          Claims
+    17      OCREVUS 300 MG/10ML SDV                              50242015001                                                                      27,387.60    USD             2          Claims
+    18      ACTEMRA INJ ACTPEN                                   50242-0143-01                                                                    27,118.84    USD            11          Claims
+    19      TREMFYA INJ 100MG/ML                                 57894-0640-11                                                                    26,490.20    USD             6          Claims
+    20      GENVOYA TAB                                          61958190101                                                                      25,826.59    USD            10          Claims
+    21      SHINGRIX 50MCG/0.5ML SUSR                            58160082311                                                                      22,255.41    USD           134          Claims
+    22      HUMALOG KWIKPEN SOPN                                 2879959, 2879759                                                                 20,985.38    USD            30          Claims
+    23      PAXLOVID STANDARD DOSE 300/100MG T                   00069-5045-30, 00069-5321-30                                                     20,688.72    USD            21          Claims
+    24      SYMTUZA TABLETS                                      59676080030                                                                      20,426.83    USD             6          Claims
+    25      FREESTYLE LIBRE 2 SENSOR MISC                        57599080000                                                                      19,095.20    USD           100          Claims
+    26      ACCU-CHEK GUIDE TEST STRP                            65702071110, 65702071210                                                         17,185.84    USD           389          Claims
+    27      TRELEGY ELLIPTA 100-62.5-25 AEPB                     173088710                                                                        16,154.66    USD            17          Claims
+    28      APRETUDE ER INJ SUSP                                 49702026423                                                                      15,794.70    USD             5          Claims
+    29      VICTOZA 18MG/3ML SOPN                                169406012, 169406013                                                             13,926.86    USD            18          Claims
+    30      LINZESS 145MCG CAPS                                  456120130                                                                        13,466.47    USD            10          Claims
+    31      ALBUTEROL SULFATE HFA 108 AERS                       66993001968, 68180096301                                                         12,008.38    USD           357          Claims
+    32      MEDROXYPROGESTERONE ACETAT 150 SUSP                  66993037025                                                                      11,739.41    USD           289          Claims
+    33      BIKTARVY TABLETS                                     61958-2501-01                                                                    11,324.90    USD             4          Claims
+    34      TOUJEO SOLOSTAR 300UNIT/ML SOPN                      24586903                                                                         10,898.55    USD            12          Claims
+    35      SYMBICORT 160-4.5MCG/ACT AERO                        186037020                                                                        10,897.99    USD            29          Claims
+    36      ATORVASTATIN CALCIUM TABS                            60505258008, 60505258009                                                         10,856.33    USD           777          Claims
+    37      HUMULIN KWIKPEN SUPN                                 2880359                                                                          10,027.37    USD            18          Claims
+    38      TIVICAY 50MG TABLETS                                 49702022813                                                                       9,865.71    USD             9          Claims
+    39      RYBELSUS 14MG TABS                                   169431430                                                                         9,126.35    USD             6          Claims
+    40      BUPRENORPHINE HCL-NALOXON 12-3 FILM                  378876893                                                                         8,878.37    USD            13          Claims
+    41      UBRELVY 50MG TABS                                    23649810                                                                          8,792.47    USD             9          Claims
+    42      DEXCOM G7 SENSOR MISC                                8627007701                                                                       8,755.41     USD            72          Claims
+    43      JULUCA TAB 50-25MG                                   49702-0242-13                                                                    7,478.37     USD             3          Claims
+    44      ARNUITY ELLIPTA T AEPB                               173087410                                                                        7,181.55     USD            18          Claims
+    45      BUDESONIDE/FORM                                      00310737020                                                                      6,951.19     USD            56          Claims
+    46      NOVOLOG FLEXPEN 100UNIT/ML SOPN                      169633910                                                                        6,656.14     USD            23          Claims
+    47      BELBUCA BUCCAL FILM                                  59385002760                                                                      6,556.67     USD            21          Claims
+    48      MYRBETRIQ 50MG TB24                                  469260230                                                                        6,147.28     USD             6          Claims
+    49      TETRACYCLINE HCL 500MG CAPS                          23155076701, 60219152301, 62135026601                                            5,961.90     USD            49          Claims
+    50      JANUMET TABS                                         6057761                                                                          5,494.84     USD             7          Claims
+    51      BREO ELLIPTA AEPB                                    173088210                                                                        5,455.98     USD            14          Claims
+    52      ENTRESTO TAB                                         00078-0777-20, 00078-0777-67                                                     5,424.49     USD            14          Claims
+    53      INSULIN LISPRO SOPN                                  2822259                                                                          5,384.84     USD            55          Claims
+    54      DESCOVY TAB                                          61958-2002-01                                                                    5,099.62     USD             5          Claims
+            Total Prescription Drugs individually under $5,000                                                                                  631,129.92     USD          34,314        Claims
+
+            Total Costs of Prescription Drugs Obtained Through
+                                                                                                                                               3,195,260.14                 39,738
+            340B Program Claimed for Reimbursement
+                                                                                                                                                                         Mandated by
+                                                                                                                                                                        RIGL § 5-19.3-6
+Form RIOAG 340B-Sch G (revised January 2026)
+            State of Rhode Island                                                                                                     Schedule H
+            340B Drug Pricing Program - Covered Entity Reporting
+
+            Schedule H - 340B Program Savings Usage by Covered Entity to Benefit Patients
+            and/or its Community Through Programs, Projects, and/or Services.
+
+
+            Covered Entity Name:                                                        Blackstone Valley Community Health Care
+
+            Reporting for Calendar Year:                                                                   2025
+
+
+
+
+Instruction: List all programs, projects, and/or services provided by the Covered Entity through 340B Program savings that benefited
+patients and/or its community. Detail individual programs, projects, and/or services provided and the related costs incurred by the
+covered entity. Individually list programs, projects, and services with costs of $5,000 or more. Aggregate all other programs,
+projects, and services where costs totaled less than $5,000.
+
+Line No.                         340B Net Revenue Usage Description                                   Amount/Value                       Unit
+
+     1      Health Services Expansion                                                                                             -      USD
+     2      Community and Public Health Programs                                                                                  -      USD
+     3      Improving Patient Access                                                                                              -      USD
+     4      Facility Upgrades                                                                                                     -      USD
+     5      Technology Upgrades                                                                                                   -      USD
+     6      Subsidize Losses - Medicaid and Medicare Program Underpayments                                               139,746.54      USD
+     7      Research and Innovation                                                                                               -      USD
+     8      Community Programs                                                                                                    -      USD
+     9      Charity Care/Uncompensated Care                                                                              558,986.17      USD
+            Other (Support retail operations of In-House Pharmacy including purchase
+    10      of prescription drugs at retail/wholesale prices & various administrative                                    698,732.72      USD
+            costs not included in this 340B expenditure reporting)
+            Other programs, projects, and services where costs totaled less than
+                                                                                                                                         USD
+            $5,000.
+
+            Total Aggregate Costs of Programs, Projects, and/or Services Supported
+                                                                                                                       1,397,465.43
+            by 340B Net Revenue
+                                                                                                Mandated by RIGL § 5-19.3-6.
+
+Form RIOAG 340B-Sch H (revised January 2026)
+             State of Rhode Island                                                                                     Schedule I
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule I - Covered Entity Certification Page
+
+             Covered Entity Name:                                                                    Blackstone Valley Community Health Care
+
+             Reporting for Calendar Year:                                                                                 2025
+
+
+
+Line No.                            Covered Entity Certification                          YES   NO    If Yes, explain any noncompliance noted.
+
+            During the reporting period, did the covered entity conduct a self-audit of
+     1      their participation in the 340B Program as required by the Health              X         N/A - nothing out of compliance from our audit
+            Resources and Services Administration (HRSA)?
+
+
+            During the reporting period, was the covered entity audited by HRSA or
+     2                                                                                          X
+            subject to a drug manufacturer audit approved by HRSA?
+
+
+
+
+                                               Signature                                                                   Date
+
+
+
+                                    Mark Mata, Accounting Manager                                                  [email address in the PDF]
+                                           Name and Title                                                               Email
+
+Form RIOAG 340B-Sch I (revised January 2026)
+

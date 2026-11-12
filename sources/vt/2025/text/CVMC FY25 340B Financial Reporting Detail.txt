@@ -1,0 +1,29 @@
+             Central Vermont Medical Center
+     FY2025 340B Program Financial Reporting Detail
+As Submitted to the Green Mountain Care Board in 2026
+
+            NOTE: This is draft and may be adjusted for accuracy in the
+                       final GMCB dashboard publication.
+
+
+Aggregated Payment Amounts Received, Separated by Distribution Channel
+
+In-House Pharmacy Dispensed                                     $0.00
+Contract Pharmacy Dispensed                                     $27,169,844.00
+Administered Drugs Paid Separately                              $20,531,257.00
+Administered Drugs Bundled Payments                             $12,045,492.00
+Total 340B Payments Received                                    $59,746,593.00
+
+340B Prescription Drug Acquisition Costs                        $24,173,925.00
+
+Aggregated 340B Program Expenses
+Payments Made to Contract Pharmacies                            $1,365,002.00
+Internal 340B Program Expenses                                  $72,011.00
+Payments Made to Outside Vendors                                $561,303.00
+Total 340B Expenses                                             $1,998,316.00
+
+
+340B Net Revenue                                                $33,574,352.00
+(payments received minus acquisition costs minus expenses)
+340B Operating Margin                                           56.19%
+

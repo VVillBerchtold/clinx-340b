@@ -1,0 +1,138 @@
+filing_id,measure,formula,value
+ri-2025-blackstone-valley,external_cost,Schedule A line 3 plus line 4,560016.74
+ri-2025-blackstone-valley,external_share_of_margin,external_cost divided by gross_margin,0.233039
+ri-2025-blackstone-valley,gross_margin,Schedule A line 2 minus line 1,2403107.19
+ri-2025-blackstone-valley,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,0
+ri-2025-blackstone-valley,schedule_e_other,Sum of Schedule E rows whose category is other,0
+ri-2025-blackstone-valley,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,172007.47
+ri-2025-blackstone-valley,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,0
+ri-2025-comprehensive-community-action,external_cost,Schedule A line 3 plus line 4,46815
+ri-2025-comprehensive-community-action,external_share_of_margin,external_cost divided by gross_margin,0.167025
+ri-2025-comprehensive-community-action,gross_margin,Schedule A line 2 minus line 1,280287.82
+ri-2025-comprehensive-community-action,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,0
+ri-2025-comprehensive-community-action,schedule_e_other,Sum of Schedule E rows whose category is other,0
+ri-2025-comprehensive-community-action,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,0
+ri-2025-comprehensive-community-action,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,0
+ri-2025-east-bay-cap,external_cost,Schedule A line 3 plus line 4,608570.71
+ri-2025-east-bay-cap,external_share_of_margin,external_cost divided by gross_margin,0.232372
+ri-2025-east-bay-cap,gross_margin,Schedule A line 2 minus line 1,2618945.76
+ri-2025-east-bay-cap,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,0
+ri-2025-east-bay-cap,schedule_e_other,Sum of Schedule E rows whose category is other,0
+ri-2025-east-bay-cap,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,0
+ri-2025-east-bay-cap,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,352207.69
+ri-2025-kent-hospital,external_cost,Schedule A line 3 plus line 4,5021316.92
+ri-2025-kent-hospital,external_share_of_margin,external_cost divided by gross_margin,0.116043
+ri-2025-kent-hospital,gross_margin,Schedule A line 2 minus line 1,43271319.42
+ri-2025-kent-hospital,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,91322.90
+ri-2025-kent-hospital,schedule_e_other,Sum of Schedule E rows whose category is other,60012.50
+ri-2025-kent-hospital,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,0
+ri-2025-kent-hospital,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,2365847.96
+ri-2025-landmark,external_cost,Schedule A line 3 plus line 4,91090.00
+ri-2025-landmark,external_share_of_margin,external_cost divided by gross_margin,0.019297
+ri-2025-landmark,gross_margin,Schedule A line 2 minus line 1,4720320.24
+ri-2025-landmark,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,30934
+ri-2025-landmark,schedule_e_other,Sum of Schedule E rows whose category is other,60156
+ri-2025-landmark,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,0
+ri-2025-landmark,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,0
+ri-2025-miriam-immunology-center,external_cost,Schedule A line 3 plus line 4,651712.36
+ri-2025-miriam-immunology-center,external_share_of_margin,external_cost divided by gross_margin,0.338607
+ri-2025-miriam-immunology-center,gross_margin,Schedule A line 2 minus line 1,1924684.99
+ri-2025-miriam-immunology-center,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,5000.00
+ri-2025-miriam-immunology-center,schedule_e_other,Sum of Schedule E rows whose category is other,0
+ri-2025-miriam-immunology-center,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,0
+ri-2025-miriam-immunology-center,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,56397.88
+ri-2025-miriam-rise-tb-clinic,external_cost,Schedule A line 3 plus line 4,37943.90
+ri-2025-miriam-rise-tb-clinic,external_share_of_margin,external_cost divided by gross_margin,0.437799
+ri-2025-miriam-rise-tb-clinic,gross_margin,Schedule A line 2 minus line 1,86669.63
+ri-2025-miriam-rise-tb-clinic,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,0
+ri-2025-miriam-rise-tb-clinic,schedule_e_other,Sum of Schedule E rows whose category is other,0
+ri-2025-miriam-rise-tb-clinic,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,0
+ri-2025-miriam-rise-tb-clinic,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,11231.25
+ri-2025-miriam-ryan-white,external_cost,Schedule A line 3 plus line 4,4754338.08
+ri-2025-miriam-ryan-white,external_share_of_margin,external_cost divided by gross_margin,0.408132
+ri-2025-miriam-ryan-white,gross_margin,Schedule A line 2 minus line 1,11649020.22
+ri-2025-miriam-ryan-white,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,12000.00
+ri-2025-miriam-ryan-white,schedule_e_other,Sum of Schedule E rows whose category is other,0
+ri-2025-miriam-ryan-white,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,0
+ri-2025-miriam-ryan-white,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,511634.33
+ri-2025-providence-chc,external_cost,Schedule A line 3 plus line 4,4415891.34
+ri-2025-providence-chc,external_share_of_margin,external_cost divided by gross_margin,0.321827
+ri-2025-providence-chc,gross_margin,Schedule A line 2 minus line 1,13721315.57
+ri-2025-providence-chc,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,0
+ri-2025-providence-chc,schedule_e_other,Sum of Schedule E rows whose category is other,30000.00
+ri-2025-providence-chc,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,611653.30
+ri-2025-providence-chc,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,1877490.17
+ri-2025-rhode-island-hospital,external_cost,Schedule A line 3 plus line 4,58497240.47
+ri-2025-rhode-island-hospital,external_share_of_margin,external_cost divided by gross_margin,0.127703
+ri-2025-rhode-island-hospital,gross_margin,Schedule A line 2 minus line 1,458073726.44
+ri-2025-rhode-island-hospital,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,29000.00
+ri-2025-rhode-island-hospital,schedule_e_other,Sum of Schedule E rows whose category is other,228496.65
+ri-2025-rhode-island-hospital,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,0
+ri-2025-rhode-island-hospital,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,6960350.05
+ri-2025-thundermist,external_cost,Schedule A line 3 plus line 4,9409129.25
+ri-2025-thundermist,external_share_of_margin,external_cost divided by gross_margin,0.456798
+ri-2025-thundermist,gross_margin,Schedule A line 2 minus line 1,20598029.77
+ri-2025-thundermist,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,14500.00
+ri-2025-thundermist,schedule_e_other,Sum of Schedule E rows whose category is other,9600.00
+ri-2025-thundermist,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,277331.57
+ri-2025-thundermist,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,2991804.97
+ri-2025-wellone,external_cost,Schedule A line 3 plus line 4,1740124
+ri-2025-wellone,external_share_of_margin,external_cost divided by gross_margin,0.321714
+ri-2025-wellone,gross_margin,Schedule A line 2 minus line 1,5408917
+ri-2025-wellone,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,0
+ri-2025-wellone,schedule_e_other,Sum of Schedule E rows whose category is other,39284
+ri-2025-wellone,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,0
+ri-2025-wellone,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,949797
+ri-2025-women-and-infants,external_cost,Schedule A line 3 plus line 4,1569208.43
+ri-2025-women-and-infants,external_share_of_margin,external_cost divided by gross_margin,0.053066
+ri-2025-women-and-infants,gross_margin,Schedule A line 2 minus line 1,29571092.91
+ri-2025-women-and-infants,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,12500.00
+ri-2025-women-and-infants,schedule_e_other,Sum of Schedule E rows whose category is other,56422.50
+ri-2025-women-and-infants,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,0
+ri-2025-women-and-infants,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,558268.97
+ri-2025-wood-river,external_cost,Schedule A line 3 plus line 4,817177
+ri-2025-wood-river,external_share_of_margin,external_cost divided by gross_margin,0.292153
+ri-2025-wood-river,gross_margin,Schedule A line 2 minus line 1,2797083
+ri-2025-wood-river,schedule_e_consulting_audit,Sum of Schedule E rows whose category is consulting_audit,37050
+ri-2025-wood-river,schedule_e_other,Sum of Schedule E rows whose category is other,0
+ri-2025-wood-river,schedule_e_referral_capture,Sum of Schedule E rows whose category is referral_capture,230947
+ri-2025-wood-river,schedule_e_third_party_administrator,Sum of Schedule E rows whose category is third_party_administrator,0
+vt-2025-central-vermont,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,1926305.00
+vt-2025-central-vermont,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.054151
+vt-2025-central-vermont,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,35572668.00
+vt-2025-copley,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,25200.00
+vt-2025-copley,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.011572
+vt-2025-copley,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,2177726.00
+vt-2025-gifford,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,171297.00
+vt-2025-gifford,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.057158
+vt-2025-gifford,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,2996906.00
+vt-2025-grace-cottage,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,22174.00
+vt-2025-grace-cottage,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.009326
+vt-2025-grace-cottage,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,2377638.00
+vt-2025-mt-ascutney,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,291256.00
+vt-2025-mt-ascutney,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.262856
+vt-2025-mt-ascutney,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,1108042.00
+vt-2025-north-country,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,1195380.00
+vt-2025-north-country,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.484819
+vt-2025-north-country,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,2465622.00
+vt-2025-northeastern-vermont,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,704252.00
+vt-2025-northeastern-vermont,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.231890
+vt-2025-northeastern-vermont,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,3037010.00
+vt-2025-northwestern,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,318511.00
+vt-2025-northwestern,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,
+vt-2025-northwestern,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,-3627.00
+vt-2025-porter,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,911831.00
+vt-2025-porter,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.146872
+vt-2025-porter,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,6208356.00
+vt-2025-rutland,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,0.00
+vt-2025-rutland,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.000000
+vt-2025-rutland,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,8636709.00
+vt-2025-southwestern-vermont,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,2591250.00
+vt-2025-southwestern-vermont,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.173665
+vt-2025-southwestern-vermont,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,14921010.00
+vt-2025-springfield,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,65698.00
+vt-2025-springfield,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.017037
+vt-2025-springfield,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,3856221.00
+vt-2025-uvm-medical-center,external_cost,Payments Made to Contract Pharmacies plus Payments Made to Outside Vendors,12613818.00
+vt-2025-uvm-medical-center,external_share_of_margin,external_cost divided by gross_margin; blank when gross_margin is not above zero,0.036640
+vt-2025-uvm-medical-center,gross_margin,Total 340B Payments Received minus 340B Prescription Drug Acquisition Costs,344260471.00

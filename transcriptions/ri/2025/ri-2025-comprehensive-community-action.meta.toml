@@ -1,0 +1,15 @@
+filing_id = "ri-2025-comprehensive-community-action"
+entity_id = "ri-comprehensive-community-action"
+state = "RI"
+reporting_year = 2025
+entity_type = "health_center"
+source_file = "Comprehensive-Community-Action-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "Comprehensive Community Action, Inc."
+corporate_address_as_filed = "1 Capital Way, Cranston, RI 02910"
+opais_ids_as_filed = "CHC06666-00, CHC06666-01, CHC06666-02, CHC066666-04"
+recertification_date_as_filed = "2/9/2026"
+reporting_basis_as_filed = "Cash"

@@ -1,0 +1,16 @@
+filing_id = "mn-2024-statewide"
+entity_id = "mn-statewide"
+state = "MN"
+reporting_year = 2024
+entity_type = "state_total"
+record_kind = "state_report_totals"
+source_file = "2025report.pdf"
+form = "mn-mdh-340b-report"
+form_revision = "340B Covered Entity Report, 2025"
+
+[cover]
+name_as_filed = ""
+corporate_address_as_filed = ""
+opais_ids_as_filed = ""
+recertification_date_as_filed = ""
+reporting_basis_as_filed = ""

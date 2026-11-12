@@ -1,0 +1,27 @@
+filing_id = "ri-2025-miriam-immunology-center"
+entity_id = "ri-miriam-immunology-center"
+state = "RI"
+reporting_year = 2025
+entity_type = "hospital"
+source_file = "Miriam-Hospital-Immunology-Center-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "The Miriam Hospital Immunology Center"
+corporate_address_as_filed = "164 Summit Ave, Fain 2 Rm 238, Providence, RI 02906"
+opais_ids_as_filed = "STD02904"
+recertification_date_as_filed = "5/29/2025"
+reporting_basis_as_filed = "Cash"
+
+[[attachments]]
+pages = "2-3"
+kind = "notes"
+title_as_filed = "Addressing and quantifying outliers and other concerns regarding data sharing requirements under S.0114"
+note = "Filer's supplemental note giving context on data reporting limits for Schedules A, G and H."
+
+[[attachments]]
+pages = "13"
+kind = "appendix"
+title_as_filed = "STD02904 Appendix A - Excel Spreadsheet Structure for 340B Annual Report Form_Final 3.2.2026"
+note = "E-signature audit report page for an appendix document."

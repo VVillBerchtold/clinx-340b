@@ -1,0 +1,21 @@
+filing_id = "ri-2025-east-bay-cap"
+entity_id = "ri-east-bay-cap"
+state = "RI"
+reporting_year = 2025
+entity_type = "health_center"
+source_file = "East-Bay-Community-Action-Program-2025-340B.pdf"
+form = "ri-oag-340b"
+form_revision = "Form RIOAG-340B (Revised January 2026)"
+
+[cover]
+name_as_filed = "East Bay Community Action Program"
+corporate_address_as_filed = "19 Broadway, Newport, RI 02840"
+opais_ids_as_filed = "CH015160"
+recertification_date_as_filed = "2/28/2026"
+reporting_basis_as_filed = "Accrual"
+
+[[attachments]]
+pages = "1"
+kind = "cover_letter"
+title_as_filed = ""
+note = "A letter dated April 1, 2026 to the RI Auditor General that explains the filer's Schedule H answer."

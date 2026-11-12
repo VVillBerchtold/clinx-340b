@@ -1,0 +1,614 @@
+            State of Rhode Island
+            340B Drug Pricing Program - Mandated Covered Entity Reporting
+            Mandated Reporting Cover Page
+
+                                    Covered Entity 340B Drug Pricing Program Reporting Mandated by
+                                                    RI General Law Section 5-19.3-6.
+
+            Covered Entity Name:                                  Thundermist Health Center
+            Covered Entity Corporate Address:                     25 John A Cummings Way, Woonsocket RI 02895
+                                                                  CH011820, CH01182C, CH01182J, CH01182N,
+            340B ID Number(s)                                     CH01182P, CH01182Q, CH01182R, CH01182S,
+                                                                  CH01182U, CH01182V, CH01182W, FP028951
+            Reporting for Calendar Year:                                                      2025
+
+
+
+
+            Covered Entity Required Information
+
+            Date of most recent recertification with the Health
+            Resources and Service Administration                  02/10/2026 (CH IDs), 5/9/2025 (FP IDs)
+
+            Reporting Basis (i.e., Cash or Accrual)               Accrual
+
+
+
+
+Form RIOAG-340B (Revised January 2026)
+            State of Rhode Island                                                                                                   Schedule A
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule A - Aggregate Reporting Schedule
+
+            Covered Entity Name:                          Thundermist Health Center
+            Reporting for Calendar Year:                                      2025
+
+
+
+
+                                                                                                          Schedule
+Line No.                        Data Element                       Data Element Description                 Ref           Amount          Unit
+
+                                                          Total aggregated cost to entity for drugs
+            Total Aggregated Acquisition Cost for All
+     1                                                    purchased under 340B (actual paid, incl.           B       $   15,048,214.13    USD
+            340B Program Drugs
+                                                          fees) during the previous calendar year.
+
+
+                                                     Total payments (claim reimbursements)
+                                                     received for 340B drugs dispensed/
+            Total Aggregated Payment Amount Received
+     2                                               administered to patients with commercial                C       $   35,646,243.90    USD
+            for Dispensed/Administered 340B Drugs
+                                                     medical insurance, Medical Assistance,
+                                                     and/or Medicare Supplemental plans.
+
+            Total Aggregated Payments to Contract
+                                                          Total payments made to contract
+     3      Pharmacies for 340B Program Prescription                                                         D       $    6,115,892.71    USD
+                                                          pharmacies for dispensing 340B drugs.
+            Drugs
+
+
+            Total Aggregated Payments to Outside        Total payments to vendors managing,
+     4      Entities (Vendors) for 340B Program         administering, or facilitating any aspect of         E       $    3,293,236.54    USD
+            Management, Administration, or Facilitation the 340B covered entity's drug program.
+
+
+                                                          Total covered entity expenses for staffing,
+            Total Aggregated Administrative Expenses
+     5                                                    operations, and administration related to the      F       $      395,033.73    USD
+            for 340B Program
+                                                          340B program.
+
+
+                                                          Payments Received (Line 2) - (Acquisition
+            Net 340B Revenue Calculation (Auto-
+     6                                                    Costs (Line 1) + Administration Expenses                       $10,793,866.79   USD
+            Calculated)
+                                                          (Lines 3, 4 & 5)
+
+Form RIOAG 340B-Sch A (revised January 2026)
+            State of Rhode Island                                Schedule B
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule B - Acquisition Cost Detail Schedule
+
+            Covered Entity Name:                                      Thundermist Health Center
+            Reporting for Calendar Year:                                         2025
+
+
+
+Instruction: Provide detail for all vendors (e.g. manufacturers, wholesalers) where the covered entity
+procured $5,000 or more of prescription drugs from an individual vendor/pharmacy under the 340B
+program. Provide an aggregated total for vendors where procurement was less than $5,000.
+
+Line No.                            Vendor Name                              Amount Paid              Unit
+
+            Drug Wholesalers (Cardinal Health, McKesson,
+     1                                                                                                USD
+            Amerisource Bergen/Cencora, CuraScript, Paragard)*        $            15,048,214.13
+    2                                                                                                 USD
+    3                                                                                                 USD
+    4                                                                                                 USD
+    5                                                                                                 USD
+    6                                                                                                 USD
+    7                                                                                                 USD
+    8                                                                                                 USD
+    9                                                                                                 USD
+    10                                                                                                USD
+            Total for vendors under $5,000                                                            USD
+
+            Total Aggregated Acquisition Cost for all 340B Program
+            Drugs - (Supports Schedule A, Line 1)                                                     USD
+                                                                   $               15,048,214.13
+                                                                          Schedule A - Line 1
+
+*Thundermist can provide a breakdown by wholesaler if needed. For reporting purposes, and due to
+proprietary information, total wholesaler drug costs are currently presented in aggregate.The total wholesaler
+cost reflects all drug purchases made during CY 2025, which may include drugs purchased to replenish
+claims dispensed in the prior year.
+
+Form RIOAG 340B-Sch B (revised January 2026)
+            State of Rhode Island                               Schedule C
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule C - Claim Reimbursements For 340B
+            Dispensed / Administered Drugs
+
+            Covered Entity Name:                              Thundermist Health Center
+            Reporting for Calendar Year:                              2025
+
+
+
+Instruction: Provide detail (amount and number of individual claims) for all reimbursements relating to
+pharmaceuticals obtained under the 340B Drug Program from commercial insurance (including
+Medicare Supplemental plans), Medical Assistance, Medicare, and or other sources. This schedule
+should total all reimbursements relating to pharmaceuticals obtained under the 340B Drug Program.
+
+                                                                    Amount
+Line No.                 Reimbursement Source                     Reimbursed          Unit       Count        Unit
+
+     1      Commercial Insurance                              $     13,859,026.40     USD        96545      Claims
+     2      Medical Assistance (i.e., Medicaid)               $     10,692,796.12     USD       119787      Claims
+     3      Medicare                                          $     10,614,550.22     USD        56403      Claims
+     4      Other Sources                                     $        479,871.16     USD        12062      Claims
+
+
+            Total Aggregated Payment Amount Received for
+            Dispensed/Administered 340B Drugs (Supports
+            Schedule A - Line 2)                         $          35,646,243.90                 284797
+                                                               Schedule A - Line 2
+
+
+
+Note: Thundermist is reporting on claims with a date of service in CY 2025 at contract pharmacies and not what was
+recorded financially in CY 2025. There were limitations in the payer information provided by our TPAs. Walgreens
+does not provide detailed payer information in their claims data; instead, claims are grouped into three categories in
+their claims detail report: Commercial, Medicare, and Uninsured/Self‑Pay. White Cross does provide Group/BIN/PCN
+payer information; however, due to limited visibility into the payer category these payers fall under, we made
+best‑effort attempts to cross‑reference payer categories using data from other TPAs that do provide this information.
+
+Form RIOAG 340B-Sch C (revised January 2026)
+            State of Rhode Island                                Schedule D
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule D - Payment to Contract Pharmacy Detail Schedule
+
+            Covered Entity Name:                                      Thundermist Health Center
+            Reporting for Calendar Year:                                         2025
+
+
+Instruction: Provide detail for all payments made to contract pharmacies for dispensing 340B
+prescription drugs during the reporting period. Individually list any contract pharmacy paid $5,000
+or more. Aggregate payments to contract pharmacies paid less than $5,000.
+
+Line No.                    Contract Pharmacy Name                           Amount Paid              Unit
+
+            Contract Pharmacy Dispensing Fees (CVS, Walgreens,
+     1                                                                                                USD
+            Walmart, White Cross, Genoa Healthcare and Optum)*         $           6,115,892.71
+    2                                                                                                 USD
+    3                                                                                                 USD
+    4                                                                                                 USD
+    5                                                                                                 USD
+    6                                                                                                 USD
+    7                                                                                                 USD
+    8                                                                                                 USD
+    9                                                                                                 USD
+    10                                                                                                USD
+            Total for contract pharmacies under $5,000
+
+            Total Aggregated Payments to Contract Pharmacies for
+            340B Program Prescription Drugs (Supports Schedule A -
+            Line 3)                                                $               6,115,892.71
+                                                                           Schedule A - Line 3
+
+*Thundermist can provide a breakdown of dispensing fees by contract pharmacy if needed. For reporting
+purposes, and due to proprietary information, total dispensing fees are currently presented in aggregate. The
+dispensing fees were calculated for claims with a date dispensed in CY 2025.
+
+Form RIOAG 340B-Sch D (revised January 2026)
+            State of Rhode Island                                                Schedule E
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule E - Payments to Outside Entities (Vendors) for 340B Program
+            Management, Administration, or Facilitation
+
+            Covered Entity Name:                                          Thundermist Health Center
+            Reporting for Calendar Year:                                           2025
+
+
+
+Instruction: Aggregate detail by service/contractor category for all payments made to vendors/contractors relating to the
+management, administration, and/or facilitation of any aspect of the Covered Entity's participation in the 340B Program.
+Examples of services/contractors to be aggregated include contracted pharmacies, split billing vendors, consultants,
+third-party administrators, and other vendors. For consultants and other vendors, provide a brief description of service
+provided. Aggregate payments for service/contractor categories individually paid less than $5,000.
+
+                      Program Management, Administration, or                     Description
+Line No.                       Facilitation Category                       For Other / Consultants       Amount            Unit
+
+     1      Third Party Administrators (TPA)                                                         $     2,991,804.97    USD
+     2      Referral Management Systems                                                              $       277,331.57    USD
+     3      Gateway Administrative Fees                                                              $         9,600.00    USD
+     4      External Auditor Consultant                                                              $        14,500.00    USD
+     5                                                                                                                     USD
+     6                                                                                                                     USD
+     7                                                                                                                     USD
+     8                                                                                                                     USD
+            Total Vendor Categories individually under $5,000
+
+
+            Total Aggregated Payments to Outside Entities (Vendors) for
+            340B Program Management, Administration, or Facilitation
+            (Supports Schedule A - Line 4)                                                           $     3,293,236.54
+                                                                                                     Schedule A - Line 4
+Form RIOAG 340B-Sch E (revised January 2026)
+            State of Rhode Island                                                                            Schedule F
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule F - Administrative Expenses for 340B Program
+
+            Covered Entity Name:                                Thundermist Health Center
+            Reporting for Calendar Year:                                         2025
+
+
+Instruction: Provide detail for all covered entity expenses (noncontracted) relating to the administration of the 340B
+program including staffing, operational, and administrative expenses. Detail individual expense categories with
+expenses of $5,000 or more. Aggregate expense categories individually less than $5,000.
+
+Line No.                 Expense Category Description                       Amount/Value                     Unit
+
+     1      Salaries/Fringe                                     $                               387,361.30   USD
+     2      340B Grantee Conference                             $                                 2,877.43   USD
+     3      Dues/Licenses                                       $                                  170.00    USD
+     4      Professional Services (Legal Counsel)               $                                 4,295.00   USD
+     5                                                                                                       USD
+     6                                                                                                       USD
+     7                                                                                                       USD
+     8                                                                                                       USD
+     9                                                                                                       USD
+    10                                                                                                       USD
+            Total for expense categories individually under
+            $5,000                                              $                                  330.00
+
+            Total Aggregated Administrative Expenses for 340B
+            Program                                             $                               395,033.73
+                                                                          Schedule A - Line 5
+
+
+
+
+Form RIOAG 340B-Sch F (revised January 2026)
+           State of Rhode Island                                                               Schedule G
+           340B Drug Pricing Program - Covered Entity Reporting
+           Schedule G - Detail of Prescription Drugs Relating to Covered Entity Participation in the
+           340B Program Dispensed or Administered During the Period.
+
+           Covered Entity Name:                                Thundermist Health Center
+           Reporting for Calendar Year:                                    2025
+
+
+Instruction: List all prescription drugs relating to Covered Entity participation in the 340B Program during the period. Detail the total amount (cost
+of prescription drug obtained through the 340B program) and count of individual prescription drug claims dispensed or administered during the
+period. Aggregate all prescription drugs where costs for the particular drug were less than $5,000.
+
+
+Line No.                  Prescription Drug Name                National Drug Code Number          Amount            Unit        Count         Unit
+
+
+    1      BIKTARVY TAB                                        61958-2501-01                  $     1,940,910.76     USD                 677 Claims
+    2      OZEMPIC INJ 8MG/3ML                                 00169-4772-12                  $       715,386.06     USD               2122 Claims
+    3      OZEMPIC INJ 2MG/3ML                                 00169-4181-13                  $       695,807.01     USD               1946 Claims
+    4      OZEMPIC INJ 4MG/3ML                                 00169-4130-13                  $       619,563.20     USD               1677 Claims
+    5      CABENUVA SUS 600-900                                49702-0240-15                  $       418,224.87     USD                 79 Claims
+    6      MAVYRET TAB 100-40MG                                00074-2625-28                  $       400,487.14     USD                 42 Claims
+    7      TRELEGY AER 100MCG                                  00173-0887-10                  $       276,531.85     USD                 934 Claims
+    8      SKYRIZI PEN INJ 150MG/ML                            00074-2100-01                  $       246,719.65     USD                 22 Claims
+    9      TRELEGY AER 200MCG                                  00173-0893-10                  $       218,123.73     USD                 736 Claims
+   10      APRETUDE SUS 600MG ER                               49702-0264-23                  $       172,439.11     USD                 55 Claims
+   11      SUBLOCADE INJ 300MG/1.5ML 1                         12496-0300-01                  $       166,721.74     USD                 125 Claims
+   12      SKYRIZI INJ 360/2.4                                 00074-1070-01                  $       162,609.00     USD                 14 Claims
+   13      SUBOXONE MIS 8-2MG                                  12496-1208-03                  $       154,169.53     USD                 438 Claims
+   14      AUSTEDO TAB 12MG                                    68546-0172-60                  $       143,714.74     USD                 22 Claims
+   15      WEGOVY INJ 2.4MG                                    00169-4524-14                  $       141,500.68     USD                 226 Claims
+   16      VEMLIDY TAB 25MG                                    61958-2301-01                  $       129,170.18     USD                 135 Claims
+   17      RYBELSUS TAB 14MG                                   00169-4314-30                  $       126,120.70     USD                 291 Claims
+   18      DOVATO TAB 50-300MG                                 49702-0246-13                  $       124,596.71     USD                 45 Claims
+   19      RYBELSUS TAB 7MG                                    00169-4307-30                  $       124,034.05     USD                 306 Claims
+   20      BIKTARVY TAB                                        61958-2501-03                  $       118,066.82     USD                 43 Claims
+   21      VRAYLAR CAP 3MG                                     61874-0130-30                  $       117,590.46     USD                 134 Claims
+   22      SANTYL OIN 250/GM                                   50484-0010-30                  $       114,608.68     USD                 10 Claims
+   23      NURTEC TAB 75MG ODT                                 72618-3000-02                  $       111,083.02     USD                 262 Claims
+   24      VRAYLAR CAP 1.5MG                                   61874-0115-30                  $       107,021.91     USD                 122 Claims
+   25      DESCOVY TAB 200/25MG                                61958-2002-01                  $       105,311.53     USD                 95 Claims
+   26      VIVITROL INJ 380MG                                  65757-0300-01                  $       104,957.67     USD                 146 Claims
+   27      SUBLOCADE INJ 100MG/0.5ML 1                         12496-0100-01                  $       102,757.60     USD                 76 Claims
+   28      ALBUTEROL AER HFA                                   66993-0019-68                  $       102,049.95     USD               4496 Claims
+   29      BUPREN/NALOX MIS 8-2MG                              50742-0364-30                  $       101,992.92     USD               2716 Claims
+   30      ODEFSEY TAB                                         61958-2101-01                  $       100,841.80     USD                 45 Claims
+   31      BUDES/FORMOT AER 160-4.5                            00310-7370-20                  $        99,291.32     USD                 848 Claims
+   32      CAPLYTA CAP 42MG                                    72060-0142-40                  $        97,488.53     USD                 84 Claims
+   33      WEGOVY INJ 1.7MG                                    00169-4517-14                  $        96,978.71     USD                 160 Claims
+   34      PAXLOVID TAB 300-100                                00069-5321-30                  $        90,904.67     USD                 85 Claims
+   35      WEGOVY INJ 0.5MG                                    00169-4505-14                  $        90,387.90     USD                 157 Claims
+   36      WEGOVY INJ 1MG                                      00169-4501-14                  $        86,689.37     USD                 150 Claims
+   37      RINVOQ TAB 15MG ER                                  00074-2306-30                  $        86,406.33     USD                 29 Claims
+   38      BASAGLAR INJ 100UNIT                                00002-7715-59                  $        86,123.74     USD                 227 Claims
+   39      MOUNJARO INJ 5MG/0.5                                00002-1495-80                  $        82,910.69     USD                 98 Claims
+   40      WEGOVY INJ 0.25MG                                   00169-4525-14                  $        75,805.51     USD                 132 Claims
+   41      RINVOQ TAB 30MG ER                                  00074-2310-30                  $        75,267.12     USD                 23 Claims
+42    ENTRESTO TAB 24-26MG           00078-0659-20   $   75,252.32   USD   229 Claims
+43    INCRUSE ELPT INH 62.5MCG       00173-0873-10   $   73,021.63   USD   718 Claims
+44    VRAYLAR CAP 4.5MG              61874-0145-30   $   70,591.50   USD    83 Claims
+45    TRESIBA FLEX INJ 200UNIT       00169-2550-13   $   69,389.01   USD   380 Claims
+46    HUMIRA PEN INJ 40/0.4ML        00074-0554-02   $   66,182.22   USD    32 Claims
+47    VRAYLAR CAP 6MG                61874-0160-30   $   66,110.26   USD    78 Claims
+48    QULIPTA TAB 60MG               00074-7094-30   $   63,652.09   USD   124 Claims
+49    KISQALI TAB 600DOSE            00078-0874-63   $   60,823.35   USD     6 Claims
+50    TREMFYA INJ 100MG/ML           57894-0640-11   $   60,406.75   USD    14 Claims
+51    DAPAGLIFLOZI TAB 10MG          66993-0457-30   $   59,394.53   USD   219 Claims
+52    BUDES/FORMOT AER 80-4.5        00310-7372-20   $   56,585.28   USD   553 Claims
+53    COSENTYX UNO INJ 300/2ML       00078-1070-68   $   53,487.44   USD    19 Claims
+54    MOUNJARO INJ 15MG/0.5          00002-1457-80   $   53,107.58   USD    61 Claims
+55    UBRELVY TAB 100MG              00023-6501-10   $   52,647.75   USD   100 Claims
+56    DAPAGLIFLOZI TAB 5MG           66993-0456-30   $   52,393.83   USD   195 Claims
+57    ZEPBOUND INJ 5/0.5ML           00002-2495-80   $   51,904.88   USD    61 Claims
+58    MOUNJARO INJ 7.5/0.5           00002-1484-80   $   51,786.21   USD    64 Claims
+59    TRULICITY INJ 3/0.5            00002-2236-80   $   51,253.53   USD    63 Claims
+60    MOUNJARO INJ 10MG/0.5          00002-1471-80   $   48,589.56   USD    54 Claims
+61    AUSTEDO XR TAB 24MG            68546-0472-56   $   47,305.75   USD    10 Claims
+62    REXULTI TAB 1MG                59148-0037-13   $   46,474.23   USD    59 Claims
+63    COSENTYX PEN INJ 300DOSE       00078-0639-41   $   45,131.43   USD    34 Claims
+64    MOUNJARO INJ 2.5/0.5           00002-1506-80   $   45,057.90   USD    57 Claims
+65    GENVOYA TAB                    61958-1901-01   $   44,134.79   USD    18 Claims
+66    FLUTICAS HFA AER 110MCG        66993-0079-96   $   43,012.84   USD   429 Claims
+67    SYMTUZA TAB                    59676-0800-30   $   42,620.09   USD    11 Claims
+68    SANTYL 250U/GM OINTMENT 90GM   50484-0010-90   $   42,390.95   USD     2 Claims
+69    BUPREN/NALOX MIS 8-2MG         47781-0357-03   $   41,770.71   USD   1230 Claims
+70    PAXLOVID TAB 300-100           00069-5045-30   $   41,595.96   USD    39 Claims
+71    TESTOST CYP INJ 200MG/ML       00143-9659-01   $   40,328.91   USD   1786 Claims
+72    JULUCA TAB 50-25MG             49702-0242-13   $   40,014.92   USD    16 Claims
+73    TIOTROP BROM CAP 18MCG         68180-0964-12   $   37,459.50   USD   184 Claims
+74    SKYRIZI SOL 60MG/ML            00074-5015-01   $   37,153.93   USD     5 Claims
+75    ZEPBOUND INJ 2.5/0.5           00002-2506-80   $   36,958.68   USD    45 Claims
+76    TIVICAY TAB 50MG               49702-0228-13   $   35,603.69   USD    13 Claims
+77    AUSTEDO TAB 9MG                68546-0171-60   $   35,241.92   USD     6 Claims
+78    ZEPBOUND INJ 7.5/0.5           00002-2484-80   $   34,605.79   USD    38 Claims
+79    EPINEPHRINE INJ 0.3MG          00115-1694-49   $   33,982.09   USD   363 Claims
+80    COMBIVENT AER 20-100           00597-0024-02   $   33,043.06   USD   138 Claims
+81    ADBRY INJ 300/2ML              50222-0350-02   $   32,939.90   USD    13 Claims
+82    CAPLYTA CAP 21MG               72060-0121-40   $   32,362.13   USD    31 Claims
+83    SKYRIZI INJ 150MG/ML           00074-1050-01   $   32,201.66   USD     5 Claims
+84    ZUBSOLV SUB 8.6-2.1            54123-0986-30   $   32,022.63   USD    56 Claims
+85    TRULICITY INJ 4.5/0.5          00002-3182-80   $   31,875.97   USD    29 Claims
+86    LANTUS SOLOS INJ 100/ML        00088-2219-05   $   29,139.66   USD   1236 Claims
+87    XIFAXAN TAB 550MG              65649-0303-02   $   29,041.25   USD    40 Claims
+88    ZEPBOUND INJ 10/0.5ML          00002-2471-80   $   28,786.52   USD    35 Claims
+89    AUSTEDO XR TAB 12MG            68546-0471-56   $   28,523.01   USD     9 Claims
+90    MOUNJARO INJ 12.5/0.5          00002-1460-80   $   28,510.89   USD    37 Claims
+91    STELARA INJ 90MG/ML            57894-0061-03   $   28,125.92   USD     3 Claims
+92    FLUTICAS HFA AER 44MCG         66993-0078-96   $   27,655.07   USD   345 Claims
+93    UMECLID/VILA INH 62.5-25       66993-0134-97   $   27,492.29   USD   108 Claims
+94    REXULTI TAB 2MG                59148-0038-13   $   27,299.15   USD    31 Claims
+95    DELSTRIGO TAB                  00006-5007-01   $   27,283.94   USD    14 Claims
+96    ENTRESTO TAB 49-51MG           00078-0777-20   $   27,207.91   USD    57 Claims
+97    WIXELA INHUB AER 250/50        00378-9321-32   $   26,329.82   USD   554 Claims
+98    ABILIFY ASIM INJ 960MG         59148-0114-80   $   25,993.23   USD     6 Claims
+99    REXULTI TAB 3MG                59148-0039-13   $   25,265.51   USD    32 Claims
+100   RYBELSUS TAB 3MG               00169-4303-30   $   25,204.86   USD    70 Claims
+101   EPCLUSA TAB 400-100                  61958-2201-01   $   24,593.92   USD     5 Claims
+102   WIXELA INHUB AER 500/50              00378-9322-32   $   23,652.93   USD   247 Claims
+103   DOVATO TAB 50-300MG                  49702-0246-33   $   23,152.83   USD     5 Claims
+104   ZENPEP CAP 40000UNT                  73562-0114-01   $   22,583.41   USD     9 Claims
+105   KISQALI FCT TAB 200 MG               00078-0860-01   $   22,362.16   USD     6 Claims
+106   RADICAVA ORS SUS 105/5ML             70510-2322-01   $   21,885.60   USD     2 Claims
+107   VERZENIO TAB 150MG                   00002-5337-54   $   21,737.12   USD     2 Claims
+108   ZEPBOUND INJ 12.5/0.5                00002-2460-80   $   21,291.08   USD    24 Claims
+109   FLUTICAS HFA AER 220MCG              66993-0080-96   $   20,805.36   USD   123 Claims
+110   INVEGA SUST INJ 234/1.5              50458-0564-01   $   19,773.25   USD    15 Claims
+111   STIOLTO AER 2.5-2.5                  00597-0155-61   $   19,687.43   USD   192 Claims
+112   BREO ELLIPTA INH 100-25              00173-0859-10   $   19,562.31   USD   178 Claims
+113   TRULICITY INJ 0.75/0.5               00002-1433-80   $   19,427.79   USD    43 Claims
+114   NORELGE/ETHI DIS 150/35              70710-1190-03   $   19,063.19   USD   294 Claims
+115   TREMFYA SY 200MG/ML 2ML PF PPN       57894-0651-02   $   19,013.76   USD     5 Claims
+116   REXULTI TAB 4MG                      59148-0040-13   $   18,362.48   USD    21 Claims
+117   BUPREN/NALOX SUB 8-2MG               00054-0189-13   $   18,152.68   USD   732 Claims
+118   QVAR REDIHA AER 80MCG                59310-0304-80   $   17,508.44   USD   190 Claims
+119   ALBUTEROL AER HFA                    69097-0142-60   $   17,284.36   USD   3784 Claims
+120   BREZTRI AERO AER SPHERE              00310-4616-12   $   17,269.87   USD    65 Claims
+121   TRESIBA FLEX INJ 100UNIT             00169-2660-15   $   17,062.31   USD   147 Claims
+122   PREZCOBIX TAB 800-150                59676-0575-30   $   16,849.20   USD     4 Claims
+123   BREO ELLIPTA INH 200-25              00173-0882-10   $   16,664.14   USD   148 Claims
+124   TRULICITY INJ 1.5/0.5                00002-1434-80   $   16,448.21   USD    38 Claims
+125   TRIUMEQ TAB (ABC600/DTG50/3TC 300)   49702-0231-13   $   16,392.41   USD     8 Claims
+126   FLUTICASONE SPR 50MCG                00054-3270-99   $   16,049.07   USD   4528 Claims
+127   ANORO ELLIPT AER 62.5-25             00173-0869-10   $   16,035.90   USD   249 Claims
+128   ALBUTEROL AER HFA                    00093-3174-31   $   15,771.88   USD   2085 Claims
+129   SPIRIVA RESP AER 1.25MCG             00597-0160-61   $   15,729.13   USD   233 Claims
+130   ACTEMRA INJ 162/0.9                  50242-0138-01   $   15,617.80   USD     7 Claims
+131   GVOKE HYPO 2 INJ 1/0.2ML             72065-0121-12   $   15,508.12   USD    31 Claims
+132   ZUBSOLV SUB 5.7-1.4                  54123-0957-30   $   15,448.97   USD    56 Claims
+133   BOTOX 200UNIT INJ, 1 VIAL            00023-3921-02   $   15,413.51   USD    18 Claims
+134   TOUJEO MAX INJ 300/ML                00024-5871-02   $   15,237.53   USD   103 Claims
+135   ESTRAD VAL INJ 20MG/ML               70700-0274-22   $   15,209.62   USD   213 Claims
+136   ENTRESTO TAB 97-103MG                00078-0696-20   $   14,858.97   USD    44 Claims
+137   XYOSTED INJ 75/0.5ML                 54436-0275-04   $   14,701.89   USD    46 Claims
+138   GEMTESA TAB 75MG                     73336-0075-30   $   14,418.44   USD    61 Claims
+139   ARNUITY ELPT INH 200MCG              00173-0876-10   $   14,399.94   USD   196 Claims
+140   NALTREXONE TAB 50MG                  47335-0326-88   $   14,017.99   USD   776 Claims
+141   ZEPBOUND INJ 15/0.5ML                00002-2457-80   $   13,979.05   USD    17 Claims
+142   VIBERZI TAB 100MG                    61874-0100-60   $   13,880.85   USD    21 Claims
+143   EPINEPHRINE INJ 0.3MG                00093-5986-27   $   13,850.85   USD    65 Claims
+144   TOUJEO SOLO INJ 300/ML               00024-5869-03   $   13,464.71   USD   132 Claims
+145   AUVELITY TAB 45-105MG                81968-0045-60   $   13,458.60   USD    23 Claims
+146   LIDOCAINE PAD 4%                     70512-0014-30   $   12,904.10   USD    60 Claims
+147   LIRAGLUTIDE INJ 18MG/3ML             00480-7250-46   $   12,765.24   USD    13 Claims
+148   REXULTI TAB 0.5MG                    59148-0036-13   $   12,705.84   USD    16 Claims
+149   LIDOCAINE DIS 5% PATCH               00603-1880-16   $   12,456.93   USD   516 Claims
+150   QVAR REDIHAL AER 40MCG               59310-0302-40   $   12,441.99   USD   197 Claims
+151   IBUPROFEN TAB 800MG                  49483-0604-50   $   11,900.73   USD   3007 Claims
+152   OSELTAMIVIR CAP 75MG                 60219-1266-01   $   11,827.11   USD   559 Claims
+153   GLARGIN YFGN INJ 100U/ML             83257-0015-32   $   11,821.16   USD   147 Claims
+154   ABILIFY ASMTFL PFS720MG2.4ML 1       59148-0102-80   $   11,782.25   USD     4 Claims
+155   NICOTINE TD DIS 21MG/24H             00536-5896-88   $   11,518.32   USD   491 Claims
+156   UBRELVY TAB 50MG                     00023-6498-10   $   11,360.36   USD    32 Claims
+157   EMVERM CHW 100MG                     64896-0669-30   $   11,199.60   USD     1 Claims
+158   WIXELA INHUB AER 100/50              00378-9320-32   $   11,160.68   USD   289 Claims
+159   XCOPRI TAB 200MG                     71699-0200-30   $   11,118.81   USD    15 Claims
+160   AJOVY INJ 225/1.5                     51759-0202-10   $   11,005.32   USD    57 Claims
+161   ALOGLIPTIN TAB 25MG                   45802-0150-65   $   10,855.85   USD   108 Claims
+162   STEGLATRO TAB 15MG                    00006-5364-03   $   10,317.22   USD    36 Claims
+163   HUMIRA INJ 40/0.4ML                   00074-0243-02   $    9,931.73   USD     7 Claims
+164   NOVOLOG INJ FLEXPEN                   00169-6339-10   $    9,846.54   USD    81 Claims
+165   NUBEQA TAB 300MG                      50419-0395-01   $    9,590.52   USD     1 Claims
+166   VALTOCO SPR 10MG                      72252-0510-05   $    9,497.48   USD     8 Claims
+167   SAXENDA INJ 18MG/3ML                  00169-2800-15   $    9,403.18   USD    21 Claims
+168   TRINTELLIX TAB 20MG                   64764-0750-30   $    9,399.11   USD   124 Claims
+169   ARNUITY ELPT INH 100MCG               00173-0874-10   $    9,345.16   USD   188 Claims
+170   EPINEPHRINE INJ 0.15MG                00093-5985-27   $    9,148.82   USD    41 Claims
+171   ESTRAD VAL INJ 10MG/ML                70700-0273-22   $    8,840.57   USD    91 Claims
+172   PROLIA INJ 60MG/ML                    55513-0710-21   $    8,321.73   USD    10 Claims
+173   NICOTINE TD DIS 14MG/24H              00536-5895-88   $    8,279.59   USD   339 Claims
+174   FLUTIC/VILAN INH 100-25               66993-0135-97   $    8,201.81   USD    55 Claims
+175   SLYND TAB 4MG                         00642-7470-01   $    8,094.44   USD    38 Claims
+176   HYDROCORT AC SUP 25MG                 00574-7090-12   $    8,081.76   USD    33 Claims
+177   TREMFYA PFS 100MG/ML 1                57894-0640-01   $    7,971.76   USD     2 Claims
+178   NICOTINE POL GUM 4MG                  00536-3405-01   $    7,959.55   USD   229 Claims
+179   FASENRA PEN INJ 30MG/ML               00310-1830-30   $    7,860.75   USD     2 Claims
+180   CONTRAVE TAB 8-90MG                   51267-0890-99   $    7,854.35   USD    13 Claims
+181   XOLAIR INJ 300/2ML                    50242-0227-55   $    7,769.78   USD     4 Claims
+182   MIRABEGRON TAB 50MG ER                70710-1160-03   $    7,613.00   USD    30 Claims
+183   VASCEPA CAP 1GM                       52937-0001-20   $    7,567.74   USD    19 Claims
+184   ORILISSA TAB 150MG                    00074-0038-28   $    7,541.81   USD    13 Claims
+185   SPIRIVA RESP AER 2.5MCG               00597-0100-61   $    7,499.89   USD   190 Claims
+186   XYOSTED INJ 50/0.5ML                  54436-0250-04   $    7,436.54   USD    25 Claims
+187   INVEGA TRINZ INJ 546MG                50458-0608-01   $    7,387.90   USD     2 Claims
+188   XYOSTED INJ 100/0.5                   54436-0200-04   $    7,317.90   USD    24 Claims
+189   XCOPRI 150 MG                         71699-0150-30   $    7,316.54   USD    10 Claims
+190   QULIPTA TAB 30MG                      00074-7096-30   $    7,312.24   USD    15 Claims
+191   FLUTIC/SALME AER 115-21               66993-0087-96   $    7,311.27   USD    45 Claims
+192   FLUTIC/VILAN INH 200-25               66993-0136-97   $    6,721.70   USD    43 Claims
+193   GILENYA CAP 0.5MG                     00078-0607-15   $    6,712.92   USD     2 Claims
+194   ARISTADA INJ 882MG/3                  65757-0403-03   $    6,671.12   USD     3 Claims
+195   MPB XTANDI 40MG TAB 120               00469-0625-99   $    6,424.81   USD     1 Claims
+196   REXULTI TAB 0.25MG                    59148-0035-13   $    6,400.40   USD     8 Claims
+197   BUPREN/NALOX SUB 8-2MG                62756-0970-83   $    6,304.33   USD   394 Claims
+198   NUVARING MIS                          59212-0146-03   $    6,248.06   USD    13 Claims
+199   ADALIMU-ADAZ INJ 40/0.4ML             61314-0327-20   $    5,981.71   USD    13 Claims
+200   VOQUEZNA TAB 10MG                     81520-0100-30   $    5,980.99   USD    16 Claims
+201   CETIRIZINE SOL 1MG/ML                 00121-0874-16   $    5,964.62   USD   504 Claims
+202   VENTOLIN HFA AER                      00173-0682-20   $    5,959.08   USD   360 Claims
+203   FLUTIC/SALME AER 230-21               66993-0088-96   $    5,955.03   USD    28 Claims
+204   COMPLERA TAB                          61958-1101-01   $    5,888.26   USD     4 Claims
+205   SPINOSAD SUS 0.9%                     52246-0570-04   $    5,789.97   USD    30 Claims
+206   INGREZZA 80MG CAPSULES                70370-1080-01   $    5,737.46   USD     1 Claims
+207   IBUPROFEN TAB 600MG                   49483-0603-50   $    5,682.50   USD   2275 Claims
+208   GABAPENTIN TAB 800MG                  70010-0228-05   $    5,656.05   USD   1162 Claims
+209   VEOZAH TAB 45MG                       00469-2660-30   $    5,619.97   USD    13 Claims
+210   BUPREN/NALOX MIS 4-1MG                47781-0356-03   $    5,596.15   USD   113 Claims
+211   LIRAGLUTIDE INJ 18MG/3ML              00480-3667-22   $    5,591.87   USD    16 Claims
+212   ESTRAD VAL INJ 40MG/ML                70700-0275-22   $    5,562.88   USD    47 Claims
+213   VALTOCO 15MG NAS SP(10X7.5MG)5 DOSE   72252-0515-10   $    5,526.07   USD     4 Claims
+214   INSULIN ASPA INJ FLEXPEN              73070-0103-15   $    5,448.28   USD    82 Claims
+215   FLUTIC/SALME AER 45-21MCG             66993-0086-96   $    5,446.85   USD    42 Claims
+216   TRINTELLIX TAB 10MG                   64764-0730-30   $    5,417.93   USD    79 Claims
+217   CAPLYTA CAP 10.5MG                    72060-0110-40   $    5,412.48   USD     6 Claims
+218   ORACEA CAP 40MG                       00299-3822-30   $    5,405.19   USD     8 Claims
+   219      ESTRAD VAL INJ 20MG/ML                                    00143-9290-01                     $          5,384.34       USD               88 Claims
+   220      ESTRAD VAL INJ 40MG/ML                                    00143-9291-01                     $          5,368.75       USD               57 Claims
+   221      BELBUCA MIS 750MCG                                        59385-0026-60                     $          5,342.58       USD               17 Claims
+   222      YUVAFEM TAB 10MCG                                         65162-0226-21                     $          5,311.12       USD              133 Claims
+   223      INGREZZA CAP 40MG                                         70370-2040-01                     $          5,263.04       USD                1 Claims
+   224      PRALUENT INJ 75MG/ML                                      61755-0020-02                     $          5,238.92       USD               22 Claims
+   225      STEGLATRO TAB 5MG                                         00006-5363-03                     $          5,196.48       USD               13 Claims
+   226      NALOXONE HCL SPR 4MG                                      00480-3478-68                     $          5,190.30       USD              174 Claims
+   227      NUCALA INJ 100MG/ML                                       00173-0892-01                     $          5,177.42       USD                2 Claims
+   228      ZUBSOLV SUB 2.9-0.71                                      54123-0929-30                     $          5,124.55       USD               19 Claims
+   229      BREYNA 160/4.5MCG ORAL INH(120 INH)                       00378-7503-32                     $          5,053.50       USD               14 Claims
+   230      DEPO PROVERA 150MG                                        66993-0370-25                     $       165,078.48        USD             1358 Claims
+   231      Inj, cabote rilpivir 2mg 3mg                              49702-0240-15                     $        25,258.75        USD                5 Claims
+   232      INJECTION, CABOTEGRAVIR 1 MG                              49702-0264-23                     $          9,004.95       USD                3 Claims
+   233      IUD SUPPLIED - KYLEENA                                    50419-0424-01                     $        10,650.60        USD               15 Claims
+   234      IUD SUPPLIED - MIRENA                                     50419-0423-01                     $        67,403.64        USD              188 Claims
+   235      IUD SUPPLIED - PARAGARD                                   59365-5129-01                     $        13,222.88        USD               44 Claims
+   236      IUD SUPPLIED - SKYLA                                      50419-0422-01                     $          6,068.28       USD                6 Claims
+   237      RHO IMMUNE GLOBUILIN (RH                                  00562-7805-05                     $        10,454.07        USD               33 Claims
+   238      TRIAMCINOLONE ACETONIDE 10 MG                             70121-1049-05                     $          6,929.60       USD              122 Claims
+
+
+            Total Prescription Drugs individually under $5,000                                          $     1,082,854.53        USD          224540 Claims
+
+            Total Costs of Prescription Drugs Obtained Through
+            340B Program Claimed for Reimbursement                                                      $    14,485,262.62                      284797
+                                                                                                                                         Mandated by
+                                                                                                                                        RIGL § 5-19.3-6
+
+            Note: The list of drugs is based on the claims dispensed in the CY 2025, not on all drugs purchased in the CY 2025.
+
+Form RIOAG 340B-Sch G (revised January 2026)
+            State of Rhode Island                                                                                               Schedule H
+            340B Drug Pricing Program - Covered Entity Reporting
+            Schedule H - 340B Program Savings Usage by Covered Entity to Benefit
+            Patients and/or its Community Through Programs, Projects, and/or Services.
+
+            Covered Entity Name:                                          Thundermist Health Center
+            Reporting for Calendar Year:                                                        2025
+
+
+Instruction: List all programs, projects, and/or services provided by the Covered Entity through 340B Program savings
+
+Line No.                 340B Net Revenue Usage Description                               Amount/Value                             Unit
+
+     1      Health Services Expansion                                                                                              USD
+     2      Community and Public Health Programs                                                                                   USD
+     3      Improving Patient Access                                                                                               USD
+     4      Facility Upgrades/Maintenance                                                                              11,475      USD
+     5      Technology Upgrades                                                                                   177,359          USD
+     6      Subsidize Losses - Commercial, Medicaid and Medicare
+                                                                                                                                   USD
+            Program Underpayments                                                                              10,368,152
+    7       Research and Innovation                                                                                       -        USD
+    8       Community Programs                                                                                                     USD
+    9       Charity Care/Uncompensated Care                                                                                        USD
+    10      Other (NP Fellowships) * Family Nurse Practitioners                                                   338,942          USD
+            Other programs, projects, and services where costs
+                                                                                                                                   USD
+            totaled less than $5,000.
+
+
+
+
+            Total Aggregate Costs of Programs, Projects, and/or
+            Services Supported by 340B Net Revenue                                                           10,895,928
+                                                                                    Mandated by RIGL § 5-19.3-6.
+
+Note: Thundermist is assuming that the total on this line should reflect the Net 340B revenue reported during CY25 -
+$10,895,928. There are additional unfunded expenses
+
+Form RIOAG 340B-Sch H (revised January 2026)
+             State of Rhode Island                                                                                  Schedule I
+             340B Drug Pricing Program - Covered Entity Reporting
+             Schedule I - Covered Entity Certification Page
+
+             Covered Entity Name:                                                                      Thundermist Health Center
+             Reporting for Calendar Year:                                                                               2025
+
+
+                                                                                                               If Yes, explain any
+Line No.                            Covered Entity Certification                         YES     NO          noncompliance noted.
+
+                                                                                                       Our self‑audit for the July
+                                                                                                       2025–December 2025 audit period
+     1      During the reporting period, did the covered entity conduct a self-audit                   concluded in mid‑March 2026, and we
+            of their participation in the 340B Program as required by the Health                       have not yet received the final report
+            Resources and Services Administration (HRSA)?                              Yes             from our external auditor.
+
+
+            During the reporting period, was the covered entity audited by HRSA or
+     2
+            subject to a drug manufacturer audit approved by HRSA?                             No
+
+
+I certify, to the best of my knowledge and belief, that the information reported in this reporting package is materially complete and
+accurate?
+
+
+
+                                                                                                                   4/1/26
+                                                 Signature                                                              Date
+
+
+
+                    Charles T. Jones                                                                   [email address in the PDF]
+                                               Name and Title                                                           Email
+
+Form RIOAG 340B-Sch I (revised January 2026)
+

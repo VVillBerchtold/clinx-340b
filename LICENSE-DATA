@@ -1,0 +1,27 @@
+Data licence
+
+Copyright (c) 2026 Will Berchtold
+
+The dataset in this repository (the files in data/, transcriptions/,
+verification/ and reference/) is licensed under the Creative Commons
+Attribution 4.0 International licence (CC BY 4.0).
+
+You may copy, share and adapt it for any purpose, including commercially, as
+long as you give appropriate credit, link to the licence, and say if you
+changed it.
+
+The full legal text of the licence is at:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Suggested credit:
+"340B state filings dataset, version <version>, CC BY 4.0."
+
+What this licence does not cover:
+
+- The PDF filings in sources/ are public records published by the State of
+  Rhode Island Office of the Auditor General. They are reproduced unchanged
+  and no rights in them are claimed.
+- The code in src/, tests/ and tools/ is under the MIT licence (see LICENSE).
+
+The dataset is provided as is, with no warranty. Where the dataset and a
+filing differ, the filing governs.
