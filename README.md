@@ -1,3 +1,12 @@
+<p>
+  <a href="https://clinx.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VVillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-dark.svg">
+      <img src="https://raw.githubusercontent.com/VVillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-light.svg" alt="ClinX" height="28">
+    </picture>
+  </a>
+</p>
+
 # clinx-340b: state 340B filings as open data
 
 Some states now require hospitals and health centers in the federal 340B drug program to report, each year, what the program cost them, what it paid them, and whom they paid along the way. The reports are public, but they are PDF files, one per filer, and hard to read side by side.
