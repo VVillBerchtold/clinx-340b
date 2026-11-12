@@ -2,9 +2,9 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
-## Unreleased
+## 0.4.0 (tagged `v0.4.0`, 12 November 2026)
 
-Version 0.4.0 (not tagged). A claim count of 1 to 5 is no longer republished. Described first; 0.3.0 follows it.
+The first tagged release, and the one ClinX.org is built from. A claim count of 1 to 5 is no longer republished. Described first; 0.3.0 follows it.
 
 ### Added (0.4.0)
 
