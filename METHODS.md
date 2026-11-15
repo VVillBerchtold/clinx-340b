@@ -237,7 +237,7 @@ The same holds for Vermont's hospitals: the filings are made by different hospit
 
 ## 8. Versions
 
-The dataset follows semantic versioning. A correction to a published figure is a patch release and is listed in the changelog with the filing, schedule and line. A new state or year is a minor release (0.2.0 added Vermont, 0.3.0 added Minnesota, 0.5.0 added Idaho). A change to a column's meaning is a major release.
+The dataset follows semantic versioning. A correction to a published figure is a patch release and is listed in the changelog with the filing, schedule and line. A new state or year is a minor release (0.2.0 added Vermont, 0.3.0 added Minnesota, 0.5.0 added Idaho), and so is a new table (0.6.0 added the state laws). A change to a column's meaning is a major release.
 
 ## 9. Small claim counts
 
@@ -262,3 +262,31 @@ The left-out counts are kept in `private/small-counts.csv`: one row for each, wi
 After transcribing a new filing with its counts as read, the maintainer runs `uv run filings340b seal`. It moves the small counts into the private file, empties them in the transcription and the image-read file, and writes `claim-sums.csv`. Running it again changes nothing. A test walks every CSV file under `transcriptions/`, `verification/` and `data/` and fails if a claim cell shows a count of 1 to 5.
 
 In this version the rule leaves out 310 counts as `fewer_than_6` and 0 as `beside_small`. All 310 are Rhode Island Schedule G drug rows (of 2,364 such rows). No Schedule C row has a count of 1 to 5. Every filing with small rows has at least two, and the sum of their counts is more than the number of rows and less than five times that number, so no row is left out under the subtraction case.
+
+## 10. State laws
+
+From version 0.6.0 the dataset has a table of enacted state laws that name the 340B program. It is kept by hand in `laws/laws.csv`, one row per enacted act, and published as `data/state-laws.csv`.
+
+**Where a law comes from.** Each law was found by searching, then read on an official page: the legislature's own site, the state's code site, or a state office such as a secretary of state. `laws/hosts.csv` lists every site the table links to, the state it belongs to and who runs it; the build stops at a link to any other site. Lists kept by others were used only to find laws to look for. Nothing in a row is taken from them.
+
+**What is saved.** `tools/save_law_text.py` saves the words of each official page under `sources/laws/<state>/<law_id>.txt`, and a second official page, where one is used, as `<law_id>.more.txt`. A second page is there for what the first does not print: a bill's history page for its dates, or a code section for its number. `source_form` says how the first page was read: `web page`, `pdf`, or `scanned pdf` for a scan read by character recognition (one law, Tennessee's 2025 act). In the saved text, curly quotation marks and long dashes are made plain, runs of spaces become one space, the line numbers in the margin of a numbered bill are taken off, and an e-mail address or a telephone number is replaced by a marker. Nothing else is changed. Each row carries the SHA-256 fingerprint of its saved text.
+
+**What the build checks.** `src/filings340b/laws.py` stops the build unless, for every row:
+
+- the saved text names the program (340B, or 42 U.S.C. 256b);
+- `quote` is in the saved text word for word, and itself names the program;
+- a filled `signed_date` or `effective_date` is printed in one of the row's saved texts;
+- each link is on a site listed for that state, and each saved text matches its fingerprint;
+- each kind is one of the seven in `laws/kinds.csv`.
+
+**What is listed.** An act is listed when it sets a rule about the 340B program: for drug makers, for insurers and pharmacy benefit managers, for covered entities, for Medicaid, or for a state office. These are left out and named in `laws/not-listed.csv`, each with its reason: a budget condition whose named years are over; a section since replaced by a listed one; an act that re-enacts a section with the same 340B words as a listed act; an act that names 340B only inside a definition; and a law that came up in the search and whose official text was not read.
+
+**Dates and numbers.** A date is filled only where a saved page prints it as that date. Where an act takes effect a set number of days after a session ends, or on passage, and the page prints no calendar date, `effective_date` is blank, `limits` says how the act takes effect, and `source_note` says that the page prints no date. A bill number or an act number is blank where the official page does not print it. `session_year` is the year of the session that passed the act.
+
+**The words in a row.** `summary`, `binds`, `limits` and `enforcement` are written by hand from the saved text, in plain words. They describe what the text says. They do not say whether a law is in force today, how a court has read it, or what anyone should do about it. `source_note` is kept apart from them: it is about the saved pages, not the law, and says what a page does not print or how it was read.
+
+**What the table does not cover.** Court cases about these laws; bills that did not pass; federal law and guidance; rules made by agencies under these laws. An act amended later is described as enacted, with a note in `limits` where a saved page shows the later change.
+
+**How complete it is.** The search covered the fifty states and the District of Columbia. Nothing was found on official pages for thirteen of them (the README names them). A state with no row is a state where none was found. For comparison, the National Conference of State Legislatures wrote in March 2026 that 19 states enacted 22 bills on 340B in 2025; this table has 18 laws from 2025 sessions, in 17 states. The two were not matched bill for bill.
+
+**Keeping it current.** `retrieved` is the day the official pages were saved. A page that changes later is not picked up until the law is read again.

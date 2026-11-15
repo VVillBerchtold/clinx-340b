@@ -1,0 +1,144 @@
+Public Act 0778 102ND GENERAL ASSEMBLY Public Act 102-0778 HB4595 Enrolled LRB102 23475 BMS 32651 b AN ACT concerning regulation.
+Be it enacted by the People of the State of Illinois, represented in the General Assembly:
+Section 5.
+The Illinois Insurance Code is amended by changing Sections 424 and 513b1 as follows:
+(215 ILCS 5/424) (from Ch. 73, par. 1031) Sec. 424.
+Unfair methods of competition and unfair or deceptive acts or practices defined.
+The following are hereby defined as unfair methods of competition and unfair and deceptive acts or practices in the business of insurance:
+(1) The commission by any person of any one or more of the acts defined or prohibited by Sections 134, 143.24c, 147, 148, 149, 151, 155.22, 155.22a, 155.42, 236, 237, 364, and 469, and 513b1 of this Code.
+(2) Entering into any agreement to commit, or by any concerted action committing, any act of boycott, coercion or intimidation resulting in or tending to result in unreasonable restraint of, or monopoly in, the business of insurance.
+(3) Making or permitting, in the case of insurance of the types enumerated in Classes 1, 2, and 3 of Section 4, any unfair discrimination between individuals or risks of the same class or of essentially the same hazard and expense element because of the race, color, religion, or national origin of such insurance risks or applicants.
+The application of this Article to the types of insurance enumerated in Class 1 of Section 4 shall in no way limit, reduce, or impair the protections and remedies already provided for by Sections 236 and 364 of this Code or any other provision of this Code.
+(4) Engaging in any of the acts or practices defined in or prohibited by Sections 154.5 through 154.8 of this Code.
+(5) Making or charging any rate for insurance against losses arising from the use or ownership of a motor vehicle which requires a higher premium of any person by reason of his physical disability, race, color, religion, or national origin.
+(6) Failing to meet any requirement of the Unclaimed Life Insurance Benefits Act with such frequency as to constitute a general business practice.
+(Source:
+P.A. 99-143, eff. 7-27-15; 99-893, eff. 1-1-17.) (215 ILCS 5/513b1) Sec. 513b1.
+Pharmacy benefit manager contracts.
+(a) As used in this Section:
+"340B drug discount program" means the program established under Section 340B of the federal Public Health Service Act, 42 U.S.C. 256b.
+"340B entity" means a covered entity as defined in 42 U.S.C. 256b(a)(4) authorized to participate in the 340B drug discount program.
+"340B pharmacy" means any pharmacy used to dispense 340B drugs for a covered entity, whether entity-owned or external.
+"Biological product" has the meaning ascribed to that term in Section 19.5 of the Pharmacy Practice Act.
+"Maximum allowable cost" means the maximum amount that a pharmacy benefit manager will reimburse a pharmacy for the cost of a drug.
+"Maximum allowable cost list" means a list of drugs for which a maximum allowable cost has been established by a pharmacy benefit manager.
+"Pharmacy benefit manager" means a person, business, or entity, including a wholly or partially owned or controlled subsidiary of a pharmacy benefit manager, that provides claims processing services or other prescription drug or device services, or both, for health benefit plans.
+"Retail price" means the price an individual without prescription drug coverage would pay at a retail pharmacy, not including a pharmacist dispensing fee.
+"Third-party payer" means any entity that pays for prescription drugs on behalf of a patient other than a health care provider or sponsor of a plan subject to regulation under Medicare Part D, 42 U.S.C. 1395w-101, et seq.
+(b) A contract between a health insurer and a pharmacy benefit manager must require that the pharmacy benefit manager:
+(1) Update maximum allowable cost pricing information at least every 7 calendar days.
+(2) Maintain a process that will, in a timely manner, eliminate drugs from maximum allowable cost lists or modify drug prices to remain consistent with changes in pricing data used in formulating maximum allowable cost prices and product availability.
+(3) Provide access to its maximum allowable cost list to each pharmacy or pharmacy services administrative organization subject to the maximum allowable cost list.
+Access may include a real-time pharmacy website portal to be able to view the maximum allowable cost list.
+As used in this Section, "pharmacy services administrative organization" means an entity operating within the State that contracts with independent pharmacies to conduct business on their behalf with third-party payers.
+A pharmacy services administrative organization may provide administrative services to pharmacies and negotiate and enter into contracts with third-party payers or pharmacy benefit managers on behalf of pharmacies.
+(4) Provide a process by which a contracted pharmacy can appeal the provider's reimbursement for a drug subject to maximum allowable cost pricing.
+The appeals process must, at a minimum, include the following:
+(A) A requirement that a contracted pharmacy has 14 calendar days after the applicable fill date to appeal a maximum allowable cost if the reimbursement for the drug is less than the net amount that the network provider paid to the supplier of the drug.
+(B) A requirement that a pharmacy benefit manager must respond to a challenge within 14 calendar days of the contracted pharmacy making the claim for which the appeal has been submitted.
+(C) A telephone number and e-mail address or website to network providers, at which the provider can contact the pharmacy benefit manager to process and submit an appeal.
+(D) A requirement that, if an appeal is denied, the pharmacy benefit manager must provide the reason for the denial and the name and the national drug code number from national or regional wholesalers.
+(E) A requirement that, if an appeal is sustained, the pharmacy benefit manager must make an adjustment in the drug price effective the date the challenge is resolved and make the adjustment applicable to all similarly situated network pharmacy providers, as determined by the managed care organization or pharmacy benefit manager.
+(5) Allow a plan sponsor contracting with a pharmacy benefit manager an annual right to audit compliance with the terms of the contract by the pharmacy benefit manager, including, but not limited to, full disclosure of any and all rebate amounts secured, whether product specific or generalized rebates, that were provided to the pharmacy benefit manager by a pharmaceutical manufacturer.
+(6) Allow a plan sponsor contracting with a pharmacy benefit manager to request that the pharmacy benefit manager disclose the actual amounts paid by the pharmacy benefit manager to the pharmacy.
+(7) Provide notice to the party contracting with the pharmacy benefit manager of any consideration that the pharmacy benefit manager receives from the manufacturer for dispense as written prescriptions once a generic or biologically similar product becomes available.
+(c) In order to place a particular prescription drug on a maximum allowable cost list, the pharmacy benefit manager must, at a minimum, ensure that:
+(1) if the drug is a generically equivalent drug, it is listed as therapeutically equivalent and pharmaceutically equivalent "A" or "B" rated in the United States Food and Drug Administration's most recent version of the "Orange Book" or have an NR or NA rating by Medi-Span, Gold Standard, or a similar rating by a nationally recognized reference;
+(2) the drug is available for purchase by each pharmacy in the State from national or regional wholesalers operating in Illinois; and (3) the drug is not obsolete.
+(d) A pharmacy benefit manager is prohibited from limiting a pharmacist's ability to disclose whether the cost-sharing obligation exceeds the retail price for a covered prescription drug, and the availability of a more affordable alternative drug, if one is available in accordance with Section 42 of the Pharmacy Practice Act.
+(e) A health insurer or pharmacy benefit manager shall not require an insured to make a payment for a prescription drug at the point of sale in an amount that exceeds the lesser of:
+(1) the applicable cost-sharing amount; or (2) the retail price of the drug in the absence of prescription drug coverage.
+(f) Unless required by law, a contract between a pharmacy benefit manager or third-party payer and a 340B entity or 340B pharmacy shall not contain any provision that:
+(1) distinguishes between drugs purchased through the 340B drug discount program and other drugs when determining reimbursement or reimbursement methodologies, or contains otherwise less favorable payment terms or reimbursement methodologies for 340B entities or 340B pharmacies when compared to similarly situated non-340B entities;
+(2) imposes any fee, chargeback, or rate adjustment that is not similarly imposed on similarly situated pharmacies that are not 340B entities or 340B pharmacies;
+(3) imposes any fee, chargeback, or rate adjustment that exceeds the fee, chargeback, or rate adjustment that is not similarly imposed on similarly situated pharmacies that are not 340B entities or 340B pharmacies;
+(4) prevents or interferes with an individual's choice to receive a covered prescription drug from a 340B entity or 340B pharmacy through any legally permissible means, except that nothing in this paragraph shall prohibit the establishment of differing copayments or other cost-sharing amounts within the benefit plan for covered persons who acquire covered prescription drugs from a nonpreferred or nonparticipating provider;
+(5) excludes a 340B entity or 340B pharmacy from a pharmacy network on any basis that includes consideration of whether the 340B entity or 340B pharmacy participates in the 340B drug discount program;
+(6) prevents a 340B entity or 340B pharmacy from using a drug purchased under the 340B drug discount program; or (7) any other provision that discriminates against a 340B entity or 340B pharmacy by treating the 340B entity or 340B pharmacy differently than non-340B entities or non-340B pharmacies for any reason relating to the entity's participation in the 340B drug discount program.
+As used in this subsection, "pharmacy benefit manager" and "third-party payer" do not include pharmacy benefit managers and third-party payers acting on behalf of a Medicaid program.
+(g) A violation of this Section by a pharmacy benefit manager constitutes an unfair or deceptive act or practice in the business of insurance under Section 424.
+(h) A provision that violates subsection (f) in a contract between a pharmacy benefit manager or a third-party payer and a 340B entity that is entered into, amended, or renewed after July 1, 2022 shall be void and unenforceable.
+(i) (f) This Section applies to contracts entered into or renewed on or after July 1, 2022 2020.
+(j) (g) This Section applies to any group or individual policy of accident and health insurance or managed care plan that provides coverage for prescription drugs and that is amended, delivered, issued, or renewed on or after July 1, 2020.
+(Source:
+P.A. 101-452, eff. 1-1-20.) Section 10.
+The Illinois Public Aid Code is amended by changing Sections 5-5.12 and 5-36 as follows:
+(305 ILCS 5/5-5.12) (from Ch. 23, par. 5-5.12) Sec. 5-5.12.
+Pharmacy payments.
+(a) Every request submitted by a pharmacy for reimbursement under this Article for prescription drugs provided to a recipient of aid under this Article shall include the name of the prescriber or an acceptable identification number as established by the Department.
+(b) Pharmacies providing prescription drugs under this Article shall be reimbursed at a rate which shall include a professional dispensing fee as determined by the Illinois Department, plus the current acquisition cost of the prescription drug dispensed.
+The Illinois Department shall update its information on the acquisition costs of all prescription drugs no less frequently than every 30 days.
+However, the Illinois Department may set the rate of reimbursement for the acquisition cost, by rule, at a percentage of the current average wholesale acquisition cost.
+(c) (Blank).
+(d) The Department shall review utilization of narcotic medications in the medical assistance program and impose utilization controls that protect against abuse.
+(e) When making determinations as to which drugs shall be on a prior approval list, the Department shall include as part of the analysis for this determination, the degree to which a drug may affect individuals in different ways based on factors including the gender of the person taking the medication.
+(f) The Department shall cooperate with the Department of Public Health and the Department of Human Services Division of Mental Health in identifying psychotropic medications that, when given in a particular form, manner, duration, or frequency (including "as needed") in a dosage, or in conjunction with other psychotropic medications to a nursing home resident or to a resident of a facility licensed under the ID/DD Community Care Act or the MC/DD Act, may constitute a chemical restraint or an "unnecessary drug" as defined by the Nursing Home Care Act or Titles XVIII and XIX of the Social Security Act and the implementing rules and regulations.
+The Department shall require prior approval for any such medication prescribed for a nursing home resident or to a resident of a facility licensed under the ID/DD Community Care Act or the MC/DD Act, that appears to be a chemical restraint or an unnecessary drug.
+The Department shall consult with the Department of Human Services Division of Mental Health in developing a protocol and criteria for deciding whether to grant such prior approval.
+(g) The Department may by rule provide for reimbursement of the dispensing of a 90-day supply of a generic or brand name, non-narcotic maintenance medication in circumstances where it is cost effective.
+(g-5) On and after July 1, 2012, the Department may require the dispensing of drugs to nursing home residents be in a 7-day supply or other amount less than a 31-day supply.
+The Department shall pay only one dispensing fee per 31-day supply.
+(h) Effective July 1, 2011, the Department shall discontinue coverage of select over-the-counter drugs, including analgesics and cough and cold and allergy medications.
+(h-5) On and after July 1, 2012, the Department shall impose utilization controls, including, but not limited to, prior approval on specialty drugs, oncolytic drugs, drugs for the treatment of HIV or AIDS, immunosuppressant drugs, and biological products in order to maximize savings on these drugs.
+The Department may adjust payment methodologies for non-pharmacy billed drugs in order to incentivize the selection of lower-cost drugs.
+For drugs for the treatment of AIDS, the Department shall take into consideration the potential for non-adherence by certain populations, and shall develop protocols with organizations or providers primarily serving those with HIV/AIDS, as long as such measures intend to maintain cost neutrality with other utilization management controls such as prior approval.
+For hemophilia, the Department shall develop a program of utilization review and control which may include, in the discretion of the Department, prior approvals.
+The Department may impose special standards on providers that dispense blood factors which shall include, in the discretion of the Department, staff training and education; patient outreach and education; case management; in-home patient assessments; assay management; maintenance of stock; emergency dispensing timeframes; data collection and reporting; dispensing of supplies related to blood factor infusions; cold chain management and packaging practices; care coordination; product recalls; and emergency clinical consultation.
+The Department may require patients to receive a comprehensive examination annually at an appropriate provider in order to be eligible to continue to receive blood factor.
+(i) On and after July 1, 2012, the Department shall reduce any rate of reimbursement for services or other payments or alter any methodologies authorized by this Code to reduce any rate of reimbursement for services or other payments in accordance with Section 5-5e.
+(j) On and after July 1, 2012, the Department shall impose limitations on prescription drugs such that the Department shall not provide reimbursement for more than 4 prescriptions, including 3 brand name prescriptions, for distinct drugs in a 30-day period, unless prior approval is received for all prescriptions in excess of the 4-prescription limit.
+Drugs in the following therapeutic classes shall not be subject to prior approval as a result of the 4-prescription limit: immunosuppressant drugs, oncolytic drugs, anti-retroviral drugs, and, on or after July 1, 2014, antipsychotic drugs.
+On or after July 1, 2014, the Department may exempt children with complex medical needs enrolled in a care coordination entity contracted with the Department to solely coordinate care for such children, if the Department determines that the entity has a comprehensive drug reconciliation program.
+(k) No medication therapy management program implemented by the Department shall be contrary to the provisions of the Pharmacy Practice Act.
+(l) Any provider enrolled with the Department that bills the Department for outpatient drugs and is eligible to enroll in the federal Drug Pricing Program under Section 340B of the federal Public Health Service Act shall enroll in that program.
+No entity participating in the federal Drug Pricing Program under Section 340B of the federal Public Health Service Act may exclude fee-for-service Medicaid from their participation in that program, however, although the Department may exclude entities defined in Section 1905(l)(2)(B) of the Social Security Act are excluded from this requirement.
+This subsection does not apply to outpatient drugs billed to Medicaid managed care organizations.
+(Source:
+P.A. 102-558, eff. 8-20-21.) (305 ILCS 5/5-36) Sec. 5-36.
+Pharmacy benefits.
+(a)(1) The Department may enter into a contract with a third party on a fee-for-service reimbursement model for the purpose of administering pharmacy benefits as provided in this Section for members not enrolled in a Medicaid managed care organization; however, these services shall be approved by the Department.
+The Department shall ensure coordination of care between the third-party administrator and managed care organizations as a consideration in any contracts established in accordance with this Section.
+Any managed care techniques, principles, or administration of benefits utilized in accordance with this subsection shall comply with State law.
+(2) The following shall apply to contracts between entities contracting relating to the Department's third-party administrators and pharmacies:
+(A) the Department shall approve any contract between a third-party administrator and a pharmacy;
+(B) the Department's third-party administrator shall not change the terms of a contract between a third-party administrator and a pharmacy without written approval by the Department; and (C) the Department's third-party administrator shall not create, modify, implement, or indirectly establish any fee on a pharmacy, pharmacist, or a recipient of medical assistance without written approval by the Department.
+(b) The provisions of this Section shall not apply to outpatient pharmacy services provided by a health care facility registered as a covered entity pursuant to 42 U.S.C. 256b or any pharmacy owned by or contracted with the covered entity.
+A Medicaid managed care organization shall, either directly or through a pharmacy benefit manager, administer and reimburse outpatient pharmacy claims submitted by a health care facility registered as a covered entity pursuant to 42 U.S.C. 256b, its owned pharmacies, and contracted pharmacies in accordance with the contractual agreements the Medicaid managed care organization or its pharmacy benefit manager has with such facilities and pharmacies and in accordance with subsection (h-5).
+(b-5) Any pharmacy benefit manager that contracts with a Medicaid managed care organization to administer and reimburse pharmacy claims as provided in this Section must be registered with the Director of Insurance in accordance with Section 513b2 of the Illinois Insurance Code.
+(c) On at least an annual basis, the Director of the Department of Healthcare and Family Services shall submit a report beginning no later than one year after January 1, 2020 (the effective date of Public Act 101-452) that provides an update on any contract, contract issues, formulary, dispensing fees, and maximum allowable cost concerns regarding a third-party administrator and managed care.
+The requirement for reporting to the General Assembly shall be satisfied by filing copies of the report with the Speaker, the Minority Leader, and the Clerk of the House of Representatives and with the President, the Minority Leader, and the Secretary of the Senate.
+The Department shall take care that no proprietary information is included in the report required under this Section.
+(d) A pharmacy benefit manager shall notify the Department in writing of any activity, policy, or practice of the pharmacy benefit manager that directly or indirectly presents a conflict of interest that interferes with the discharge of the pharmacy benefit manager's duty to a managed care organization to exercise its contractual duties.
+"Conflict of interest" shall be defined by rule by the Department.
+(e) A pharmacy benefit manager shall, upon request, disclose to the Department the following information:
+(1) whether the pharmacy benefit manager has a contract, agreement, or other arrangement with a pharmaceutical manufacturer to exclusively dispense or provide a drug to a managed care organization's enrollees, and the aggregate amounts of consideration of economic benefits collected or received pursuant to that arrangement;
+(2) the percentage of claims payments made by the pharmacy benefit manager to pharmacies owned, managed, or controlled by the pharmacy benefit manager or any of the pharmacy benefit manager's management companies, parent companies, subsidiary companies, or jointly held companies;
+(3) the aggregate amount of the fees or assessments imposed on, or collected from, pharmacy providers; and (4) the average annualized percentage of revenue collected by the pharmacy benefit manager as a result of each contract it has executed with a managed care organization contracted by the Department to provide medical assistance benefits which is not paid by the pharmacy benefit manager to pharmacy providers and pharmaceutical manufacturers or labelers or in order to perform administrative functions pursuant to its contracts with managed care organizations.
+(f) The information disclosed under subsection (e) shall include all retail, mail order, specialty, and compounded prescription products.
+All information made available to the Department under subsection (e) is confidential and not subject to disclosure under the Freedom of Information Act.
+All information made available to the Department under subsection (e) shall not be reported or distributed in any way that compromises its competitive, proprietary, or financial value.
+The information shall only be used by the Department to assess the contract, agreement, or other arrangements made between a pharmacy benefit manager and a pharmacy provider, pharmaceutical manufacturer or labeler, managed care organization, or other entity, as applicable.
+(g) A pharmacy benefit manager shall disclose directly in writing to a pharmacy provider or pharmacy services administrative organization contracting with the pharmacy benefit manager of any material change to a contract provision that affects the terms of the reimbursement, the process for verifying benefits and eligibility, dispute resolution, procedures for verifying drugs included on the formulary, and contract termination at least 30 days prior to the date of the change to the provision.
+The terms of this subsection shall be deemed met if the pharmacy benefit manager posts the information on a website, viewable by the public.
+A pharmacy service administration organization shall notify all contract pharmacies of any material change, as described in this subsection, within 2 days of notification.
+As used in this Section, "pharmacy services administrative organization" means an entity operating within the State that contracts with independent pharmacies to conduct business on their behalf with third-party payers.
+A pharmacy services administrative organization may provide administrative services to pharmacies and negotiate and enter into contracts with third-party payers or pharmacy benefit managers on behalf of pharmacies.
+(h) A pharmacy benefit manager shall not include the following in a contract with a pharmacy provider:
+(1) a provision prohibiting the provider from informing a patient of a less costly alternative to a prescribed medication; or (2) a provision that prohibits the provider from dispensing a particular amount of a prescribed medication, if the pharmacy benefit manager allows that amount to be dispensed through a pharmacy owned or controlled by the pharmacy benefit manager, unless the prescription drug is subject to restricted distribution by the United States Food and Drug Administration or requires special handling, provider coordination, or patient education that cannot be provided by a retail pharmacy.
+(h-5) Unless required by law, a Medicaid managed care organization or pharmacy benefit manager administering or managing benefits on behalf of a Medicaid managed care organization shall not refuse to contract with a 340B entity or 340B pharmacy for refusing to accept less favorable payment terms or reimbursement methodologies when compared to similarly situated non-340B entities and shall not include in a contract with a 340B entity or 340B pharmacy a provision that:
+(1) imposes any fee, chargeback, or rate adjustment that is not similarly imposed on similarly situated pharmacies that are not 340B entities or 340B pharmacies;
+(2) imposes any fee, chargeback, or rate adjustment that exceeds the fee, chargeback, or rate adjustment that is not similarly imposed on similarly situated pharmacies that are not 340B entities or 340B pharmacies;
+(3) prevents or interferes with an individual's choice to receive a prescription drug from a 340B entity or 340B pharmacy through any legally permissible means;
+(4) excludes a 340B entity or 340B pharmacy from a pharmacy network on the basis of whether the 340B entity or 340B pharmacy participates in the 340B drug discount program;
+(5) prevents a 340B entity or 340B pharmacy from using a drug purchased under the 340B drug discount program so long as the drug recipient is a patient of the 340B entity; nothing in this Section exempts a 340B pharmacy from following the Department's preferred drug list or from any prior approval requirements of the Department or the Medicaid managed care organization that are imposed on the drug for all pharmacies; or (6) any other provision that discriminates against a 340B entity or 340B pharmacy by treating a 340B entity or 340B pharmacy differently than non-340B entities or non-340B pharmacies for any reason relating to the entity's participation in the 340B drug discount program.
+A provision that violates this subsection in any contract between a Medicaid managed care organization or its pharmacy benefit manager and a 340B entity entered into, amended, or renewed after July 1, 2022 shall be void and unenforceable.
+In this subsection (h-5):
+"340B entity" means a covered entity as defined in 42 U.S.C. 256b(a)(4) authorized to participate in the 340B drug discount program.
+"340B pharmacy" means any pharmacy used to dispense 340B drugs for a covered entity, whether entity-owned or external.
+(i) Nothing in this Section shall be construed to prohibit a pharmacy benefit manager from requiring the same reimbursement and terms and conditions for a pharmacy provider as for a pharmacy owned, controlled, or otherwise associated with the pharmacy benefit manager.
+(j) A pharmacy benefit manager shall establish and implement a process for the resolution of disputes arising out of this Section, which shall be approved by the Department.
+(k) The Department shall adopt rules establishing reasonable dispensing fees for fee-for-service payments in accordance with guidance or guidelines from the federal Centers for Medicare and Medicaid Services.
+(Source:
+P.A. 101-452, eff. 1-1-20; 102-558, eff. 8-20-21.) Section 99.
+Effective date.
+This Act takes effect July 1, 2022.

@@ -1,0 +1,95 @@
+Illinois General Assembly - Public Act 104-0758 Select Language × The Illinois General Assembly offers the Google TranslateTM service for visitor convenience.
+In no way should it be considered accurate as to the translation of any content herein.
+Visitors of the Illinois General Assembly website are encouraged to use other translation services available on the internet.
+The English language version is always the official and authoritative version of this website.
+NOTE:
+To return to the original English language version, select the "Show Original" button on the Google TranslateTM menu bar at the top of the window.
+Choose Language English Afrikaans Albanian Arabic Armenian Azerbaijani Basque Bengali Bosnian Catalan Croatian Czech Danish Dutch Esperanto Estonian Filipino Finnish French Galician Georgian German Greek Gujarati Haitian Creole Hausa Hawaiian Hebrew Hindi Hungarian Icelandic Indonesian Interlingua Interlingue Inuktitut Irish Italian Japanese Javanese Kannada Khmer Korean Latin Latvian Lithuanian Luxembourgish Macedonian Malagasy Malayalam Maltese Maori Marathi Myanmar Nepali Norwegian Odia Pashto Punjabi Romanian Russian Samoan Sango Sanskrit Sardinian Sindhi Sinhala Slovak Slovenian Somali Southern Sotho Spanish Sundanese Swahili Swedish Tamil Telugu Thai Tigrinya Tonga Turkish Ukrainian Urdu Vietnamese Welsh Xhosa Yiddish Yoruba Zulu Powered by Translate Close Illinois General Assembly Top Navigation Bar Translate Learn Select General Assembly Search the 104th General Assembly Enter search terms for legislation, members, committees, or schedules.
+ILGA.GOV LEGISLATION & LAWS Bills & Resolutions Public Acts Illinois Compiled Statutes Illinois Constitution Search Legislation Glossary Guide Reports & Inquiry Legislative Reports Special Reports FTP Site Legislator Lookup Capitol Complex Phone Numbers Rules & Regulations Illinois Register Administrative Rules Senate Members Schedules Committees Request for Remote Testimony Journals Transcripts Rules Audio/Video FOIA Information Senate Employment Opportunities Media Guidelines House Members Schedules Committees Submit testimony for House Committees Journals Transcripts Rules Audio/Video FOIA Information House Employment Opportunities Log In Mobile Top Bar Search the 104th General Assembly Enter keywords to search the Illinois General Assembly website.
+Public Act 104-0758 Home Legislation Public Acts Bill Status Full Text Printer Friendly Version PDF Public Act 104-0758 Open PDF Public Act 0758 104TH GENERAL ASSEMBLY Public Act 104-0758 HB2371 Enrolled LRB104 06098 BAB 16131 b AN ACT concerning regulation.
+Be it enacted by the People of the State of Illinois, represented in the General Assembly:
+Section 1.
+Short title.
+This Act may be cited as the Patient Access to Pharmacy Protection Act.
+Section 5.
+Findings.
+The General Assembly finds that:
+(1) It is within the traditional authority of the State to regulate the acquisition and delivery of drugs to pharmacies and providers.
+(2) The federal 340B statute is silent on distribution of 340B-acquired drugs to 340B covered entities and their contract pharmacy partners.
+(3) The State's compelling interest in preserving and improving access to health care services requires it to ensure that 340B covered entities continue to be allowed to contract with pharmacies to receive 340B drugs and dispense them to the patients of 340B covered entities in accordance with federal law.
+(4) Addressing accessibility of these life-saving medications is a matter of health, safety, and welfare for the people of the State of Illinois.
+Section 10.
+Definitions.
+As used in this Act:
+"340B contract pharmacy" means any pharmacy that is under contract with a 340B covered entity to dispense 340B drugs on behalf of the 340B covered entity and is either (i) located in Illinois and qualifies as a pharmacy under Section 3 of the Pharmacy Practice Act; or (ii) is located in a state, commonwealth, or territory of the United States, other than Illinois, and dispenses 340B drugs on behalf of the 340B covered entity.
+"340B covered entity" means an entity in Illinois that qualifies as a covered entity under Section 340B of the federal Public Health Service Act, 42 U.S.C. 256b(a)(4).
+"340B drug" means a drug that has been subject to any offer for reduced prices by a manufacturer pursuant to 42 U.S.C. 256b and is purchased by a 340B covered entity.
+"340B drug discount program" means the program established under Section 340B of the federal Public Health Service Act, 42 U.S.C. 256b.
+"340B grantee" means an entity in Illinois that qualifies as a covered entity under subparagraphs (A)-(K) of paragraph (4) of subsection (a) of Section 340B of the federal Public Health Service Act, 42 U.S.C. 256b(a)(4)(A)-(K).
+"Critical Access Hospital" has the meaning given to that term in paragraph (4) of subsection (b) of Section 5-5e of the Illinois Public Aid Code.
+"Hospital" means a hospital licensed under the Hospital Licensing Act or University of Illinois Hospital Act.
+"Manufacturer" or "Pharmaceutical Manufacturer" has the meaning given to the term "manufacturer" in the Wholesale Drug Distribution Licensing Act.
+"Person" includes a natural person, partnership, association, corporation, or any other legal business entity.
+"Person" does not include any federal or State government entity or body.
+"Safety-Net Hospital" has the meaning given to that term in Section 5-5e.1 of the Illinois Public Aid Code.
+Section 15.
+Protection of patient access to pharmacy.
+(a) No person, including a pharmaceutical manufacturer, may deny, restrict, prohibit, condition, or otherwise interfere with, either directly or indirectly, the acquisition of a 340B drug by, or delivery of a 340B drug to, a 340B covered entity or a 340B contract pharmacy authorized to receive 340B drugs on behalf of the 340B covered entity unless the receipt is prohibited by federal law.
+(b) No person, including a pharmaceutical manufacturer, may impose any restriction on the ability of a 340B covered entity to contract with or designate a 340B contract pharmacy, including restrictions relating to the number, location, ownership, or type of 340B contract pharmacy.
+(c) No person, including a pharmaceutical manufacturer, may require or compel a 340B covered entity or 340B contract pharmacy to:
+(1) submit or otherwise provide ingredient cost or pricing data pertinent to 340B drugs unless required by State or federal law;
+(2) institute requirements in any way relating to how a 340B covered entity manages its inventory of 340B drugs that are not required by a State or federal agency, including requirements relating to the frequency or scope of audits of inventory management systems of a 340B covered entity or a 340B contract pharmacy; or (3) submit data or information that is not required by a State or federal law as a condition for a 340B covered entity, its 340B contract pharmacy, or a location otherwise authorized by a 340B covered entity to receive 340B drugs.
+(d) Each individual transaction, as defined in 21 U.S.C. 360eee-24, of 340B drugs that is subject to a prohibited act in subsections (a) and (b) shall constitute a separate violation of this Act.
+Section 20.
+Reporting.
+On or before August 1, 2026 and each August 1 thereafter, a 340B covered entity shall submit a report to the General Assembly pursuant to this Section.
+For the purposes of this Section, the following covered entities are exempt until January 1, 2029 and will report on or before August 1, 2029 and each August 1 thereafter: hospitals with fewer than 100 licensed beds, Critical Access Hospitals, Safety-Net Hospitals, and 340B grantees.
+The report must include all of the following for the 340B covered entity's 340B program:
+(1) the name of the 340B covered entity submitting the report;
+(2) a copy of the 340B covered entity's annual 340B program recertification;
+(3) whether a community benefits plan report is required under Section 20 of the Community Benefits Act and, if so, a copy of the 340B covered entity's community benefits plan report, including a description of the amount of charity care provided by the 340B covered entity;
+(4) the aggregate acquisition cost for prescription drugs obtained under the 340B program and dispensed or administered to patients;
+(5) the aggregate payment amount received for all drugs obtained under the 340B program and dispensed or administered to patients;
+(6) the number of claims for prescription drugs received under the 340B program;
+(7) the percentage of the 340B covered entity's claims that were for prescription drugs obtained under the 340B program;
+(8) a description of any adverse 340B program audits within the preceding 12 months; and (9) a description of the impact of the 340B program on the patients and the community served by the 340B covered entity.
+Section 25.
+Medicaid study.
+(a) By January 1, 2028, the Department of Healthcare and Family Services shall report to the General Assembly on the following for the total aggregated covered outpatient drug units dispensed or administered in this State for the prior calendar year in connection with the medical assistance program under the Illinois Public Aid Code, categorized by (i) fee-for-service and (ii) each managed care plan:
+(1) the number of dispensed or administered covered outpatient drug units;
+(2) the number of dispensed or administered covered outpatient drug units that were subject to a rebate under 42 U.S.C. 1396r-8; and (3) a reasonable estimate of net costs or savings to the State's medical assistance program due to 340B covered entity purchases of covered outpatient drug units at 340B pricing.
+(b) To the extent the Department of Healthcare and Family Services lacks information to provide a data element required under subsection (a), it shall provide a reasonable estimate based on all available information and an explanation of the information that it lacks.
+Section 30. 340B prescription drug applicability.
+Each 340B covered entity shall dispense or administer 340B drugs only when in connection with an outpatient health care service received by the patient within the last 18 months.
+Section 35.
+Preventing duplication of 340B discounts.
+Each 340B covered entity shall develop and maintain a policy that ensures it is not placing an order for a 340B drug to replenish a prior pharmacy dispense if any other 340B covered entity will place an order for a 340B drug to replenish the same prior pharmacy dispense.
+The policy shall also include a process to reimburse a manufacturer for any duplicate 340B discount the covered entity receives.
+The policy shall be filed annually with the General Assembly.
+Section 40.
+Enforcement.
+(a) The Attorney General is authorized to enforce this Act under its general authority under the Attorney General Act.
+(b) Upon finding a violation of Section 15 of this Act, a court may order:
+(1) temporary, preliminary, or permanent injunctive relief for any act, policy, or practice that violates this Act;
+(2) money damages to be paid to the 340B covered entity as a result of the violation of this Act;
+(3) the assessment of a civil penalty of up to $1,000 for each violation of Section 15; or (4) any other relief.
+Section 45.
+Preemption.
+(a) Nothing in this Act shall be construed or applied to be less restrictive than federal law for a person regulated by this Act.
+(b) Nothing in this Act shall be construed or applied in a manner that would conflict with:
+(1) applicable federal law; or (2) other laws of this State if the State law is compatible with applicable federal law.
+(c) Limited distribution of a drug required under 21 U.S.C. 355-1 may not to be construed as a violation of this Act.
+Section 97.
+Severability.
+If any provision of this Act or its application to any person or circumstance is held invalid, the invalidity of that provision or application does not affect other provisions or applications of this Act that can be given effect without the invalid provision or application.
+Each paragraph defining "340B contract pharmacy" in Section 10 is severable.
+Section 99.
+Effective date.
+This Act takes effect upon becoming law.
+Effective Date: 8/7/2026 Footer Disclaimer This site is maintained for the Illinois General Assembly by the Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706.
+Contact ILGA Webmaster ILGA.gov uses cookies to ensure you get the best experience on our website.
+By continuing to browse ILGA.gov you consent to our use of cookies.
+Read About Cookies ILGA.GOV 2026 ILGA.gov | All Rights Reserved | ADA | Disclaimers | Learn This site is maintained for the Illinois General Assembly by the Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706.
+Contact ILGA Webmaster ILGA.gov uses cookies to ensure you get the best experience on our website.
+By continuing to browse ILGA.gov you consent to our use of cookies.
+Read About Cookies ILGA.GOV 2026 ILGA.gov | All Rights Reserved | ADA | Disclaimers | Learn

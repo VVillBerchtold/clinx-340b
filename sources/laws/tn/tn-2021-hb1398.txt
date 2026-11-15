@@ -1,0 +1,59 @@
+$>tate of 'Qtenne.s.see PUBLIC CHAPTER NO. 569 HOUSE BILL NO. 1398 By Representatives Helton, Clemmons, Smith, Rudder, Faison, Bricken, Lafferty, Powers, Sparks, Mannis, Littleton, Grills, Warner, Hurt, Terry, Whitson, Garringer, Kumar, Moon, Eldridge, Hall, Hakeem, Ramsey, Tim Hicks, Mitchell, Cepicky, Hawk, Sherrell, Griffey, Casada, Weaver, Alexander, Moody, Crawford, Reedy, Hodges, Russell, Cochran, Leatherwood, Jerry Sexton, Wright, Calfee, Farmer, Garrett, Freeman, Beck, Lynn, Zachary, Jernigan, Windle, Powell, Curtis Johnson, Darby, Rudd, Doggett, Ogles, Williams, Haston, Vaughan, Howell, Ragan, Harris, Shaw, Towns, Hardaway, Chism, White, Marsh, Carr, Gant, Keisling, Gloria Johnson, Lamberth, Todd, Miller, Camper Substituted for:
+Senate Bill No. 1617 By Senators Reeves, Bell, Yager, Haile, Swann, Briggs, Campbell, Jackson AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 56 and Title 71, relative to pharmacy benefits.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1.
+Tennessee Code Annotated, Title 56, Chapter 7, Part 31, is amended by adding the following as a new section:
+(a) A health insurance issuer, managed health insurance issuer as defined in § 56-32-128(a), pharmacy benefits manager, or other third-party payer shall not:
+( 1) Reimburse a 340B entity for pharmacy-dispensed drugs at a rate lower than the rate paid for the same drug by national drug code number to pharmacies that are not 340B entities;
+(2) Assess a fee, chargeback, or adjustment upon a 340B entity that is not equally assessed on non-340B entities;
+(3) Exclude 340B entities from its network of participating pharmacies based on criteria that is not applied to non-340B entities; or (4) Require a claim for a drug by national drug code number to include a modifier to identify that the drug is a 340B drug.
+(b) With respect to a patient eligible to receive drugs subject to an agreement under 42 U.S.C. § 256b, a pharmacy benefits manager, or third party that makes payment for those drugs, shall not discriminate against a 340B entity in a manner that violates § 56-7-2359 or otherwise prevents or interferes with the patient's choice to receive those drugs from the 340B entity.
+(c) Notwithstanding§ 56-7-1005, this section does not apply to:
+(1) The TennCare program administered under the Medical Assistance Act of 1968, compiled in title 71, chapter 5, part 1, or a successor Medicaid program;
+(2) The CoverKids Act of 2006, compiled in title 71, chapter 3, part 11, or a successor program; or (3) The prescription drug program described in chapter 57 of this title, or a successor program.
+(d) As used in this section:
+HB1398 (1) "340B entity" means a covered entity participating in the federal 340B drug discount program, as defined in section 340B of the Public Health Service Act, 42 U.S.C. § 256b, including the entity's pharmacy or pharmacies, or any pharmacy or pharmacies under contract with the 340B covered entity to dispense drugs on behalf of the 340B covered entity; and (2) "National drug code number" means the unique national drug code number that identifies a specific approved drug, its manufacturer, and its package presentation.
+SECTION 2.
+Tennessee Code Annotated, Title 56, Chapter 7, Part 31, is amended by adding the following as a new section:
+(a) A pharmacy benefits manager or a covered entity shall not require a person covered under a pharmacy benefit contract, that provides coverage for prescription drugs, including specialty drugs, to pay an additional fee, higher copay, higher coinsurance, second copay, second coinsurance, or other penalty when obtaining prescription drugs, including specialty drugs from a contracted pharmacy.
+(b) A pharmacy benefits manager or a covered entity shall not interfere with the patient's right to choose a contracted pharmacy or contracted provider of choice in a manner that violates § 56-7-2359 or by other means, including inducement, steering, or offering financial or other incentives.
+SECTION 3.
+Tennessee Code Annotated, Title 56, Chapter 7, Part 32, is amended by adding the following as a new section:
+(a) Notwithstanding a law to the contrary, a pharmacy benefits manager or a covered entity shall base the calculation of any coinsurance or deductible for a prescription drug or device on the allowed amount of the drug or device.
+For purposes of this section, coinsurance or deductible does not mean or include copayments.
+(b) Notwithstanding a law to the contrary, a pharmacy benefits manager shall not charge a covered entity an amount greater than the reimbursement paid by a pharmacy benefits manager to a contracted pharmacy for the prescription drug or device.
+(c) (1) Notwithstanding a law to the contrary, and except as otherwise provided in this subsection (c), a pharmacy benefits manager shall not reimburse a contracted pharmacy for a prescription drug or device an amount that is less than the actual cost to that pharmacy for the prescription drug or device.
+(2) (A) Subdivision (c)(1) does not apply to a pharmacy benefits manager when utilizing a reimbursement methodology that is identical to the methodology provided for in the state plan for medical assistance approved by the federal centers for medicare and medicaid services.
+(B) If a pharmacy benefits manager utilizes a reimbursement methodology that is identical to the methodology provided for in the state plan for medical assistance approved by the federal centers for medicare and medicaid services, then the pharmacy benefits manager shall establish a process for a pharmacy to appeal a reimbursement paid at average acquisition cost and receive an adjusted payment by providing valid and reliable evidence that the reimbursement does not reflect the actual cost to the pharmacy for the prescription drug or device.
+(3) (A) Subdivision (c)(1) does not apply to a covered entity or pharmacy benefits manager that establishes a clearly defined process 2 HB1398 through which a pharmacy may contest the actual reimbursement received for a particular drug or medical product or device.
+(8) If a pharmacy chooses to contest the actual reimbursement cost for a particular drug or medical product or device, then the pharmacy has the right to designate a pharmacy services administrative organization or other agent to file and handle its appeal of the actual reimbursement.
+(4) A covered entity's or pharmacy benefits manager's appeals process must be approved by the commissioner of commerce and insurance and comply with the timing and notice requirements of§ 56-7-3108.
+(d) As used in this section, "allowed amount" means the cost of a prescription drug or device after applying pharmacy benefits manager or covered entity pricing discounts available at the time of the prescription claim transaction.
+SECTION 4.
+Tennessee Code Annotated, Title 56, Chapter 7, Part 32, is amended by adding the following as a new section:
+A pharmacy benefits manager has a responsibility to report to the plan and the patient any benefit percentage that either are entitled to as a benefit as a covered person.
+SECTION 5.
+Tennessee Code Annotated, Title 56, Chapter 7, Part 32, is amended by adding the following as a new section:
+(a) (1) A covered entity shall, upon request of an enrollee, enrollee's healthcare provider, or authorized third party, furnish the cost, benefit, and coverage data described in subsection (b) to the enrollee, the enrollee's healthcare provider, or an authorized third party, and shall ensure that the data is:
+(A) Accurate as of the most recent change to the data that was made prior to the date of request;
+(8) Provided in real time; and (C) Provided in the same format in which the request is made.
+(2) (A) A request for coverage data must be in a format that uses established industry content and transport standards as published by the following:
+(i) A standard developing organization that is accredited by the American National Standards Institute, including, but not limited to, the National Council for Prescription Drug Programs, ASC X12, and Health Level 7; or (ii) A relevant governing entity of this state or the federal government, including, but not limited to, the federal centers for medicare and medicaid services and the office of national coordinator for health information technology.
+(8) The following are not acceptable formats for requests for coverage data under this section:
+(i) A facsimile; or (ii) Use of a proprietary payor or patient portal or other electronic form. 3 HB1398 (b) A covered entity that receives a request for data that complies with subsection (a) shall provide the following data for each drug covered under the enrollee's health plan:
+(1) The enrollee's eligibility information for the drug;
+(2) A list of any clinically appropriate alternatives to drugs covered under the enrollee's health plan;
+(3) Cost-sharing information for the drugs and the clinically appropriate alternatives; and (4) Applicable utilization management requirements for the drugs or clinically appropriate alternatives, including prior authorization, step therapy, quantity limits, and site-of-service restrictions.
+(c) A covered entity that furnishes data as provided in subsection (b) shall not:
+( 1) Restrict, prohibit, or otherwise hinder a healthcare provider from communicating or sharing with the enrollee or enrollee's authorized representative:
+(A) The data set forth in subsection (b);
+(B) Additional information on lower-cost or clinically appropriate alternative drugs, whether or not the drugs are covered under the enrollee's plan; or (C) Additional payment or cost-sharing information that may reduce the patient's out-of-pocket costs, such as cash price or patient assistance, and support programs sponsored by a manufacturer, foundation, or other entity;
+(2) Except as may be required by law, interfere with, prevent, or materially discourage access to, exchange of, or the use of the data set forth in subsection (b), including:
+(A) Charging fees;
+(B) Failing to respond to a request at the time made when such a response is reasonably possible;
+(C) Implementing technology in nonstandard ways; or (D) Instituting requirements, processes, policies, procedures, or renewals that are likely to substantially increase the complexity or burden of accessing, exchanging, or using the data; or (3) Penalize a healthcare provider for:
+(A) Disclosing the information described in subdivision (c)(1) to an enrollee; or (B) Prescribing, administering, or ordering a clinically appropriate or lower-cost alternative drug.
+SECTION 6.
+Sections 1-4 of this act take effect July 1, 2021, the public welfare requiring it.
+Section 5 of this act takes effect January 1, 2022, the public welfare requiring it. 4 HOUSE BILL NO. 1398 PASSED: ______M __a__,y__4.:...,-=2.a:;..;;02--=1:....-_ _ _ __ CAMERO EXTON,SPEAKER HOUSE OF REPRESENTATIVES RANDY MCNALL SPEAKER OF THE SENATE APPROVED this 20-/:b day of _ _ JV/ __a;y--,-__,___ _ _ 2021 BILL LEE, GOVERNOR •

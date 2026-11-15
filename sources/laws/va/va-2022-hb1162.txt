@@ -1,0 +1,47 @@
+Bill Tracking - 2022 session > Legislation Virginia General Assembly LIS Home LIS Help Privacy Statement Live Help LIS Classic Login SEARCH SITE QUICK LINKS - - - - - - - - - - - - - - Log in LIS Home General Assembly Home - - - - - - - - - - - - - - Session Tracking:
+Bills & Resolutions Members Committees Meetings Calendars Communications House Minutes Senate Minutes Statistics Lobbyist-in-a-Box Personal lists - - - - - - - - - - - - - - Search:
+Code of Virginia Administrative Code Bills & Resolutions Summaries OTHER SESSIONS - - - - - - - - - - - - - - 2023 Session 2022 Session 2022 Special Session I 2021 Session 2021 Special Session I 2021 Special Session II 2020 Session 2020 Special Session I 2019 Session 2019 Special Session I 2018 Session 2018 Special Session I 2018 Special Session II 2017 Session 2016 Session 2015 Session 2015 Special Session I 2014 Session 2014 Special Session I 2013 Session 2013 Special Session I 2012 Session 2012 Special Session I 2011 Session 2011 Special Session I 2010 Session 2009 Session 2009 Special Session I 2008 Session 2008 Special Session I 2008 Special Session II 2007 Session 2006 Session 2006 Special Session I 2005 Session 2004 Session 2004 Special Session I 2004 Special Session II 2003 Session 2002 Session 2001 Session 2001 Special Session I 2000 Session 1999 Session 1998 Session 1998 Special Session I 1997 Session 1996 Session 1995 Session 1994 Session 1994 Special Session I 1994 Special Session II VIRGINIA LAW PORTAL Code of Virginia Virginia Administrative Code Constitution of Virginia Charters Authorities Compacts Uncodified Acts RIS Users (account required) SEARCHABLE DATABASES Bills & Resolutions session legislation Bill Summaries session summaries Reports to the General Assembly House and Senate documents Legislative Liaisons State agency contacts ACROSS SESSIONS Subject Index:
+Since 1995 Bills & Resolutions:
+Since 1994 Summaries:
+Since 1994 Developed and maintained by the Division of Legislative Automated Systems. 2022 SESSION history | hilite | pdf | print version CHAPTER 319 An Act to amend and reenact §§ 38.2-3465 and 38.2-3467 of the Code of Virginia, relating to health insurance; discrimination prohibited against covered entities and contract pharmacies. [H 1162] Approved April 11, 2022 Be it enacted by the General Assembly of Virginia: 1.
+That §§ 38.2-3465 and 38.2-3467 of the Code of Virginia are amended and reenacted as follows: § 38.2-3465.
+Definitions.
+A.
+As used in this article, unless the context requires a different meaning:
+"Carrier" has the same meaning ascribed thereto in subsection A of § 38.2-3407.15.
+However, "carrier" does not include a nonprofit health maintenance organization that operates as a group model whose internal pharmacy operation exclusively serves the members or patients of the nonprofit health maintenance organization.
+"Claim" means a request from a pharmacy or pharmacist to be reimbursed for the cost of administering, filling, or refilling a prescription for a drug or for providing a medical supply or device.
+"Claims processing services" means the administrative services performed in connection with the processing and adjudicating of claims relating to pharmacist services that include (i) receiving payments for pharmacist services, (ii) making payments to pharmacists or pharmacies for pharmacist services, or (iii) both receiving and making payments.
+"Contract pharmacy" means a pharmacy operating under contract with a 340B-covered entity to provide dispensing services to the 340B-covered entity, as described in 75 Fed.
+Reg. 10272 (March 5, 2010) or any superseding guidance published thereafter.
+"Covered entity" means an entity described in § 340B(a)(4) of the federal Public Health Service Act, 42 U.S.C. § 256B(a)(4).
+"Covered entity" does not include a hospital as defined in § 32.1-123 or 37.2-100.
+"Covered individual" means an individual receiving prescription medication coverage or reimbursement provided by a pharmacy benefits manager or a carrier under a health benefit plan.
+"Health benefit plan" has the same meaning ascribed thereto in § 38.2-3438.
+"Mail order pharmacy" means a pharmacy whose primary business is to receive prescriptions by mail or through electronic submissions and to dispense medication to covered individuals through the use of the United States mail or other common or contract carrier services and that provides any consultation with covered individuals electronically rather than face-to-face.
+"Pharmacy benefits management" means the administration or management of prescription drug benefits provided by a carrier for the benefit of covered individuals.
+"Pharmacy benefits management" does not include any service provided by a nonprofit health maintenance organization that operates as a group model provided that the service is furnished through the internal pharmacy operation exclusively serves the members or patients of the nonprofit health maintenance organization.
+"Pharmacy benefits manager" or "PBM" means an entity that performs pharmacy benefits management.
+"Pharmacy benefits manager" includes an entity acting for a PBM in a contractual relationship in the performance of pharmacy benefits management for a carrier, nonprofit hospital, or third-party payor under a health program administered by the Commonwealth.
+"Pharmacy benefits manager affiliate" means a business, pharmacy, or pharmacist that directly or indirectly, through one or more intermediaries, owns or controls, is owned or controlled by, or is under common ownership interest or control with a pharmacy benefits manager.
+"Rebate" means a discount or other price concession, including without limitation incentives, disbursements, and reasonable estimates of a volume-based discount, or a payment that is (i) based on utilization of a prescription drug and (ii) paid by a manufacturer or third party, directly or indirectly, to a pharmacy benefits manager, pharmacy services administrative organization, or pharmacy after a claim has been processed and paid at a pharmacy.
+"Retail community pharmacy" means a pharmacy that is open to the public, serves walk-in customers, and makes available face-to-face consultations between licensed pharmacists and persons to whom medications are dispensed.
+"Spread pricing" means the model of prescription drug pricing in which the pharmacy benefits manager charges a health benefit plan a contracted price for prescription drugs, and the contracted price for the prescription drugs differs from the amount the pharmacy benefits manager directly or indirectly pays the pharmacist or pharmacy for pharmacist services. § 38.2-3467.
+Prohibited conduct by carriers and pharmacy benefits managers.
+A.
+No carrier on its own or through its contracted pharmacy benefits manager or representative of a pharmacy benefits manager shall: 1.
+Cause or knowingly permit the use of any advertisement, promotion, solicitation, representation, proposal, or offer that is untrue; 2.
+Charge a pharmacist or pharmacy a fee related to the adjudication of a claim other than a reasonable fee for an initial claim submission; 3.
+Reimburse a pharmacy or pharmacist an amount less than the amount that the pharmacy benefits manager reimburses a pharmacy benefits manager affiliate for providing the same pharmacist services, calculated on a per-unit basis using the same generic product identifier or generic code number and reflecting all drug manufacturer's rebates, direct and indirect administrative fees, and costs and any remuneration; or 4.
+Penalize or retaliate against a pharmacist or pharmacy for exercising rights provided pursuant to the provisions of this article; 5.
+Impose requirements, exclusions, reimbursement terms, or other conditions on a covered entity or contract pharmacy that differ from those applied to entities or pharmacies that are not covered entities or contract pharmacies on the basis that the entity or pharmacy is a covered entity or contract pharmacy or that the entity or pharmacy dispenses 340B-covered drugs.
+Nothing in this subdivision shall (i) apply to drugs with an annual estimated per-patient cost exceeding $250,000 or (ii) prohibit the identification of a 340B reimbursement request; or 6.
+Interfere with a covered individual's right to choose a pharmacy or provider, based on the pharmacy or provider's status as a covered entity or contract pharmacy.
+B.
+No carrier, on its own or through its contracted pharmacy benefits manager or representative of a pharmacy benefits manager, shall restrict participation of a pharmacy in a pharmacy network for provider accreditation standards or certification requirements if a pharmacist meets such accreditation standards or certification standards.
+C.
+No carrier, on its own or through its contracted pharmacy benefits manager or representative of a pharmacy benefits manager, shall include any mail order pharmacy or pharmacy benefits manager affiliate in calculating or determining network adequacy under any law or contract in the Commonwealth.
+D.
+No carrier, on its own or through its contracted pharmacy benefits manager or representative of a pharmacy benefits manager, shall conduct spread pricing in the Commonwealth.
+E.
+Each carrier on its own or through its contracted pharmacy benefits manager or representative of a pharmacy benefits manager shall comply with the provisions of this section in addition to complying with the provisions of § 38.2-3407.15:1.

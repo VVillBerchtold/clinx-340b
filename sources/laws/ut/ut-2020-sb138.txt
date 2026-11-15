@@ -1,0 +1,110 @@
+Enrolled Copy S.B. 138 PHARMACY BENEFIT MANAGER REVISIONS 2020 GENERAL SESSION STATE OF UTAH Chief Sponsor:
+Evan J.
+Vickers House Sponsor:
+Steve Eliason LONG TITLE General Description:
+This bill amends provisions relating to pharmacy benefit managers.
+Highlighted Provisions:
+This bill: < creates and amends definitions; < requires pharmacy benefit managers and insurers to use unique identifiers for plans managed by a Medicaid managed care organization; < prohibits a pharmacy benefit manager from prohibiting certain actions by an in-network pharmacy; < prohibits a pharmacy benefit manager from charging an insured customer more for use of a pharmacy that offers to mail or deliver a prescription drug to an enrollee; < prohibits certain actions by a pharmacy benefit manager, with respect to a 340B entity; and < makes technical and corresponding changes.
+Money Appropriated in this Bill:
+None Other Special Clauses:
+This bill provides a coordination clause.
+Utah Code Sections Affected:
+AMENDS: 26-18-405, as last amended by Laws of Utah 2016, Chapters 168, 222, and 394 S.B. 138 Enrolled Copy 31A-46-102, as enacted by Laws of Utah 2019, Chapter 241 31A-46-302, as renumbered and amended by Laws of Utah 2019, Chapter 241 31A-46-303, as renumbered and amended by Laws of Utah 2019, Chapter 241 ENACTS: 31A-46-305, Utah Code Annotated 1953 Utah Code Sections Affected by Coordination Clause: 31A-46-302, as renumbered and amended by Laws of Utah 2019, Chapter 241 Be it enacted by the Legislature of the state of Utah:
+Section 1.
+Section 26-18-405 is amended to read: 26-18-405.
+Waivers to maximize replacement of fee-for-service delivery model -- Cost of mandated program changes.
+(1) The department shall develop a waiver program in the Medicaid program to replace the fee-for-service delivery model with one or more risk-based delivery models.
+(2) The waiver program shall:
+(a) restructure the program's provider payment provisions to reward health care providers for delivering the most appropriate services at the lowest cost and in ways that, compared to services delivered before implementation of the waiver program, maintain or improve recipient health status;
+(b) restructure the program's cost sharing provisions and other incentives to reward recipients for personal efforts to:
+(i) maintain or improve their health status; and (ii) use providers that deliver the most appropriate services at the lowest cost;
+(c) identify the evidence-based practices and measures, risk adjustment methodologies, payment systems, funding sources, and other mechanisms necessary to reward providers for delivering the most appropriate services at the lowest cost, including mechanisms that:
+(i) pay providers for packages of services delivered over entire episodes of illness -2- Enrolled Copy S.B. 138 rather than for individual services delivered during each patient encounter; and (ii) reward providers for delivering services that make the most positive contribution to a recipient's health status;
+(d) limit total annual per-patient-per-month expenditures for services delivered through fee-for-service arrangements to total annual per-patient-per-month expenditures for services delivered through risk-based arrangements covering similar recipient populations and services; and (e) except as provided in Subsection (4), limit the rate of growth in per-patient-per-month General Fund expenditures for the program to the rate of growth in General Fund expenditures for all other programs, when the rate of growth in the General Fund expenditures for all other programs is greater than zero.
+(3) To the extent possible, the department shall operate the waiver program with the input of stakeholder groups representing those who will be affected by the waiver program.
+(4) (a) For purposes of this Subsection (4), "mandated program change" shall be determined by the department in consultation with the Medicaid accountable care organizations, and may include a change to the state Medicaid program that is required by state or federal law, state or federal guidance, policy, or the state Medicaid plan.
+(b) A mandated program change shall be included in the base budget for the Medicaid program for the fiscal year in which the Medicaid program adopted the mandated program change.
+(c) The mandated program change is not subject to the limit on the rate of growth in per-patient-per-month General Fund expenditures for the program established in Subsection (2)(e), until the fiscal year following the fiscal year in which the Medicaid program adopted the mandated program change.
+(5) A managed care organization or a pharmacy benefit manager that provides a pharmacy benefit to an enrollee shall establish a unique group number, payment classification number, or bank identification number for each Medicaid managed care organization plan for -3- S.B. 138 Enrolled Copy which the managed care organization or pharmacy benefit manager provides a pharmacy benefit.
+Section 2.
+Section 31A-46-102 is amended to read: 31A-46-102.
+Definitions.
+As used in this chapter:
+(1) "340B drug" means a drug purchased through the 340B drug discount program by a 340B entity.
+(2) "340B drug discount program" means the 340B drug discount program described in 42 U.S.C.
+Sec. 256b.
+(3) "340B entity" means:
+(a) an entity participating in the 340B drug discount program;
+(b) a pharmacy of an entity participating in the 340B drug discount program; or (c) a pharmacy contracting with an entity participating in the 340B drug discount program to dispense drugs purchased through the 340B drug discount program. [(1)] (4) "Administrative fee" means any payment, other than a rebate, that a pharmaceutical manufacturer makes directly or indirectly to a pharmacy benefit manager.
+(5) "Allowable claim amount" means the amount paid by an insurer under the customer's health benefit plan. [(2)] (6) "Contracting insurer" means an insurer [as defined in Section 31A-22-636] with whom a pharmacy benefit manager contracts to provide a pharmacy benefit management service.
+(7) "Cost share" means the amount paid by an insured customer under the customer's health benefit plan.
+(8) "Direct or indirect remuneration" means any adjustment in the total compensation:
+(a) received by a pharmacy from a pharmacy benefit manager for the sale of a drug, device, or other product or service; and (b) that is determined after the sale of the product or service. -4- Enrolled Copy S.B. 138 (9) "Drug" means the same as that term is defined in Section 58-17b-102.
+(10) "Insurer" means the same as that term is defined in Section 31A-22-636.
+(11) "Maximum allowable cost" means:
+(a) a maximum reimbursement amount for a group of pharmaceutically and therapeutically equivalent drugs; or (b) any similar reimbursement amount that is used by a pharmacy benefit manager to reimburse pharmacies for multiple source drugs.
+(12) "Medicaid program" means the same as that term is defined in Section 26-18-2.
+(13) "Obsolete" means a product that may be listed in national drug pricing compendia but is no longer available to be dispensed based on the expiration date of the last lot manufactured. [(3)] (14) "Pharmacist" means the same as that term is defined in Section 58-17b-102. [(4)] (15) "Pharmacy" means the same as that term is defined in Section 58-17b-102. [(5)] (16) "Pharmacy benefits management service" means any of the following services provided to a health benefit plan, or to a participant of a health benefit plan:
+(a) negotiating the amount to be paid by a health benefit plan for a prescription drug; or (b) administering or managing a prescription drug benefit provided by the health benefit plan for the benefit of a participant of the health benefit plan, including administering or managing:
+(i) [a] an out-of-state mail service pharmacy;
+(ii) a specialty pharmacy;
+(iii) claims processing;
+(iv) payment of a claim;
+(v) retail network management;
+(vi) clinical formulary development;
+(vii) clinical formulary management services;
+(viii) rebate contracting; -5- S.B. 138 Enrolled Copy (ix) rebate administration;
+(x) a participant compliance program;
+(xi) a therapeutic intervention program;
+(xii) a disease management program; or (xiii) a service that is similar to, or related to, a service described in Subsection [(5)] (16)(a) or [(5)] (16)(b)(i) through (xii). [(6)] (17) "Pharmacy benefit manager" means a person licensed under this chapter to provide a pharmacy benefits management service. [(7)] (18) "Pharmacy service" means a product, good, or service provided to an individual by a pharmacy or pharmacist.
+(19) "Pharmacy services administration organization" means an entity that contracts with a pharmacy to assist with third-party payer interactions and administrative services related to third-party payer interactions, including:
+(a) contracting with a pharmacy benefit manager on behalf of the pharmacy; and (b) managing a pharmacy's claims payments from third-party payers.
+(20) "Pharmacy service entity" means:
+(a) a pharmacy services administration organization; or (b) a pharmacy benefit manager.
+(21) "Prescription device" means the same as that term is defined in Section 58-17b-102. [(8)] (22) (a) "Rebate" means a refund, discount, or other price concession that is paid by a pharmaceutical manufacturer to a pharmacy benefit manager based on a prescription drug's utilization or effectiveness.
+(b) "Rebate" does not include an administrative fee.
+(23) (a) "Reimbursement report" means a report on the adjustment in total compensation for a claim.
+(b) "Reimbursement report" does not include a report on adjustments made pursuant to -6- Enrolled Copy S.B. 138 a pharmacy audit or reprocessing.
+(24) "Sale" means a prescription drug or prescription device claim covered by a health benefit plan.
+Section 3.
+Section 31A-46-302 is amended to read: 31A-46-302.
+Direct or indirect remuneration by pharmacy benefit managers -- Disclosure of customer costs -- Limit on customer payment for prescription drugs. [(1) As used in this section:] [(a) "Allowable claim amount" means the amount paid by an insurer under the customer's health benefit plan.] [(b) "Cost share" means the amount paid by an insured customer under the customer's health benefit plan.] [(c) "Direct or indirect remuneration" means any adjustment in the total compensation:] [(i) received by a pharmacy from a pharmacy benefit manager for the sale of a drug, device, or other product or service; and] [(ii) that is determined after the sale of the product or service.] [(d) "Health benefit plan" means the same as that term is defined in Section 31A-1-301.] [(e) "Pharmacy reimbursement" means the amount paid to a pharmacy by a pharmacy benefit manager for a dispensed prescription drug.] [(f) "Pharmacy services administration organization" means an entity that contracts with a pharmacy to assist with third-party payer interactions and administrative services related to third-party payer interactions, including:] [(i) contracting with a pharmacy benefit manager on behalf of the pharmacy; and] [(ii) managing a pharmacy's claims payments from third-party payers.] [(g) "Pharmacy service entity" means:] [(i) a pharmacy services administration organization; or] -7- S.B. 138 Enrolled Copy [(ii) a pharmacy benefit manager.] [(h) (i) "Reimbursement report" means a report on the adjustment in total compensation for a claim.] [(ii) "Reimbursement report" does not include a report on adjustments made pursuant to a pharmacy audit or reprocessing.] [(i) "Sale" means a prescription drug claim covered by a health benefit plan.] [(2)] (1) If a pharmacy service entity engages in direct or indirect remuneration with a pharmacy, the pharmacy service entity shall make a reimbursement report available to the pharmacy upon the pharmacy's request. [(3)] (2) For the reimbursement report described in Subsection [(2)] (1), the pharmacy service entity shall:
+(a) include the adjusted compensation amount related to a claim and the reason for the adjusted compensation; and (b) provide the reimbursement report:
+(i) in accordance with the contract between the pharmacy and the pharmacy service entity;
+(ii) in an electronic format that is easily accessible; and (iii) within 120 days after the day on which the pharmacy benefit manager receives a report of a sale of a product or service by the pharmacy. [(4)] (3) A pharmacy service entity shall, upon a pharmacy's request, provide the pharmacy with:
+(a) the reasons for any adjustments contained in a reimbursement report; and (b) an explanation of the reasons provided in Subsection [(4)] (3)(a). [(5)] (4) (a) A pharmacy benefit manager may not prohibit or penalize the disclosure by a pharmacist of:
+(i) an insured customer's cost share for a covered prescription drug;
+(ii) the availability of any therapeutically equivalent alternative medications; or -8- Enrolled Copy S.B. 138 (iii) alternative methods of paying for the prescription medication, including paying the cash price, that are less expensive than the cost share of the prescription drug.
+(b) Penalties that are prohibited under Subsection [(5)] (4)(a) include increased utilization review, reduced payments, and other financial disincentives. [(6)] (5) A pharmacy benefit manager may not require an insured customer to pay, for a covered prescription drug, more than the lesser of:
+(a) the applicable cost share of the prescription drug being dispensed;
+(b) the applicable allowable claim amount of the prescription drug being dispensed;
+(c) the applicable pharmacy reimbursement of the prescription drug being dispensed; or (d) the retail price of the drug without prescription drug coverage.
+(6) A pharmacy benefit manager or an insurer may not, directly or indirectly:
+(a) prohibit an in-network retail pharmacy from:
+(i) mailing or delivering a prescription drug to an enrollee as a service of the in-network retail pharmacy;
+(ii) charging a shipping or handling fee to an enrollee who requests that the in-network retail pharmacy mail or deliver a prescription drug to the enrollee; or (iii) offering the services described in Subsection (6)(a)(i) to an enrollee; or (b) charge an enrollee who uses an in-network retail pharmacy that offers to mail or deliver a prescription drug to an enrollee a fee or copayment that is higher than the fee or copayment the enrollee would pay if the enrollee used an in-network retail pharmacy that does not offer to mail or deliver a prescription drug to an enrollee.
+Section 4.
+Section 31A-46-303 is amended to read: 31A-46-303.
+Insurer and pharmacy benefit management services -- Registration -- Maximum allowable cost -- Audit restrictions. [(1) As used in this section:] [(a) "Maximum allowable cost" means:] [(i) a maximum reimbursement amount for a group of pharmaceutically and -9- S.B. 138 Enrolled Copy therapeutically equivalent drugs; or] [(ii) any similar reimbursement amount that is used by a pharmacy benefit manager to reimburse pharmacies for multiple source drugs.] [(b) "Obsolete" means a product that may be listed in national drug pricing compendia but is no longer available to be dispensed based on the expiration date of the last lot manufactured.] [(c) " Pharmacy benefit manager" means a person or entity that provides pharmacy benefit management services as defined in Section 49-20-502 on behalf of an insurer as defined in Subsection 31A-22-636(1).] [(2)] (1) An insurer and an insurer's pharmacy benefit manager is subject to the pharmacy audit provisions of Section 58-17b-622. [(3)] (2) A pharmacy benefit manager shall not use maximum allowable cost as a basis for reimbursement to a pharmacy unless:
+(a) the drug is listed as "A" or "B" rated in the most recent version of the United States Food and Drug Administration's approved drug products with therapeutic equivalent evaluations, also known as the "Orange Book," or has an "NR" or "NA" rating or similar rating by a nationally recognized reference; and (b) the drug is:
+(i) generally available for purchase in this state from a national or regional wholesaler; and (ii) not obsolete. [(4)] (3) The maximum allowable cost may be determined using comparable and current data on drug prices obtained from multiple nationally recognized, comprehensive data sources, including wholesalers, drug file vendors, and pharmaceutical manufacturers for drugs that are available for purchase by pharmacies in the state. [(5)] (4) For every drug for which the pharmacy benefit manager uses maximum allowable cost to reimburse a contracted pharmacy, the pharmacy benefit manager shall: - 10 - Enrolled Copy S.B. 138 (a) include in the contract with the pharmacy information identifying the national drug pricing compendia and other data sources used to obtain the drug price data;
+(b) review and make necessary adjustments to the maximum allowable cost, using the most recent data sources identified in Subsection [(5)] (4)(a), at least once per week;
+(c) provide a process for the contracted pharmacy to appeal the maximum allowable cost in accordance with Subsection [(6)] (5); and (d) include in each contract with a contracted pharmacy a process to obtain an update to the pharmacy product pricing files used to reimburse the pharmacy in a format that is readily available and accessible. [(6)] (5) (a) The right to appeal in Subsection [(5)] (4)(c) shall be:
+(i) limited to 21 days following the initial claim adjudication; and (ii) investigated and resolved by the pharmacy benefit manager within 14 business days.
+(b) If an appeal is denied, the pharmacy benefit manager shall provide the contracted pharmacy with the reason for the denial and the identification of the national drug code of the drug that may be purchased by the pharmacy at a price at or below the price determined by the pharmacy benefit manager. [(7)] (6) The contract with each pharmacy shall contain a dispute resolution mechanism in the event either party breaches the terms or conditions of the contract. [(8)] (7) This section does not apply to a pharmacy benefit manager when the pharmacy benefit manager is providing pharmacy benefit management services on behalf of the [state] Medicaid program.
+Section 5.
+Section 31A-46-305 is enacted to read: 31A-46-305.
+Reimbursement -- Prohibitions.
+(1) This section applies to a contract entered into or renewed on or after January 1, 2021, between a pharmacy benefit manager and a pharmacy.
+(2) A pharmacy benefit manager may not vary the amount it reimburses a pharmacy for - 11 - S.B. 138 Enrolled Copy a drug on the basis of whether:
+(a) the drug is a 340B drug; or (b) the pharmacy is a 340B entity.
+(3) Subsection (2) does not apply to a drug reimbursed, directly or indirectly, by the Medicaid program.
+(4) A pharmacy benefit manager may not:
+(a) on the basis that a 340B entity participates, directly or indirectly, in the 340B drug discount program:
+(i) assess a fee, charge-back, or other adjustment on the 340B entity;
+(ii) restrict access to the pharmacy benefit manager's pharmacy network;
+(iii) require the 340B entity to enter into a contract with a specific pharmacy to participate in the pharmacy benefit manager's pharmacy network;
+(iv) create a restriction or an additional charge on a patient who chooses to receive drugs from a 340B entity; or (v) create any additional requirements or restrictions on the 340B entity; or (b) require a claim for a drug to include a modifier to indicate that the drug is a 340B drug unless the claim is for payment, directly or indirectly, by the Medicaid program.
+Section 6.
+Coordinating S.B. 138 with H.B. 272 -- Omitting substantive changes.
+If this S.B. 138 and H.B. 272, Pharmacy Benefit Amendments, both pass and become law, it is the intent of the Legislature that the Office of Legislative Research and General Counsel, in preparing the Utah Code database for publication, not enact Subsection 31A-46-302(6) in S.B. 138. - 12 -

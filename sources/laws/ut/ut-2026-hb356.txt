@@ -1,0 +1,40 @@
+Enrolled Copy H.B. 356 Drug Distribution Amendments 2026 GENERAL SESSION STATE OF UTAH Chief Sponsor:
+Logan J.
+Monson Senate Sponsor:
+Evan J.
+Vickers LONG TITLE General Description:
+This bill amends provisions related to the 340B drug discount program.
+Highlighted Provisions:
+This bill: ▸ defines a 340B covered entity and a 340B eligible drug; ▸ clarifies prohibited actions under the 340B drug discount program; ▸ defines terms; and ▸ makes technical and conforming changes.
+Money Appropriated in this Bill:
+None Other Special Clauses:
+This bill provides a special effective date.
+Utah Code Sections Affected:
+AMENDS: 31A-46-311, as enacted by Laws of Utah 2025, Chapter 514 Be it enacted by the Legislature of the state of Utah:
+Section 1.
+Section 31A-46-311 is amended to read: 31A-46-311 .
+Prohibited actions with respect to the 340B drug discount program.
+(1) As used in this section[,] :
+(a) "340B covered entity" means the same as the term "covered entity" is defined in 42 U.S.C.
+Sec. 256b(a)(4).
+(b) "340B eligible drug" means a drug purchased through the 340B drug discount program, in accordance with 42 U.S.C.
+Sec. 256b, by a 340B covered entity.
+H.B. 356 Enrolled Copy (c) "Contracted pharmacy" means a pharmacy contracting with a 340B covered entity to dispense 340B eligible drugs.
+(d) ["manufacturer"] "Manufacturer" means a pharmaceutical manufacturer, including an agent or affiliate of a pharmaceutical manufacturer.
+(e) "Pharmacy" means any place where drugs are dispensed.
+(2) A manufacturer may not:
+(a) directly or indirectly restrict or prohibit:
+(i) a pharmacy from contracting with a 340B covered entity, including by denying the pharmacy access to a drug that is manufactured by the manufacturer;
+(ii) a 340B covered entity from contracting with a pharmacy, including by denying the 340B covered entity access to a drug that is manufactured by the manufacturer;
+(iii) the acquisition, dispensing, or delivery of a 340B eligible drug to any location authorized by a 340B covered entity to receive the drug, unless prohibited by federal law; or (iv) a 340B covered entity from receiving [340B drug discount program pricing for ]a 340B eligible drug, including by imposing a time limitation on a 340B covered entity to replenish or submit a claim for a 340B eligible drug;
+(b) directly or indirectly:
+(i) require a 340B covered entity to purchase a 340B eligible drug from a supplier if the manufacturer would otherwise permit the 340B covered entity to purchase a drug that is not a 340B eligible drug from the supplier; or (ii) require a 340B covered entity or a contracted pharmacy to submit any claim data, utilization data, or information about a 340B covered entity's contracts with a third-party, unless the data or information sharing is required by federal law, as a condition for allowing:
+(A) the acquisition of a 340B eligible drug by[,] a 340B covered entity; or (B) delivery of a 340B eligible drug to[,] a 340B covered entity[, unless the data or information sharing is required by federal law] or a contracted pharmacy; or (c) interfere with:
+(i) a contract between a pharmacy and a 340B covered entity; or (ii) the ability of a pharmacy and a 340B covered entity to enter into a contract.
+(3) The Public Employees' Benefit and Insurance Program created in Section 49-20-103 may adjust the program's business practices to mitigate any financial impacts resulting from this section. -2- Enrolled Copy H.B. 356 (4) Nothing in this section is to be construed to conflict with federal law.
+Section 2.
+Effective Date.
+This bill takes effect:
+(1) except as provided in Subsection (2), May 6, 2026; or (2) if approved by two-thirds of all members elected to each house:
+(a) upon approval by the governor;
+(b) without the governor's signature, the day following the constitutional time limit of Utah Constitution, Article VII, Section 8; or (c) in the case of a veto, the date of veto override. -3-

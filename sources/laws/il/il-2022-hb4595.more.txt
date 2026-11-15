@@ -1,0 +1,100 @@
+Illinois General Assembly - Bill Status for HB 4595 Bill Status of HB 4595 102nd General Assembly Short Description:
+INS-DRUG DISCOUNT PROGRAM House Sponsors Rep.
+Greg Harris-Natalie A.
+Manley-Maurice A.
+West, II-Tim Butler, Delia C.
+Ramirez, Deb Conroy, Ryan Spain, Dagmara Avelar, Margaret Croke, Kelly M.
+Cassidy, Theresa Mah, Robyn Gabel, Will Guzzardi, LaToya Greenwood, Bob Morgan, Dave Vella, Debbie Meyers-Martin, Denyse Wang Stoneback, Paul Jacobs, Katie Stuart, Lamont J.
+Robinson, Jr., Ann M.
+Williams, Justin Slaughter, Maura Hirschauer, Stephanie A.
+Kifowit, Eva Dina Delgado, Kelly M.
+Burke, Michelle Mussman, Anne Stava-Murray, Michael Halpin, Daniel Swanson, Amy Elik, Nicholas K.
+Smith, Janet Yang Rohr, Jennifer Gong-Gershowitz, Anthony DeLuca, Joyce Mason, Elizabeth Hernandez, Emanuel Chris Welch, Dan Caulkins and Angelica Guerrero-Cuellar Senate Sponsors (Sen.
+Mattie Hunter-David Koehler-Doris Turner, Cristina Castro, Sara Feigenholtz, Laura M.
+Murphy, Patricia Van Pelt-Emil Jones, III-Mike Simmons and Celina Villanueva) Last Action View All Actions Date Chamber Action 5/13/2022 House Public Act . . . . . . . . . 102-0778 Statutes Amended In Order of Appearance 215 ILCS 5/424 from Ch. 73, par. 1031 215 ILCS 5/513b1 305 ILCS 5/5-5.12 from Ch. 23, par. 5-5.12 305 ILCS 5/5-36 Synopsis As Introduced Amends the Illinois Insurance Code.
+Provides that a contract between a pharmacy benefit manager or third-party payer and a covered entity under Section 340B of the federal Public Health Service Act shall not contain specified provisions.
+Provides that a violation by a pharmacy benefit manager constitutes an unfair or deceptive act or practice in the business of insurance, and that a provision that violates the prohibition on certain provisions in a contract between a pharmacy benefit manager or a third-party payer and a 340B covered entity that is entered into, amended, or renewed after July 1, 2022 shall be void and unenforceable.
+Defines terms.
+Amends the Illinois Public Aid Code.
+In provisions concerning pharmacy payments, provides that no later than January 1, 2023, the Department of Healthcare and Family Services shall implement a mechanism for entities participating in the federal drug pricing program and their contracted pharmacies to submit quarterly retrospective utilization files containing the minimum fields necessary to accurately identify the drugs to the Department or its contractor for processing Medicaid drug rebate requests to Medicaid beneficiaries or Medicaid managed care organization enrollees.
+Provides that the Department or its contractor shall use the utilization files to remove 340B claims from the Department's Medicaid drug rebate requests and that the Department shall not require the entities or their contracted pharmacies to use any other method or billing code to identify 340B drugs billed to Medicaid or Medicaid managed care organizations.
+In provisions concerning pharmacy benefits, provides that a Medicaid managed care organization or pharmacy benefit manager administering or managing benefits on behalf of a Medicaid managed organization shall not include specified provisions in a contract with a covered entity or with any pharmacy owned by or contracted with the covered entity.
+Provides that a violation by a Medicaid managed care organization or its pharmacy benefit manager constitutes an unfair or deceptive act or practice in the business of insurance, and that a provision that violates the prohibition on certain provisions in a contract between a Medicaid managed care organization or its pharmacy benefit manager and a 340B covered entity entered into, amended, or renewed after July 1, 2022 shall be void and unenforceable.
+Effective July 1, 2022.
+House Floor Amendment No. 1 Replaces everything after the enacting clause.
+Amends the Illinois Insurance Code.
+Provides that a contract between a pharmacy benefit manager or third-party payer and a 340B entity or 340B pharmacy shall not contain specified provisions.
+Provides that a violation by a pharmacy benefit manager constitutes an unfair or deceptive act or practice in the business of insurance, and that a provision that violates the prohibition on certain provisions in a contract between a pharmacy benefit manager or a third-party payer and a 340B entity that is entered into, amended, or renewed after July 1, 2022 shall be void and unenforceable.
+In provisions concerning pharmacy benefit managers, provides that the provisions apply to contracts entered into or renewed on or after July 1, 2022 (rather than July 1, 2020).
+Defines terms.
+Amends the Illinois Public Aid Code.
+In provisions concerning pharmacy benefits, provides that a Medicaid managed care organization or pharmacy benefit manager administering or managing benefits on behalf of a Medicaid managed organization shall not include specified provisions in a contract with a 340B entity or 340B pharmacy.
+Provides that a provision that violates the prohibition on certain provisions in a contract between a Medicaid managed care organization or its pharmacy benefit manager and a 340B entity entered into, amended, or renewed after July 1, 2022 shall be void and unenforceable.
+Effective July 1, 2022.
+Actions Date Chamber Action 1/18/2022 House Filed with the Clerk by Rep.
+Greg Harris 1/19/2022 House Added Co-Sponsor Rep.
+Maurice A.
+West, II 1/19/2022 House Added Co-Sponsor Rep.
+Delia C.
+Ramirez 1/19/2022 House Added Co-Sponsor Rep.
+Deb Conroy 1/19/2022 House Added Co-Sponsor Rep.
+Ryan Spain 1/19/2022 House Removed Co-Sponsor Rep.
+Maurice A.
+West, II 1/20/2022 House Added Co-Sponsor Rep.
+Dagmara Avelar 1/21/2022 House First Reading 1/21/2022 House Referred to Rules Committee 1/21/2022 House Added Co-Sponsor Rep.
+Margaret Croke 1/21/2022 House Added Co-Sponsor Rep.
+Kelly M.
+Cassidy 1/21/2022 House Added Co-Sponsor Rep.
+Theresa Mah 1/21/2022 House Added Co-Sponsor Rep.
+Robyn Gabel 1/24/2022 House Added Co-Sponsor Rep.
+Will Guzzardi 1/24/2022 House Added Chief Co-Sponsor Rep.
+Natalie A.
+Manley 1/25/2022 House Added Co-Sponsor Rep.
+LaToya Greenwood 1/25/2022 House Added Co-Sponsor Rep.
+Bob Morgan 1/25/2022 House Added Co-Sponsor Rep.
+Dave Vella 1/26/2022 House Added Chief Co-Sponsor Rep.
+Maurice A.
+West, II 1/26/2022 House Added Co-Sponsor Rep.
+Debbie Meyers-Martin 1/26/2022 House Added Chief Co-Sponsor Rep.
+Tim Butler 1/27/2022 House Added Co-Sponsor Rep.
+Denyse Wang Stoneback 1/27/2022 House Added Co-Sponsor Rep.
+Paul Jacobs 1/31/2022 House Added Co-Sponsor Rep.
+Katie Stuart 1/31/2022 House Added Co-Sponsor Rep.
+Lamont J.
+Robinson, Jr. 1/31/2022 House Added Co-Sponsor Rep.
+Ann M.
+Williams 2/2/2022 House Added Co-Sponsor Rep.
+Justin Slaughter 2/9/2022 House Assigned to Prescription Drug Affordability & Accessibility Committee 2/9/2022 House Added Co-Sponsor Rep.
+Maura Hirschauer 2/9/2022 House Added Co-Sponsor Rep.
+Stephanie A.
+Kifowit 2/9/2022 House Added Co-Sponsor Rep.
+Eva Dina Delgado 2/10/2022 House Added Co-Sponsor Rep.
+Kelly M.
+Burke 2/10/2022 House Added Co-Sponsor Rep.
+Michelle Mussman 2/14/2022 House Added Co-Sponsor Rep.
+Anne Stava-Murray 2/16/2022 House Added Co-Sponsor Rep.
+Michael Halpin 2/16/2022 House Do Pass / Short Debate Prescription Drug Affordability & Accessibility Committee; 018-000-000 2/17/2022 House Placed on Calendar 2nd Reading - Short Debate 2/22/2022 House Added Co-Sponsor Rep.
+Daniel Swanson 2/22/2022 House Added Co-Sponsor Rep.
+Amy Elik 2/24/2022 House Added Co-Sponsor Rep.
+Nicholas K.
+Smith 2/24/2022 House Added Co-Sponsor Rep.
+Janet Yang Rohr 2/28/2022 House House Floor Amendment No. 1 Filed with Clerk by Rep.
+Greg Harris 2/28/2022 House House Floor Amendment No. 1 Referred to Rules Committee 3/2/2022 House House Floor Amendment No. 1 Rules Refers to Prescription Drug Affordability & Accessibility Committee 3/2/2022 House Added Co-Sponsor Rep.
+Jennifer Gong-Gershowitz 3/2/2022 House Second Reading - Short Debate 3/2/2022 House Held on Calendar Order of Second Reading - Short Debate 3/3/2022 House House Floor Amendment No. 1 Recommends Be Adopted Prescription Drug Affordability & Accessibility Committee; 015-000-000 3/3/2022 House Added Co-Sponsor Rep.
+Anthony DeLuca 3/3/2022 House House Floor Amendment No. 1 Adopted 3/3/2022 House Placed on Calendar Order of 3rd Reading - Short Debate 3/3/2022 House Third Reading - Short Debate - Passed 104-000-001 3/3/2022 House Added Co-Sponsor Rep.
+Joyce Mason 3/3/2022 House Added Co-Sponsor Rep.
+Elizabeth Hernandez 3/3/2022 House Added Co-Sponsor Rep.
+Emanuel Chris Welch 3/4/2022 House Added Co-Sponsor Rep.
+Dan Caulkins 3/4/2022 House Added Co-Sponsor Rep.
+Angelica Guerrero-Cuellar 3/4/2022 Senate Arrive in Senate 3/4/2022 Senate Placed on Calendar Order of First Reading March 8, 2022 3/9/2022 Senate Chief Senate Sponsor Sen.
+Mattie Hunter 3/9/2022 Senate First Reading 3/9/2022 Senate Referred to Assignments 3/9/2022 Senate Added as Alternate Chief Co-Sponsor Sen.
+David Koehler 3/10/2022 Senate Added as Alternate Chief Co-Sponsor Sen.
+Doris Turner 3/10/2022 Senate Added as Alternate Co-Sponsor Sen.
+Cristina Castro 3/11/2022 Senate Added as Alternate Co-Sponsor Sen.
+Sara Feigenholtz 3/14/2022 Senate Added as Alternate Co-Sponsor Sen.
+Laura M.
+Murphy 3/16/2022 Senate Assigned to Insurance 3/23/2022 Senate Do Pass Insurance; 011-000-000 3/23/2022 Senate Placed on Calendar Order of 2nd Reading 3/23/2022 Senate Second Reading 3/23/2022 Senate Placed on Calendar Order of 3rd Reading March 24, 2022 3/24/2022 Senate Added as Alternate Co-Sponsor Sen.
+Patricia Van Pelt 3/29/2022 Senate Added as Alternate Chief Co-Sponsor Sen.
+Emil Jones, III 3/30/2022 Senate Third Reading - Passed; 055-000-000 3/30/2022 House Passed Both Houses 3/31/2022 Senate Added as Alternate Chief Co-Sponsor Sen.
+Mike Simmons 4/4/2022 Senate Added as Alternate Co-Sponsor Sen.
+Celina Villanueva 4/28/2022 House Sent to the Governor 5/13/2022 House Governor Approved 5/13/2022 House Effective Date July 1, 2022 5/13/2022 House Public Act . . . . . . . . . 102-0778 Back To Top

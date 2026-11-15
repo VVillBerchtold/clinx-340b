@@ -1,0 +1,1188 @@
+NRS:
+CHAPTER 687B - CONTRACTS OF INSURANCE [Rev. 4/15/2026 4:07:51 PM--2025] CHAPTER 687B - CONTRACTS OF INSURANCE GENERAL PROVISIONS NRS 687B.010 Scope.
+NRS 687B.011 Definitions.
+NRS 687B.015 "Binder" defined.
+NRS 687B.018 "Medicare supplemental policy" defined.
+NRS 687B.021 Signatures.
+NRS 687B.030 Waiver of payment of premium.
+NRS 687B.040 Insurable interest:
+Personal insurance.
+NRS 687B.050 Insurable interest:
+Exception when certain institutions designated beneficiary.
+NRS 687B.060 Insurable interest:
+Property.
+NRS 687B.070 Power to contract; purchase of insurance and annuities by minors.
+NRS 687B.080 Consent of insured to life or health insurance required; exceptions; notice of application for or request to increase coverage of insurance upon life of another required.
+NRS 687B.090 Alteration of application:
+Life and health insurance.
+NRS 687B.100 Application as evidence.
+NRS 687B.110 Representations in applications.
+NRS 687B.113 Control of cost of health care:
+Provisions encouraging use of certain services and facilities.
+NRS 687B.117 Control of cost of health care:
+Insurer required to use three or more practices that control cost in administering benefits.
+NRS 687B.120 Filing and approval of forms; exemption; appeal of disapproval or withdrawal of previous approval.
+NRS 687B.122 Readability of policies:
+Applicability of requirements.
+NRS 687B.124 Readability of policies:
+Flesch test; type size, style, arrangement and overall appearance; index or table of contents; scoring riders or other forms separately.
+NRS 687B.126 Readability of policies:
+Filing policy for Commissioner's approval; exceptions to score requirements on Flesch test.
+NRS 687B.128 Readability of policies:
+Required approval by Commissioner in certain circumstances.
+NRS 687B.130 Grounds for disapproval or withdrawal of previous approval.
+NRS 687B.140 Standard provisions.
+NRS 687B.145 Provisions in policies of casualty insurance:
+Proration of recovery or benefits; uninsured and underinsured vehicle coverage; coverage for medical expenses; insurer not entitled to subrogation upon payment made because of underinsured vehicle coverage.
+NRS 687B.147 Exclusion, reduction or limitation of certain coverage in motor vehicle insurance policies allowed; conditions; form and contents of disclosure.
+NRS 687B.150 Requirement for making any portion of charter, bylaws or certain other documents of insurer part of contract.
+NRS 687B.160 Execution of policies.
+NRS 687B.170 Underwriters' and combination policies.
+NRS 687B.180 Validity and construction of noncomplying forms.
+NRS 687B.182 Binders:
+Issuance; period of effectiveness.
+NRS 687B.183 Binders:
+Forms; required statement related to certain policies; delivery of copies.
+NRS 687B.184 Binders:
+Limits of coverage, effective date and premium for policy issued as replacement.
+NRS 687B.185 Binders:
+Prohibition of use to lower premiums.
+NRS 687B.186 Binders:
+Proof of insurance coverage; penalties for refusal to accept; exception.
+NRS 687B.187 Binders:
+Disapproval of insurer.
+NRS 687B.190 Delivery of policy covering motor vehicle:
+Vendor, mortgagee or pledgee required to deliver duplicate to vendee, mortgagor or pledgor; stamped statement regarding certain lack of coverage; exception.
+NRS 687B.200 Assignability:
+Life or health insurance policy.
+NRS 687B.210 Payment under life or health insurance policy or annuity contract discharges insurer from claims under policy or contract; exception.
+NRS 687B.220 Forms for proof of loss required to be furnished by insurer to insured claimant.
+NRS 687B.225 Requirements for contracts for payment of cost of medical or dental care which require prior authorization of care. [Replaced in revision by NRS 687B.970.] NRS 687B.240 Administration of claims not waiver.
+NRS 687B.250 Payment not to constitute admission of liability or waiver of defenses.
+NRS 687B.255 Insurer required to pay claim with negotiable instrument.
+NRS 687B.260 Exemption of proceeds of certain policies.
+NRS 687B.270 Exemption of proceeds:
+Health insurance.
+NRS 687B.280 Exemption of proceeds:
+Group insurance.
+NRS 687B.290 Exemption of proceeds:
+Annuities; assignability of rights.
+NRS 687B.300 Retention of proceeds of policy by insurer.
+NRS 687B.310 Cancellations and nonrenewals; scope of application.
+NRS 687B.320 Policies other than industrial insurance policies:
+Grounds for midterm cancellation; notice to policyholder.
+NRS 687B.325 Industrial insurance policies:
+Grounds for midterm cancellation; notice to policyholder; provisions do not prohibit change in premium rate; terms of certain policies.
+NRS 687B.330 Anniversary cancellation.
+NRS 687B.340 Nonrenewals.
+NRS 687B.345 Annual review of coverage and benefits provided in policy.
+NRS 687B.350 Renewal with change in policy or coverage provisions without certain notice to insured prohibited; exceptions.
+NRS 687B.351 Requirements relating to purchase of Medicare supplemental policies by persons less than 65 years of age who are eligible for Medicare; limitation on premiums; open enrollment period.
+NRS 687B.352 Open enrollment period for Medicare supplemental policies required; prohibited acts; notice; treatment of Medicare supplemental policies purchased during open enrollment period for purposes relating to payment of commissions.
+NRS 687B.355 Insurer required to provide to policyholder information about claims paid on behalf of policyholder; fee; regulations.
+NRS 687B.360 Notice of cancellation or nonrenewal:
+Insurer required to provide to policyholder information about grounds upon request; notice ineffective unless contains information about right of policyholder to make such a request.
+NRS 687B.370 Certain notice ineffective unless contains information about applying for insurance through certain plans.
+NRS 687B.380 Immunity.
+NRS 687B.383 Refusal to issue, cancellation of, nonrenewal of or increase in premium or rate for certain policies solely on basis of breed of dog prohibited; exception; permissible inquiry by insurer regarding dog.
+NRS 687B.385 Refusal to issue, cancellation, nonrenewal or increase in premium of policy of motor vehicle insurance due to claims for which insured was not at fault, claims for which insurer made no payment or recovered entirety of payment or inquiries relating to a claim prohibited.
+NRS 687B.390 Cancellation or nonrenewal of automobile liability insurance policy on sole basis of age, residence, race, color, creed, national origin, ancestry, sexual orientation, gender identity or expression or occupation of insured prohibited.
+NRS 687B.400 Refusal to issue, reduction of liability limits of or increase in premium of automobile liability insurance policy on sole basis of reaching certain age prohibited; burden of proof; cost of medical examination; exception.
+NRS 687B.402 Compliance of certain insurers or organizations providing health coverage with certain federal laws regarding genetic information.
+NRS 687B.404 Adherence by insurer or organization providing health coverage to certain federal laws regarding parity in coverage for mental health and substance use disorder treatment; data request; submission of data or report to Commissioner; confidentiality of information; report by Commissioner; regulations.
+NRS 687B.406 Compliance of certain insurers or organizations providing health coverage with certain federal laws regarding dependent students.
+NRS 687B.407 Authority of nonprofit health benefit plan to use list of preferred prescription drugs developed by Nevada Health Authority as formulary and obtain such drugs through purchasing agreements negotiated by Authority; notification of Authority.
+NRS 687B.408 Insurer that issues certain policies of health insurance required to notify insured and physician before effective date of changes related to prescription drugs used for transplanted organs.
+NRS 687B.409 Payments to out-of-network providers for treatment of mental health or alcohol or substance use disorder; assignment of benefits.
+NRS 687B.4095 Policies of health insurance including prescription drug coverage:
+Restrictions on moving prescription drug from lower-cost tier to higher-cost tier.
+NRS 687B.410 Withdrawal of provision of insurance for particular class of insureds:
+Notice to Commissioner; administrative review upon request from insured.
+NRS 687B.420 Notice of proposed cancellation, nonrenewal or alteration of terms of certain policies, contracts or plans of insurance.
+NRS 687B.430 Regulations:
+Form, content and sale of policies which provide for payment of expenses not covered by Medicare; sale of more than one policy of health insurance to same person.
+NRS 687B.440 Umbrella policies:
+Requirement of signed disclosure statement from individual indicating whether policy includes uninsured or underinsured motorist coverage; form.
+NRS 687B.450 Required medical examination of applicant or insured:
+Duty of insurer to provide notification of potentially serious medical condition; exception; regulations.
+NRS 687B.460 Certificates of insurance for property or casualty insurance:
+Not part of, amend any term of or alter or expand coverage, exclusion or condition of contract or policy.
+HEALTH BENEFIT PLANS NRS 687B.470 "Health benefit plan" defined.
+NRS 687B.480 Required manner of availability; required notice related to Silver State Health Insurance Exchange in certain circumstances; regulations.
+NRS 687B.490 Requirements for carrier offering coverage in small employer group or individual market:
+Demonstration of capacity to adequately deliver services by applying to Commissioner for issuance of network plan and submission of information; determination by Commissioner; certification of plan or specification of deficiency; annual summary; periodic determinations by Commissioner concerning availability and accessibility of services of approved plan.
+NRS 687B.500 Basis for premium rate; exceptions.
+NETWORK PLANS NRS 687B.600 Definitions.
+NRS 687B.602 "Administrator" defined.
+NRS 687B.605 "Covered person" defined.
+NRS 687B.606 "Dental care" defined.
+NRS 687B.607 "Direct notification" defined.
+NRS 687B.610 "Evidence of coverage" defined.
+NRS 687B.615 "Health benefit plan" defined.
+NRS 687B.620 "Health care services" defined.
+NRS 687B.625 "Health carrier" defined.
+NRS 687B.630 "Intermediary" defined.
+NRS 687B.635 "Medically necessary" defined.
+NRS 687B.640 "Network" defined.
+NRS 687B.645 "Network plan" defined.
+NRS 687B.650 "Participating provider of health care" defined.
+NRS 687B.655 "Primary care physician" defined.
+NRS 687B.658 "Provider network contract" defined.
+NRS 687B.660 "Provider of health care" defined.
+NRS 687B.664 "Third party" defined.
+NRS 687B.665 "Utilization review" defined.
+NRS 687B.670 Requirements to offer or issue network plan.
+NRS 687B.675 Provision of information to Office for Consumer Health Assistance.
+NRS 687B.680 Health carrier required to establish mechanism for ongoing notification of participating providers of health care of services covered by network plan and for which provider is responsible.
+NRS 687B.690 Required provisions in contract between participating provider of health care and health carrier.
+NRS 687B.692 Provider network contract:
+Circumstances in which health carrier prohibited from denying request to enter into contract from a provider of health care employed or accepting employment with medical school; grounds for denial of request or termination of contract.
+NRS 687B.693 Access to services and contractual discounts of a provider of health care:
+Inapplicability of provisions.
+NRS 687B.694 Access to services and contractual discounts of a provider of health care:
+Requirements for granting access; termination; confidentiality.
+NRS 687B.695 Access to services and contractual discounts of a provider of health care:
+Obligations of third party that grants access to another third party.
+NRS 687B.696 Access to services and contractual discounts of a provider of health care:
+Information required to be provided to health carrier and providers of health care by third parties; update of information.
+NRS 687B.697 Access to services and contractual discounts of a provider of health care:
+Obligations of health carrier and third parties concerning remittance advice or explanation of payment; refusal of discount taken on such advice or explanation by provider of health care; correction of error in advice or explanation; requirements of third party for such access.
+NRS 687B.700 Contract required to provide requirement that participating provider of health care continue delivery of services if health carrier or intermediary insolvent or ceases operations for specified period; billing of covered person.
+NRS 687B.710 Certain provisions included in contract required to be construed in favor of covered person, survive termination of contract and supersede certain contrary agreements.
+NRS 687B.720 Contract required to provide for notice of insolvency or cessation of operations of health carrier or intermediary to participating provider of health care.
+NRS 687B.723 Claim for dental care:
+Health carrier or administrator of health benefit plan prohibited from denying claim for which prior authorization has been granted; exceptions.
+NRS 687B.725 Claim for dental care:
+Requirements and limitations related to recovery of overpayments.
+NRS 687B.730 Health carrier required to notify participating provider of health care of administrative policies and programs of carrier; health carrier required to provide participating provider of health care and covered person explanation of process for paying claims submitted by participating provider of health care; exemptions.
+NRS 687B.740 Inducement to provide less than medically necessary health care services prohibited.
+NRS 687B.750 Health carrier not to prohibit certain actions by participating provider of health care.
+NRS 687B.760 Health records; confidentiality.
+NRS 687B.770 Assignment or delegation of rights and responsibilities without prior written consent prohibited.
+NRS 687B.780 Health carrier required to ensure that participating providers of health care furnish covered services to all covered persons; exception.
+NRS 687B.790 Health carrier required to notify participating providers of health care of obligation to collect coinsurance, copayment or deductible or notify covered person of obligation for services not covered.
+NRS 687B.795 Health carrier required to demonstrate capacity to adequately deliver family planning services provided by pharmacists or pharmacies; notice to covered persons; regulations.
+NRS 687B.800 Retaliation for good faith reporting to state or federal authority prohibited.
+NRS 687B.805 Prohibited acts by health carrier relating to 340B Program; provisions do not prohibit certain entities from taking actions necessary to prevent duplicate discounts or rebates or ensure financial stability of Medicaid program.
+NRS 687B.810 Health carrier required to establish mechanism to allow participating provider of health care to determine whether a person is a covered person or within grace period for payment of premium.
+NRS 687B.820 Procedures for resolution of disputes; exemptions.
+NRS 687B.830 Contract for purposes of network plan prohibited from conflicting with network plan or law; notice of provisions and incorporated documents; notice of changes.
+NRS 687B.840 Health carrier required to inform participating provider of health care of status and inclusion on certain lists maintained by health carrier upon request or change in such status or inclusion.
+NRS 687B.850 Regulations.
+STOP-LOSS INSURANCE NRS 687B.860 Definitions.
+NRS 687B.862 "Attachment point" defined.
+NRS 687B.864 "Group health plan" defined.
+NRS 687B.866 "Health care services" defined.
+NRS 687B.868 "Multiple employer welfare arrangement" defined.
+NRS 687B.870 "Network" defined.
+NRS 687B.872 "Policy of provider stop-loss insurance" defined.
+NRS 687B.874 "Policy of stop-loss insurance" defined.
+NRS 687B.876 "Provider of health care" defined.
+NRS 687B.878 Reporting of premiums written in this State for policies of stop-loss insurance.
+NRS 687B.880 Exercise of reasonable diligence related to legitimacy and authority required before issuing policy of stop-loss insurance for group health plan.
+NRS 687B.882 Policy form for policy of stop-loss insurance for group health plan:
+Filing; approval; requirements.
+NRS 687B.884 Policy form for policy of provider stop-loss insurance:
+Filing; approval; requirements; accompanying certification.
+PRIOR AUTHORIZATION NRS 687B.900 Definitions.
+NRS 687B.910 "Health carrier" defined.
+NRS 687B.920 "Insured" defined.
+NRS 687B.930 "Medically necessary" defined.
+NRS 687B.940 "Prior authorization" defined.
+NRS 687B.950 "Provider of health care" defined.
+NRS 687B.960 Applicability.
+NRS 687B.970 Authorization for contracts or policies of insurance for payment of cost of medical or dental care to require prior authorization of care; filing with Commissioner of procedure for obtaining prior authorization; period for health carrier to respond to request for prior authorization; discrimination among persons licensed to provide covered care prohibited.
+NRS 687B.980 Prohibition against requiring prior authorization for certain services, care or goods.
+NRS 687B.990 Violations. _________ GENERAL PROVISIONS NRS 687B.010 Scope.
+This chapter applies to all insurance contracts and annuity contracts other than: 1.
+Reinsurance. 2.
+Policies or contracts not issued for delivery in this state nor delivered in this state. 3.
+Wet marine and transportation insurance.
+(Added to NRS by 1971, 1712) NRS 687B.011 Definitions.
+As used in this chapter, unless the context otherwise requires, the words and terms defined in NRS 687B.015 and 687B.018 have the meanings ascribed to them in those sections.
+(Added to NRS by 2025, 1911) NRS 687B.015 "Binder" defined.
+"Binder" means an oral or written contract for temporary insurance which is used when a policy is not immediately issued to evidence that the coverage attaches at a specified time and continues until the policy is issued or the risk is declined.
+(Added to NRS by 1983, 1120;
+A 2025, 1912) NRS 687B.018 "Medicare supplemental policy" defined.
+"Medicare supplemental policy" has the meaning ascribed to it in 42 C.F.R. § 403.205.
+(Added to NRS by 2025, 1911) NRS 687B.021 Signatures.
+Unless otherwise provided by a specific statute, if a signature is required of any person, the person may provide as the signature of the person: 1.
+An original signature; 2.
+A facsimile signature; or 3.
+An electronic signature pursuant to the provisions of chapter 719 of NRS.
+(Added to NRS by 2003, 2806) NRS 687B.030 Waiver of payment of premium.
+With respect to any kind of insurance and any type of insurance contract, the insurer may provide for waiver of payment of premium for such causes and subject to such terms and conditions as may be specified in the contract.
+(Added to NRS by 1971, 1712;
+A 1981, 1142) NRS 687B.040 Insurable interest:
+Personal insurance. 1.
+Any natural person of competent legal capacity may procure or effect an insurance contract upon his or her own life or body for the benefit of any person.
+But a person shall not procure or cause to be procured any insurance contract upon the life or body of another individual unless the benefits under the contract are payable to the person insured or the personal representatives of the person insured, or to a person having, at the time when the contract was made, an insurable interest in the person insured. 2.
+A trust shall not procure, cause to be procured or hold an insurance contract upon the life of a person unless each beneficiary of the trust:
+(a) Has an insurable interest in the person insured; or (b) Is a charitable, benevolent, educational or religious institution, or an agency thereof, and is designated irrevocably as a beneficiary of the trust. 3.
+If the beneficiary, assignee or other payee under any contract made in violation of this section receives from the insurer any benefits thereunder accruing upon the death, disablement or injury of the person insured, the person insured or the executor or administrator of the person insured, as the case may be, may maintain an action to recover such benefits from the person so receiving them. 4.
+As used in this section, "insurable interest" as to such personal insurance means that every person has an insurable interest in the life, body and health of himself or herself, and of other persons as follows:
+(a) In the case of persons related closely by blood or by law, a substantial interest engendered by love and affection; and (b) In the case of other persons, a lawful and substantial economic interest in having the life, health or bodily safety of the person insured continue, as distinguished from an interest which would arise only by, or would be enhanced in value by, the death, disablement or injury of the person insured. 5.
+Before, on or after January 1, 1972, an individual party to a contract or option for the purchase or sale of an interest in a business partnership or firm, or of shares of stock of a corporation or of an interest in such shares, has an insurable interest in the life, body and health of each individual party to the contract and for the purposes of the contract only, in addition to any insurable interest which may otherwise exist as to the person. 6.
+An insurer is entitled to rely upon all statements, declarations and representations made by an applicant for insurance relative to the insurable interest of the applicant in the insured.
+An insurer does not incur legal liability except as otherwise set forth in the policy, by virtue of any untrue statements, declarations or representations so relied upon in good faith by the insurer.
+(Added to NRS by 1971, 1712;
+A 1997, 1624; 2009, 1786) NRS 687B.050 Insurable interest:
+Exception when certain institutions designated beneficiary. 1.
+Life insurance contracts may be entered into in which the person paying the consideration for the insurance has no insurable interest in the life of the individual insured, where charitable, benevolent, educational or religious institutions or their agencies are designated irrevocably as the beneficiaries thereof. 2.
+In making such contracts the person paying the premium shall make and sign the application therefor as owner, and shall designate irrevocably a charitable, benevolent, educational or religious institution or an agency thereof as the beneficiary or beneficiaries of such contract.
+The application shall be signed also by the individual whose life is to be insured. 3.
+Nothing in this section shall prohibit any combination of the applicant, premium payer, owner and beneficiary from being the same person. 4.
+Such a contract shall be valid and binding among the parties thereto, notwithstanding the absence otherwise of an insurable interest in the life of the individual insured.
+(Added to NRS by 1971, 1713) NRS 687B.060 Insurable interest:
+Property. 1.
+No contract of insurance of property or of any interest in property or arising from property shall be enforceable as to the insurance except for the benefit of persons having an insurable interest in the things insured as at the time of the loss. 2.
+"Insurable interest" as used in this section means any actual, lawful and substantial economic interest in the safety or preservation of the subject of the insurance free from loss, destruction or pecuniary damage or impairment.
+(Added to NRS by 1971, 1714) NRS 687B.070 Power to contract; purchase of insurance and annuities by minors. 1.
+Any person of competent legal capacity may contract for insurance. 2.
+Any minor not less than 16 years of age may, notwithstanding his or her minority, contract for or own annuities or insurance, or affirm by novation or otherwise preexisting contracts for annuities or insurance, upon his or her own life, body, health, property, liabilities or other interests, or on the person of another in whom the minor has an insurable interest.
+Notwithstanding such minority such a minor shall be deemed competent to exercise all rights and powers with respect to or under:
+(a) Any annuity or insurance contract upon the minor's own life, body or health;
+(b) Any contract which such minor effected upon his or her own property, liabilities or other interests; or (c) Any contract effected or owned by the minor on the person of another, as might be exercised by a person of full legal age. 3.
+Such a minor may at any time surrender his or her interest in any such contracts and give valid discharge for any benefit accruing or money payable thereunder.
+Such a minor shall not, by reason of his or her minority, be entitled to rescind, avoid or repudiate the contract, or to rescind, avoid or repudiate any exercise of a right or privilege thereunder, except that such a minor, not otherwise emancipated, shall not be bound by any unperformed agreement to pay, by promissory note or otherwise, any premium on any such annuity or insurance contract. 4.
+All insurance contracts made by a minor under the age of 16 years shall be made only with the written consent of a parent or guardian, and the exercise of all contractual rights under such contracts, or the surrender thereof, or the giving of a valid discharge for any benefit accruing or money payable thereunder shall have the written consent of a parent or guardian if made or given while such minor is under the age of 16 years. 5.
+All such contracts made by a minor which may result in any personal liability for assessment shall have the written assumption of any such liability by a parent or guardian in consideration of the issuance of the contract.
+Such assumption shall be in a form approved by the Commissioner, reasonably designed to inform the parent or guardian of the liability thus assumed.
+Such assumption of liability may be made a part of and included with any written consent of such parent or guardian required under the provisions of this section, and it may be provided therein that such assumption shall cover only up to the anniversary date of the policy nearest the insured's birthday upon which the insured attains the age of 18 years. 6.
+Any annuity contract or policy of life or health insurance procured by or for a minor under subsection 2 or 3, shall be made payable either to the minor or the estate of the minor or to a person having an insurable interest in the life of the minor.
+(Added to NRS by 1971, 1714;
+A 1973, 1581) NRS 687B.080 Consent of insured to life or health insurance required; exceptions; notice of application for or request to increase coverage of insurance upon life of another required. 1.
+Except as otherwise provided in subsection 2, no life or health insurance contract upon a person, except a contract of group life insurance or of group or blanket health insurance, may be made or effectuated unless at the time of the making of the contract the person insured, being of competent legal capacity to contract, applies therefor or has consented thereto in writing. 2.
+The following persons may enter into a contract for life or health insurance upon another person without the insured's written consent:
+(a) A spouse may effectuate such insurance upon the other spouse.
+(b) Any person having an insurable interest in the life of a minor, or any person upon whom a minor is dependent for support and maintenance, may effectuate insurance upon the life of or pertaining to the minor.
+(c) Family policies may be issued insuring any two or more members of a family on an application signed by either parent, a stepparent, a guardian, or by a spouse. 3.
+An insurer who receives:
+(a) An application in accordance with subsection 2 for a contract for insurance upon the life of another; or (b) A request to increase the existing coverage upon the life of an insured by a person other than the insured, Ê shall, unless the application or request relates to a contract of group life insurance or of group or blanket health insurance, cause notice of the application or request to be mailed to the insured at the home or business of the insured within 48 hours after receiving the application or request.
+(Added to NRS by 1971, 1715;
+A 1993, 173; 2017, 799) NRS 687B.090 Alteration of application:
+Life and health insurance.
+No alteration of any written application for any life or health insurance policy shall be made by any person other than the applicant without the written consent of the applicant, except that insertions may be made by the insurer, for administrative purposes only, in such manner as to indicate clearly that such insertions are not to be ascribed to the applicant.
+(Added to NRS by 1971, 1715) NRS 687B.100 Application as evidence. 1.
+No application for the issuance of any life or health insurance policy or annuity contract shall be admissible in evidence in any action relative to such policy or contract, unless a true copy of the application was attached to or otherwise made a part of the policy or contract when issued.
+This subsection does not apply to industrial life insurance policies. 2.
+If any policy of life or health insurance delivered in this state is reinstated or renewed, and the insured or the beneficiary or assignee of the policy makes written request to the insurer for a copy of the application, if any, for such reinstatement or renewal, the insurer shall, within 30 days after receipt of such request at its home office, deliver or mail to the person making such request a copy of such application reproduced by any legible means.
+If such copy is not so delivered or mailed after having been so requested, the insurer shall be precluded from introducing the application in evidence in any action or proceeding based upon or involving the policy or its reinstatement or renewal.
+In the case of such a request from a beneficiary or assignee, the time within which the insurer is required to furnish a copy of such application shall not begin to run until after receipt of evidence satisfactory to the insurer of the beneficiary's or assignee's vested interest in the policy or contract. 3.
+As to kinds of insurance other than life or health insurance, no application for insurance signed by or on behalf of the insured shall be admissible in evidence in any action between the insured and the insurer arising out of the policy so applied for, if the insurer has failed, at the expiration of 30 days after receipt by the insurer of written demand therefor by or on behalf of the insured, to furnish to the insured a copy of such application reproduced by any legible means.
+(Added to NRS by 1971, 1715) NRS 687B.110 Representations in applications.
+All statements and descriptions in any application for an insurance policy or annuity contract, by or in behalf of the insured or annuitant, shall be deemed to be representations and not warranties.
+Misrepresentations, omissions, concealment of facts and incorrect statements shall not prevent a recovery under the policy or contract unless either: 1.
+Fraudulent; 2.
+Material either to the acceptance of the risk, or to the hazard assumed by the insurer; or 3.
+The insurer in good faith would either not have issued the policy or contract, or would not have issued it at the same premium rate, or would not have issued a policy or contract in as large an amount, or would not have provided coverage with respect to the hazard resulting in the loss, if the true facts had been made known to the insurer as required either by the application for the policy or contract or otherwise.
+(Added to NRS by 1971, 1716) NRS 687B.113 Control of cost of health care:
+Provisions encouraging use of certain services and facilities.
+An insurer shall include provisions in a policy of health insurance encouraging the insured's use, if medically appropriate, of services and facilities that are the most efficient or that tend to control or reduce the cost of health care.
+Any policy or other form filed with the Commissioner pursuant to NRS 687B.120 must specifically indicate which provisions satisfy the requirements of this section.
+(Added to NRS by 1985, 1227) NRS 687B.117 Control of cost of health care:
+Insurer required to use three or more practices that control cost in administering benefits.
+The Commissioner shall not approve any proposed policy of health insurance unless the Commissioner determines that the insurer has adopted and is using three or more practices in administering benefits that control or reduce the cost of health care.
+(Added to NRS by 1985, 1227) NRS 687B.120 Filing and approval of forms; exemption; appeal of disapproval or withdrawal of previous approval. 1.
+Except as otherwise provided in subsection 2:
+(a) No life or health insurance policy or contract, annuity contract form, policy form, health care plan or plan for dental care, whether individual, group or blanket, including those to be issued by a health maintenance organization, organization for dental care or prepaid limited health service organization, or application form where a written application is required and is to be made a part of the policy or contract, or printed rider or endorsement form or form of renewal certificate, or form of individual certificate or statement of coverage to be issued under group or blanket contracts, or by a health maintenance organization, organization for dental care or prepaid limited health service organization, may be delivered or issued for delivery in this state, unless the form has been filed with and approved by the Commissioner.
+(b) As to individual policies pursuant to paragraph (d) of subsection 2 of NRS 679B.220 or group insurance policies effectuated and delivered outside this state but covering persons resident in this state, the certificates to be delivered or issued for delivery in this state must be filed, for informational purposes only, with the Commissioner at the request of the Commissioner. 2.
+As to group insurance policies to be issued to a group approved pursuant to NRS 688B.030 or 689B.026, no policies of group insurance may be marketed to a resident or employer of this State unless the policy and any form or certificate to be issued pursuant to the policy has been filed with and approved by the Commissioner. 3.
+Every filing made pursuant to the provisions of subsection 1 or 2 must be made not less than 45 days in advance of any delivery pursuant to subsection 1 or marketing pursuant to subsection 2.
+At the expiration of 45 days the form so filed shall be deemed approved unless prior thereto it has been affirmatively approved or disapproved by order of the Commissioner.
+Approval of any such form by the Commissioner constitutes a waiver of any unexpired portion of such waiting period.
+The Commissioner may extend by not more than an additional 30 days the period within which the Commissioner may so affirmatively approve or disapprove any such form, by giving notice to the insurer of the extension before expiration of the initial 45-day period.
+At the expiration of any such period as so extended, and in the absence of prior affirmative approval or disapproval, any such form shall be deemed approved.
+The Commissioner may at any time, after notice and for cause shown, withdraw any such approval. 4.
+Any order of the Commissioner disapproving any such form or withdrawing a previous approval must state the grounds therefor and the particulars thereof in such detail as reasonably to inform the insurer thereof.
+Any such withdrawal of a previously approved form is effective at the expiration of such a period, not less than 30 days after the giving of notice of withdrawal, as the Commissioner in such notice prescribes. 5.
+The Commissioner may, by order, exempt from the requirements of this section for so long as the Commissioner deems proper any insurance document or form or type thereof specified in the order, to which, in the opinion of the Commissioner, this section may not practicably be applied, or the filing and approval of which are, in the opinion of the Commissioner, not desirable or necessary for the protection of the public. 6.
+Appeals from orders of the Commissioner disapproving any such form or withdrawing a previous approval may be taken as provided in NRS 679B.310 to 679B.370, inclusive.
+(Added to NRS by 1971, 1716;
+A 1993, 2398; 1995, 1624; 2011, 3371; 2019, 1439) NRS 687B.122 Readability of policies:
+Applicability of requirements. 1.
+The provisions of NRS 687B.122 to 687B.128, inclusive:
+(a) Apply to all policies, certificates or contracts of life or health insurance, including credit insurance as defined in NRS 690A.015, delivered or issued for delivery in this state, including policies, certificates or contracts issued by fraternal benefit societies and hospital, medical or dental service corporations, health maintenance organizations and other similar organizations, and certificates issued pursuant to a policy of group insurance delivered or issued for delivery in this state, except:
+(1) Any policy which is a security subject to federal jurisdiction;
+(2) Any policy covering the lives of a group of 1,000 or more persons as of its date of issuance, other than a group policy for credit insurance and any certificate issued pursuant to any group policy;
+(3) Any group annuity which serves to finance pension, profit-sharing or deferred compensation plans; or (4) Any form used in connection with, as a conversion from, as an addition to or in exchange for a policy delivered or issued for delivery on a form approved or permitted to be issued before July 1, 1983.
+(b) Are not intended to increase any risk assumed by an insurer.
+(c) Do not supersede the provisions of this title or other law applicable to the delivery or issuance of policies of insurance.
+(d) Are not intended to restrict or discourage the development of new policies and provisions.
+(e) Do not require standardization of forms for or provisions of policies. 2.
+Any policy written in a language other than English shall be deemed to comply with NRS 687B.124 if the insurer certifies that it is translated from a policy written in English which complies with that section. 3.
+The provisions of NRS 687B.122 to 687B.128, inclusive, apply to renewals on or after July 1, 1983, of policies delivered or issued for delivery before that date.
+(Added to NRS by 1981, 927;
+A 1987, 2286) NRS 687B.124 Readability of policies:
+Flesch test; type size, style, arrangement and overall appearance; index or table of contents; scoring riders or other forms separately. 1.
+Except as provided by NRS 687B.122, a policy must not be delivered or issued for delivery in this state on or after July 1, 1983, unless:
+(a) The text of the policy achieves a score of at least 40 on the Flesch test of reading ease or an equivalent score on any comparable test which is approved by the Commissioner;
+(b) It is printed, except for pages which contain specifications, schedules or tables, in not less than 10-point type, one point leaded;
+(c) The style, arrangement and overall appearance of the policy give no undue prominence to any portion of the text of or endorsements or riders to the policy; and (d) It contains a table of contents or an index of the principal sections of the policy if it contains more than 3,000 words or has more than three pages. 2.
+The score for the Flesch test of reading ease must be calculated in the following manner:
+(a) If a form contains 10,000 words or less of text, the entire text must be used as a basis for calculating the score.
+If it contains more than 10,000 words, two samples, which are separated from each other by at least 20 printed lines, of 200 words per page must be used as the basis for calculating the score.
+(b) The number of words and sentences used in the basis for the calculation must be counted and the total number of words divided by the total number of sentences.
+This figure must be multiplied by 1.015.
+(c) The number of syllables must be counted and the total divided by the total number of words.
+This figure must be multiplied by 84.6.
+(d) The results of the calculations made pursuant to paragraphs (b) and (c) must be added together and the total must be subtracted from 206.835.
+(e) The result of the calculation made pursuant to paragraph (d) is the score for the policy. 3.
+For the purposes of performing the calculations required by subsection 2:
+(a) A contraction, hyphenated word or numbers and letters when separated by spaces must be counted as one word;
+(b) A sequence of words which ends with a period, semicolon or colon, except for headings and captions, must be counted as a sentence; and (c) Where a dictionary shows two or more equally acceptable pronunciations of a word, the pronunciation containing fewer syllables may be used. 4.
+An insurer may score riders, endorsements, applications and other forms as separate forms or as part of the policy with which they are used. 5.
+As used in this section, "text" includes all printed matter except:
+(a) The name and address of the insurer, the name, number or title of the policy, the table of contents or index, captions and subcaptions and pages which contain specifications, schedules and tables; and (b) Any language of the policy which is drafted in a particular manner so as to meet the requirements of:
+(1) Any federal or state law or regulation or any interpretation of a law or regulation by a federal or state agency;
+(2) Any collective bargaining agreement;
+(3) Usage of medical terms; and (4) Definitions contained in the policy, Ê if the insurer so identifies this language and certifies in writing that it is excepted by this paragraph.
+(Added to NRS by 1981, 927) NRS 687B.126 Readability of policies:
+Filing policy for Commissioner's approval; exceptions to score requirements on Flesch test. 1.
+An insurer shall file a copy of the policy with the Commissioner accompanied by a certificate signed by an officer of the insurer stating that the policy meets the score required for reading ease or stating that the score is lower than the minimum required and requesting that it be approved in accordance with subsection 2.
+Upon the request of the Commissioner, the insurer shall furnish additional information to verify the accuracy of the certification. 2.
+The Commissioner may approve a policy which has a score lower than required whenever the Commissioner finds that a lower score:
+(a) Provides a more accurate reflection of the readability of a policy;
+(b) Is necessitated by the nature of a particular type or class of policy; or (c) Is caused by language in the policy which is drafted in a particular manner so as to meet the requirements of any state law, regulation or interpretation of that law or regulation by a state agency.
+(Added to NRS by 1981, 928) NRS 687B.128 Readability of policies:
+Required approval by Commissioner in certain circumstances.
+A policy which complies with subsection 1 of NRS 687B.124 must be approved by the Commissioner, notwithstanding any other provision of law which specifies the content of a policy, if the policy provides the policyholder and claimant with protection at least equal to that to which they are entitled under those other provisions.
+(Added to NRS by 1981, 929) NRS 687B.130 Grounds for disapproval or withdrawal of previous approval.
+The Commissioner shall disapprove any form filed under NRS 687B.120, or withdraw any previous approval thereof, only on one or more of the following grounds: 1.
+The form is in any respect in violation of or does not comply with this Code. 2.
+The form contains, or incorporates by reference where such incorporation is otherwise permissible, any inconsistent, ambiguous or misleading clauses, or exceptions and conditions which deceptively affect the risk purported to be assumed in the general coverage of the contract, or any provision or provisions prejudicial to the interest of the insured or policyholder. 3.
+The form has any title, heading or other indication of its provisions which is misleading, or is printed in such size of type or manner of reproduction as to be difficult to read. 4.
+As to an individual health insurance policy, if the benefits provided therein are unreasonable in relation to the premium charged, or if it contains any unjust, unfair, inequitable or prejudicial provision or provisions. 5.
+As to a life insurance or individual health insurance policy, if it contains a provision or provisions such as to encourage misrepresentation.
+(Added to NRS by 1971, 1717) NRS 687B.140 Standard provisions. 1.
+Insurance contracts shall contain such standard or uniform provisions as are required by the applicable provisions of this Code pertaining to contracts of particular kinds of insurance.
+The Commissioner may waive the required use of a particular provision in a particular insurance policy form if:
+(a) The Commissioner finds such provision unnecessary for or unrelated to the protection of the insured and inconsistent with the purposes of the policy; and (b) The policy is otherwise approved by the Commissioner. 2.
+No policy shall contain any provision inconsistent with or contradictory to any standard or uniform provision used or required to be used, but the Commissioner may approve any substitute provision which is, in the opinion of the Commissioner, not less favorable in any particular to the insured, owner or beneficiary than the provisions otherwise required. 3.
+In lieu of the provisions required by this Code for contracts for particular kinds of insurance, substantially similar provisions required by the law of the domicile of a foreign or alien insurer may be used when approved by the Commissioner. 4.
+A policy issued by a domestic insurer for delivery in another jurisdiction may contain any provision required or permitted by the laws of such jurisdiction.
+(Added to NRS by 1971, 1718) NRS 687B.145 Provisions in policies of casualty insurance:
+Proration of recovery or benefits; uninsured and underinsured vehicle coverage; coverage for medical expenses; insurer not entitled to subrogation upon payment made because of underinsured vehicle coverage. 1.
+Any policy of insurance or endorsement providing coverage under the provisions of NRS 690B.020 or other policy of casualty insurance may provide that if the insured has coverage available to the insured under more than one policy or provision of coverage, any recovery or benefits may equal but not exceed the higher of the applicable limits of the respective coverages, and the recovery or benefits must be prorated between the applicable coverages in the proportion that their respective limits bear to the aggregate of their limits.
+Any provision which limits benefits pursuant to this section must be in clear language and be prominently displayed in the policy, binder or endorsement.
+Any limiting provision is void if the named insured has purchased separate coverage on the same risk and has paid a premium calculated for full reimbursement under that coverage. 2.
+Except as otherwise provided in subsection 5, insurance companies transacting motor vehicle insurance in this State must offer, on a form approved by the Commissioner, uninsured and underinsured vehicle coverage in an amount equal to the limits of coverage for bodily injury sold to an insured under a policy of insurance covering the use of a passenger car or motorcycle.
+The insurer is not required to reoffer the coverage to the insured in any replacement, reinstatement, substitute or amended policy, but the insured may purchase the coverage by requesting it in writing from the insurer.
+Each renewal must include a copy of the form offering such coverage.
+Uninsured and underinsured vehicle coverage must include a provision which enables the insured to recover up to the limits of the insured's own coverage any amount of damages for bodily injury from the insured's insurer which the insured is legally entitled to recover from the owner or operator of the other vehicle to the extent that those damages exceed the limits of the coverage for bodily injury carried by that owner or operator.
+If an insured suffers actual damages subject to the limitation of liability provided pursuant to NRS 41.035, underinsured vehicle coverage must include a provision which enables the insured to recover up to the limits of the insured's own coverage any amount of damages for bodily injury from the insured's insurer for the actual damages suffered by the insured that exceed that limitation of liability. 3.
+An insurance company transacting motor vehicle insurance in this State must offer an insured under a policy covering the use of a passenger car or motorcycle, the option of purchasing coverage in an amount of at least $1,000 for the payment of reasonable and necessary medical expenses resulting from a crash.
+The offer must be made on a form approved by the Commissioner.
+The insurer is not required to reoffer the coverage to the insured in any replacement, reinstatement, substitute or amended policy, but the insured may purchase the coverage by requesting it in writing from the insurer.
+Each renewal must include a copy of the form offering such coverage. 4.
+An insurer who makes a payment to an injured person on account of underinsured vehicle coverage as described in subsection 2 is not entitled to subrogation against the underinsured motorist who is liable for damages to the injured payee.
+This subsection does not affect the right or remedy of an insurer under subsection 5 of NRS 690B.020 with respect to uninsured vehicle coverage.
+As used in this subsection, "damages" means the amount for which the underinsured motorist is alleged to be liable to the claimant in excess of the limits of bodily injury coverage set by the underinsured motorist's policy of casualty insurance. 5.
+An insurer need not offer, provide or make available uninsured or underinsured vehicle coverage in connection with a general commercial liability policy, an excess policy, an umbrella policy or other policy that does not provide primary motor vehicle insurance for liabilities arising out of the ownership, maintenance, operation or use of a specifically insured motor vehicle. 6.
+As used in this section:
+(a) "Excess policy" means a policy that protects a person against loss in excess of a stated amount or in excess of coverage provided pursuant to another insurance contract.
+(b) "Motorcycle" has the meaning ascribed to it in NRS 482.070.
+(c) "Passenger car" has the meaning ascribed to it in NRS 482.087.
+(d) "Umbrella policy" means a policy that protects a person against losses in excess of the underlying amount required to be covered by other policies.
+(Added to NRS by 1979, 1090;
+A 1981, 15; 1983, 1105; 1989, 1567, 1846; 1991, 1943; 1997, 3032; 2003, 3312; 2015, 1694; 2021, 500) NRS 687B.147 Exclusion, reduction or limitation of certain coverage in motor vehicle insurance policies allowed; conditions; form and contents of disclosure.
+A policy of motor vehicle insurance covering a private passenger car may be delivered or issued for delivery in this state if it contains an exclusion, reduction or other limitation of coverage for the liability of any named insured for bodily injury to: 1.
+Another named insured; or 2.
+Any member of the household of a named insured, Ê unless the named insured rejects the exclusion, reduction or other limitation of coverage after full disclosure of the limitation by the insurer on a form approved by the Commissioner.
+The form must be written in a manner which is easily understood, printed in at least 12-point type and contain the statement "I understand that this policy excludes, reduces and limits coverage for bodily injury to members of my family and other named insureds, including the following persons:" (followed by a list of the names of the family members and other named insureds whose coverage has been excluded, reduced or limited).
+The list of names must be handwritten by the insured and followed by the full signature of the insured.
+The disclosed exclusion, reduction or other limitation of coverage continues until the named insured notifies the insurer in writing of the desire of the insured to reject it.
+The insurer must disclose upon renewal of the policy that coverage has been excluded, reduced or limited and that the named insured has the right to reject the exclusion, reduction or limitation.
+The insurer must also disclose to the named insured upon renewal any additional motor vehicle coverages that the insurer sells.
+These disclosures must be written in a form easily understood and printed in at least 12-point type.
+(Added to NRS by 1989, 1851) NRS 687B.150 Requirement for making any portion of charter, bylaws or certain other documents of insurer part of contract. 1.
+No policy shall contain any provision purporting to make any portion of the charter, bylaws or other constituent document of the insurer (other than the subscriber's agreement or power of attorney of a reciprocal insurer) a part of the contract unless such portion is set forth in full in the policy. 2.
+Any policy provision in violation of this section is invalid.
+(Added to NRS by 1971, 1718) NRS 687B.160 Execution of policies. 1.
+Every insurance policy must be executed in the name of and on behalf of the insurer by its officer, attorney-in-fact, employee or representative duly authorized by the insurer. 2.
+Any such executing individual may use, in lieu of an original signature:
+(a) A facsimile signature; or (b) An electronic signature pursuant to the provisions of chapter 719 of NRS. 3.
+An insurance contract issued before, on or after January 1, 1972, which is otherwise valid is not rendered invalid by reason of the apparent execution thereof on behalf of the insurer by the imprinted facsimile signature of an individual not authorized so to execute as of the date of the policy.
+(Added to NRS by 1971, 1718;
+A 1997, 1625; 2003, 2806) NRS 687B.170 Underwriters' and combination policies. 1.
+Two or more authorized insurers may jointly issue, and shall be jointly and severally liable on, an underwriters' policy bearing their names.
+Any one insurer may issue policies in the name of an underwriter's department and such policy shall plainly show the true name of the insurer. 2.
+Two or more insurers may, with the approval of the Commissioner, issue a combination policy which shall contain provisions substantially as follows:
+(a) That the insurers executing the policy shall be severally liable for the full amount of any loss or damage, according to the terms of the policy, or for specified percentages or amounts thereof, aggregating the full amount of insurance under the policy; and (b) That service of process, or of any notice or proof of loss required by such policy, upon any of the insurers executing the policy, shall constitute service upon all such insurers. 3.
+This section does not apply to cosurety obligations.
+(Added to NRS by 1971, 1719) NRS 687B.180 Validity and construction of noncomplying forms. 1.
+A policy delivered or issued for delivery after January 1, 1972, to any person in this state in violation of this Code but otherwise binding on the insurer, shall be held valid, but shall be construed as provided in this Code. 2.
+Any condition, omission or provision not in compliance with the requirements of this Code and contained in any policy, rider or endorsement issued after January 1, 1972, and otherwise valid shall not thereby be rendered invalid but shall be construed and applied in accordance with such condition, omission or provision as would have applied had the same been in full compliance with this Code.
+(Added to NRS by 1971, 1719) NRS 687B.182 Binders:
+Issuance; period of effectiveness. 1.
+A binder may be issued only by a resident or nonresident agent appointed by the insurer which is to issue the policy. 2.
+Except as provided in subsection 3, a binder must not be effective for more than 90 days. 3.
+The effective period of a binder may be extended 30 days at a time with the written approval of the Commissioner.
+(Added to NRS by 1983, 1120) NRS 687B.183 Binders:
+Forms; required statement related to certain policies; delivery of copies. 1.
+All written binders must be made on forms approved by the Commissioner. 2.
+A binder related to a policy of insurance which provides coverage of less than $1,000,000 must contain a statement printed in at least 10-point bold type that any person who refuses to accept the binder as proof of insurance pursuant to the provisions of NRS 687B.186 is subject to the penalties provided in that section. 3.
+If a binder is in writing, one copy must be delivered either in person or by mailing first class to:
+(a) The insured; and (b) The insurer providing coverage under the binder, Ê within 24 hours after the binder becomes effective.
+(Added to NRS by 1983, 1120;
+A 1985, 1161) NRS 687B.184 Binders:
+Limits of coverage, effective date and premium for policy issued as replacement. 1.
+A policy which is issued to replace a binder must include:
+(a) Limits of coverage which are equal to the limits stated in the binder; and (b) An effective date for the policy which is the same as the effective date of the initial binder. 2.
+The premium for such a policy must include the charge for the period covered by the binder and that charge must be in accordance with rates filed with the Commissioner pursuant to chapter 686B of NRS.
+(Added to NRS by 1983, 1120) NRS 687B.185 Binders:
+Prohibition of use to lower premiums.
+An insurer may not use a binder as a means to lower a premium which an insured is charged.
+(Added to NRS by 1983, 1121) NRS 687B.186 Binders:
+Proof of insurance coverage; penalties for refusal to accept; exception. 1.
+A binder which is issued in accordance with NRS 687B.182 to 687B.187, inclusive, shall be deemed a policy for the purpose of proving that a person has insurance coverage. 2.
+Any party to a contract or other agreement who refuses to accept such a binder as proof of insurance when that proof is required by that contract or agreement:
+(a) Shall be fined not more than $500.
+(b) Is liable to the party presenting the binder as proof of insurance for actual damages sustained therefrom. 3.
+The provisions of this section do not apply to a binder related to a policy of insurance which provides coverage of at least $1,000,000.
+(Added to NRS by 1983, 1121;
+A 1985, 1161) NRS 687B.187 Binders:
+Disapproval of insurer.
+NRS 687B.182 to 687B.187, inclusive, do not prevent the exercise of a right to disapprove of the insurer or its representative on the basis of: 1.
+The adequacy and terms of the coverage with respect to the interest of the vendor, lender, lessor or other person providing a service to the insured; 2.
+The financial standards to be met by the insurer; or 3.
+The ability of the insurer or its representative to service the policy.
+(Added to NRS by 1983, 1120) NRS 687B.190 Delivery of policy covering motor vehicle:
+Vendor, mortgagee or pledgee required to deliver duplicate to vendee, mortgagor or pledgor; stamped statement regarding certain lack of coverage; exception. 1.
+If the original policy is delivered or is so required to be delivered to or for deposit with any vendor, mortgagee or pledgee of any motor vehicle, in which policy any interest of the vendee, mortgagor or pledgor in or with reference to such vehicle is insured, a duplicate of such policy setting forth the name and address of the insurer, insurance classification of vehicle, type of coverage, limits of liability, premiums for the respective coverages and duration of the policy, or memorandum thereof containing the same such information, shall be delivered by the vendor, mortgagee or pledgee to each such vendee, mortgagor or pledgor named in the policy or coming within the group of persons designated in the policy to be so included.
+If the policy does not provide coverage of legal liability for injury to persons or damage to the property of third parties, a statement of such fact shall be printed, written or stamped conspicuously on the face of such duplicate policy or memorandum. 2.
+This section does not apply to inland marine floater policies.
+(Added to NRS by 1971, 1719) NRS 687B.200 Assignability:
+Life or health insurance policy. 1.
+The purpose of this section is to confirm and clarify the right to provide for an assignment by which a person covered by a life or health insurance policy may divest himself or herself of all incidents of ownership provided by the policy, including the conversion privileges of the policy. 2.
+Any person insured under a life or health insurance policy may make an assignment of all or any part of the incidents of ownership of the person under the policy, including, but not limited to, the privilege to have issued to the person an individual policy of life or health insurance pursuant to the provisions of this Code and the right to name a beneficiary.
+Subject to the terms of the policy or agreement between the insured, the policyholder and the insurer relating to assignment of incidents of ownership thereunder, such an assignment by an insured, whenever made, is valid for the purpose of vesting in the assignee all of the incidents of ownership so assigned.
+Such an assignment does not prejudice the insurer on account of any payment it may make or individual policy it may issue prior to receipt of notice of the assignment. 3.
+This section also applies to contracts issued by organizations for dental care and nonprofit hospital, medical and dental service corporations.
+(Added to NRS by 1971, 1720;
+A 1983, 2029) NRS 687B.210 Payment under life or health insurance policy or annuity contract discharges insurer from claims under policy or contract; exception. 1.
+Whenever the proceeds of or payments under a life or health insurance policy or annuity contract issued before, on or after January 1, 1972, become payable in accordance with the terms of the policy or contract, or the exercise of any right or privilege thereunder, and the insurer makes payment thereof in accordance therewith or in accordance with any written assignment thereof, the person then designated as being entitled thereto is entitled to receive the proceeds or payments and to give full acquittance therefor, and the payments fully discharge the insurer from all claims under the policy or contract unless, before payment is made, the insurer has received at its home office written notice by or on behalf of some other person that the other person claims to be entitled to the payment or some interest in the policy or contract. 2.
+This section also applies to contracts issued by organizations for dental care and nonprofit hospital, medical and dental service corporations.
+(Added to NRS by 1971, 1720;
+A 1983, 2029; 1997, 1625) NRS 687B.220 Forms for proof of loss required to be furnished by insurer to insured claimant.
+Upon receiving due notice of a claim of loss under an insurance contract issued or assumed by it, an insurer shall promptly furnish to the insured claimant such forms of proof of loss as it may require, for completion by such person, but such insurer shall not, by reason of the requirement so to furnish forms, have any responsibility for or with reference to the completion of such proof or the manner of any such completion or attempted completion.
+(Added to NRS by 1971, 1720) NRS 687B.225 Requirements for contracts for payment of cost of medical or dental care which require prior authorization of care. [Replaced in revision by NRS 687B.970.] NRS 687B.240 Administration of claims not waiver.
+Without limitation of any right or defense of an insurer otherwise, none of the following acts by or on behalf of an insurer shall be deemed to constitute a waiver of any provision of a policy or of any defense of the insurer thereunder: 1.
+Acknowledgment of the receipt of notice of loss or claim under the policy. 2.
+Furnishing forms for reporting a loss or claim, for giving information relative thereto, or for making proof of loss, or receiving or acknowledging receipt of any such forms or proofs completed or uncompleted. 3.
+Investigating any loss or claim under any policy or engaging in negotiations looking toward a possible settlement of any such loss or claim.
+(Added to NRS by 1971, 1721) NRS 687B.250 Payment not to constitute admission of liability or waiver of defenses. 1.
+No payment or payments made by any person, or by an insurer of the person by virtue of a liability insurance policy, on account of bodily injury or death or damage to or loss of property of another shall constitute an admission of liability or waiver of defenses as to such injury, death, loss or damage, or be admissible in evidence in any action brought against the insured person or the insurer of the person for damages, indemnity or benefits arising out of such injury, death, loss or damage, unless pleaded as a defense to the action. 2.
+All such payments shall be credited upon any settlement made by, or judgment rendered in such an action against, the payer or the insurer of the payer, and in favor of any person to whom or on whose account payment was made.
+(Added to NRS by 1971, 1721) NRS 687B.255 Insurer required to pay claim with negotiable instrument.
+If an insurer is required to pay a claim, the insurer shall pay that claim with an instrument which is immediately negotiable.
+An insurer shall be deemed to have complied with the provisions of this section if the insurer enters into an agreement, with a bank located in this state, which provides that the bank will accept the insurer's drafts in as timely a manner as it accepts the insurer's checks.
+(Added to NRS by 1989, 1799) NRS 687B.260 Exemption of proceeds of certain policies. 1.
+If a policy of insurance, whether issued before, on or after January 1, 1972, is effected by any person on his or her own life, or on another life, in favor of a person other than himself or herself, or, except in cases of transfer with intent to defraud creditors, if a policy of life insurance is assigned or in any way made payable to any such person, the lawful beneficiary or assignee thereof, other than the insured or the person so effecting such insurance or executors or administrators of the insured or the person so effecting such insurance, is entitled to its proceeds and avails against the creditors and representatives of the insured and of the person effecting the same, whether or not the right to change the beneficiary is reserved or permitted and whether or not the policy is made payable to the person whose life is insured or to the executors or administrators of such person if the beneficiary or assignee predeceases the person.
+Except as otherwise provided in this subsection, such proceeds and avails are exempt from all liability for any debt of the beneficiary existing at the time the proceeds and avails are made available for the use of the beneficiary.
+Subject to the statute of limitations, the amount of any premiums for such insurance paid with intent to defraud creditors, with interest thereon, inures to the benefit of the creditors from the proceeds of the policy.
+The insurer issuing the policy is discharged of all liability thereon by payment of its proceeds in accordance with its terms, unless, before the payment, the insurer has received written notice at its home office, by or in behalf of a creditor, of a claim to recover for transfer made or premiums paid with intent to defraud creditors, with specification of the amount claimed along with such facts as will assist the insurer to ascertain the particular policy. 2.
+For the purposes of subsection 1, a policy shall also be deemed to be payable to a person other than the insured if and to the extent that a facility-of-payment clause or a similar clause in the policy permits the insurer to discharge its obligation after the death of the individual insured by paying the death benefits to a person as permitted by such a clause. 3.
+This section does not apply to insurance issued pursuant to this Code to a creditor covering his or her debtors to the extent that such proceeds are applied to payment of the obligation for the purpose of which the insurance was so issued.
+(Added to NRS by 1971, 1722;
+A 1997, 1625) NRS 687B.270 Exemption of proceeds:
+Health insurance. 1.
+Except as otherwise expressly provided by the policy or contract, the proceeds and avails of all contracts of health insurance and of provisions providing benefits on account of the disability of the insured which are supplemental to life insurance or annuity contracts effected before, on or after January 1, 1972, are exempt from all liability for any debt of the insured, and from any debt of the beneficiary existing at the time the proceeds are made available for the use of the beneficiary. 2.
+This section does not apply to insurance issued pursuant to this Code to a creditor covering his or her debtors to the extent that such proceeds are applied to payment of the obligation for the purpose of which the insurance was so issued.
+(Added to NRS by 1971, 1722;
+A 1997, 1626) NRS 687B.280 Exemption of proceeds:
+Group insurance. 1.
+A policy of group life insurance or group health insurance or the proceeds thereof payable to the individual insured or to the beneficiary thereunder shall not be liable, either before or after payment, to be applied by any legal or equitable process to pay any debt or liability of such insured individual or his or her beneficiary or of any other person having a right under the policy.
+The proceeds thereof, when not made payable to a named beneficiary or to a third person pursuant to a facility-of-payment clause, shall not constitute a part of the estate of the individual insured for the payment of the debts of the individual insured. 2.
+This section does not apply to group insurance issued pursuant to this Code to a creditor covering his or her debtors, to the extent that such proceeds are applied to payments of the obligation for the purpose of which the insurance was so issued.
+(Added to NRS by 1971, 1723) NRS 687B.290 Exemption of proceeds:
+Annuities; assignability of rights. 1.
+The benefits, rights, privileges and options which under any annuity contract issued prior to or after January 1, 1972, are due or prospectively due the annuitant shall not be subject to execution nor shall the annuitant be compelled to exercise any such rights, powers or options, nor shall creditors be allowed to interfere with or terminate the contract, except as to amounts paid for or as premium on any such annuity with intent to defraud creditors, with interest thereon, and of which the creditor has given the insurer written notice at its home office prior to the making of the payment to the annuitant out of which the creditor seeks to recover.
+Any such notice shall specify the amount claimed or such facts as will enable the insurer to ascertain such amount, and shall set forth such facts as will enable the insurer to ascertain the annuity contract, the annuitant and the payment sought to be avoided on the ground of fraud. 2.
+If the contract so provides, the benefits, rights, privileges or options accruing under such contract to a beneficiary or assignee shall not be transferable or subject to commutation, and the same exemptions and exceptions contained in this section for the annuitant shall apply with respect to such beneficiary or assignee.
+(Added to NRS by 1971, 1723;
+A 2011, 3571) NRS 687B.300 Retention of proceeds of policy by insurer. 1.
+Any life insurer shall have power to hold payment of proceeds, as has been agreed to in writing by the insurer and the insured or beneficiary.
+The insurer shall not be required to segregate funds so held but may hold them as a part of its general corporate assets. 2.
+The provisions of this section shall not impair or affect any rights of creditors under NRS 687B.260 or 687B.290.
+(Added to NRS by 1971, 1724) NRS 687B.310 Cancellations and nonrenewals; scope of application. 1.
+NRS 687B.310 to 687B.420, inclusive, apply to all binders and all contracts of insurance the general terms of which are required to be approved or are subject to disapproval by the Commissioner, except as otherwise provided by statute or by rule pursuant to subsection 3. 2.
+The contract may provide terms more favorable to policyholders than are required by NRS 687B.310 to 687B.420, inclusive. 3.
+The Commissioner may by rule exempt from NRS 687B.310 to 687B.420, inclusive, classes of insurance contracts where the policyholders do not need protection against arbitrary termination. 4.
+The rights provided by NRS 687B.310 to 687B.420, inclusive, are in addition to and do not prejudice any other rights the policyholder may have at common law or under other statutes. 5.
+NRS 687B.310 to 687B.420, inclusive, do not prevent the rescission or reformation of any life or health insurance contract not otherwise denied by the terms of the contract or by any other statute. 6.
+Any notice to an insured required pursuant to NRS 687B.320 to 687B.350, inclusive, must be personally delivered to the insured or mailed first class or certified to the insured at the address of the insured last known by the insurer.
+The notice must state the effective date of the cancellation or nonrenewal and be accompanied by a written explanation of the specific reasons for the cancellation or nonrenewal.
+(Added to NRS by 1971, 1724;
+A 1971, 1949; 1983, 1121; 1987, 985, 1063; 1993, 2399; 2003, 3313) NRS 687B.320 Policies other than industrial insurance policies:
+Grounds for midterm cancellation; notice to policyholder. 1.
+Except as otherwise provided in subsection 3, no insurance policy that has been in effect for at least 70 days or that has been renewed may be cancelled by the insurer before the expiration of the agreed term or 1 year from the effective date of the policy or renewal, whichever occurs first, except on any one of the following grounds:
+(a) Failure to pay a premium when due;
+(b) Conviction of the insured of a crime arising out of acts increasing the hazard insured against;
+(c) Discovery of fraud or material misrepresentation in the obtaining of the policy or in the presentation of a claim thereunder;
+(d) Discovery of:
+(1) An act or omission; or (2) A violation of any condition of the policy, Ê which occurred after the first effective date of the current policy and substantially and materially increases the hazard insured against;
+(e) A material change in the nature or extent of the risk, occurring after the first effective date of the current policy, which causes the risk of loss to be substantially and materially increased beyond that contemplated at the time the policy was issued or last renewed;
+(f) A determination by the Commissioner that continuation of the insurer's present volume of premiums would jeopardize the insurer's solvency or be hazardous to the interests of policyholders of the insurer, its creditors or the public; or (g) A determination by the Commissioner that the continuation of the policy would violate, or place the insurer in violation of, any provision of the Code. 2.
+No cancellation under subsection 1 is effective until, in the case of paragraph (a) of subsection 1, at least 10 days and, in the case of any other paragraph of subsection 1, at least 30 days after the notice is delivered or mailed to the policyholder. 3.
+The provisions of this section do not apply to a policy of industrial insurance.
+(Added to NRS by 1971, 1724;
+A 1987, 986; 2003, 3313) NRS 687B.325 Industrial insurance policies:
+Grounds for midterm cancellation; notice to policyholder; provisions do not prohibit change in premium rate; terms of certain policies. 1.
+No policy of industrial insurance that has been in effect for at least 70 days or that has been renewed may be cancelled by the insurer before the expiration of the agreed term or 1 year after the effective date of the policy or renewal, whichever occurs first, except on any one of the following grounds:
+(a) A failure by the policyholder to pay a premium for the policy of industrial insurance when due, including the failure of the policyholder to remit an amount due because of an endorsement for a deductible;
+(b) A failure by the policyholder to:
+(1) Report any payroll;
+(2) Allow the insurer to audit any payroll in accordance with the terms of the policy or any previous policy issued by the insurer; or (3) Pay any additional premium charged because of an audit of any payroll as required by the terms of the policy or any previous policy issued by the insurer;
+(c) A material failure by the policyholder to comply with any federal or state order concerning safety or any written recommendation of the insurer's designated representative for loss control;
+(d) A material change in ownership of the policyholder or any change in the policyholder's business or operations that:
+(1) Materially increases the hazard for frequency or severity of loss;
+(2) Requires additional or different classifications for the calculation of premiums; or (3) Contemplates an activity that is excluded by any reinsurance treaty of the insurer;
+(e) A material misrepresentation made by the policyholder; or (f) A failure by the policyholder to cooperate with the insurer in conducting an investigation of a claim. 2.
+An insurer shall not cancel a policy of industrial insurance pursuant to paragraph (a) of subsection 1 except upon 10 days' written notice submitted by the insurer to the policyholder. 3.
+Except as otherwise provided in this subsection, an insurer shall not cancel a policy of industrial insurance pursuant to paragraph (b), (c), (d), (e) or (f) of subsection 1 except upon 30 days' written notice by the insurer to the policyholder.
+An insurer is not required to provide a written notice to a policyholder pursuant to this subsection if the policyholder and the insurer consent to the cancellation of the policy of industrial insurance and to the reissuance of another policy of industrial insurance effective upon a material change in the ownership or operations of the insured.
+If the policyholder corrects the condition to the satisfaction of the insurer within the period specified in the policy of insurance, the insurer shall not cancel the policy. 4.
+Any written notice submitted to a policyholder pursuant to this section must be given by first-class mail addressed to the policyholder at the address of the policyholder set forth in the policy of industrial insurance.
+Evidence indicating that a written notice specified in this section has been mailed is sufficient proof of notice. 5.
+The provisions of this section do not prohibit, during any period in which a policy of industrial insurance is in force, any change in the premium rate required or authorized by any law, regulation or order of the Commissioner, or otherwise agreed upon by the policyholder and the insurer. 6.
+For the purposes of this section, any policy of industrial insurance that is written for a term of more than 1 year, or any policy of industrial insurance with no fixed date of expiration, shall be deemed to be written for successive periods of 1 year.
+(Added to NRS by 2003, 3310;
+A 2005, 2134) NRS 687B.330 Anniversary cancellation.
+A policy issued for a term longer than 1 year may be cancelled by the insurer by giving notice of the cancellation: 1.
+For commercial or business policies, 60 days before any anniversary date of the policy. 2.
+For all other policies, 30 days before any anniversary date of the policy.
+(Added to NRS by 1971, 1725;
+A 1987, 987) NRS 687B.340 Nonrenewals. 1.
+Subject to subsection 2, a policyholder has a right to have his or her policy renewed, on the terms then being applied by the insurer to persons, similarly situated, for an additional period equivalent to the expiring term if the agreed term is 1 year or less, or for 1 year if the agreed term is longer than 1 year, unless:
+(a) At least 60 days for commercial or business policies; and (b) At least 30 days for all other policies, Ê before the date of expiration provided in the policy the insurer mails or delivers to the policyholder a notice of intention not to renew the policy beyond the agreed expiration date.
+If an insurer fails to provide a timely notice of nonrenewal, the insurer shall provide the insured with a policy of insurance on the identical terms as in the expiring policy. 2.
+This section does not apply if the policyholder has accepted replacement coverage or has requested or agreed to nonrenewal, or if the policy is expressly designated as nonrenewable by a clause approved or deemed to be approved by the Commissioner.
+(Added to NRS by 1971, 1725;
+A 1971, 1950; 1987, 987) NRS 687B.345 Annual review of coverage and benefits provided in policy.
+Each insurer who delivers a policy in this state which is effective for 1 year or more may, for the period in which the policy is effective, review annually with the policyholder to whom the policy is delivered the coverage and benefits provided in the policy.
+(Added to NRS by 1995, 1747) NRS 687B.350 Renewal with change in policy or coverage provisions without certain notice to insured prohibited; exceptions. 1.
+Except as otherwise provided in subsections 2 and 3, an insurer shall not renew a policy if the renewal includes a change in policy or coverage provisions, including a change in rates or premiums charged to the insured, unless the insurer notifies the insured in writing of the change in policy or coverage provisions at least 30 days before the expiration of the policy.
+If the insurer fails to provide adequate and timely notice, the insurer shall renew the policy using the expiring policy or coverage provisions:
+(a) For a period that is equal to the expiring term if the agreed term is 1 year or less; or (b) For 1 year if the agreed term is more than 1 year. 2.
+The provisions of this section do not apply to a change in the rate for a policy of industrial insurance which is based on:
+(a) A change to a prospective loss cost filed by the Advisory Organization pursuant to NRS 686B.177 that is applicable to the risk; or (b) A correction based on the experience that is applicable to the risk in accordance with the Uniform Plan for Rating Experience filed with the Commissioner pursuant to NRS 686B.177. 3.
+The provisions of this section do not apply to a renewal of a policy in which the change in policy or coverage provisions consists only of a:
+(a) Decrease in the amount of the total premium charged to the insured for the renewal of the policy;
+(b) Change in the effective date and expiration date of the policy if the duration of the renewed policy remains unchanged; or (c) Change in one or more conditions of the policy that are intended to make an aspect of the coverage provided by the policy more favorable to the insured and is not accompanied by a change in one or more conditions of the policy that are intended to make an aspect of the coverage provided by the policy less favorable to the insured.
+(Added to NRS by 1971, 1725;
+A 1995, 1747; 2003, 3314; 2007, 3322; 2021, 126) NRS 687B.351 Requirements relating to purchase of Medicare supplemental policies by persons less than 65 years of age who are eligible for Medicare; limitation on premiums; open enrollment period. 1.
+An insurer that offers any Medicare supplemental policy for delivery in this State shall allow a person who is less than 65 years of age and eligible for and enrolled in Medicare on the basis of a disability or end-stage renal disease to purchase any Medicare supplemental policy that the insurer offers to new insureds in this State who are 65 years of age or older. 2.
+An insurer shall not impose any limitation, term or condition relating to coverage, benefits, protections, policies or procedures with respect to a Medicare supplemental policy issued to a person who is less than 65 years of age pursuant to subsection 1 if the limitation, term or condition is not imposed with respect to a Medicare supplemental policy offered by the insurer to a person who is 65 years of age or older. 3.
+An insurer shall not charge a person described in subsection 1:
+(a) For a Standardized Benefit Plan A, Plan B or Plan D Medicare supplemental policy, a premium rate that exceeds the premium rate that the insurer would charge a person who is exactly 65 years of age for the same Medicare supplemental policy.
+(b) For a standardized benefit plan not described in paragraph (a), a premium rate that exceeds 200 percent of the premium rate that the insurer would charge a person who is exactly 65 years of age for the same Medicare supplemental policy. 4.
+An insurer shall offer to a person who is less than 65 years of age and eligible to purchase a Medicare supplemental policy pursuant to subsection 1 an open enrollment period commencing on the first day of the first month that the person enrolled in coverage pursuant to Medicare Part B, 42 U.S.C. §§ 1395j et seq., and remaining open for at least 6 months thereafter, during which the person may purchase any Medicare supplemental policy made available by the insurer to new insureds in this State. 5.
+During the open enrollment period offered pursuant to subsection 4, an insurer shall not:
+(a) Deny or condition the issuance or effectiveness of a Medicare supplemental policy based on the health status, claims experience, receipt of health care or medical condition of a person described in subsection 4; or (b) Impose an exclusion of benefits provided under the Medicare supplemental policy based on a preexisting medical condition of a person described in subsection 4. 6.
+As used in this section, "standardized benefit plan":
+(a) Means a Medicare supplemental policy with a particular package of benefits as required by federal law; and (b) Includes, without limitation, any Medicare supplemental policy designated as Standardized Benefit Plan A to N, inclusive, any high deductible version of any such plan and any other standardized package of benefits for Medicare supplemental policies that may be established by federal law.
+(Added to NRS by 2025, 1911) NRS 687B.352 Open enrollment period for Medicare supplemental policies required; prohibited acts; notice; treatment of Medicare supplemental policies purchased during open enrollment period for purposes relating to payment of commissions. 1.
+An insurer that issues a Medicare supplemental policy shall offer to a person currently insured under any such policy an annual open enrollment period commencing with the first day of the birthday month of the person and remaining open for at least 60 days thereafter, during which the person may purchase any Medicare supplemental policy made available by the insurer in this State that includes the same or lesser benefits.
+Innovative benefits, as described in 42 U.S.C. § 1395ss(p)(4)(B), must not be considered when determining whether a Medicare supplemental policy includes the same benefits as or lesser benefits than another such policy. 2.
+During the open enrollment period offered pursuant to subsection 1, an insurer shall not:
+(a) Deny or condition the issuance or effectiveness, or discriminate in the price of coverage, of a Medicare supplemental policy based on the health status, claims experience, receipt of health care or medical condition of a person described in subsection 1; or (b) Impose an exclusion of benefits provided under the Medicare supplemental policy based on a preexisting medical condition of a person described in subsection 1. 3.
+At least 30 days before the beginning of the open enrollment period offered pursuant to subsection 1 but not more than 60 days before the beginning of that period, an insurer that issues a Medicare supplemental policy shall notify each person to whom the open enrollment period applies of:
+(a) The dates on which the open enrollment period begins and ends and the rights of the person established by the provisions of this section; and (b) Any modification to the benefits provided by the policy under which the person is currently insured or adjustment to the premiums charged for that policy. 4.
+An insurer or other person or entity shall not vary the commission associated with the purchase of Medicare supplemental policies during the open enrollment period offered pursuant to subsection 1, pay differential commissions associated with the purchase of Medicare supplemental policies during that open enrollment period or otherwise treat Medicare supplemental policies purchased during that open enrollment period differently for the purposes of commission for any reason, including, without limitation:
+(a) Because the Medicare supplemental policy was purchased during the open enrollment period offered pursuant to subsection 1;
+(b) Because the Medicare supplemental policy is classified as guaranteed issue under 42 U.S.C. § 1395ss or any other applicable federal or state law or regulations; or (c) Because of the health status, claims experience, receipt of health care or medical condition of the insured. 5.
+An insurer or other person or entity must treat the purchase of a Medicare supplemental policy during the open enrollment period offered pursuant to subsection 1 in the same manner as the renewal of a Medicare supplemental policy for all purposes relating to the payment of a commission.
+(Added to NRS by 2021, 880;
+A 2023, 1095; 2025, 1912) NRS 687B.355 Insurer required to provide to policyholder information about claims paid on behalf of policyholder; fee; regulations. 1.
+If a policyholder requests information for the renewal of his or her policy, an insurer shall provide to the policyholder information regarding claims paid on behalf of the policyholder.
+The information must be provided within 30 working days after the insurer receives a written request from the policyholder.
+The insurer may charge the policyholder a reasonable fee for the information. 2.
+The Commissioner may adopt regulations to carry out the provisions of subsection 1.
+(Added to NRS by 1991, 2033) NRS 687B.360 Notice of cancellation or nonrenewal:
+Insurer required to provide to policyholder information about grounds upon request; notice ineffective unless contains information about right of policyholder to make such a request.
+If a notice of cancellation or nonrenewal under NRS 687B.310 to 687B.420, inclusive, does not state with reasonable precision the facts on which the insurer's decision is based, the insurer shall supply that information within 6 days after receipt of a written request by the policyholder.
+No notice is effective unless it contains adequate information about the policyholder's right to make such a request.
+(Added to NRS by 1971, 1725;
+A 1971, 1950; 1993, 2399; 2003, 3314) NRS 687B.370 Certain notice ineffective unless contains information about applying for insurance through certain plans.
+Except for a notice of cancellation for the failure to pay a premium when due, no notice required pursuant to NRS 687B.310 to 687B.420, inclusive, is effective unless it contains adequate instructions enabling the policyholder to apply for insurance through any voluntary or mandatory risk-sharing plan established pursuant to NRS 686B.180 and 686B.200 existing at the time of the notice, for which the policyholder may be eligible.
+(Added to NRS by 1971, 1726;
+A 1985, 577; 1993, 2400; 2003, 3314) NRS 687B.380 Immunity.
+There is no liability on the part of and no cause of action of any nature may arise against any insurer, its authorized representative, its agents, its employees, or any person furnishing to the insurer information as to reasons for cancellation or nonrenewal, for any statement made by them in complying with NRS 687B.310 to 687B.420, inclusive, or for the providing of information pertaining thereto.
+(Added to NRS by 1971, 1726;
+A 1993, 2400; 2003, 3315) NRS 687B.383 Refusal to issue, cancellation of, nonrenewal of or increase in premium or rate for certain policies solely on basis of breed of dog prohibited; exception; permissible inquiry by insurer regarding dog. 1.
+Except as otherwise provided in subsection 2, an insurer shall not:
+(a) Refuse to issue;
+(b) Cancel;
+(c) Refuse to renew; or (d) Increase a premium or rate for, Ê a policy of insurance based on the specific breed or mixture of breeds of a dog that is harbored or owned on an applicable property. 2.
+The provisions of subsection 1 do not prohibit an insurer from:
+(a) Refusing to issue;
+(b) Cancelling;
+(c) Refusing to renew; or (d) Imposing a reasonable increase to a premium or rate for, Ê a policy of insurance based on sound underwriting and actuarial principles on the basis that a particular dog which is harbored or owned on an applicable property is known to be dangerous or vicious or has been declared to be dangerous or vicious in accordance with NRS 202.500. 3.
+An insurer may not ask or inquire about the specific breed or mixture of breeds of a dog which is harbored or owned on an applicable property except to ask if the dog is known to be dangerous or vicious or has been declared to be dangerous or vicious in accordance with NRS 202.500. 4.
+As used in this section, "policy of insurance" means:
+(a) A policy of homeowner's insurance;
+(b) A policy of renter's insurance;
+(c) A policy of insurance which covers a manufactured home or a mobile home;
+(d) A policy of insurance which covers a multi-family residential dwelling; and (e) An umbrella policy as defined in NRS 687B.440.
+(Added to NRS by 2021, 1524;
+A 2025, 1087) NRS 687B.385 Refusal to issue, cancellation, nonrenewal or increase in premium of policy of motor vehicle insurance due to claims for which insured was not at fault, claims for which insurer made no payment or recovered entirety of payment or inquiries relating to a claim prohibited.
+An insurer shall not refuse to issue, cancel, refuse to renew or increase the premium for renewal of a policy of motor vehicle insurance covering private passenger cars or commercial vehicles as a result of any: 1.
+Claims made under any policy of insurance with respect to which the insured was not at fault; 2.
+Claims made under any policy of insurance for which the insurer has not made any payment or for which the insurer recovered the entirety of the insurer's payment on the claim by means of salvage, subrogation or another mechanism; or 3.
+Inquiries made regarding an actual or potential claim under any policy of insurance regarding:
+(a) The existence of insurance coverage for any matter; or (b) Any hypothetical or informational matter pertaining to insurance.
+(Added to NRS by 1987, 1063;
+A 1997, 3033; 2017, 2354) NRS 687B.390 Cancellation or nonrenewal of automobile liability insurance policy on sole basis of age, residence, race, color, creed, national origin, ancestry, sexual orientation, gender identity or expression or occupation of insured prohibited.
+No insurer shall cancel or refuse to renew an automobile liability insurance policy solely because of the age, residence, race, color, creed, national origin, ancestry, sexual orientation, gender identity or expression or occupation of anyone who is an insured.
+(Added to NRS by 1971, 1726;
+A 2017, 1080) NRS 687B.400 Refusal to issue, reduction of liability limits of or increase in premium of automobile liability insurance policy on sole basis of reaching certain age prohibited; burden of proof; cost of medical examination; exception. 1.
+No insurer shall refuse to issue, reduce liability limits of, or increase the premium of any automobile liability insurance policy issued to a resident of this state for the sole reason that the policyholder has reached a certain age. 2.
+Where age is a factor in an increase of rates for an individual policyholder, the increase must be justified to the Commissioner and the burden of proving justification is on the insurer.
+If a medical examination is required for the purpose of a rate increase, such examination shall be at the expense of the insurer. 3.
+This section does not apply to applicants and policyholders under the age of 25 years.
+(Added to NRS by 1973, 251) NRS 687B.402 Compliance of certain insurers or organizations providing health coverage with certain federal laws regarding genetic information.
+An insurer or other organization providing health coverage pursuant to chapter 689A, 689B, 689C, 695A, 695B, 695C, 695D or 695F of NRS shall comply with the provisions of the Genetic Information Nondiscrimination Act of 2008, Public Law 110-233, and any federal regulations issued pursuant thereto.
+(Added to NRS by 2009, 1785) NRS 687B.404 Adherence by insurer or organization providing health coverage to certain federal laws regarding parity in coverage for mental health and substance use disorder treatment; data request; submission of data or report to Commissioner; confidentiality of information; report by Commissioner; regulations. 1.
+An insurer or other organization providing health coverage pursuant to chapter 689A, 689B, 689C, 695A, 695B, 695C, 695F or 695G of NRS, including, without limitation, a health maintenance organization or managed care organization that provides health care services through managed care to recipients of Medicaid under the State Plan for Medicaid, shall adhere to the applicable provisions of the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008, Public Law 110-343, Division C, Title V, Subtitle B, and any federal regulations issued pursuant thereto. 2.
+On or before July 1 of each year, the Commissioner shall prescribe and provide to each insurer or other organization providing health coverage subject to the provisions of subsection 1 a data request that solicits information necessary to evaluate the compliance of an insurer or other organization with the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008, Public Law 110-343, Division C, Title V, Subtitle B, including, without limitation, the comparative analyses specified in 42 U.S.C. § 300gg-26(a). 3.
+On or before October 1 of each year, each insurer or other organization providing health coverage subject to the provisions of subsection 1 shall:
+(a) Complete and submit to the Commissioner, in accordance with the System for Electronic Rate and Form Filing developed and implemented by the National Association of Insurance Commissioners, the data request prescribed pursuant to subsection 2; or (b) Submit to the Commissioner, in accordance with the System for Electronic Rate and Form Filing developed and implemented by the National Association of Insurance Commissioners, a copy of a report submitted by the insurer or other organization to the Federal Government demonstrating compliance with the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008, Public Law 110-343, Division C, Title V, Subtitle B, including, without limitation, the comparative analyses specified in 42 U.S.C. § 300gg-26(a).
+The Commissioner may request from an insurer or other organization who submits a copy of such a report any supplemental information necessary to determine whether the insurer or other organization is in compliance with that federal law. 4.
+Any information provided by an insurer or other organization to the Commissioner pursuant to subsection 3 is a public record except that the following information is confidential:
+(a) Personally identifiable information of a consumer.
+(b) Any information determined by the Commissioner to constitute a trade secret.
+In determining whether information provided pursuant to subsection 3, including, without limitation, information concerning mental health parity in the adequacy of the networks of insurers and other organizations, reimbursement rates for providers of health care, in-network and out-of-network utilization rates and the number and percentage of denials of claims, constitutes a trade secret pursuant to this paragraph:
+(1) The Commissioner shall not make a determination that the information constitutes a trade secret solely because the information reflects whether an insurer is in compliance with the provisions of this section; and (2) Any doubt or uncertainty regarding whether the information constitutes a trade secret must be resolved in favor of a determination that the information does not constitute a trade secret. 5.
+On or before December 31 of each year, the Commissioner shall compile a report summarizing the information submitted to the Commissioner pursuant to this section and submit the report to:
+(a) The Patient Protection Commission created by NRS 439.908;
+(b) The Governor; and (c) The Director of the Legislative Counsel Bureau for transmittal to:
+(1) In even-numbered years, the next regular session of the Legislature; and (2) In odd-numbered years, the Joint Interim Standing Committee on Health and Human Services. 6.
+The Commissioner may adopt any regulations necessary to carry out the provisions of this section. 7.
+As used in this section, "trade secret" has the meaning ascribed to it in NRS 600A.030.
+(Added to NRS by 2009, 1785;
+A 2021, 870; 2025, 1453) NRS 687B.406 Compliance of certain insurers or organizations providing health coverage with certain federal laws regarding dependent students.
+An insurer or other organization providing health coverage pursuant to chapter 689B, 689C, 695A, 695B, 695C or 695F of NRS shall comply with the provisions of Michelle's Law, Public Law 110-381, and any federal regulations issued pursuant thereto.
+(Added to NRS by 2009, 1785) NRS 687B.407 Authority of nonprofit health benefit plan to use list of preferred prescription drugs developed by Nevada Health Authority as formulary and obtain such drugs through purchasing agreements negotiated by Authority; notification of Authority. 1.
+A nonprofit health benefit plan may use the list of preferred prescription drugs developed by the Nevada Health Authority pursuant to subsection 1 of NRS 422.4025 as its formulary and obtain prescription drugs through the purchasing agreements negotiated by the Authority pursuant to that section by notifying the Authority in the form prescribed by the Authority. 2.
+As used in this section "health benefit plan" has the meaning ascribed to it in NRS 422.4021.
+(Added to NRS by 2019, 4032;
+A 2025, 3764) NRS 687B.408 Insurer that issues certain policies of health insurance required to notify insured and physician before effective date of changes related to prescription drugs used for transplanted organs.
+If a policy of health insurance issued pursuant to chapter 689A, 689B, 689C, 695A, 695B, 695C or 695G of NRS includes coverage for a prescription drug that is necessary for an insured to prevent the rejection of a transplanted organ, the insurer must notify the insured and, if known, the physician of the insured who prescribed the drug at least 30 days before a change in the formulary of the insurer within the plan year which affects that prescription becomes effective.
+(Added to NRS by 2009, 1785) NRS 687B.409 Payments to out-of-network providers for treatment of mental health or alcohol or substance use disorder; assignment of benefits. 1.
+Every payment made pursuant to a policy of health insurance to pay for treatment relating solely to mental health or an alcohol or substance use disorder must be made directly to the provider of health care that provides the treatment if the provider:
+(a) Is an out-of-network provider; and (b) Has obtained and delivered to the insurer or an authorized representative of the insurer, including, without limitation, a third-party administrator, a written assignment of benefits pursuant to which the insured has assigned to the provider the insured's benefits under the policy of health insurance with regard to the treatment. 2.
+An out-of-network provider that receives payment pursuant to subsection 1:
+(a) Shall, if a person paid the provider directly for the treatment described in subsection 1, refund to the person the amount that the person paid directly to the provider for the treatment, less any applicable deductible, copayment or coinsurance, not later than 45 days after the provider receives payment pursuant to subsection 1; and (b) Must indemnify and hold harmless the insurer against any claim made against the insurer by the person who receives the treatment described in subsection 1 for any amount paid by the insurer to the provider in compliance with this section. 3.
+An assignment of benefits described in paragraph (b) of subsection 1 is irrevocable for the period:
+(a) Beginning on the date the insured gives to the out-of-network provider the assignment of benefits; and (b) Ending on the later of:
+(1) The date on which the out-of-network provider receives from the insurer the final payment for the treatment; or (2) The date of the final resolution, including, without limitation, by settlement or trial, of all claims relating to all payments which relate to the treatment. 4.
+Nothing in this section shall be construed to require an insurer to make a payment to an out-of-network provider:
+(a) Who is not authorized by law to provide the treatment;
+(b) Who provides the treatment in violation of any law; or (c) In an amount which exceeds the amount required by the policy of health insurance to be paid for out-of-network treatment. 5.
+As used in this section:
+(a) "Health care services" means services for the diagnosis, prevention, treatment, care or relief of a health condition, illness, injury or disease.
+(b) "Insured" means a person who receives benefits pursuant to a policy of health insurance.
+(c) "Insurer" means a person, including, without limitation, a governmental entity, who issues or otherwise provides a policy of health insurance.
+(d) "Network plan" has the meaning ascribed to it in NRS 689B.570.
+(e) "Out-of-network provider" means a provider of health care who:
+(1) Provides health care services;
+(2) Is paid, pursuant to a policy of health insurance, for providing the health care services; and (3) Is not under contract to provide the health care services as part of any network plan associated with the policy of health insurance.
+(f) "Policy of health insurance" includes, without limitation, a policy, contract, certificate, plan or agreement, as applicable, issued pursuant to or otherwise governed by NRS 287.0402 to 287.049, inclusive, or chapter 608, 689A, 689B, 689C, 695A, 695B, 695C, 695F or 695G of NRS for the provision of, delivery of, arrangement for, payment for or reimbursement for any of the costs of health care services.
+(g) "Provider of health care" has the meaning ascribed to it in NRS 695G.070.
+(Added to NRS by 2017, 2208) NRS 687B.4095 Policies of health insurance including prescription drug coverage:
+Restrictions on moving prescription drug from lower-cost tier to higher-cost tier. 1.
+If a policy of health insurance issued to an individual pursuant to chapter 689A, 695B or 695C of NRS includes coverage for a prescription drug pursuant to a formulary with more than one cost tier, the insurer may move the prescription drug from a lower cost tier to a higher cost tier only:
+(a) On January 1; and (b) On any date on which the insurer adds to the formulary a generic prescription drug that:
+(1) Has been approved by the Food and Drug Administration for use as an alternative to the original prescription drug; and (2) Is being added to the formulary at:
+(I) The same cost tier from which the original prescription drug is being moved; or (II) A cost tier which has a smaller deductible, copayment or coinsurance than the cost tier from which the original prescription drug is being moved. 2.
+If a policy of health insurance issued to a small employer pursuant to chapter 689C, 695B or 695C of NRS includes coverage for a prescription drug pursuant to a formulary with more than one cost tier, the insurer may move the prescription drug from a lower cost tier to a higher cost tier only:
+(a) On January 1;
+(b) On July 1; and (c) On any date on which the insurer adds to the formulary a generic prescription drug that:
+(1) Has been approved by the Food and Drug Administration for use as an alternative to the original prescription drug; and (2) Is being added to the formulary at:
+(I) The same cost tier from which the original prescription drug is being moved; or (II) A cost tier which has a smaller deductible, copayment or coinsurance than the cost tier from which the original prescription drug is being moved. 3.
+An insurer who issues a policy of health insurance described in subsection 1 or 2 and who removes a prescription drug from a formulary shall not, in the same plan year in which the prescription drug was removed, add the prescription drug back to the formulary in a higher cost tier except in accordance with the provisions of subsection 1 or 2, as applicable. 4.
+Except as otherwise provided in subsection 3, the provisions of this section do not prevent an insurer, at any time, from:
+(a) Moving a prescription drug from a higher cost tier of a formulary to a lower cost tier of the formulary;
+(b) Removing a prescription drug from a formulary; or (c) Adding a prescription drug to a formulary. 5.
+This section does not apply to a grandfathered plan. 6.
+The provisions of this section must not be construed to limit the conditions under which a pharmacist is otherwise authorized or required by law to substitute:
+(a) A generic drug for a drug prescribed by brand name; or (b) An interchangeable biological product for a biological product prescribed by brand name. 7.
+As used in this section:
+(a) "Biological product" has the meaning ascribed to it in NRS 639.0017.
+(b) "Individual carrier" has the meaning ascribed to it in NRS 689A.550.
+(c) "Insurer" includes, without limitation:
+(1) An individual carrier; and (2) A governmental entity which offers, administers or otherwise provides a policy of health insurance.
+(d) "Interchangeable biological product" has the meaning ascribed to it in NRS 639.00855.
+(e) "Small employer" has the meaning ascribed to it in NRS 689C.095.
+(Added to NRS by 2017, 1507;
+A 2023, 2635) NRS 687B.410 Withdrawal of provision of insurance for particular class of insureds:
+Notice to Commissioner; administrative review upon request from insured. 1.
+An insurer which intends to withdraw from providing insurance for a particular class of insureds shall notify the Commissioner of that intention at least 60 days before the notice of cancellation or nonrenewal is delivered or mailed to the insureds. 2.
+Upon receipt of a written request from an insured, the Division shall, within 15 days after the receipt of the request, review the ground for cancellation or nonrenewal.
+If after the review the Division fails to find that the insurer can demonstrate the grounds for cancellation or nonrenewal by clear and convincing evidence, the cancellation or nonrenewal shall be deemed withdrawn by the insurer and the policy reinstated or renewed.
+Such a request for review by the Division must be made within 30 days after the insured receives the notice of cancellation or nonrenewal.
+(Added to NRS by 1987, 985;
+A 1991, 1631; 1993, 1918) NRS 687B.420 Notice of proposed cancellation, nonrenewal or alteration of terms of certain policies, contracts or plans of insurance. 1.
+An insurer shall not cancel, fail to renew or renew with altered terms a policy or contract issued pursuant to chapter 688B, 689A, 689B, 689C, 695A, 695B, 695C, 695D or 695F of NRS unless notice in writing of the proposal is given to the insured at least 60 days before the date the proposed action becomes effective.
+The notice must include, without limitation, any changes in specific rates by line of coverage. 2.
+An insurer shall not cancel, fail to renew or renew with altered terms an individual health benefit plan that is not grandfathered pursuant to applicable law unless notice in writing of the proposal is given to the insured at least 30 days before the beginning of the open enrollment period described in NRS 686B.080.
+The notice must include the specific changes in terms or rates, as applicable.
+(Added to NRS by 1989, 1248;
+A 1993, 1982, 2400, 2405; 2015, 3477) NRS 687B.430 Regulations:
+Form, content and sale of policies which provide for payment of expenses not covered by Medicare; sale of more than one policy of health insurance to same person. 1.
+The Commissioner may adopt regulations relating to the form, content and sale of policies of insurance which provide for the payment of expenses which are not covered by Medicare. 2.
+The Commissioner may adopt regulations relating to the sale of more than one policy of health insurance to the same person. 3.
+As used in this section, "Medicare" means the program of health insurance for aged persons and persons with disabilities established pursuant to Title XVIII of the Social Security Act (42 U.S.C. §§ 1395 et seq.).
+(Added to NRS by 1993, 2398) NRS 687B.440 Umbrella policies:
+Requirement of signed disclosure statement from individual indicating whether policy includes uninsured or underinsured motorist coverage; form. 1.
+An insurer offering an umbrella policy to an individual shall obtain a signed disclosure statement from the individual indicating whether the umbrella policy includes uninsured or underinsured vehicle coverage. 2.
+The disclosure statement for an umbrella policy that includes uninsured or underinsured vehicle coverage must be on a form provided by the Commissioner or in substantially the following form:
+UMBRELLA POLICY DISCLOSURE STATEMENT UNINSURED/UNDERINSURED VEHICLE COVERAGE ̈ Your Umbrella Policy does provide coverage in excess of the limits of the uninsured/underinsured vehicle coverage in your primary auto insurance only if the requirements for the uninsured/underinsured vehicle coverage in your underlying auto insurance are maintained.
+Your uninsured/underinsured vehicle coverage provided by this umbrella policy is limited to $........ .
+I understand and acknowledge the above disclosure. .................................................. ...............................
+Insured Date 3.
+The disclosure statement for an umbrella policy that does not include uninsured or underinsured vehicle coverage must be on a form provided by the commissioner or in substantially the following form: ̈ Your Umbrella Liability Policy does not provide any uninsured/underinsured vehicle coverage.
+I understand and acknowledge the above disclosure. .................................................. ...............................
+Insured Date 4.
+As used in this section, "umbrella policy" means a policy that protects a person against losses in excess of the underlying amount required to be covered by other policies.
+(Added to NRS by 1997, 3031;
+A 1999, 2801) NRS 687B.450 Required medical examination of applicant or insured:
+Duty of insurer to provide notification of potentially serious medical condition; exception; regulations. 1.
+Except as otherwise provided in this subsection, if an insurer requires a medical examination of an applicant or an insured before the issuance, renewal, reinstatement or reevaluation of the terms of any policy or certificate of insurance or annuity contract, the insurer shall:
+(a) If the applicant or insured has a primary care physician, notify:
+(1) The physician of any potentially serious medical condition that is detected as a result of that medical examination; and (2) The applicant or insured:
+(I) Of any potentially serious medical condition that is detected as a result of that medical examination; and (II) That the primary care physician of the applicant or insured has also been notified of any potentially serious medical condition detected as a result of that medical examination.
+(b) If the applicant or insured does not have a primary care physician, notify the applicant or insured of any potentially serious medical condition that is detected as a result of that medical examination. Ê Any notice required pursuant to this section must be sent by registered or certified mail not later than 30 days after the date on which the potentially serious medical condition is detected.
+If the applicant or insured is under the age of 18 years, any notice required pursuant to this section must not be sent to the applicant or insured, but instead must be sent to a parent or legal guardian of the applicant or insured. 2.
+The Commissioner may adopt regulations to carry out the provisions of this section. 3.
+The provisions of this section do not apply to a policy of workers' compensation insurance or industrial insurance. 4.
+As used in this section, "potentially serious medical condition" includes, without limitation, any medical condition that:
+(a) Is life-threatening or potentially life-threatening if it is not treated immediately or is not closely monitored; or (b) Causes the insurer to refuse to issue, renew, reinstate or reevaluate the terms of a policy or certificate of insurance or annuity contract.
+(Added to NRS by 2007, 249) NRS 687B.460 Certificates of insurance for property or casualty insurance:
+Not part of, amend any term of or alter or expand coverage, exclusion or condition of contract or policy.
+A certificate of insurance issued regarding a contract or policy of property or casualty insurance, other than a group master policy, which is delivered or issued for delivery in this State: 1.
+Does not constitute any part of the contract or policy of insurance; and 2.
+Does not amend any term or alter or extend any coverage, exclusion or condition of the contract or policy of insurance.
+(Added to NRS by 2011, 1834) HEALTH BENEFIT PLANS NRS 687B.470 "Health benefit plan" defined. 1.
+As used in NRS 687B.470 to 687B.500, inclusive, "health benefit plan" means a policy, contract, certificate or agreement offered by a carrier to provide for, deliver payment for, arrange for the payment of, pay for or reimburse any of the costs of health care services.
+Except as otherwise provided in this section, the term includes catastrophic health insurance policies and a policy that pays on a cost-incurred basis. 2.
+The term does not include:
+(a) Coverage that is only for accident or disability income insurance, or any combination thereof;
+(b) Coverage issued as a supplement to liability insurance;
+(c) Liability insurance, including general liability insurance and automobile liability insurance;
+(d) Workers' compensation or similar insurance;
+(e) Coverage for medical payments under a policy of automobile insurance;
+(f) Credit insurance;
+(g) Coverage for on-site medical clinics;
+(h) Other similar insurance coverage specified pursuant to the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191, under which benefits for medical care are secondary or incidental to other insurance benefits;
+(i) Coverage under a short-term health insurance policy which is:
+(1) Issued to provide coverage that does not result in an individual being covered by one or more short-term health insurance policies for more than 185 days in a 365-day period, but such coverage may be extended to provide coverage until the end of a period of hospitalization for a condition which the person covered by the policy is hospitalized on the day coverage would have otherwise ended; and (2) Nonrenewable or is extended to provide coverage for the period of hospitalization; and (j) Coverage under a blanket student accident and health insurance policy. 3.
+The term does not include the following benefits if the benefits are provided under a separate policy, certificate or contract of insurance or are otherwise not an integral part of a health benefit plan:
+(a) Limited-scope dental or vision benefits;
+(b) Benefits for long-term care, nursing home care, home health care or community-based care, or any combination thereof; and (c) Such other similar benefits as are specified in any federal regulations adopted pursuant to the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191. 4.
+The term does not include the following benefits if the benefits are provided under a separate policy, certificate or contract, there is no coordination between the provisions of the benefits and any exclusion of benefits under any group health plan maintained by the same plan sponsor, and the benefits are paid for a claim without regard to whether benefits are provided for such a claim under any group health plan maintained by the same plan sponsor:
+(a) Coverage that is only for a specified disease or illness; and (b) Hospital indemnity or other fixed indemnity insurance. 5.
+The term does not include any of the following, if offered as a separate policy, certificate or contract of insurance:
+(a) Medicare supplemental health insurance as defined in section 1882(g)(1) of the Social Security Act, 42 U.S.C. § 1395ss, as that section existed on July 16, 1997;
+(b) Coverage supplemental to the coverage provided pursuant to the Civilian Health and Medical Program of Uniformed Services, TRICARE, 10 U.S.C. §§ 1071 et seq.; and (c) Similar supplemental coverage provided under a group health plan.
+(Added to NRS by 2013, 3606;
+A 2017, 2354; 2019, 1427) NRS 687B.480 Required manner of availability; required notice related to Silver State Health Insurance Exchange in certain circumstances; regulations. 1.
+All health benefit plans must be made available in the manner required by 45 C.F.R. § 147.104. 2.
+Except as otherwise provided in this subsection, a carrier offering a health benefit plan for individuals that is not being purchased on the Silver State Health Insurance Exchange established by NRS 695I.210 must include on its enrollment Internet website and printed enrollment information a notice to inform consumers that consumers may be eligible for financial assistance with their health insurance premiums or other out-of-pocket expenses by enrolling on the Silver State Health Insurance Exchange established by NRS 695I.210.
+A carrier is not required to provide the notice required by this subsection if such financial assistance is not available.
+The notice required by this subsection must contain the following statement:
+You can also enroll in a health insurance plan for you and your family through the Silver State Health Insurance Exchange (Nevada's state-based health insurance exchange).
+The Silver State Health Insurance Exchange allows you to get quotes from different insurance companies that are available on the Exchange.
+You can compare different plans, get quotes and find out if you qualify for financial assistance.
+The Silver State Health Insurance Exchange is the only way to receive financial assistance for your health insurance.
+You can enroll online by visiting www.nevadahealthlink.com or by calling [phone number on the page] TTY 711. 3.
+The Commissioner may adopt regulations to carry out the provisions of subsection 2, including, without limitation, regulations to require additional information to be provided in the notice required by subsection 2.
+(Added to NRS by 2013, 3607;
+A 2019, 1428, 1440) NRS 687B.490 Requirements for carrier offering coverage in small employer group or individual market:
+Demonstration of capacity to adequately deliver services by applying to Commissioner for issuance of network plan and submission of information; determination by Commissioner; certification of plan or specification of deficiency; annual summary; periodic determinations by Commissioner concerning availability and accessibility of services of approved plan. 1.
+A carrier that offers coverage in the small employer group or individual market must, before making any network plan available for sale in this State, demonstrate the capacity to deliver services adequately by applying to the Commissioner for the issuance of a network plan and submitting a description of the procedures and programs to be implemented to meet the requirements described in subsection 2. 2.
+The Commissioner shall determine, within 90 days after receipt of the application required pursuant to subsection 1, if the carrier, with respect to the network plan:
+(a) Has demonstrated the willingness and ability to ensure that health care services will be provided in a manner to ensure both availability and accessibility of adequate personnel and facilities in a manner that enhances availability, accessibility and continuity of service;
+(b) Has organizational arrangements established in accordance with regulations promulgated by the Commissioner; and (c) Has a procedure established in accordance with regulations promulgated by the Commissioner to develop, compile, evaluate and report statistics relating to the cost of its operations, the pattern of utilization of its services, the availability and accessibility of its services and such other matters as may be reasonably required by the Commissioner. 3.
+The Commissioner may certify that the carrier and the network plan meet the requirements of subsection 2, or may determine that the carrier and the network plan do not meet such requirements.
+Upon a determination that the carrier and the network plan do not meet the requirements of subsection 2, the Commissioner shall specify in what respects the carrier and the network plan are deficient. 4.
+A carrier approved to issue a network plan pursuant to this section must file annually with the Commissioner a summary of information compiled pursuant to subsection 2 in a manner determined by the Commissioner. 5.
+The Commissioner shall, not less than once each year, or more often if deemed necessary by the Commissioner for the protection of the interests of the people of this State, make a determination concerning the availability and accessibility of the health care services of any network plan approved pursuant to this section. 6.
+The expense of any determination made by the Commissioner pursuant to this section must be assessed against the carrier and remitted to the Commissioner. 7.
+When making any determination concerning the availability and accessibility of the services of any network plan or proposed network plan pursuant to this section, the Commissioner shall consider services that may be provided through telehealth, as defined in NRS 629.515, pursuant to the network plan or proposed network plan to be available services. 8.
+As used in this section:
+(a) "Network plan" has the meaning ascribed to it in NRS 689B.570.
+(b) "Small employer" has the meaning ascribed to it in NRS 689C.095.
+(Added to NRS by 2013, 3607;
+A 2015, 636; 2017, 2355) NRS 687B.500 Basis for premium rate; exceptions. 1.
+The premium rate charged by a health insurer for health benefit plans offered in the individual or small employer group market may vary with respect to the particular plan or coverage involved based solely on these characteristics:
+(a) Whether the plan or coverage applies to an individual or a family;
+(b) Geographic rating area;
+(c) Tobacco use, except that the rate shall not vary by a ratio of more than 1.5 to 1 for like individuals who vary in tobacco use; and (d) Age, except that the rate must not vary by a ratio of more than 3 to 1 for like individuals of different age who are age 21 years or older and that the variation in rate must be actuarially justified for individuals who are under the age of 21 years, consistent with the uniform age rating curve established in the Federal Act.
+For the purpose of identifying the appropriate age adjustment under this paragraph and the age band defined in the Federal Act to a specific enrollee, the enrollee's age as of the date of policy issuance or renewal must be used. 2.
+The provisions of subsection 1:
+(a) Apply to a fraternal benefit society organized under chapter 695A of NRS; and (b) Do not apply to grandfathered plans. 3.
+As used in this section, "small employer" has the meaning ascribed to it in NRS 689C.095.
+(Added to NRS by 2013, 3608;
+A 2017, 2356) NETWORK PLANS NRS 687B.600 Definitions.
+As used in NRS 687B.600 to 687B.850, inclusive, unless the context otherwise requires, the words and terms defined in NRS 687B.602 to 687B.665, inclusive, have the meanings ascribed to them in those sections.
+(Added to NRS by 2017, 2349;
+A 2019, 298, 1605; 2021, 3527; 2023, 864, 2112, 2266) NRS 687B.602 "Administrator" defined.
+"Administrator" has the meaning ascribed to it in NRS 683A.025.
+(Added to NRS by 2021, 3525) NRS 687B.605 "Covered person" defined.
+"Covered person" means a policyholder, subscriber, enrollee or other person participating in a network plan.
+(Added to NRS by 2017, 2349) NRS 687B.606 "Dental care" defined.
+"Dental care" has the meaning ascribed to it in NRS 695D.030.
+(Added to NRS by 2021, 3525) NRS 687B.607 "Direct notification" defined.
+"Direct notification" means a written or electronic communication from a health carrier to a provider of health care documenting third-party access to a network.
+(Added to NRS by 2019, 1602) NRS 687B.610 "Evidence of coverage" defined.
+"Evidence of coverage" means any certificate, agreement or contract issued to a covered person by a health carrier setting forth the coverage to which the covered person is entitled pursuant to a network plan.
+(Added to NRS by 2017, 2349) NRS 687B.615 "Health benefit plan" defined.
+"Health benefit plan" has the meaning ascribed to it in NRS 695G.019.
+(Added to NRS by 2017, 2349) NRS 687B.620 "Health care services" defined.
+"Health care services" has the meaning ascribed to it in NRS 695G.022.
+(Added to NRS by 2017, 2349) NRS 687B.625 "Health carrier" defined.
+"Health carrier" has the meaning ascribed to it in NRS 695G.024.
+(Added to NRS by 2017, 2349) NRS 687B.630 "Intermediary" defined.
+"Intermediary" means a person authorized to negotiate and execute a contract between a provider of health care and a health carrier entered into for the purposes of a network plan, whether the person acts on behalf of the provider of health care or the health carrier.
+(Added to NRS by 2017, 2349) NRS 687B.635 "Medically necessary" defined.
+"Medically necessary" has the meaning ascribed to it in NRS 695G.055.
+(Added to NRS by 2017, 2349) NRS 687B.640 "Network" defined.
+"Network" means a defined set of providers of health care who are under contract with a health carrier to provide health care services pursuant to a network plan offered or issued by the health carrier.
+(Added to NRS by 2017, 2349) NRS 687B.645 "Network plan" defined.
+"Network plan" means a health benefit plan offered or issued by a health carrier under which the financing and delivery of health care services, including, without limitation, items and services paid for as health care services, are provided, in whole or in part, through a defined set of providers of health care under contract with the health carrier.
+The term does not include an arrangement for the financing of premiums.
+(Added to NRS by 2017, 2349) NRS 687B.650 "Participating provider of health care" defined.
+"Participating provider of health care" means a provider of health care who, under a contract with a health carrier, has agreed to provide health care services to covered persons pursuant to a network plan with an expectation of receiving payment, other than coinsurance, copayments or deductibles, directly or indirectly from the health carrier.
+(Added to NRS by 2017, 2349) NRS 687B.655 "Primary care physician" defined.
+"Primary care physician" has the meaning ascribed to it in NRS 695G.060.
+(Added to NRS by 2017, 2350) NRS 687B.658 "Provider network contract" defined.
+"Provider network contract" means a contract between a health carrier and a provider of health care specifying the rights and responsibilities of the health carrier and the provider of health care for delivery of health care services pursuant to a network plan.
+(Added to NRS by 2019, 1602) NRS 687B.660 "Provider of health care" defined.
+"Provider of health care" has the meaning ascribed to it in NRS 695G.070.
+(Added to NRS by 2017, 2350) NRS 687B.664 "Third party" defined.
+"Third party" means an organization that enters into a contract with a health carrier or with another third party to gain access to a provider network contract.
+(Added to NRS by 2019, 1602) NRS 687B.665 "Utilization review" defined.
+"Utilization review" has the meaning ascribed to it in NRS 695G.080.
+(Added to NRS by 2017, 2350) NRS 687B.670 Requirements to offer or issue network plan.
+If a health carrier offers or issues a network plan, the health carrier shall, with regard to that network plan: 1.
+Comply with all applicable requirements set forth in NRS 687B.600 to 687B.850, inclusive; 2.
+As applicable, ensure that each contract entered into for the purposes of the network plan between a participating provider of health care and the health carrier complies with the requirements set forth in NRS 687B.600 to 687B.850, inclusive; and 3.
+As applicable, ensure that the network plan complies with the requirements set forth in NRS 687B.600 to 687B.850, inclusive.
+(Added to NRS by 2017, 2350;
+A 2019, 298; 2021, 3527; 2023, 864, 2112, 2266) NRS 687B.675 Provision of information to Office for Consumer Health Assistance. 1.
+A health carrier which offers or issues a network plan shall:
+(a) Provide to the Office for Consumer Health Assistance at least annually the telephone number and electronic mail address of a navigator, case manager or facilitator employed by the health carrier and update that information when the information changes.
+(b) On or before December 31 of each year, submit to the Office for Consumer Health Assistance, for the immediately preceding 12 months, for each type of provider of health care in the applicable network:
+(1) The number of times covered persons reported difficulty accessing health care services;
+(2) The number of times covered persons used a navigator, case manager or facilitator to assist in accessing health care services;
+(3) The number of cases described in subparagraph (2) that were resolved by navigators, case managers or facilitators; and (4) The average period between when a covered person reports difficulty accessing health care services to the resolution of the case by a navigator, case manager or facilitator. 2.
+As used in this section:
+(a) "Navigator, case manager or facilitator" means an employee of a health carrier whose duties include assisting covered persons in accessing health care services.
+(b) "Office for Consumer Health Assistance" means the Office for Consumer Health Assistance established by NRS 232.458.
+(Added to NRS by 2019, 297) NRS 687B.680 Health carrier required to establish mechanism for ongoing notification of participating providers of health care of services covered by network plan and for which provider is responsible.
+A health carrier which offers or issues a network plan shall, with regard to that network plan, establish a mechanism by which each participating provider of health care in the network will be notified on an ongoing basis of the specific health care services which are covered by the network plan and for which the participating provider of health care will be responsible, including, without limitation, any restrictions or conditions on the health care services.
+(Added to NRS by 2017, 2350) NRS 687B.690 Required provisions in contract between participating provider of health care and health carrier.
+Each contract entered into for the purposes of a network plan between a participating provider of health care and the health carrier must include, without limitation, a provision which is substantially similar to the following:
+Provider of health care agrees that in no event, including but not limited to, nonpayment by the health carrier or intermediary, insolvency of the health carrier or intermediary or breach of this agreement, shall the provider of health care bill, charge, collect a deposit from, seek compensation, remuneration or reimbursement from, or have any recourse against, a covered person or a person (other than the health carrier or intermediary) acting on behalf of the covered person for health care services provided pursuant to this agreement.
+This agreement does not prohibit the provider of health care from collecting coinsurance, deductibles or copayments, as specifically provided in the evidence of coverage, or fees for uncovered services delivered on a fee-for-service basis to covered persons.
+This agreement does not prohibit a provider of health care (except for a provider of health care who is employed full-time on the staff of the health carrier and has agreed to provide health care services exclusively to the health carrier's covered persons and no others) and a covered person from agreeing to continue health care services solely at the expense of the covered person, as long as the provider of health care has clearly informed the covered person that the health carrier may not cover or continue to cover a specific health care service or health care services.
+Except as provided herein, this agreement does not prohibit the provider of health care from pursuing any available legal remedy.
+(Added to NRS by 2017, 2350) NRS 687B.692 Provider network contract:
+Circumstances in which health carrier prohibited from denying request to enter into contract from a provider of health care employed or accepting employment with medical school; grounds for denial of request or termination of contract. 1.
+A health carrier which offers or issues a network plan may not deny a request from a provider of health care to enter into a provider network contract with the health carrier if the provider of health care:
+(a) Meets and accepts the terms and conditions for participation in the network of the health carrier, including, without limitation:
+(1) Meeting any credentialing requirement of the health carrier;
+(2) Agreeing to all provisions of the provider network contract, including, without limitation, provisions setting forth the grounds and procedures for terminating providers of health care from participation in the network; and (3) Agreeing to participate in a review of the performance and experience of the provider of health care at least once each year or as otherwise required by the health carrier;
+(b) Is employed by or has accepted an offer of employment from a school of medicine or school of osteopathic medicine in this State to serve in a position where the provider of health care teaches students studying to become providers of health care or resident physicians at least 50 percent of the time the provider of health care is performing his or her duties for the school;
+(c) Does not have a clinical practice already established in this State at the time the request to enter into a provider network contract is made; and (d) Requests to be a participating provider of health care in the network of the health carrier. 2.
+A health carrier which offers or issues a network plan may deny a request from a provider of health care to enter into a provider network contract with the health carrier if:
+(a) The health carrier contracts with a third party for the delivery of services to covered persons;
+(b) Participating providers of health care are paid though capitation agreements; or (c) Accepting the provider of health care into the network plan would disrupt existing provider network contracts. 3.
+A health carrier may terminate a provider network contract entered into pursuant to subsection 1 for any grounds authorized under the contract.
+Such grounds may include, without limitation, failure to maintain the employment described in paragraph (b) of subsection 1 or issues of inconsistency with other participating providers of health care with regard to:
+(a) Access for covered persons to the services of the provider of health care;
+(b) The cost of the services of the provider of health care;
+(c) The quality of care provided by the provider of health care; or (d) Other issues relating to the utilization of the services of the provider of health care.
+(Added to NRS by 2023, 863) NRS 687B.693 Access to services and contractual discounts of a provider of health care:
+Inapplicability of provisions.
+NRS 687B.693 to 687B.697, inclusive, do not apply: 1.
+To provider network contracts for health care services provided to covered persons under Medicare or the State Plan for Medicaid, or the Children's Health Insurance Program. 2.
+In circumstances where access to the provider network contract is granted to an entity operating under the same brand license program as the contracting entity. 3.
+To a health benefit plan which provides:
+(a) Coverage that is only for accident or disability income insurance, or any combination thereof.
+(b) Coverage issued as a supplement to liability insurance.
+(c) Coverage for on-site medical clinics.
+(d) Coverage under a blanket student accident and health insurance policy.
+(e) Other similar insurance coverage specified pursuant to the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191, under which benefits for medical care are secondary or incidental to other insurance benefits. 4.
+To credit insurance. 5.
+To the following benefits if the benefits are provided under a separate policy, certificate or contract of insurance or are otherwise not an integral part of a health benefit plan:
+(a) Limited-scope vision benefits;
+(b) Benefits for long-term care, nursing home care, home health care or community-based care, or any combination thereof; and (c) Such other similar benefits as are specified in any federal regulations adopted pursuant to the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191. 6.
+To the following benefits if the benefits are provided under a separate policy, certificate or contract, there is no coordination between the provisions of the benefits and any exclusion of benefits under any group health plan maintained by the same plan sponsor, and the benefits are paid for a claim without regard to whether benefits are provided for such a claim under any group health plan maintained by the same plan sponsor:
+(a) Coverage that is only for a specified disease or illness; and (b) Hospital indemnity or other fixed indemnity insurance. 7.
+To any of the following, if offered as a separate policy, certificate or contract of insurance:
+(a) Medicare supplemental health insurance as defined in section 1882(g)(1) of the Social Security Act, 42 U.S.C. § 1395ss, as that section existed on July 16, 1997;
+(b) Coverage supplemental to the coverage provided pursuant to the Civilian Health and Medical Program of Uniformed Services, TRICARE, 10 U.S.C. §§ 1071 et seq.; and (c) Similar supplemental coverage provided under a group health plan.
+(Added to NRS by 2019, 1602) NRS 687B.694 Access to services and contractual discounts of a provider of health care:
+Requirements for granting access; termination; confidentiality. 1.
+A health carrier shall not grant access to services and contractual discounts of a provider of health care pursuant to a provider network contract unless:
+(a) The provider network contract specifically states that the health carrier may enter into an agreement with a third party allowing the third party to obtain the rights and responsibilities of the health carrier under the provider network contract as if the third party were the health carrier; and (b) The third party accessing the provider network contract is contractually obligated to comply with all applicable terms, limitations and conditions of the provider network contract. 2.
+A health carrier that grants access to services and contractual discounts of a provider of health care pursuant to a provider network contract shall:
+(a) Identify and provide to the provider of health care, upon request at the time a provider network contract is entered into with a provider of health care, a written or electronic list of all third parties known at the time of contracting to which the health carrier has or will grant access to the services and contractual discounts of a provider of health care pursuant to a provider network contract.
+(b) Maintain an Internet website or other readily available mechanism, such as a toll-free telephone number, through which a provider of health care may obtain a listing, at least every 90 days, of the third parties with which the health carrier or another third party has executed contracts to grant access to such services and contractual discounts of a provider of health care pursuant to a provider network contract.
+(c) Provide the third party with sufficient information regarding the provider network contract to enable the third party to comply with all relevant terms, limitations and conditions of the provider network contract.
+(d) Require that the third party who contracts with the health carrier to gain access to the provider network contract identify the source of the contractual discount taken by the third party on each remittance advice or explanation of payment form furnished to a provider of health care when such discount is pursuant to the provider network contract of the health carrier.
+(e) Notify the third party who contracts with the health carrier to gain access to the provider network contract of the termination of the provider network contract not later than 90 days prior to the effective date of the final termination of the provider network contract.
+The notice required under this paragraph may be delivered through any reasonable means, including, without limitation, a written notice, electronic communication, or an update to an electronic database or other provider of health care listing.
+(f) Require that those that are by contract eligible to claim the right to access a discounted rate of a provider of health care to cease claiming entitlement to those rates or other contracted rights or obligations for services rendered after termination of the provider network contract. 3.
+Subject to any continuity of care requirements, agreements or contractual provisions:
+(a) Not less than 30 days before the date of termination of a provider network contract, a health carrier shall provide written notification of the contract termination to the affected providers of health care and covered persons;
+(b) A third party's right to access services and contractual discounts of a provider of health care pursuant to a provider network contract shall terminate not earlier than 90 days after the provider network contract is terminated;
+(c) Claims for health care services performed after the termination date of the provider network contract are not eligible for processing and payment in accordance with the provider network contract; and (d) Claims for health care services performed before the termination date of the provider network contract, but processed after the termination date, are eligible for processing and payment in accordance with the provider network contract. 4.
+All information made available to a provider of health care in accordance with the requirements of NRS 687B.693 to 687B.697, inclusive, is confidential and must not be disclosed to any person or entity not involved in the provider of health care's practice or business or the administration thereof without the prior written consent of the health carrier. 5.
+Nothing contained in NRS 687B.693 to 687B.697, inclusive, shall be construed to prohibit a health carrier from requiring the provider of health care to execute a reasonable confidentiality agreement to ensure that confidential or proprietary information disclosed by the health carrier is not used for any purpose other than the direct practice or business management or billing activities of the provider of health care.
+(Added to NRS by 2019, 1603) NRS 687B.695 Access to services and contractual discounts of a provider of health care:
+Obligations of third party that grants access to another third party. 1.
+A third party, having itself been granted access to services and contractual discounts of a provider of health care pursuant to a provider network contract, that subsequently grants access to another third party, is obligated to comply with the rights and responsibilities imposed on contracting entities pursuant to NRS 687B.694 and 687B.696. 2.
+A third party that enters into a contract with another third party to access services and contractual discounts of a provider of health care pursuant to a provider network contract is obligated to comply with the rights and responsibilities imposed on third parties under this section.
+(Added to NRS by 2019, 1604) NRS 687B.696 Access to services and contractual discounts of a provider of health care:
+Information required to be provided to health carrier and providers of health care by third parties; update of information. 1.
+A third party shall inform the health carrier and providers of health care under the provider network contract of the health carrier of the location of a website, toll-free number, or other readily available mechanism to identify the name of a person or entity to which the third party subsequently grants access to the services and contractual discounts of the provider of health care pursuant to the provider network contract. 2.
+The website must be updated on a routine basis when additional persons or entities are granted access.
+The website must be updated every 90 days to reflect all current persons and entities with access.
+Upon request, a health carrier shall make access to information available to a provider of health care via telephone or through direct notification.
+(Added to NRS by 2019, 1604) NRS 687B.697 Access to services and contractual discounts of a provider of health care:
+Obligations of health carrier and third parties concerning remittance advice or explanation of payment; refusal of discount taken on such advice or explanation by provider of health care; correction of error in advice or explanation; requirements of third party for such access. 1.
+A health carrier and third parties are obligated to comply with NRS 687B.694 and 687B.696 concerning the services referenced on a remittance advice or explanation of payment.
+A provider of health care may refuse the discount taken on the remittance advice or explanation of payment if the discount is taken without a contractual basis or in violation of NRS 687B.693 or 687B.695.
+An error in the remittance advice or explanation of payment may be corrected not more than 30 days after given notice of the error by the provider of health care. 2.
+A health carrier may not lease, rent or otherwise grant to a third party, access to a provider network contract unless the third party accessing the provider network contract is:
+(a) A payer or third party, administrator or other entity that administers or processes claims on behalf of the payer;
+(b) A preferred provider of health care organization or preferred provider of health care network, including a physician organization or a physician-hospital organization; or (c) An entity engaged in the electronic claims transport between the health carrier and the payer that does not provide access to the services and discounts of a provider of health care to any other third party.
+(Added to NRS by 2019, 1605) NRS 687B.700 Contract required to provide requirement that participating provider of health care continue delivery of services if health carrier or intermediary insolvent or ceases operations for specified period; billing of covered person.
+Each contract entered into for the purposes of a network plan between a participating provider of health care and the health carrier must provide that in the event of the insolvency of the health carrier or any applicable intermediary, or in the event of any other cessation of operations of the health carrier or intermediary, the participating provider of health care must continue to deliver health care services covered by the network plan to a covered person without billing the covered person for any amount other than coinsurance, deductibles or copayments, as specifically provided in the evidence of coverage, until the earlier of: 1.
+The date of the cancellation of the covered person's coverage under the network plan pursuant to NRS 687B.310, including, without limitation, any extension of coverage provided pursuant to:
+(a) The terms of the contract between the covered person and the health carrier;
+(b) NRS 689A.04036, 689B.0303, 695B.1901, 695C.1691 and 695G.164, as applicable; or (c) Any applicable federal law for covered persons who are in an active course of treatment or totally disabled; or 2.
+The date on which the contract between the health carrier and the provider of health care would have terminated if the health carrier or intermediary, as applicable, had remained in operation, including, without limitation, any extension of coverage provided pursuant to:
+(a) The terms of the contract between the covered person and the health carrier;
+(b) NRS 689A.04036, 689B.0303, 695B.1901, 695C.1691 and 695G.164, as applicable; or (c) Any applicable federal law for covered persons who are in an active course of treatment or totally disabled.
+(Added to NRS by 2017, 2351) NRS 687B.710 Certain provisions included in contract required to be construed in favor of covered person, survive termination of contract and supersede certain contrary agreements.
+The provisions included in a contract to comply with the requirements set forth in NRS 687B.690 and 687B.700 shall be construed in favor of the covered person, shall survive the termination of the contract regardless of the reason for the termination, including, without limitation, the insolvency of the health carrier or any applicable intermediary, and shall supersede any oral or written contrary agreement between a participating provider of health care and a covered person or the representative of a covered person if the contrary agreement is inconsistent with provisions included in the contract to comply with the requirements set forth in NRS 687B.690 and 687B.700.
+(Added to NRS by 2017, 2351) NRS 687B.720 Contract required to provide for notice of insolvency or cessation of operations of health carrier or intermediary to participating provider of health care.
+Each contract entered into for the purposes of a network plan between a participating provider of health care and the health carrier must provide that written notice must be provided to the participating provider of health care as soon as practicable in the event: 1.
+That a court determined the health carrier or any applicable intermediary to be insolvent; or 2.
+Of any other cessation of operations of the health carrier or any applicable intermediary.
+(Added to NRS by 2017, 2351) NRS 687B.723 Claim for dental care:
+Health carrier or administrator of health benefit plan prohibited from denying claim for which prior authorization has been granted; exceptions. 1.
+A health carrier which provides dental coverage or an administrator of a health benefit plan that includes dental coverage shall not refuse to pay a claim for dental care for which the health carrier or administrator, as applicable, has granted prior authorization unless:
+(a) A limitation on coverage provided under the applicable health benefit plan, including, without limitation, a limitation on total costs or frequency of services:
+(1) Did not apply at the time the prior authorization was granted; and (2) Applied at the time of the provision of the dental care for which the prior authorization was granted because additional covered dental care was provided to the insured after the prior authorization was granted and before the provision of the dental care for which prior authorization was granted;
+(b) The documentation provided by the person submitting the claim clearly fails to support the claim for which prior authorization was originally granted;
+(c) After the prior authorization was granted, additional dental care was provided to the insured or the condition of the insured otherwise changed such that:
+(1) The dental care for which prior authorization was granted is no longer medically necessary; or (2) The health carrier or administrator, as applicable, would be required to deny prior authorization under the terms and conditions of the applicable health benefit plan that were in effect at the time of the provision of the dental care for which prior authorization was granted;
+(d) Another person or entity is responsible for the payment;
+(e) The dentist has previously been paid for the procedures covered by the claim;
+(f) The claim was fraudulent or the prior authorization was based, in whole or in part, on materially false information provided by the dentist or insured or another person who is not affiliated with the health carrier or administrator, as applicable; or (g) The insured was not eligible to receive the dental care for which the claim was made on the date that the dental care was provided. 2.
+Any provision of a contract that conflicts with this section is against public policy, void and unenforceable. 3.
+As used in this section:
+(a) "Medically necessary" means dental care that a prudent dentist would provide to a patient to prevent, diagnose or treat an illness, injury or disease, or any symptoms thereof, that is necessary and:
+(1) Provided in accordance with generally accepted standards of dental practice;
+(2) Clinically appropriate with regard to type, frequency, extent, location and duration;
+(3) Not primarily provided for the convenience of the patient or dentist;
+(4) Required to improve a specific dental condition of a patient or to preserve the existing state of oral health of the patient; and (5) The most clinically appropriate level of dental care that may be safely provided to the patient.
+(b) "Prior authorization" means any communication issued by a health carrier which provides dental coverage or an administrator of a health benefit plan that includes dental coverage in response to a request by a dentist in the form prescribed by the health carrier or administrator, as applicable, which indicates that specific dental care provided to an insured is:
+(1) Covered under the health benefit plan issued to the insured; and (2) Reimbursable in a specific amount, subject to applicable deductibles, copayments and coinsurance.
+(Added to NRS by 2021, 3526) NRS 687B.725 Claim for dental care:
+Requirements and limitations related to recovery of overpayments. 1.
+A health carrier which provides dental coverage or any administrator of a health benefit plan that includes dental coverage who recovers overpayments shall provide written notice to a dentist of any attempt to recover the overpayment, other than a duplicate payment.
+The notice must include, without limitation:
+(a) A description of the error that justifies the recovery; and (b) The date on which the dental care for which the overpayment was made was provided and the name of the patient to whom the dental care was provided. 2.
+A health carrier who provides dental coverage or an administrator who recovers overpayments under a health benefit plan that includes dental coverage shall establish written procedures by which a dentist may challenge an attempt to recover an overpayment.
+Those procedures must include, without limitation, procedures for sharing information concerning a disputed claim with the dentist. 3.
+Except as otherwise provided in this subsection, a health carrier who provides dental coverage or an administrator who recovers overpayments under a health benefit plan that includes dental coverage shall not attempt to recover an overpayment more than 12 months after the date of the overpayment.
+This subsection does not apply to an attempt to recover an overpayment that is:
+(a) Based on a reasonable belief that the overpayment involved fraud, abuse or other intentional misconduct;
+(b) Initiated by or at the request of a self-insured employer; or (c) Based on dental care that is covered by the Public Employees' Benefits Program or a system of health insurance for the benefit of local officers and employees, and the dependents of local officers and employees, pursuant to chapter 287 of NRS. 4.
+Any provision of a contract that conflicts with this section is against public policy, void and unenforceable.
+(Added to NRS by 2021, 3525) NRS 687B.730 Health carrier required to notify participating provider of health care of administrative policies and programs of carrier; health carrier required to provide participating provider of health care and covered person explanation of process for paying claims submitted by participating provider of health care; exemptions. 1.
+A health carrier which offers or issues a network plan shall:
+(a) Notify each participating provider of health care in the network of the responsibilities of the participating provider of health care with respect to any applicable administrative policies and programs of the health carrier including, without limitation, any applicable administrative policies and programs concerning:
+(1) Terms of payment;
+(2) Utilization review;
+(3) Quality assessment and improvement;
+(4) Credentialing;
+(5) Procedures for grievances and appeals;
+(6) Requirements for data reporting;
+(7) Requirements for timely notice to the health carrier of changes in the practices of the participating provider of health care, such as discontinuance of accepting new patients;
+(8) Requirements for confidentiality; and (9) Any applicable federal or state programs.
+(b) Provide to each participating provider of health care in the network and each covered person at least annually a detailed explanation of the process by which the health carrier will pay claims submitted by participating providers of health care, including, without limitation, the contact information for the department of the health carrier that is responsible for reviewing claims that have been denied in accordance with the process established pursuant to NRS 687B.820. 2.
+The provisions of this section do not apply to the provision of health care services by a managed care organization to:
+(a) Recipients of Medicaid under the State Plan for Medicaid or insurance pursuant to the Children's Health Insurance Program pursuant to a contract with the Nevada Health Authority; or (b) Members of the Public Employees' Benefits Program. 3.
+As used in this section, "managed care organization" has the meaning ascribed to it in NRS 695G.050.
+(Added to NRS by 2017, 2351;
+A 2025, 2392) NRS 687B.740 Inducement to provide less than medically necessary health care services prohibited.
+A health carrier which offers or issues a network plan shall not offer an inducement to a participating provider of health care in the network that would encourage or otherwise incent the participating provider of health care to deliver health care services to a covered person which are less than those which are medically necessary.
+(Added to NRS by 2017, 2352) NRS 687B.750 Health carrier not to prohibit certain actions by participating provider of health care.
+A health carrier which offers or issues a network plan shall not prohibit a participating provider of health care in the network from: 1.
+Discussing any specific treatment option or all treatment options with a covered person irrespective of the position of the health carrier on the treatment options; 2.
+Advocating on behalf of a covered person within any utilization review process or any process for grievances or appeals established by the health carrier or a person contracting with the health carrier; or 3.
+Advocating on behalf of a covered person in accordance with any rights or remedies available under applicable state or federal law.
+(Added to NRS by 2017, 2352) NRS 687B.760 Health records; confidentiality.
+Each contract entered into for the purposes of a network plan between a participating provider of health care and the health carrier must require the participating provider of health care to make health records available to appropriate state and federal authorities involved in assessing the quality of care or investigating the grievances or complaints of covered persons, and to comply with the applicable state and federal laws related to the confidentiality of medical and health records and the covered person's right to see, obtain copies of or amend their medical and health records.
+(Added to NRS by 2017, 2352) NRS 687B.770 Assignment or delegation of rights and responsibilities without prior written consent prohibited.
+Each contract entered into for the purposes of a network plan between a participating provider of health care and the health carrier must prohibit the health carrier and the participating provider of health care from assigning or delegating the rights and responsibilities of either party under the contract without the prior written consent of the other party.
+(Added to NRS by 2017, 2352) NRS 687B.780 Health carrier required to ensure that participating providers of health care furnish covered services to all covered persons; exception. 1.
+A health carrier which offers or issues a network plan shall ensure that participating providers of health care in the network are responsible for furnishing covered services to all covered persons without regard to the participation of the covered person in the network plan as a private purchaser of the network plan or as a participant in a publicly financed program of health care services. 2.
+This section does not apply to circumstances when the participating provider of health care should not render services due to limitations arising from a lack of training, experience or skill or licensing restrictions.
+(Added to NRS by 2017, 2352) NRS 687B.790 Health carrier required to notify participating providers of health care of obligation to collect coinsurance, copayment or deductible or notify covered person of obligation for services not covered.
+A health carrier which offers or issues a network plan shall notify the participating providers of health care in the network of his or her obligations, if any, to collect applicable coinsurance, copayments or deductibles from a covered person pursuant to the evidence of coverage, or of the obligations, if any, of the participating provider of health care to notify a covered person of the personal financial obligations of the covered person for health care services that are not covered.
+(Added to NRS by 2017, 2353) NRS 687B.795 Health carrier required to demonstrate capacity to adequately deliver family planning services provided by pharmacists or pharmacies; notice to covered persons; regulations. 1.
+A health carrier which offers or issues a network plan:
+(a) Must demonstrate the capacity to adequately deliver family planning services provided by pharmacists or pharmacies to covered persons in accordance with the regulations adopted pursuant to subsection 2.
+(b) Shall make available to each covered person in this State a notice that meets the requirements prescribed by the regulations adopted pursuant to subsection 2 of each pharmacist or pharmacy that has entered into a provider network contract with the carrier to provide family planning services to covered persons who participate in the relevant network plan. 2.
+The Commissioner shall adopt regulations to carry out the provisions of this section, including, without limitation, regulations prescribing requirements for:
+(a) A health carrier to demonstrate compliance with paragraph (a) of subsection 1.
+Those regulations must not allow a health carrier to demonstrate the capacity to adequately deliver family planning services to covered persons by demonstrating that the health carrier has entered into a network contract with one or more pharmacies for the sole purpose of dispensing prescription drugs to covered persons.
+(b) The form and contents of the notice required by paragraph (b) of subsection 1.
+(Added to NRS by 2023, 2111) NRS 687B.800 Retaliation for good faith reporting to state or federal authority prohibited.
+A health carrier which offers or issues a network plan shall not penalize a participating provider of health care in the network because the participating provider of health care, in good faith, reports to state or federal authorities any act or practice by the health carrier that jeopardizes the health or welfare of a covered person.
+(Added to NRS by 2017, 2353) NRS 687B.805 Prohibited acts by health carrier relating to 340B Program; provisions do not prohibit certain entities from taking actions necessary to prevent duplicate discounts or rebates or ensure financial stability of Medicaid program. 1.
+A health carrier shall not:
+(a) Discriminate against a covered entity, a contract pharmacy or a 340B drug in the amount of reimbursement for any item or service or the procedures for obtaining such reimbursement;
+(b) Assess any fee, chargeback, clawback or adjustment against a covered entity or contract pharmacy on the basis that the covered entity or contract pharmacy dispenses a 340B drug or otherwise limit the ability of a covered entity or contract pharmacy to receive the full benefit of purchasing the 340B drug at or below the ceiling price, as calculated pursuant to 42 U.S.C. § 256b(a)(1);
+(c) Exclude a covered entity or contract pharmacy from any network because the covered entity or contract pharmacy dispenses a 340B drug;
+(d) Restrict the ability of a person to receive a 340B drug, including, without limitation, by imposing a copayment, coinsurance, deductible or other cost-sharing obligation on the drug that is different from a similar drug on the basis that the drug is a 340B drug;
+(e) Restrict the methods by which a covered entity or contract pharmacy may dispense or deliver a 340B drug or the entity through which a covered entity may dispense or deliver such a drug in a manner that does not apply to drugs that are not 340B drugs; or (f) Prohibit a covered entity or contract pharmacy from purchasing a 340B drug or interfere with the ability of a covered entity or contract pharmacy to purchase a 340B drug. 2.
+This section does not prohibit the Nevada Health Authority, the Medicaid Division of the Nevada Health Authority or a Medicaid managed care organization from taking such actions as are necessary to:
+(a) Prevent duplicate discounts or rebates where prohibited by 42 U.S.C. § 256b(a)(5)(A); or (b) Ensure the financial stability of the Medicaid program, including, without limitation, by including or enforcing provisions in any relevant contract. 3.
+As used in this section:
+(a) "340B drug" means a prescription drug that is purchased by a covered entity under the 340B Program.
+(b) "340B Program" means the drug pricing program established by the United States Secretary of Health and Human Services pursuant to section 340B of the Public Health Service Act, 42 U.S.C. § 256b, as amended.
+(c) "Contract pharmacy" means a pharmacy that enters into a contract with a covered entity to dispense 340B drugs and provide related pharmacy services to the patients of the covered entity.
+(d) "Covered entity" has the meaning ascribed to it in 42 U.S.C. § 256b(a)(4).
+(e) "Medicaid managed care organization" has the meaning ascribed to it in 42 U.S.C. § 1396b(m).
+(Added to NRS by 2023, 2265;
+A 2025, 3764) NRS 687B.810 Health carrier required to establish mechanism to allow participating provider of health care to determine whether a person is a covered person or within grace period for payment of premium.
+A health carrier which offers or issues a network plan shall establish a mechanism by which a participating provider of health care in the network may, in a timely manner at the time health care services are to be provided, determine whether the person to whom the health care services are to be provided is a covered person or is within a grace period for the payment of a premium during which the health carrier may hold a claim for health care services pending receipt of the payment of the premium.
+(Added to NRS by 2017, 2353) NRS 687B.820 Procedures for resolution of disputes; exemptions. 1.
+A health carrier which offers or issues a network plan shall establish procedures for the resolution of administrative, payment or other disputes between a participating provider of health care in the network and the health carrier.
+Those procedures must include, without limitation, an efficient process by which a participating provider of health care may challenge the denial of a claim by the health carrier.
+The process must allow for the clear resolution of each challenge within a reasonable time. 2.
+The provisions of this section do not apply to the provision of health care services by a managed care organization to:
+(a) Recipients of Medicaid under the State Plan for Medicaid or insurance pursuant to the Children's Health Insurance Program pursuant to a contract with the Nevada Health Authority; or (b) Members of the Public Employees' Benefits Program. 3.
+As used in this section, "managed care organization" has the meaning ascribed to it in NRS 695G.050.
+(Added to NRS by 2017, 2353;
+A 2025, 2393) NRS 687B.830 Contract for purposes of network plan prohibited from conflicting with network plan or law; notice of provisions and incorporated documents; notice of changes. 1.
+A contract entered into for the purposes of a network plan between a participating provider of health care and the health carrier must not contain a provision that conflicts with any provision in the network plan or any requirement set forth in NRS 687B.600 to 687B.850, inclusive. 2.
+At the time a participating provider of health care signs a contract described in subsection 1, the health carrier and, if applicable, the intermediary shall notify the participating provider of health care of all provisions of the contract and all documents incorporated by reference in the contract. 3.
+While a contract described in subsection 1 is in force, the health carrier shall provide timely notice to the participating provider of health care of any changes to the provisions of the contract or the documents incorporated by reference in the contract that would result in a material change in the contract. 4.
+For the purposes of subsection 3, the contract must define what is to be considered timely notice and what is to be considered a material change.
+(Added to NRS by 2017, 2353;
+A 2019, 298) NRS 687B.840 Health carrier required to inform participating provider of health care of status and inclusion on certain lists maintained by health carrier upon request or change in such status or inclusion.
+A health carrier which offers or issues a network plan shall inform a participating provider of health care with whom the health carrier has contracted for the purposes of the network plan of the status of the participating provider of health care as a provider of health care in the network plan and the status and inclusion of the participating provider of health care on any list of providers of health care maintained by the health carrier.
+The health carrier shall provide in a timely manner the information required by this section to the participating provider of health care: 1.
+Upon the request of the participating provider of health care; and 2.
+Upon any change to the status or inclusion of the participating provider of health care as described in this section.
+(Added to NRS by 2017, 2353) NRS 687B.850 Regulations.
+The Commissioner may adopt any regulations necessary to carry out the purposes and provisions of NRS 687B.600 to 687B.850, inclusive.
+(Added to NRS by 2017, 2354) STOP-LOSS INSURANCE NRS 687B.860 Definitions.
+As used in NRS 687B.860 to 687B.884, inclusive, unless the context otherwise requires, the words and terms defined in NRS 687B.862 to 687B.876, inclusive, have the meanings ascribed to them in those sections.
+(Added to NRS by 2021, 2969) NRS 687B.862 "Attachment point" defined.
+"Attachment point" means the amount of claims or losses incurred by an insured beyond which an insurer under a policy of stop-loss insurance incurs a liability for payment to the insured.
+(Added to NRS by 2021, 2970) NRS 687B.864 "Group health plan" defined.
+"Group health plan" has the meaning ascribed to it in NRS 689B.390.
+(Added to NRS by 2021, 2970) NRS 687B.866 "Health care services" defined.
+"Health care services" has the meaning ascribed to it in NRS 687B.620.
+(Added to NRS by 2021, 2970) NRS 687B.868 "Multiple employer welfare arrangement" defined.
+"Multiple employer welfare arrangement" has the meaning ascribed to it in NRS 680A.028.
+(Added to NRS by 2021, 2970) NRS 687B.870 "Network" defined.
+"Network" has the meaning ascribed to it in NRS 687B.640.
+(Added to NRS by 2021, 2970) NRS 687B.872 "Policy of provider stop-loss insurance" defined.
+"Policy of provider stop-loss insurance" means a policy of stop-loss insurance which: 1.
+Is issued to a provider of health care or a network; 2.
+Provides coverage for losses of the provider of health care or network above an attachment point which is stated in the policy; and 3.
+Covers losses of the provider of health care or network which result from the financial risk assumed by the provider of health care or network in a managed care contract with another insurer, including, without limitation, an accident and health insurer, health insurer, health maintenance organization or self-funded group health plan, with whom the provider of health care or network has entered into a contract to provide health care services.
+(Added to NRS by 2021, 2970) NRS 687B.874 "Policy of stop-loss insurance" defined.
+"Policy of stop-loss insurance" means a policy or contract of insurance, which provides coverage for the losses of an insured above an attachment point which is stated in the policy or contract, including, without limitation, a policy of insurance which includes stop-loss coverage or excess loss coverage.
+(Added to NRS by 2021, 2970) NRS 687B.876 "Provider of health care" defined.
+"Provider of health care" has the meaning ascribed to it in NRS 687B.660.
+(Added to NRS by 2021, 2970) NRS 687B.878 Reporting of premiums written in this State for policies of stop-loss insurance.
+An insurer authorized in this State to issue policies or contracts of property and casualty insurance, accident and health insurance or health insurance shall report to the Commissioner any premiums written in this State by the insurer for policies of stop-loss insurance.
+The insurer shall report the premiums: 1.
+With the annual statement filed by the insurer pursuant to NRS 680A.270; and 2.
+In the manner prescribed by the Commissioner.
+(Added to NRS by 2021, 2970) NRS 687B.880 Exercise of reasonable diligence related to legitimacy and authority required before issuing policy of stop-loss insurance for group health plan. 1.
+An insurer intending to issue a policy of stop-loss insurance in this State to cover losses of a group health plan shall, before issuing the policy, exercise reasonable diligence to confirm that:
+(a) The underlying group health plan is legitimate; and (b) The entity offering the underlying group health plan is properly authorized to offer the group health plan. 2.
+If the underlying group health plan is a self-funded multiple employer welfare arrangement, the reasonable diligence required by subsection 1 includes, without limitation, ensuring that the self-funded multiple employer welfare arrangement is authorized to do business in this State pursuant to chapter 680A of NRS as a self-funded multiple employer welfare arrangement.
+(Added to NRS by 2021, 2970) NRS 687B.882 Policy form for policy of stop-loss insurance for group health plan:
+Filing; approval; requirements.
+A policy form for a policy of stop-loss insurance which is intended for issue in this State to cover losses of a group health plan must be filed with and approved by the Commissioner pursuant to NRS 687B.120 before being delivered or issued for delivery.
+In addition to any other applicable requirements, the policy form must satisfy the following requirements: 1.
+The policy of stop-loss insurance must be issued to and insure the sponsor of the group health plan or the group health plan itself and must not be issued to or insure:
+(a) Employees covered by the group health plan;
+(b) Members of the group health plan; or (c) Participants in the group health plan. 2.
+Payments by the insurer under the policy of stop-loss insurance must be made to the sponsor of the group health plan or the group health plan itself and must not be made to:
+(a) Employees covered by the group health plan;
+(b) Members of the group health plan;
+(c) Participants in the group health plan;
+(d) Providers of health care who provide health care services pursuant to the group health plan; or (e) A network whose providers of health care provide health care services pursuant to the group health plan.
+(Added to NRS by 2021, 2970) NRS 687B.884 Policy form for policy of provider stop-loss insurance:
+Filing; approval; requirements; accompanying certification. 1.
+A policy form for a policy of provider stop-loss insurance which is intended for issue in this State must be filed with and approved by the Commissioner pursuant to NRS 687B.120 before being delivered or issued for delivery.
+In addition to any other applicable requirements, the policy form must satisfy the following requirements:
+(a) The policy of provider stop-loss insurance must be issued to and insure the provider of health care or the network which enters into the policy.
+(b) Payments by the insurer under the policy of provider stop-loss insurance must be made to the provider of health care or the network which enters into the policy.
+(c) The policy of provider stop-loss insurance must provide:
+(1) An attachment point per claimant of at least $10,000; and (2) An aggregate attachment point of at least $100,000 per calendar year.
+(d) The policy of provider stop-loss insurance must require that the proof of loss be furnished to the insurer within 90 days after:
+(1) The date the loss is incurred; or (2) Any date provided in the policy which is later than the date the loss is incurred. 2.
+A policy form filed with the Commissioner for approval as required by subsection 1 must be accompanied by a separate document certifying that each of the requirements specified in paragraphs (a) to (d), inclusive, of subsection 1 have been met.
+(Added to NRS by 2021, 2971) PRIOR AUTHORIZATION NRS 687B.900 Definitions.
+As used in NRS 687B.900 to 687B.990, inclusive, unless the context otherwise requires, the words and terms defined in NRS 687B.910 to 687B.950, inclusive, have the meanings ascribed to them in those sections.
+(Added to NRS by 2025, 3110) NRS 687B.910 "Health carrier" defined.
+"Health carrier" has the meaning ascribed to it in NRS 695G.024, and includes, without limitation, an organization for dental care.
+The term additionally includes a utilization review organization, as defined in NRS 695G.085, while acting in its capacity as a utilization review organization for a health carrier.
+(Added to NRS by 2025, 3110) NRS 687B.920 "Insured" defined.
+"Insured" means a policyholder, subscriber, enrollee or other person covered by a health carrier.
+(Added to NRS by 2025, 3110) NRS 687B.930 "Medically necessary" defined.
+"Medically necessary" has the meaning ascribed to it in NRS 695G.055.
+(Added to NRS by 2025, 3110) NRS 687B.940 "Prior authorization" defined.
+"Prior authorization" means: 1.
+Any process by which a health carrier determines, before medical care or dental care that is otherwise covered by the health carrier is provided to an insured, that the medical care or dental care is medically necessary or medically appropriate with respect to the particular insured; or 2.
+Any requirement that an insured or a provider of health care of the insured notify the health carrier before medical or dental care is provided to the insured.
+(Added to NRS by 2025, 3110) NRS 687B.950 "Provider of health care" defined.
+"Provider of health care" has the meaning ascribed to it in NRS 695G.070.
+(Added to NRS by 2025, 3110) NRS 687B.960 Applicability.
+The provisions of NRS 687B.900 to 687B.990, inclusive, do not apply to: 1.
+A health maintenance organization or other managed care organization that enters into a contract with the Nevada Health Authority pursuant to NRS 422.273 to provide health care services to recipients of Medicaid under the State Plan for Medicaid or insurance under the Children's Health Insurance Program to the extent that the organization is providing such services. 2.
+A managed care organization that provides health care services to members of the Public Employees' Benefits Program or utilization review organization that conducts utilization reviews for a managed care organization that provides health care services to members of the Public Employees' Benefits Program while the utilization review organization is providing such services. 3.
+A utilization review organization that conducts utilization reviews for an entity described in subsection 1, while the utilization review organization is providing such services.
+(Added to NRS 2025, 3110) NRS 687B.970 Authorization for contracts or policies of insurance for payment of cost of medical or dental care to require prior authorization of care; filing with Commissioner of procedure for obtaining prior authorization; period for health carrier to respond to request for prior authorization; discrimination among persons licensed to provide covered care prohibited. 1.
+Except as otherwise provided in NRS 687B.980, 689A.0405, 689A.0412, 689A.0413, 689A.0418, 689A.0434, 689A.0437, 689A.044, 689A.0445, 689A.0459, 689B.031, 689B.0312, 689B.0313, 689B.0315, 689B.03155, 689B.0317, 689B.0319, 689B.03345, 689B.0374, 689B.0378, 689C.1654, 689C.1665, 689C.1671, 689C.16715, 689C.16745, 689C.1675, 689C.1676, 695A.1843, 695A.18445, 695A.1856, 695A.18565, 695A.1865, 695A.18735, 695A.1874, 695B.1912, 695B.1913, 695B.1914, 695B.19155, 695B.1919, 695B.19197, 695B.19199, 695B.1924, 695B.1925, 695B.1942, 695C.1696, 695C.1699, 695C.1713, 695C.1715, 695C.1735, 695C.17365, 695C.1737, 695C.1743, 695C.1745, 695C.1751, 695G.1643, 695G.170, 695G.1705, 695G.1709, 695G.171, 695G.1714, 695G.17145, 695G.1715, 695G.1719 and 695G.177, any contract or policy of insurance issued by a health carrier which provides for payment of a certain part of medical or dental care may require the insured to obtain prior authorization for that care from the health carrier.
+The health carrier shall:
+(a) File its procedure for obtaining prior authorization pursuant to this section for approval by the Commissioner; and (b) Unless a shorter time period is prescribed by a specific statute, including, without limitation, NRS 689A.0446, 689B.0361, 689C.1688, 695A.1859, 695B.19087, 695C.16932 and 695G.1703, and except as otherwise provided by subsection 2, respond to any request for prior authorization by the insured pursuant to this section within:
+(1) Two business days after it receives the request; or (2) If the Prior Authorization and Referrals Operating Rules prescribed by the Committee on Operating Rules for Information Exchange of the Council for Affordable Quality Healthcare, or its successor organization, would allow the health carrier more than 2 business days to respond to a particular request for prior authorization after receiving the request, the time period prescribed by the Rules. 2.
+Notwithstanding any time period prescribed by the Rules described in subparagraph (2) of paragraph (b) of subsection 1, a health carrier shall respond to a request for prior authorization within 7 calendar days after receiving the request. 3.
+The Commissioner, in collaboration with the Department of Human Services, shall review each revision to the Rules described in subparagraph (2) of paragraph (b) of subsection 1 to ensure their suitability for this State.
+If the Commissioner determines that a revision is not suitable for this State, the Commissioner shall give notice within 30 days after the hearing that the revisions are not suitable for this State.
+If the Commissioner gives such notice, a health carrier shall respond to any request for prior authorization that is submitted to the health carrier after the date on which such notice is given within 2 business days after receiving the request. 4.
+The procedure for prior authorization may not discriminate among persons licensed to provide the covered care.
+(Added to NRS by 1983, 2028;
+A 1985, 2098; 1997, 307, 1729; 1999, 1943; 2007, 3236; 2021, 2577; 2023, 2111, 2211, 3508; 2025, 1916, 2873, 3037, 3111)-(Substituted in revision for NRS 687B.225) NRS 687B.980 Prohibition against requiring prior authorization for certain services, care or goods. 1.
+A health carrier shall not require prior authorization for:
+(a) Outpatient services for the treatment of a substance use disorder.
+(b) Evidence-based goods or services for preventive care that have in effect a grade of "A" or "B" identified by the United States Preventive Services Task Force.
+(c) Preventive care for women described in 45 C.F.R. § 147.130(a)(1)(iv).
+(d) Hospice care provided to pediatric patients in a facility for hospice care licensed pursuant to chapter 449 of NRS.
+(e) Care provided to treat neonatal abstinence syndrome provided by a provider of health care who specializes in pain management for pediatric patients or palliative care provided to pediatric patients.
+(f) The prescription of test strips for measuring blood glucose in persons with diabetes. 2.
+As used in this section:
+(a) "Facility for hospice care" has the meaning ascribed to it in NRS 449.0033.
+(b) "Hospice care" has the meaning ascribed to it in NRS 449.0115.
+(Added to NRS by 2025, 3111) NRS 687B.990 Violations.
+If a health carrier violates NRS 687B.970 or 687B.980 with respect to a particular request for prior authorization, the request shall be deemed approved.
+(Added to NRS by 2025, 3111)

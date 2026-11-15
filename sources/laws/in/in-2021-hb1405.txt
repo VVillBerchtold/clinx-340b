@@ -1,0 +1,928 @@
+First Regular Session of the 122nd General Assembly (2021) PRINTING CODE.
+Amendments:
+Whenever an existing statute (or a section of the Indiana Constitution) is being amended, the text of the existing provision will appear in this style type, additions will appear in this style type, and deletions will appear in this style type.
+Additions:
+Whenever a new statutory provision is being enacted (or a new constitutional provision adopted), the text of the new provision will appear in this style type.
+Also, the word NEW will appear in that style type in the introductory clause of each SECTION that adds a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation:
+Text in a statute in this style type or this style type reconciles conflicts between statutes enacted by the 2020 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1405 AN ACT to amend the Indiana Code concerning insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1.
+IC 12-15-1-16, AS AMENDED BY P.L.108-2019, SECTION 193, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 16.
+(a) Each:
+(1) school corporation; or (2) school corporation's employed, licensed, or qualified provider; must enroll in a program to use federal funds under the Medicaid program (IC 12-15-1 et seq.) with the intent to share the costs of services that are reimbursable under the Medicaid program and that are provided to eligible children by the school corporation.
+However, a school corporation or a school corporation's employed, licensed, or qualified provider is not required to file any claims or participate in the program developed under this section.
+(b) The secretary and the department of education may develop policies and adopt rules to administer the program developed under this section.
+(c) The federal reimbursement for services provided under this section must be distributed to the school corporation.
+The state shall retain the nonfederal share of the reimbursement for Medicaid services provided under this section.
+(d) The office of Medicaid policy and planning, with the approval of the budget agency and after consultation with the department of education, shall establish procedures for the timely distribution of federal reimbursement due to the school corporations.
+The distribution HEA 1405 - CC 1 2 procedures may provide for offsetting reductions to distributions of state tuition support or other state funds to school corporations in the amount of the nonfederal reimbursements required to be retained by the state under subsection (c).
+(e) The office may apply to the United States Department of Health and Human Services for a state plan amendment to allow school corporations to seek Medicaid reimbursement for medically necessary, school based Medicaid covered services that are provided under federal or state mandates.
+If the state plan amendment is approved and implemented, services may be provided by a qualified practitioner in a school setting to Medicaid enrolled students.
+The services may include the following:
+(1) Subject to subsection (f), services pursuant to any of the following:
+(A) An individualized education program (as defined in IC 20-18-2-9).
+(B) A plan developed under Section 504 of the federal Rehabilitation Act, 29 U.S.C. 794.
+(C) A behavioral intervention plan (as defined in IC 20-20-40-1).
+(D) A service plan developed under 511 IAC 7-34.
+(E) An individualized health care plan.
+(2) Medically necessary, Medicaid covered nursing services provided by a licensed and qualified practitioner under IC 25-23-1.
+The office may, in consultation with the department of education, develop any necessary state plan amendment under this subsection.
+The office may apply for any state plan amendment necessary to implement this subsection.
+(f) Services under subsection (e) may not include the following:
+(1) An abortion.
+(2) Counseling for abortion procedures.
+(3) Referrals for abortion services.
+(4) Abortifacients.
+(5) Contraceptives.
+SECTION 2.
+IC 12-15-1.3-22 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 22.
+(a) Before September 1, 2021, the office must apply to the United States Department of Health and Human Services for a state plan amendment that:
+(1) provides for establishment of the long term care partnership program as described in IC 12-15-39.8;
+(2) provides that the long term care program established under IC 12-15-39.6 shall be discontinued on the date on which the long term care partnership program described in HEA 1405 - CC 1 3 IC 12-15-39.8 is fully implemented; and (3) ensures, with the explicit concurrence of the United States Department of Health and Human Services, that an individual who purchased a qualified long term care policy (as defined in IC 12-15-39.6-5) before the discontinuance of the long term care program established under IC 12-15-39.6 shall be eligible for an asset disregard under IC 12-15-39.6-10:
+(A) notwithstanding the discontinuance of the long term care program, as provided in IC 12-15-39.6-12; and (B) even though a qualified long term care policy (as defined in IC 12-15-39.6-5):
+(i) was issued before the date of the state plan amendment requested under this subsection;
+(ii) is not tax qualified; and (iii) does not meet the standards of Section 6021 the federal Deficit Reduction Act (P.L.109-171).
+(b) If the office receives approval for the state plan amendment described in subsection (a):
+(1) the office shall implement the state plan amendment not later than sixty (60) days after the state plan amendment is approved; and (2) the office shall publish in the Indiana Register under IC 4-22-7-7 a statement:
+(A) announcing that the state plan amendment described in subsection (a) has been approved by the United States Department of Health and Human Services; and (B) setting forth the date on which:
+(i) the office will fully implement the state plan amendment under subsection (b)(1); and (ii) the long term care program established under IC 12-15-39.6 will be discontinued.
+(c) If the office does not receive approval for a state plan amendment described in subsection (a):
+(1) the office shall take no action under subsection (b); and (2) the office and the department of insurance:
+(A) shall study:
+(i) the long term care program established under IC 12-15-39.6, including the affordability and cost effectiveness of the program for individuals who purchase qualified long term care policies (as defined in IC 12-15-39.6-5); and (ii) the affordability and cost effectiveness of long term care partnership programs established under Section 6021 of the federal Deficit Reduction Act of 2005;
+(B) may solicit the comments and recommendations of HEA 1405 - CC 1 4 individuals with experience and expertise in the fields of Medicaid, insurance, personal finance, and government concerning the subjects set forth in clause (A);
+(C) shall make findings and recommendations concerning ways in which the affordability and cost effectiveness of the long term care program established under IC 12-15-39.6 can be improved; and (D) shall, not later than December 1, 2022:
+(i) issue a report setting forth the findings and recommendations made under clause (C); and (ii) submit the report to the executive director of the legislative services agency in an electronic format under IC 5-14-6 for distribution to the members of the general assembly.
+SECTION 3.
+IC 12-15-13.6 IS ADDED TO THE INDIANA CODE AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Chapter 13.6.
+Audit of Prescription Drug Cost Sharing Sec. 1.
+Once every three (3) state fiscal years:
+(1) the state board of accounts; or (2) an independent auditor with experience auditing expenses related to prescription drugs that is hired by the state board of accounts; shall conduct an audit examining prescription drug cost sharing for the Medicaid program.
+Sec. 2.
+For an audit conducted under section 1 of this chapter, the audit look back period must be the previous three (3) state fiscal years.
+Sec. 3.
+An audit conducted under section 1 of this chapter must evaluate all prescription drug cost sharing for the Medicaid program for the audit look back period, including for prescription drugs paid for directly by the Medicaid program and prescription drugs paid for by managed care organizations.
+Sec. 4.
+The results of an audit conducted under section 1 of this chapter must be provided to the office of the secretary.
+SECTION 4.
+IC 12-15-39.6-0.5 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 0.5.
+(a) Notwithstanding IC 12-15-39.8, the asset disregard under section 10 of this chapter applies to any qualified long term care policy to which this chapter applies.
+(b) This chapter does not apply to a qualified long term care policy issued after the long term care program established by this chapter is discontinued.
+(c) Subject to section 12 of this chapter, the long term care HEA 1405 - CC 1 5 program established by this chapter is discontinued on the date set forth under IC 12-15-1.3-22(b)(2)(B)(ii) in the statement published in the Indiana Register by the office of Medicaid policy and planning.
+SECTION 5.
+IC 12-15-39.6-7 IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 7.
+(a) The department of insurance or the agency with which the department of insurance has contracted under section 6(b) of this chapter shall make available to any individual interested in participating in the Indiana a long term care program information concerning the following:
+(1) The Indiana long term care program established under this chapter.
+(2) The Indiana long term care insurance partnership program established under IC 12-15-39.8.
+(2) (3) Long term care insurance policies, including:
+(A) qualified long term care policies that meet the definition set forth in section 5 of this chapter; and (B) qualified long term care insurance policies that meet the definition set forth in IC 12-15-39.8-3.
+(3) (4) Medicare supplement insurance policies.
+(4) (5) Parts A and B of the Medicare program (42 U.S.C. 1395 et seq.).
+(5) (6) Health maintenance organizations under IC 27-13 that are contracted with the Medicare program.
+(6) (7) The Medicaid program.
+(b) If an individual elects to pursue any of the options under subsection (a), the department of insurance shall assist the individual in doing so.
+SECTION 6.
+IC 12-15-39.8 IS ADDED TO THE INDIANA CODE AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Chapter 39.8.
+Long Term Care Insurance Partnership Program Sec. 1.
+This chapter applies to qualified long term care insurance policies that are entered into, issued, or renewed after June 30, 2022.
+Sec. 2.
+As used in this chapter, "program" means the Indiana long term care insurance partnership program established by section 4(a) of this chapter.
+Sec. 3.
+As used in this chapter, "qualified long term care insurance policy" means an insurance policy that meets the following requirements:
+(1) The policy covers an individual who was a resident of the state when the coverage first became effective under the policy.
+HEA 1405 - CC 1 6 (2) The policy was not issued before the effective date of the state plan amendment applied for under IC 12-15-1.3-22.
+(3) The policy meets the definition of a qualified long term care insurance contract under 26 U.S.C. 7702B.
+(4) The policy meets the model regulations and requirements of the model act of the National Association of Insurance Commissioners provided in 42 U.S.C. 1396p(b)(5).
+(5) The policy includes inflation protection as follows:
+(A) If the policy is sold to an individual who was less than sixty-one (61) years of age as of the date of purchase, the policy must provide compound inflation protection.
+(B) If the policy is sold to an individual who was at least sixty-one (61) years of age but less than seventy-six (76) years of age as of the date of purchase, the policy must provide some level of inflation protection.
+(C) If the policy is sold to an individual who is at least seventy-six (76) years of age, the policy may, but is not required to, provide some level of inflation protection.
+(6) The department of insurance certifies that the policy meets the requirements of subdivisions (3), (4), and (5).
+Sec. 4.
+(a) The Indiana long term care insurance partnership program is established.
+(b) The office of Medicaid policy and planning and the department of insurance shall administer the program in accordance with Section 6021 of the federal Deficit Reduction Act of 2005.
+Sec. 5.
+Under the program, the office of Medicaid policy and planning must exclude and disregard an amount equal to the amount of benefits an individual receives under a qualified long term care insurance policy when determining the following:
+(1) The individual's resources for purposes of determining eligibility for Medicaid under IC 12-15-3.
+(2) The amount to be recovered from the individual's estate under IC 12-15-9 if the individual is eligible for Medicaid.
+Sec. 6.
+(a) The department of insurance shall develop a training program for insurance producers who sell qualified long term care insurance policies that includes a certified prelicensing course and continuing education courses.
+The courses must cover, at a minimum, the following topics:
+(1) State and federal regulations and requirements and the relationship between qualified long term care insurance policies and other public and private coverage of long term care services, including Medicaid.
+(2) Available long term care services and providers.
+(3) Changes or improvements in long term care services or HEA 1405 - CC 1 7 providers.
+(4) Alternatives to the purchase of private long term care insurance.
+(5) The effect of inflation on benefits and the importance of inflation protection.
+(6) Consumer suitability standards and guidelines.
+(b) An insurance producer must:
+(1) complete the certified prelicensing course established under subsection (a) before the insurance producer may sell, solicit, or negotiate a qualified long term care insurance policy; and (2) attend a continuing education course established under subsection (a) at least once every twenty-four (24) months to continue to sell, solicit, or negotiate a qualified long term care insurance policy.
+Sec. 7.
+An insurer that issues a qualified long term care insurance policy shall provide regular reports to:
+(1) the Secretary of the United States Department of Health and Human Services, as required by federal regulations; and (2) the office of Medicaid policy and planning and the department of insurance, as required by those entities.
+Sec. 8.
+The secretary of family and social services and the department of insurance may adopt rules under IC 4-22-2 necessary to implement this chapter.
+SECTION 7.
+IC 12-26-5-2 IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 2.
+(a) If a judicial officer authorized to issue a warrant for arrest in the county in which the individual is present endorses an application made under section 1 of this chapter, the application authorizes a police officer to take the individual into custody and transport the individual to a facility.
+(b) Except as provided in subsection (c), the expense of transportation under this section shall be paid by the county in which the individual is present.
+(c) This subsection applies only to the nonemergency transport to a facility by the county sheriff or deputy sheriff of an individual who:
+(1) is not in lawful detention (as defined in IC 36-2-13-18);
+(2) has had an application for the individual's detention under section 1 of this chapter endorsed by a judicial officer; and (3) is transported more than thirty (30) miles.
+The county sheriff may be reimbursed from the individual's health care coverage, including health coverage offered or administered by the state.
+SECTION 8.
+IC 16-18-2-88.3 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS HEA 1405 - CC 1 8 [EFFECTIVE UPON PASSAGE]:
+Sec. 88.3.
+"COVID-19", for purposes of IC 16-39-11, has the meaning set forth in IC 16-39-11-1.
+SECTION 9.
+IC 16-18-2-186.2 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE UPON PASSAGE]:
+Sec. 186.2.
+"Immunization", for purposes of IC 16-39-11, has the meaning set forth in IC 16-39-11-2.
+SECTION 10.
+IC 16-18-2-186.3 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE UPON PASSAGE]:
+Sec. 186.3.
+"Immunization passport", for purposes of IC 16-39-11, has the meaning set forth in IC 16-39-11-3.
+SECTION 11.
+IC 16-18-2-186.4 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE UPON PASSAGE]:
+Sec. 186.4.
+"Immunization status", for purposes of IC 16-39-11, has the meaning set forth in IC 16-39-11-4.
+SECTION 12.
+IC 16-39-1-1, AS AMENDED BY P.L.157-2006, SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 1.
+(a) This section applies to all health records except mental health records, which are governed by IC 16-39-2, IC 16-39-3, and IC 16-39-4.
+(b) This article applies to all health records, except:
+(1) records regarding communicable diseases, which are governed by IC 16-41-8-1; or (2) records regarding alcohol and other drug abuse patient records, which are governed by 42 CFR, Part 2.
+(c) On written request and reasonable notice, a provider shall supply to a patient the health records possessed by the provider concerning the patient.
+Subject to 15 U.S.C. 7601 et seq. and 16 CFR Part 315, information regarding contact lenses must be given using the following guidelines:
+(1) After the release of a patient from an initial fitting and follow-up period of not more than six (6) months, the contact lens prescription must be released to the patient at the patient's request.
+(2) A prescription released under subdivision (1) must contain all information required to properly duplicate the contact lenses.
+(3) A contact lens prescription must include the following:
+(A) An expiration date of one (1) year.
+(B) The number of refills permitted.
+(4) Instructions for use must be consistent with:
+(A) recommendations of the contact lens manufacturer;
+HEA 1405 - CC 1 9 (B) clinical practice guidelines; and (C) the professional judgment of the prescribing optometrist or physician licensed under IC 25-22.5.
+After the release of a contact lens prescription under this subsection, liability for future fittings or dispensing of contact lenses under the original prescription lies with the dispensing company or practitioner.
+(d) On a patient's written request and reasonable notice, a provider shall furnish to the patient or the patient's designee the following:
+(1) A copy of the patient's health record used in assessing the patient's health condition.
+(2) At the option of the patient, the pertinent part of the patient's health record relating to a specific condition, as requested by the patient.
+(e) Subject to section 5 of this chapter, a request made provider shall provide the health records requested under this section is valid for sixty (60) within thirty (30) days after the date the written request is made, unless the provider:
+(1) within the initial thirty (30) days, seeks an extension of not more than thirty (30) days; and (2) informs the patient in writing of the reasons for the extension and the date by which the provider will provide the health records.
+Health records requested under this section must be provided as soon as practicably possible.
+(f) In addition to any action taken under IC 16-19-3-18, the state department may impose a fine against a provider not to exceed five thousand dollars ($5,000) for not complying with the requirements of this section.
+SECTION 13.
+IC 16-39-11 IS ADDED TO THE INDIANA CODE AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON PASSAGE]:
+Chapter 11.
+COVID-19 Immunization Records Sec. 1.
+As used in this chapter, "COVID-19" means:
+(1) severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2); or (2) the disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+Sec. 2.
+As used in this chapter, "immunization" means the treatment of an individual with a vaccine to produce immunity against COVID-19.
+Sec. 3.
+As used in this chapter, "immunization passport" means written, electronic, or printed information regarding an individual's immunization status.
+Sec. 4.
+As used in this chapter, "immunization status" means the status of whether an individual:
+HEA 1405 - CC 1 10 (1) has received; or (2) has not received; an immunization.
+Sec. 5.
+(a) Except as provided in subsection (b), the state or a local unit may not issue or require an immunization passport.
+(b) This section does not prohibit the state or a local unit from doing any of the following:
+(1) Maintaining, creating, or storing a medical record of an individual's immunization status.
+(2) Providing a medical record of an individual's immunization status to the individual's medical provider in accordance with the federal Health Insurance Portability and Accountability Act (HIPAA) (P.L.104-191).
+(3) Providing the individual with a record of an immunization at the time the individual receives the immunization or upon request by the individual.
+(4) Maintaining an immunization record for the purpose of public health administration.
+SECTION 14.
+IC 16-47-1-5, AS AMENDED BY P.L.121-2016, SECTION 24, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 5.
+(a) This subsection does not apply to prescription drugs that are dispensed through an onsite clinic.
+The following shall participate in the program:
+(1) The department, for a health benefit plan:
+(A) described in section 2(1) or 2(2) of this chapter; and (B) that provides coverage for prescription drugs.
+(2) After June 30, 2011, a state educational institution, for a health benefit plan:
+(A) described in section 2(3) of this chapter; and (B) that provides coverage for prescription drugs; unless the budget agency determines that the state educational institution's participation in the program would not result in an overall financial benefit to the state educational institution.
+The budget agency may delay compliance with this subdivision to a date after July 1, 2011, that is determined by the budget agency to allow for the orderly transition from another program.
+(b) The following may participate in the program:
+(1) A state agency other than the department that:
+(A) purchases prescription drugs; or (B) arranges for the payment of the cost of prescription drugs.
+(2) A local unit (as defined in IC 5-10-8-1).
+(3) A nonprofit association of cities and towns.
+(3) (4) The Indiana comprehensive health insurance association established under IC 27-8-10.
+HEA 1405 - CC 1 11 (c) The state Medicaid program may not participate in the program under this chapter.
+SECTION 15.
+IC 20-28-1-11, AS AMENDED BY P.L.197-2007, SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 11.
+"School psychology" means the following:
+(1) Administering, scoring, and interpreting educational, cognitive, career, vocational, behavioral, and affective tests and procedures that address a student's:
+(A) education;
+(B) developmental status;
+(C) attention skills; and (D) social, emotional, and behavioral functioning; as they relate to the student's learning or training in the academic or vocational environment.
+(2) Providing consultation, collaboration, and intervention services (not including psychotherapy) and providing referral to community resources to:
+(A) students;
+(B) parents of students;
+(C) teachers;
+(D) school administrators; and (E) school staff; concerning learning and performance in the educational process.
+(3) Participating in or conducting research relating to a student's learning and performance in the educational process:
+(A) regarding the educational, developmental, career, vocational, or attention functioning of the student; or (B) screening social, affective, and behavioral functioning of the student.
+(4) Providing inservice or continuing education services relating to learning and performance in the educational process to schools, parents, or others.
+(5) Supervising school psychology services.
+(6) Referring a student to:
+(A) a speech-language pathologist or an audiologist licensed under IC 25-35.6 for services for speech, hearing, and language disorders; or (B) an occupational therapist licensed under IC 25-23.5 for occupational therapy services; or (C) a physical therapist licensed under IC 25-27 for mandated school services within a physical therapist's scope of practice; by a school psychologist who is employed by a school corporation and who is defined as a practitioner of the healing arts for the HEA 1405 - CC 1 12 purpose of referrals under 42 CFR 440.110.
+The term does not include the diagnosis or treatment of mental and nervous disorders, except for conditions and interventions provided for in state and federal mandates affecting special education and vocational evaluations as the evaluations relate to the assessment of handicapping conditions and special education decisions or as the evaluations pertain to the placement of children and the placement of adults with a developmental disability.
+SECTION 16.
+IC 25-27-1-2, AS AMENDED BY P.L.160-2019, SECTION 10, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 2.
+(a) Except as otherwise provided in this chapter and IC 25-27-2, it is unlawful for a person or business entity to do the following:
+(1) Practice physical therapy without first obtaining from the board a license authorizing the person to practice physical therapy in this state.
+(2) Profess to be or promote an employee to be a physical therapist, physiotherapist, doctor of physiotherapy, doctor of physical therapy, or registered physical therapist or to use the initials "P.T.", "D.P.T.", "L.P.T.", or "R.P.T.", or any other letters, words, abbreviations, or insignia indicating that physical therapy is provided by a physical therapist, unless physical therapy is provided by or under the direction of a physical therapist.
+(3) Advertise services for physical therapy or physiotherapy services, unless the individual performing those services is a physical therapist.
+(b) Except as provided in subsection (e) and section 2.5 of this chapter, it is unlawful for a person to practice physical therapy other than upon the order or referral of a physician, podiatrist, psychologist, chiropractor, dentist, nurse practitioner, or physician assistant holding an unlimited license to practice medicine, podiatric medicine, psychology, chiropractic, dentistry, nursing, or as a physician assistant, respectively.
+It is unlawful for a physical therapist to use the services of a physical therapist assistant except as provided under this chapter.
+For the purposes of this subsection, the function of:
+(1) teaching;
+(2) doing research;
+(3) providing advisory services; or (4) conducting seminars on physical therapy; is not considered to be a practice of physical therapy.
+(c) Except as otherwise provided in this chapter and IC 25-27-2, it is unlawful for a person to profess to be or act as a physical therapist assistant or to use the initials "P.T.A." or any other letters, words, abbreviations, or insignia indicating that the person is a physical HEA 1405 - CC 1 13 therapist assistant without first obtaining from the board a certificate authorizing the person to act as a physical therapist assistant.
+It is unlawful for the person to act as a physical therapist assistant other than under the general supervision of a licensed physical therapist who is in responsible charge of a patient.
+However, nothing in this chapter prohibits a person licensed or registered in this state under another law from engaging in the practice for which the person is licensed or registered.
+These exempted persons include persons engaged in the practice of osteopathic medicine, chiropractic, or podiatric medicine.
+(d) Except as provided in section 2.5 of this chapter, this chapter does not authorize a person who is licensed as a physical therapist or certified as a physical therapist assistant to:
+(1) evaluate any physical disability or mental disorder except upon the order or referral of a physician, podiatrist, psychologist, chiropractor, physician assistant, nurse practitioner, or dentist;
+(2) practice medicine, surgery (as described in IC 25-22.5-1-1.1(a)(1)(C)), dentistry, optometry, osteopathic medicine, psychology, chiropractic, or podiatric medicine; or (3) prescribe a drug or other remedial substance used in medicine.
+(e) Upon the referral of a licensed school psychologist, a physical therapist who is:
+(1) licensed under this article; and (2) an employee or contractor of a school corporation; may provide mandated school services to a student that are within the physical therapist's scope of practice.
+SECTION 17.
+IC 25-27-2 IS ADDED TO THE INDIANA CODE AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JANUARY 1, 2022]:
+Chapter 2.
+Physical Therapy Licensure Compact Sec. 1.
+PURPOSE The purpose of this Compact is to facilitate interstate practice of physical therapy with the goal of improving public access to physical therapy services.
+The practice of physical therapy occurs in the state where the patient or client is located at the time of the patient or client encounter.
+The Compact preserves the regulatory authority of states to protect public health and safety through the current system of state licensure.
+This Compact is designed to achieve the following objectives:
+(1) Increase public access to physical therapy services by providing for the mutual recognition of other member state licenses;
+(2) Enhance the states' ability to protect the public's health and safety;
+(3) Encourage the cooperation of member states in regulating multi-state physical therapy practice;
+HEA 1405 - CC 1 14 (4) Support spouses of relocating military members;
+(5) Enhance the exchange of licensure, investigative, and disciplinary information between member states; and (6) Allow a remote state to hold a provider of services with a compact privilege in that state accountable to that state's practice standards.
+Sec. 2.
+DEFINITIONS As used in this Compact, and except as otherwise provided, the following definitions shall apply:
+(1) "Active Duty Military" means full-time duty status in the active uniformed service of the United States, including members of the National Guard and Reserve on active duty orders pursuant to 10 U.S.C.
+Chapter 1209 and 10 U.S.C.
+Chapter 1211.
+(2) "Adverse Action" means disciplinary action taken by a physical therapy licensing board based upon misconduct, unacceptable performance, or a combination of both.
+(3) "Alternative Program" means a nondisciplinary monitoring or practice remediation process approved by a physical therapy licensing board.
+This includes, but is not limited to, substance abuse issues.
+(4) "Compact privilege" means the authorization granted by a remote state to allow a licensee from another member state to practice as a physical therapist or work as a physical therapist assistant in the remote state under its laws and rules.
+The practice of physical therapy occurs in the member state where the patient or client is located at the time of the patient or client encounter.
+(5) "Continuing competence" means a requirement, as a condition of license renewal, to provide evidence of participation in, and completion of, educational and professional activities relevant to practice or area of work.
+(6) "Data system" means a repository of information about licensees, including examination, licensure, investigative, compact privilege, and adverse action.
+(7) "Encumbered license" means a license that a physical therapy licensing board has limited in any way.
+(8) "Executive Board" means a group of directors elected or appointed to act on behalf of, and within the powers granted to them by, the Commission.
+(9) "Home state" means the member state that is the licensee's primary state of residence.
+(10) "Investigative information" means information, records, and documents received or generated by a physical therapy licensing board pursuant to an investigation.
+HEA 1405 - CC 1 15 (11) "Jurisprudence requirement" means the assessment of an individual's knowledge of the laws and rules governing the practice of physical therapy in a state.
+(12) "Licensee" means an individual who currently holds an authorization from the state to practice as a physical therapist or to work as a physical therapist assistant.
+(13) "Member state" means a state that has enacted the Compact.
+(14) "Party state" means any member state in which a licensee holds a current license or compact privilege or is applying for a license or compact privilege.
+(15) "Physical therapist" means an individual who is licensed by a state to practice physical therapy.
+(16) "Physical therapist assistant" means an individual who is licensed or certified by a state and who assists the physical therapist in selected components of physical therapy.
+(17) "Physical therapy," "physical therapy practice," and "the practice of physical therapy" mean the care and services provided by or under the direction and supervision of a licensed physical therapist.
+(18) "Physical Therapy Compact Commission" or "Commission" means the national administrative body whose membership consists of all states that have enacted the Compact.
+(19) "Physical therapy licensing board" or "licensing board" means the agency of a state that is responsible for the licensing and regulation of physical therapists and physical therapist assistants.
+(20) "Remote state" means a member state other than the home state, where a licensee is exercising or seeking to exercise the compact privilege.
+(21) "Rule" means a regulation, principle, or directive promulgated by the Commission that has the force of law.
+(22) "State" means any state, commonwealth, district, or territory of the United States of America that regulates the practice of physical therapy.
+Sec. 3.
+STATE PARTICIPATION IN THE COMPACT (a) To participate in the Compact, a state must:
+(1) participate fully in the Commission's data system, including using the Commission's unique identifier as defined in rules;
+(2) have a mechanism in place for receiving and investigating complaints about licensees;
+(3) notify the Commission, in compliance with the terms of the Compact and rules, of any adverse action or the availability HEA 1405 - CC 1 16 of investigative information regarding a licensee;
+(4) fully implement a criminal background check requirement, within a time frame established by rule, by receiving the results of the Federal Bureau of Investigation record search on criminal background checks and use the results in making licensure decisions in accordance with Section 3(b);
+(5) comply with the rules of the Commission;
+(6) utilize a recognized national examination as a requirement for licensure pursuant to the rules of the Commission; and (7) have continuing competence requirements as a condition for license renewal.
+(b) Upon adoption of this statute, the member state shall have the authority to obtain biometric-based information from each physical therapy licensure applicant and submit this information to the Federal Bureau of Investigation for a criminal background check in accordance with 28 U.S.C. 534 and 42 U.S.C. 14616.
+(c) A member state shall grant the compact privilege to a licensee holding a valid unencumbered license in another member state in accordance with the terms of the Compact and rules.
+(d) Member states may charge a fee for granting a compact privilege.
+Sec. 4.
+COMPACT PRIVILEGE (a) To exercise the compact privilege under the terms and provisions of the Compact, the licensee shall:
+(1) hold a license in the home state;
+(2) have no encumbrance on any state license;
+(3) be eligible for a compact privilege in any member state in accordance with subsections (d), (g), and (h);
+(4) have not had any adverse action against any license or compact privilege within the previous two (2) years;
+(5) notify the Commission that the licensee is seeking the compact privilege within a remote state(s);
+(6) pay any applicable fees, including any state fee, for the compact privilege;
+(7) meet any jurisprudence requirements established by the remote state(s) in which the licensee is seeking a compact privilege; and (8) report to the Commission adverse action taken by any non-member state within thirty (30) days from the date the adverse action is taken.
+(b) The compact privilege is valid until the expiration date of the home license.
+The licensee must comply with the requirements of subsection (a) to maintain the compact privilege in the remote state.
+HEA 1405 - CC 1 17 (c) A licensee providing physical therapy in a remote state under the compact privilege shall function within the laws and regulations of the remote state.
+(d) A licensee providing physical therapy in a remote state is subject to that state's regulatory authority.
+A remote state may, in accordance with due process and that state's laws, remove a licensee's compact privilege in the remote state for a specific period of time, impose fines, and take any other necessary actions to protect the health and safety of its citizens.
+The licensee is not eligible for a compact privilege in any state until the specific time for removal has passed and all fines are paid.
+(e) If a home state license is encumbered, the licensee shall lose the compact privilege in any remote state until the following occur:
+(1) the home state license is no longer encumbered; and (2) two (2) years have elapsed from the date of the adverse action.
+(f) Once an encumbered license in the home state is restored to good standing, the licensee must meet the requirements of subsection (a) to obtain a compact privilege in any remote state.
+(g) If a licensee's compact privilege in any remote state is removed, the individual shall lose the compact privilege in any remote state until the following occur:
+(1) the specific period of time for which the compact privilege was removed has ended;
+(2) all fines have been paid; and (3) two years have elapsed from the date of the adverse action.
+(h) Once the requirements of subsection (g) have been met, the licensee must meet the requirements in subsection (a) of this chapter to obtain a compact privilege in a remote state.
+Sec. 5.
+ACTIVE DUTY MILITARY PERSONNEL OR THEIR SPOUSES A licensee who is active duty military or is the spouse of an individual who is active duty military may designate one of the following as the home state:
+(1) home of record;
+(2) permanent change of station (PCS); or (3) state of current residence if it is different than the PCS state or home of record.
+Sec. 6.
+ADVERSE ACTIONS (a) A home state shall have exclusive power to impose adverse action against a license issued by the home state.
+(b) A home state may take adverse action based on the investigative information of a remote state, so long as the home state follows its own procedures for imposing adverse action.
+(c) Nothing in this Compact shall override a member state's HEA 1405 - CC 1 18 decision that participation in an alternative program may be used in lieu of adverse action and that such participation shall remain nonpublic if required by the member state's laws.
+Member states must require licensees who enter any alternative programs in lieu of discipline to agree not to practice in any other member state during the term of the alternative program without prior authorization from such other member state.
+(d) Any member state may investigate actual or alleged violations of the statutes and rules authorizing the practice of physical therapy in any other member state in which a physical therapist or physical therapist assistant holds a license or compact privilege.
+(e) A remote state shall have the authority to:
+(1) take adverse actions as set forth in section 4(d) of this chapter against a licensee's compact privilege in the state;
+(2) issue subpoenas for both hearings and investigations that require the attendance and testimony of witnesses, and the production of evidence.
+Subpoenas issued by a physical therapy licensing board in a party state for the attendance and testimony of witnesses, and the production of evidence from another party state, shall be enforced in the latter state by any court of competent jurisdiction, according to the practice and procedure of that court applicable to subpoenas issued in proceedings pending before it.
+The issuing authority shall pay any witness fees, travel expenses, mileage, and other fees required by the service statutes of the state where the witnesses and evidence are located; and (3) if otherwise permitted by state law, recover from the licensee the costs of investigations and disposition of cases resulting from any adverse action taken against that licensee.
+(f) Joint Investigations (1) In addition to the authority granted to a member state by its respective physical therapy practice act or other applicable state law, a member state may participate with other member states in joint investigations of licensees.
+(2) Member states shall share any investigative, litigation, or compliance materials in furtherance of any joint or individual investigation initiated under the Compact.
+Sec. 7.
+ESTABLISHMENT OF THE PHYSICAL THERAPY COMPACT COMMISSION (a) The Compact member states hereby create and establish a joint public agency known as the Physical Therapy Compact Commission.
+(1) The Commission is an instrumentality of the Compact states.
+HEA 1405 - CC 1 19 (2) Venue is proper and judicial proceedings by or against the Commission shall be brought solely and exclusively in a court of competent jurisdiction where the principal office of the Commission is located.
+The Commission may waive venue and jurisdictional defenses to the extent it adopts or consents to participate in alternative dispute resolution proceedings.
+(3) Nothing in this Compact shall be construed to be a waiver of sovereign immunity.
+(b) Membership, Voting, and Meetings (1) Each member state shall have and be limited to one (1) delegate selected by that member state's licensing board.
+(2) The delegate shall be a current member of the licensing board, who is a physical therapist, physical therapist assistant, public member, or the board administrator.
+(3) Any delegate may be removed or suspended from office as provided by the law of the state from which the delegate is appointed.
+(4) The member state board shall fill any vacancy occurring in the Commission.
+(5) Each delegate shall be entitled to one (1) vote with regard to the promulgation of rules and creation of bylaws and shall otherwise have an opportunity to participate in the business and affairs of the Commission.
+(6) A delegate shall vote in person or by such other means as provided in the bylaws.
+The bylaws may provide for delegates' participation in meetings by telephone or other means of communication.
+(7) The Commission shall meet at least once during each calendar year.
+Additional meetings shall be held as set forth in the bylaws.
+(c) The Commission shall have the following powers and duties:
+(1) establish the fiscal year of the Commission;
+(2) establish bylaws;
+(3) maintain its financial records in accordance with the bylaws;
+(4) meet and take such actions as are consistent with the provisions of this Compact and the bylaws;
+(5) promulgate uniform rules to facilitate and coordinate implementation and administration of this Compact.
+The rules shall have the force and effect of law and shall be binding in all member states;
+(6) bring and prosecute legal proceedings or actions in the name of the Commission, provided that the standing of any state physical therapy licensing board to sue or be sued under applicable law shall not be affected;
+HEA 1405 - CC 1 20 (7) purchase and maintain insurance and bonds;
+(8) borrow, accept, or contract for services of personnel, including, but not limited to, employees of a member state;
+(9) hire employees, elect or appoint officers, fix compensation, define duties, grant such individuals appropriate authority to carry out the purposes of the Compact, and to establish the Commission's personnel policies and programs relating to conflicts of interest, qualifications of personnel, and other related personnel matters;
+(10) accept any and all appropriate donations and grants of money, equipment, supplies, materials, and services, and to receive, utilize, and dispose of the same; provided that at all times the Commission shall avoid any appearance of impropriety and conflict of interest;
+(11) lease, purchase, accept appropriate gifts or donations of, or otherwise to own, hold, improve, or use, any property, real, personal, or mixed; provided that at all times the Commission shall avoid any appearance of impropriety;
+(12) sell, convey, mortgage, pledge, lease, exchange, abandon, or otherwise dispose of any property real, personal, or mixed;
+(13) establish a budget and make expenditures;
+(14) borrow money;
+(15) appoint committees, including standing committees composed of members, state regulators, state legislators or their representatives, and consumer representatives, and such other interested persons as may be designated in this Compact and the bylaws;
+(16) provide and receive information from, and cooperate with, law enforcement agencies;
+(17) establish and elect an Executive Board; and (18) perform such other functions as may be necessary or appropriate to achieve the purposes of this Compact consistent with the state regulation of physical therapy licensure and practice.
+(d) The Executive Board shall have the power to act on behalf of the Commission according to the terms of this Compact.
+(1) The Executive Board shall be composed of nine (9) members:
+(A) seven (7) voting members who are elected by the Commission from the current membership of the Commission;
+(B) one (1) ex-officio, nonvoting member from the recognized national physical therapy professional association; and (C) one (1) ex-officio, nonvoting member from the HEA 1405 - CC 1 21 recognized membership organization of the physical therapy licensing boards.
+(2) The ex-officio members will be selected by their respective organizations.
+(3) The Commission may remove any member of the Executive Board as provided in bylaws.
+(4) The Executive Board shall meet at least annually.
+(5) The Executive Board shall have the following duties and responsibilities:
+(A) recommend to the entire Commission changes to the rules or bylaws, changes to this Compact legislation, fees paid by Compact member states such as annual dues, and any commission Compact fee charged to licensees for the compact privilege;
+(B) ensure Compact administration services are appropriately provided, contractual or otherwise;
+(C) prepare and recommend the budget;
+(D) maintain financial records on behalf of the Commission;
+(E) monitor Compact compliance of member states and provide compliance reports to the Commission;
+(F) establish additional committees as necessary; and (G) other duties as provided in rules or bylaws.
+(e) Meetings of the Commission (1) All meetings shall be open to the public, and public notice of meetings shall be given in the same manner as required under the rulemaking provisions in section 9 of this chapter.
+(2) The Commission or the Executive Board or other committees of the Commission may convene in a closed, nonpublic meeting if the Commission or Executive Board or other committees of the Commission must discuss:
+(A) noncompliance of a member state with its obligations under the Compact;
+(B) the employment, compensation, discipline, or other matters, practices, or procedures related to specific employees or other matters related to the Commission's internal personnel practices and procedures;
+(C) current, threatened, or reasonably anticipated litigation;
+(D) negotiation of contracts for the purchase, lease, or sale of goods, services, or real estate;
+(E) accusing any person of a crime or formally censuring any person;
+(F) disclosure of trade secrets or commercial or financial information that is privileged or confidential;
+HEA 1405 - CC 1 22 (G) disclosure of information of a personal nature where disclosure would constitute a clearly unwarranted invasion of personal privacy;
+(H) disclosure of investigative records compiled for law enforcement purposes;
+(I) disclosure of information related to any investigative reports prepared by or on behalf of or for use of the Commission or other committee charged with responsibility of investigation or determination of compliance issues pursuant to the Compact; or (J) matters specifically exempted from disclosure by federal or member state statute.
+(3) If a meeting, or portion of a meeting, is closed pursuant to this provision, the Commission's legal counsel or designee shall certify that the meeting may be closed and shall reference each relevant exempting provision.
+(4) The Commission shall keep minutes that fully and clearly describe all matters discussed in a meeting and shall provide a full and accurate summary of actions taken, and the reasons therefore, including a description of the views expressed.
+All documents considered in connection with an action shall be identified in such minutes.
+All minutes and documents of a closed meeting shall remain under seal, subject to release by a majority vote of the Commission or order of a court of competent jurisdiction.
+(f) Financing of the Commission (1) The Commission shall pay, or provide for the payment of, the reasonable expenses of its establishment, organization, and ongoing activities.
+(2) The Commission may accept any and all appropriate revenue sources, donations, and grants of money, equipment, supplies, materials, and services.
+(3) The Commission may levy on and collect an annual assessment from each member state or impose fees on other parties to cover the cost of the operations and activities of the Commission and its staff, which must be in a total amount sufficient to cover its annual budget as approved each year for which revenue is not provided by other sources.
+The aggregate annual assessment amount shall be allocated based upon a formula to be determined by the Commission, which shall promulgate a rule binding upon all member states.
+(4) The Commission shall not incur obligations of any kind prior to securing the funds adequate to meet the same; nor shall the Commission pledge the credit of any of the member states, except by and with the authority of the member state.
+HEA 1405 - CC 1 23 (5) The Commission shall keep accurate accounts of all receipts and disbursements.
+The receipts and disbursements of the Commission shall be subject to the audit and accounting procedures established under its bylaws.
+However, all receipts and disbursements of funds handled by the Commission shall be audited yearly by a certified or licensed public accountant, and the report of the audit shall be included in and become part of the annual report of the Commission.
+(g) Qualified Immunity, Defense, and Indemnification (1) The members, officers, executive director, employees, and representatives of the Commission shall be immune from suit and liability, either personally or in their official capacity, for any claim for damage to or loss of property or personal injury or other civil liability caused by or arising out of any actual or alleged act, error or omission that occurred, or that the person against whom the claim is made had a reasonable basis for believing occurred within the scope of Commission employment, duties, or responsibilities; provided that nothing in this paragraph shall be construed to protect any such person from suit and liability for any damage, loss, injury, or liability caused by the intentional or willful or wanton misconduct of that person.
+(2) The Commission shall defend any member, officer, executive director, employee, or representative of the Commission in any civil action seeking to impose liability arising out of any actual or alleged act, error, or omission that occurred within the scope of Commission employment, duties, or responsibilities, or that the person against whom the claim is made had a reasonable basis for believing occurred within the scope of Commission employment, duties, or responsibilities; provided that nothing herein shall be construed to prohibit that person from retaining his or her own counsel; and provided further, that the actual or alleged act, error, or omission did not result from that person's intentional or willful or wanton misconduct.
+(3) The Commission shall indemnify and hold harmless any member, officer, executive director, employee, or representative of the Commission for the amount of any settlement or judgment obtained against that person arising out of any actual or alleged act, error, or omission that occurred within the scope of Commission employment, duties, or responsibilities, or that such person had a reasonable basis for believing occurred within the scope of Commission employment, duties, or responsibilities, provided that the HEA 1405 - CC 1 24 actual or alleged act, error, or omission did not result from the intentional or willful or wanton misconduct of that person.
+Sec. 8.
+DATA SYSTEM (a) The Commission shall provide for the development, maintenance, and utilization of a coordinated database and reporting system containing licensure, adverse action, and investigative information on all licensed individuals in member states.
+(b) Notwithstanding any other provision of state law to the contrary, a member state shall submit a uniform data set to the data system on all individuals to whom this Compact is applicable as required by the rules of the Commission, including:
+(1) identifying information;
+(2) licensure data;
+(3) adverse actions against a license or compact privilege;
+(4) nonconfidential information related to alternative program participation;
+(5) any denial of application for licensure, and the reason(s) for such denial; and (6) other information that may facilitate the administration of this Compact, as determined by the rules of the Commission.
+(c) Investigative information pertaining to a licensee in any member state will only be available to other party states.
+(d) The Commission shall promptly notify all member states of any adverse action taken against a licensee or an individual applying for a license.
+Adverse action information pertaining to a licensee in any member state will be available to any other member state.
+(e) Member states contributing information to the data system may designate information that may not be shared with the public without the express permission of the contributing state.
+(f) Any information submitted to the data system that is subsequently required to be expunged by the laws of the member state contributing the information shall be removed from the data system.
+Sec. 9.
+RULEMAKING (a) The Commission shall exercise its rulemaking powers pursuant to the criteria set forth in this Section and the rules adopted thereunder.
+Rules and amendments shall become binding as of the date specified in each rule or amendment.
+(b) If a majority of the legislatures of the member states rejects a rule, by enactment of a statute or resolution in the same manner used to adopt the Compact within four (4) years of the date of adoption of the rule, then such rule shall have no further force and effect in any member state.
+HEA 1405 - CC 1 25 (c) Rules or amendments to the rules shall be adopted at a regular or special meeting of the Commission.
+(d) Prior to promulgation and adoption of a final rule or rules by the Commission, and at least thirty (30) days in advance of the meeting at which the rule will be considered and voted upon, the Commission shall file a Notice of Proposed Rulemaking:
+(1) on the web site of the Commission or other publicly accessible platform; and (2) on the web site of each member state physical therapy licensing board or other publicly accessible platform or the publication in which each state would otherwise publish proposed rules.
+(e) The notice of proposed rulemaking shall include:
+(1) the proposed time, date, and location of the meeting in which the rule will be considered and voted upon;
+(2) the text of the proposed rule or amendment and the reason for the proposed rule;
+(3) a request for comments on the proposed rule from any interested person; and (4) the manner in which interested persons may submit notice to the Commission of their intention to attend the public hearing and any written comments.
+(f) Prior to adoption of a proposed rule, the Commission shall allow persons to submit written data, facts, opinions, and arguments, which shall be made available to the public.
+(g) The Commission shall grant an opportunity for a public hearing before it adopts a rule or amendment if a hearing is requested by:
+(1) at least twenty-five (25) persons;
+(2) a state or federal governmental subdivision or agency; or (3) an association having at least twenty-five (25) members.
+(h) If a hearing is held on the proposed rule or amendment, the Commission shall publish the place, time, and date of the scheduled public hearing.
+If the hearing is held via electronic means, the Commission shall publish the mechanism for access to the electronic hearing.
+(1) All persons wishing to be heard at the hearing shall notify the executive director of the Commission or other designated member in writing of their desire to appear and testify at the hearing not less than five (5) business days before the scheduled date of the hearing.
+(2) Hearings shall be conducted in a manner providing each person who wishes to comment a fair and reasonable opportunity to comment orally or in writing.
+(3) All hearings will be recorded.
+A copy of the recording will HEA 1405 - CC 1 26 be made available on request.
+(4) Nothing in this section shall be construed as requiring a separate hearing on each rule.
+Rules may be grouped for the convenience of the Commission at hearings required by this section.
+(i) Following the scheduled hearing date, or by the close of business on the scheduled hearing date if the hearing was not held, the Commission shall consider all written and oral comments received.
+(j) If no written notice of intent to attend the public hearing by interested parties is received, the Commission may proceed with promulgation of the proposed rule without a public hearing.
+(k) The Commission shall, by majority vote of all members, take final action on the proposed rule and shall determine the effective date of the rule, if any, based on the rulemaking record and the full text of the rule.
+(l) Upon determination that an emergency exists, the Commission may consider and adopt an emergency rule without prior notice, opportunity for comment, or hearing, provided that the usual rulemaking procedures provided in the Compact and in this section shall be retroactively applied to the rule as soon as reasonably possible, in no event later than ninety (90) days after the effective date of the rule.
+For the purposes of this provision, an emergency rule is one that must be adopted immediately in order to:
+(1) meet an imminent threat to public health, safety, or welfare;
+(2) prevent a loss of Commission or member state funds;
+(3) meet a deadline for the promulgation of an administrative rule that is established by federal law or rule; or (4) protect public health and safety.
+(m) The Commission or an authorized committee of the Commission may direct revisions to a previously adopted rule or amendment for purposes of correcting typographical errors, errors in format, errors in consistency, or grammatical errors.
+Public notice of any revisions shall be posted on the web site of the Commission.
+The revision shall be subject to challenge by any person for a period of thirty (30) days after posting.
+The revision may be challenged only on grounds that the revision results in a material change to a rule.
+A challenge shall be made in writing, and delivered to the chair of the Commission prior to the end of the notice period.
+If no challenge is made, the revision will take effect without further action.
+If the revision is challenged, the revision may not take effect without the approval of the Commission.
+Sec. 10.
+OVERSIGHT, DISPUTE RESOLUTION, AND HEA 1405 - CC 1 27 ENFORCEMENT (a) Oversight (1) The executive, legislative, and judicial branches of state government in each member state shall enforce this Compact and take all actions necessary and appropriate to effectuate the Compact's purposes and intent.
+The provisions of this Compact and the rules promulgated hereunder shall have standing as statutory law.
+(2) All courts shall take judicial notice of the Compact and the rules in any judicial or administrative proceeding in a member state pertaining to the subject matter of this Compact which may affect the powers, responsibilities, or actions of the Commission.
+(3) The Commission shall be entitled to receive service of process in any such proceeding, and shall have standing to intervene in such a proceeding for all purposes.
+Failure to provide service of process to the Commission shall render a judgment or order void as to the Commission, this Compact, or promulgated rules.
+(b) Default, Technical Assistance, and Termination (1) If the Commission determines that a member state has defaulted in the performance of its obligations or responsibilities under this Compact or the promulgated rules, the Commission shall:
+(A) provide written notice to the defaulting state and other member states of the nature of the default, the proposed means of curing the default, and any other action to be taken by the Commission; and (B) provide remedial training and specific technical assistance regarding the default.
+(2) If a state in default fails to cure the default, the defaulting state may be terminated from the Compact upon an affirmative vote of a majority of the member states, and all rights, privileges, and benefits conferred by this Compact may be terminated on the effective date of termination.
+A cure of the default does not relieve the offending state of obligations or liabilities incurred during the period of default.
+(3) Termination of membership in the Compact shall be imposed only after all other means of securing compliance have been exhausted.
+Notice of intent to suspend or terminate shall be given by the Commission to the governor, the majority and minority leaders of the defaulting state's legislature, and each of the member states.
+(4) A state that has been terminated is responsible for all assessments, obligations, and liabilities incurred through the HEA 1405 - CC 1 28 effective date of termination, including obligations that extend beyond the effective date of termination.
+(5) The Commission shall not bear any costs related to a state that is found to be in default or that has been terminated from the Compact, unless agreed upon in writing between the Commission and the defaulting state.
+(6) The defaulting state may appeal the action of the Commission by petitioning the U.S.
+District Court for the District of Columbia or the federal district where the Commission has its principal offices.
+The prevailing member shall be awarded all costs of such litigation, including reasonable attorney's fees.
+(c) Dispute Resolution (1) Upon request by a member state, the Commission shall attempt to resolve disputes related to the Compact that arise among member states and between member and nonmember states.
+(2) The Commission shall promulgate a rule providing for both mediation and binding dispute resolution for disputes as appropriate.
+(d) Enforcement (1) The Commission, in the reasonable exercise of its discretion, shall enforce the provisions and rules of this Compact.
+(2) By majority vote, the Commission may initiate legal action in the United States District Court for the District of Columbia or the federal district where the Commission has its principal offices against a member state in default to enforce compliance with the provisions of the Compact and its promulgated rules and bylaws.
+The relief sought may include both injunctive relief and damages.
+In the event judicial enforcement is necessary, the prevailing member shall be awarded all costs of such litigation, including reasonable attorney's fees.
+(3) The remedies herein shall not be the exclusive remedies of the Commission.
+The Commission may pursue any other remedies available under federal or state law.
+Sec. 11.
+DATE OF IMPLEMENTATION OF THE INTERSTATE COMMISSION FOR PHYSICAL THERAPY PRACTICE AND ASSOCIATED RULES, WITHDRAWAL, AND AMENDMENT (a) The Compact shall come into effect on the date on which the Compact statute is enacted into law in the tenth member state.
+The provisions, which become effective at that time, shall be limited to the powers granted to the Commission relating to assembly and the HEA 1405 - CC 1 29 promulgation of rules.
+Thereafter, the Commission shall meet and exercise rulemaking powers necessary to the implementation and administration of the Compact.
+(b) Any state that joins the Compact subsequent to the Commission's initial adoption of the rules shall be subject to the rules as they exist on the date on which the Compact becomes law in that state.
+Any rule that has been previously adopted by the Commission shall have the full force and effect of law on the day the Compact becomes law in that state.
+(c) Any member state may withdraw from this Compact by enacting a statute repealing the same.
+(1) A member state's withdrawal shall not take effect until six (6) months after enactment of the repealing statute.
+(2) Withdrawal shall not affect the continuing requirement of the withdrawing state's physical therapy licensing board to comply with the investigative and adverse action reporting requirements of this act prior to the effective date of withdrawal.
+(d) Nothing contained in this Compact shall be construed to invalidate or prevent any physical therapy licensure agreement or other cooperative arrangement between a member state and a nonmember state that does not conflict with the provisions of this Compact.
+(e) This Compact may be amended by the member states.
+No amendment to this Compact shall become effective and binding upon any member state until it is enacted into the laws of all member states.
+Sec. 12.
+CONSTRUCTION AND SEVERABILITY This Compact shall be liberally construed so as to effectuate the purposes thereof.
+The provisions of this Compact shall be severable and if any phrase, clause, sentence, or provision of this Compact is declared to be contrary to the constitution of any party state or of the United States or the applicability thereof to any government, agency, person, or circumstance is held invalid, the validity of the remainder of this Compact and the applicability thereof to any government, agency, person, or circumstance shall not be affected thereby.
+If this Compact shall be held contrary to the constitution of any party state, the Compact shall remain in full force and effect as to the remaining party states and in full force and effect as to the party state affected as to all severable matters.
+SECTION 18.
+IC 27-1-15.7-2, AS AMENDED BY P.L.148-2017, SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 2.
+(a) Except as provided in subsection (b), to renew a license issued under IC 27-1-15.6, a resident insurance producer must complete at least twenty-four (24) hours of credit in HEA 1405 - CC 1 30 continuing education courses, not more than four (4) hours of which may be in courses concerning one (1) or a combination of the following:
+(1) Sales promotion.
+(2) Sales technique.
+(3) Motivation.
+(4) Psychology.
+(5) Time management.
+If the insurance producer has a qualification described in IC 27-1-15.6-7(a)(1), IC 27-1-15.6-7(a)(2), or IC 27-1-15.6-7(a)(5), for a license renewal that occurs after June 30, 2014, at least three (3) of the hours of credit required by this subsection must be related to ethical practices in the marketing and sale of life, health, or annuity insurance products.
+An attorney in good standing who is admitted to the practice of law in Indiana and holds a license issued under IC 27-1-15.6 may complete all or any number of hours of continuing education required by this subsection by completing an equivalent number of hours in continuing legal education courses that are related to the business of insurance.
+(b) Except as provided in subsection (c), to renew a license issued under IC 27-1-15.6, a limited lines producer with a title qualification under IC 27-1-15.6-7(a)(8) must complete at least seven (7) hours of credit in continuing education courses related to the business of title insurance with at least one (1) hour of instruction in a structured setting or comparable self-study in each of the following:
+(1) Ethical practices in the marketing and selling of title insurance.
+(2) Title insurance underwriting.
+(3) Escrow issues.
+(4) Principles of the federal Real Estate Settlement Procedures Act (12 U.S.C. 2608).
+An attorney in good standing who is admitted to the practice of law in Indiana and holds a license issued under IC 27-1-15.6 with a title qualification under IC 27-1-15.6-7(a)(8) may complete all or any number of hours of continuing education required by this subsection by completing an equivalent number of hours in continuing legal education courses related to the business of title insurance or any aspect of real property law.
+(c) The following insurance producers are not required to complete continuing education courses to renew a license under this chapter:
+(1) A limited lines producer who is licensed without examination under IC 27-1-15.6-18(1).
+(2) A limited line credit insurance producer.
+(3) A nonresident limited lines producer with a title qualification:
+HEA 1405 - CC 1 31 (A) whose home state requires continuing education for a title qualification; and (B) who has met the continuing education requirements described in clause (A).
+(d) Except as provided in section 2.2 of this chapter, to satisfy the requirements of subsection (a) or (b), a licensee may use only those credit hours earned in continuing education courses completed by the licensee:
+(1) after the effective date of the licensee's last renewal of a license under this chapter; or (2) if the licensee is renewing a license for the first time, after the date on which the licensee was issued the license under this chapter.
+(e) If an insurance producer receives qualification for a license in more than one (1) line of authority under IC 27-1-15.6, the insurance producer may not be required to complete a total of more than twenty-four (24) hours of credit in continuing education courses to renew the license.
+(f) Except as provided in subsection (g), a licensee may receive credit only for completing the following continuing education courses:
+(1) Continuing education courses that have been approved by the commissioner under section 4 of this chapter.
+(2) Continuing education courses that are required for the licensee under IC 27-19-4-14.
+(g) A licensee who teaches a course approved by the commissioner under section 4 of this chapter shall receive continuing education credit for teaching the course.
+(h) When a licensee renews a license issued under this chapter, the licensee must submit:
+(1) a continuing education statement that:
+(A) is in a format authorized by the commissioner;
+(B) is signed by the licensee under oath; and (C) lists the continuing education courses completed by the licensee to satisfy the continuing education requirements of this section; and (2) any other information required by the commissioner.
+(i) A continuing education statement submitted under subsection (h) may be reviewed and audited by the department.
+(j) A licensee shall retain a copy of the original certificate of completion received by the licensee for completion of a continuing education course.
+(k) A licensee who completes a continuing education course that:
+(1) is approved by the commissioner under section 4 of this chapter;
+HEA 1405 - CC 1 32 (2) is held in a classroom setting; and (3) concerns ethics; shall receive continuing education credit not to exceed four (4) hours in a renewal period.
+SECTION 19.
+IC 27-1-15.7-2.2 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 2.2.
+(a) This section applies to the renewal of a license under this chapter after December 31, 2021.
+(b) If a resident insurance producer completed more than twenty-four (24) hours of credit in continuing education courses before the effective date of the producer's last renewal under this chapter of a license issued under IC 27-1-15.6, the producer, instead of completing twenty-four (24) hours of credit in continuing education courses after the effective date of the producer's last license renewal as otherwise required under section 2(d) of this chapter, may satisfy the continuing education requirement of section 2 of this chapter for the producer's next license renewal through a combination of:
+(1) credit for continuing education courses completed by the producer before the effective date of the producer's last license renewal; and (2) credit for continuing education courses completed by the producer after the effective date of the producer's last license renewal.
+(c) To apply toward satisfaction of the continuing education requirement for a producer's next license renewal under subsection (b)(1), credit for a continuing education course completed by the producer before the effective date of the producer's last license renewal must not have applied toward satisfaction of the continuing education requirement for the producer's last license renewal.
+(d) A producer satisfies the continuing education requirement of section 2 of this chapter under subsection (b) for the producer's next license renewal if the sum of:
+(1) the credit hours applied toward the requirement under subsection (b)(1); plus (2) the credit hours applied toward the requirement under subsection (b)(2); is twenty-four (24).
+(e) Not more than twelve (12) hours of credit in continuing education courses completed by a producer before the effective date of the producer's last license renewal may be applied toward satisfying the continuing education requirement of section 2 of this chapter for the producer's next license renewal under subsection (b)(1).
+HEA 1405 - CC 1 33 (f) The credit for a producer's completion of a continuing education course may not be applied toward satisfying the continuing education requirement of section 2 of this chapter under subsection (b)(1) unless the producer completed the continuing education course not more than one hundred twenty (120) days before the effective date of the producer's last license renewal.
+(g) Credit for a producer's completion of a continuing education course on the subject of:
+(1) ethics; or (2) long term care insurance; before the effective date of the producer's last license renewal may not be applied toward satisfying the continuing education requirement of section 2 of this chapter for the producer's next license renewal under subsection (b)(1).
+(h) The credit for a producer's completion of a continuing education course, whether applied toward the continuing education requirement of section 2 of this chapter under subsection (b)(1), subsection (b)(2), or section 2(d) of this chapter, may be applied toward the requirement only once.
+(i) The commissioner shall adopt rules under IC 4-22-2 to implement this section.
+SECTION 20.
+IC 27-1-20-30 IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 30.
+(a) This section does not prohibit activities allowed under IC 27-1-47.
+(a) (b) No company acting through its officers or members, attorney-in-fact, or by any other party, no officer of a company acting on the officer's own behalf and no insurance producer, broker, or solicitor, personally or by any other party, shall offer, promise, allow, give, set off or pay, directly or indirectly, any rebate of or part of the premium payable on a policy, or any insurance producer's commission thereon, or earnings, profits, dividends or other benefits founded, arising, accruing, or to accrue thereon or therefrom, or any special advantage in date of policy or age of issue, or any paid employment or contract for services of any kind, or any other valuable consideration or inducement, to or for insurance on any risk in this state, now or hereafter to be written, or for or upon any renewal of any such insurance, which is not specified in the policy contract of insurance, or offer, promise, give, option, sell or purchase any stocks, bonds, securities, or property, or any dividends or profits accruing or to accrue thereon, or other thing of value whatsoever as inducement to insurance or in connection therewith, or any renewal thereof, which is not specified in the policy.
+Nothing in this section shall prevent a company which transacts industrial life insurance on a weekly payment plan from returning to policyholders who have made a premium payment for HEA 1405 - CC 1 34 a period of at least one (1) year directly to the company at its home or district office a percentage of premium which the company would otherwise have paid for the weekly collection of such premium, nor shall this section be construed to prevent the taking of a bona fide obligation, with legal interest, in payment of any premium.
+(b) (c) No insured person or party or applicant for insurance shall directly or indirectly, receive or accept, or agree to receive or accept, any rebate of premium or of any part thereof, or all or any part of any insurance producer's or broker's commission thereon, or any favor or advantage, or share in any benefit to accrue under any policy of insurance, or any valuable consideration or inducement, other than such as are specified in the policy.
+SECTION 21.
+IC 27-1-22-18 IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 18.
+(a) This section does not prohibit activities allowed under IC 27-1-47.
+(b) No insurer, broker, or insurance producer shall knowingly charge, demand, or receive a premium for any policy of insurance except in accordance with the provisions of this chapter.
+No insurer or employee thereof, and no broker or insurance producer shall pay, allow, or give, directly or indirectly, as an inducement to insurance, or after insurance has been effected, any rebate, discount, abatement, credit, or reduction of the premium named in a policy of insurance, or any special favor or advantage in the dividends or other benefits to accrue thereon, or any valuable consideration or inducement whatever, not specified in the policy of insurance, except to the extent provided for in applicable filings.
+No insured named in any policy of insurance shall knowingly receive or accept, directly or indirectly, any such rebate, discount, abatement, credit or reduction of premium, or any such special favor or advantage or valuable consideration or inducement.
+Nothing in this section shall be construed as prohibiting the payment of, nor permitting the regulation of the payment of, commissions or other compensation to duly licensed insurance producers and brokers, nor as prohibiting, or permitting the regulation of, any insurer from allowing or returning to its participating policyholders or members, dividends or savings.
+SECTION 22.
+IC 27-1-24.5-19, AS AMENDED BY THE TECHNICAL CORRECTIONS BILL OF THE 2021 GENERAL ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 19.
+(a) A pharmacy benefit manager shall provide equal access and incentives to all pharmacies within the pharmacy benefit manager's network.
+(b) A pharmacy benefit manager may not do any of the following:
+(1) Condition participation in any network on accreditation, credentialing, or licensing of a pharmacy, provider that, other than HEA 1405 - CC 1 35 a license or permit required by the Indiana board of pharmacy or other state or federal regulatory authority for the services provided by the pharmacy.
+However, nothing in this subdivision precludes the department from providing credentialing or accreditation standards for pharmacies.
+(2) Discriminate against any pharmacy. provider.
+(3) Directly or indirectly retroactively deny a claim or aggregate of claims after the claim or aggregate of claims has been adjudicated, unless any of the following apply:
+(A) The original claim was submitted fraudulently.
+(B) The original claim payment was incorrect because the pharmacy or pharmacist had already been paid for the drug.
+(C) The pharmacist services were not properly rendered by the pharmacy or pharmacist.
+(4) Reduce, directly or indirectly, payment to a pharmacy for pharmacist services to an effective rate of reimbursement, including permitting an insurer or plan sponsor to make such a reduction.
+(5) Reimburse a pharmacy that is affiliated with the pharmacy benefit manager, other than solely being included in the pharmacy benefit manager's network, at a greater reimbursement rate than other pharmacies in the same network.
+(6) Impose limits, including quantity limits or refill frequency limits, on a pharmacy's access to medication that differ from those existing for a pharmacy benefit manager affiliate.
+(7) Share any covered individual's information, including de-identified covered individual information, received from a pharmacy or pharmacy benefit manager affiliate, except as permitted by the federal Health Insurance Portability and Accountability Act (HIPAA) (P.L.104-191).
+A violation of this subsection by a pharmacy benefit manager constitutes an unfair or deceptive act or practice in the business of insurance under IC 27-4-1-4.
+SECTION 23.
+IC 27-1-24.5-19.5 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 19.5.
+(a) This section:
+(1) applies to a Medicaid managed care organization (as defined in 42 U.S.C. 1396b(m)); and (2) does not apply to the state Medicaid program when Medicaid provides reimbursement for covered outpatient drugs (as defined in 42 U.S.C. 1396r-8(k)) on a fee for service basis.
+(b) As used in this section, "340B covered entity" means an entity authorized to participate in the federal 340B Drug Pricing HEA 1405 - CC 1 36 Program under Section 340B(a)(4) of the federal Public Health Service Act (42 U.S.C. 256b(a)(4)) and includes any pharmacy under contract with the entity to dispense drugs on behalf of the entity.
+(c) The following provisions may not be contained in a contract between a pharmacy benefit manager and a 340B covered entity:
+(1) A reimbursement rate for a prescription drug that would diminish the 340B benefit to a 340B covered entity.
+(2) A fee or adjustment that is not imposed on a pharmacy that is not a 340B covered entity.
+(3) A fee or adjustment amount that exceeds the fee or adjustment amount imposed on a pharmacy that is not a 340B covered entity.
+(4) Any provision that prevents or interferes with an individual's choice to receive a prescription drug from a 340B covered entity, including the administration of the drug.
+(5) Any provision that excludes a 340B covered entity from pharmacy benefit manager networks based on the 340B covered entity's participation in the federal 340B Drug Pricing Program.
+(6) Any provision that discriminates against a 340B covered entity.
+A violation of this subsection by a pharmacy benefit manager constitutes an unfair or deceptive act or practice in the business of insurance under IC 27-4-1-4.
+(d) For contracts between a pharmacy benefit manager and a 340B covered entity that are entered into, amended, or renewed after June 30, 2021, a provision that violates subsection (c) is considered void and unenforceable.
+SECTION 24.
+IC 27-1-24.5-22, AS AMENDED BY THE TECHNICAL CORRECTIONS BILL OF THE 2021 GENERAL ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 22.
+(a) A pharmacy benefit manager shall do the following:
+(1) Identify to contracted:
+(A) pharmacy service administration services administrative organizations; or (B) pharmacies if the pharmacy benefit manager contracts directly with pharmacies; the sources used by the pharmacy benefit manager to calculate the drug product reimbursement paid for covered drugs available under the pharmacy health benefit plan administered by the pharmacy benefit manager.
+(2) Establish an appeal process for contracted pharmacies, pharmacy services administrative organizations, or group HEA 1405 - CC 1 37 purchasing organizations to appeal and resolve disputes concerning the maximum allowable cost pricing.
+(3) Update and make available to pharmacies:
+(A) at least every forty-five (45) seven (7) days; or (B) in a different time frame if contracted between a pharmacy benefit manager and a pharmacy; the pharmacy benefit manager's maximum allowable cost list.
+(4) Determine that a prescription drug:
+(A) is not obsolete;
+(B) is generally available for purchase by pharmacies in Indiana from a national or regional wholesaler licensed in Indiana; and (C) is not:
+(i) temporarily unavailable;
+(ii) listed on a drug shortage list; or (iii) unable to be lawfully substituted; before the prescription drug is placed or continued on a maximum allowable cost list.
+(b) The appeal process required by subsection (a)(2) must include the following:
+(1) The right to appeal a claim not to exceed sixty (60) days following the initial filing of the claim.
+(2) The investigation and resolution of a filed appeal by the pharmacy benefit manager in a time frame determined by the commissioner.
+(3) If an appeal is denied, a requirement that the pharmacy benefit manager provide the reason for the denial. do the following:
+(A) Provide the reason for the denial.
+(B) Provide the appealing contracted pharmacy, pharmacy services administrative organization, or group purchasing organization with the national drug code number of the prescription drug that is available from a national or regional wholesaler operating in Indiana.
+(4) If an appeal is approved, a requirement that the pharmacy benefit manager do the following:
+(A) Change the maximum allowable cost of the drug for the pharmacy that filed the appeal as of the initial date of service that the appealed drug was dispensed.
+(B) Adjust the maximum allowable cost of the drug for the appealing pharmacy and for all other contracted pharmacies in the same network of the pharmacy benefit manager that filled a prescription for patients covered under the same health benefit plan beginning on the initial date of service the appealed drug was dispensed.
+HEA 1405 - CC 1 38 (C) Notify each pharmacy in the pharmacy benefit manager's network that the maximum allowable cost for the drug has been adjusted as a result of an approved appeal.
+(C) (D) Adjust the drug product reimbursement for contracted pharmacies that resubmit claims to reflect the adjusted maximum allowable cost, if applicable.
+(D) (E) Allow the appealing pharmacy and all other contracted pharmacies in the network that filled the prescriptions for patients covered under the same health benefit plan to reverse and resubmit claims and receive payment based on the adjusted maximum allowable cost from the initial date of service the appealed drug was dispensed.
+(E) (F) Make retroactive price adjustments in the next payment cycle unless otherwise agreed to by the pharmacy.
+(5) The establishment of procedures for auditing submitted claims by a contract contracted pharmacy in a manner established by administrative rules under IC 4-22-2 by the department.
+The auditing procedures:
+(A) may not use extrapolation or any similar methodology;
+(B) may not allow for recovery by a pharmacy benefit manager of a submitted claim due to clerical or other error where the patient has received the drug for which the claim was submitted;
+(C) must allow for recovery by a contract contracted pharmacy for underpayments by the pharmacy benefit manager; and (D) may only allow for the pharmacy benefit manager to recover overpayments on claims that are actually audited and discovered to include a recoverable error.
+(c) The department must approve the manner in which a pharmacy benefit manager may respond to an appeal filed under this section.
+The department shall establish a process for a pharmacy benefit manager to obtain approval from the department under this section.
+SECTION 25.
+IC 27-1-24.5-22.6 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 22.6.
+(a) If a pharmacy benefit manager denies an appeal under section 22(a)(2) of this chapter, the appealing contracted pharmacy, pharmacy services administrative organization, or group purchasing organization may file a complaint with the department not later than thirty (30) days from the date of the denial.
+The department may request additional information from either party as necessary to resolve a complaint.
+HEA 1405 - CC 1 39 (b) If a contracted pharmacy or pharmacy services administrative organization believes that its contract with a pharmacy benefit manager contains an unlawful contractual provision regarding reimbursement rates, the contracted pharmacy or pharmacy services administrative organization may file a complaint with the department.
+(c) A pharmacy benefit manager that receives written notice of a complaint filed under this section shall promptly conduct an investigation of the matters alleged in the complaint.
+Not later than twenty (20) business days after the date of the complaint, the pharmacy benefit manager shall provide to the department and the complaining party a written report containing the following information:
+(1) The specific actions taken by the pharmacy benefit manager with respect to:
+(A) the appeal, for a complaint filed under subsection (a); or (B) the contract, for a complaint filed under subsection (b).
+(2) A good faith estimate of the time required for a resolution of the complaint.
+(d) If a pharmacy believes that its contract with a pharmacy services administrative organization contains an unlawful contractual provision regarding reimbursement rates, the pharmacy may file a complaint with the department.
+(e) The department shall establish a process for complaints filed under this section.
+SECTION 26.
+IC 27-1-31-2 IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 2.
+(a) An insurer may not cancel a policy of insurance that the insurer has written that has been in effect more than ninety (90) days unless:
+(1) the insured under the policy has failed to pay the premium;
+(2) there is a substantial change in the scale of risk covered by the policy;
+(3) the insured has perpetrated a fraud or material misrepresentation upon the insurer;
+(4) the insured has failed to comply with reasonable safety recommendations; or (5) reinsurance of the risk associated with the policy has been cancelled.
+(b) An insurer shall provide mail a written notice of cancellation to a person insured under a policy issued by the insurer at least:
+(1) forty-five (45) days before cancelling the policy for any reason set forth in subsection (a)(2), (a)(4), or (a)(5);
+(2) twenty (20) days before cancelling the policy for the reason set forth in subsection (a)(3); or HEA 1405 - CC 1 40 (3) ten (10) days before cancelling the policy for the reason set forth in subsection (a)(1).
+SECTION 27.
+IC 27-1-31-2.5 IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 2.5.
+An insurer may cancel a policy of insurance that the insurer has written that has been in effect ninety (90) days or less by providing mailing a written notice of cancellation to a person insured under the policy at least:
+(1) ten (10) days before cancelling if an insured has failed to pay a premium;
+(2) twenty (20) days before cancelling if the insured has perpetrated a fraud or material misrepresentation upon the insurer; or (3) thirty (30) days before cancelling for any other reason.
+SECTION 28.
+IC 27-1-31-3, AS AMENDED BY P.L.148-2017, SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 3.
+(a) If an insurer refuses to renew a policy of insurance written by the insurer, the insurer shall provide mail written notice of nonrenewal to the insured:
+(1) at least forty-five (45) days before the expiration date of the policy, if the coverage provided is for one (1) year, or less; or (2) at least forty-five (45) days before the anniversary date of the policy, if the coverage provided is for more than one (1) year.
+(b) A notice of nonrenewal is not required if:
+(1) the insured is transferred from an insurer to an affiliate of the insurer for future coverage; and (2) the transfer results in the same or broader coverage.
+SECTION 29.
+IC 27-1-43-3, AS ADDED BY P.L.119-2014, SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 3.
+(a) As used in this section, "online platform" means a web site or other digital application designed to facilitate the purchase of insurance policies by parties from a licensed insurer.
+(a) (b) Except as provided in subsection (c), (d), a notice to a party, or another document, that:
+(1) is legally required in an insurance transaction; or (2) serves as evidence of insurance coverage; may be electronically delivered, stored, and presented in compliance with IC 26-2-8.
+(b) (c) Electronic delivery of a notice or document under this section is considered to be equivalent to any legally required delivery method, including delivery by:
+(1) first class mail;
+(2) first class mail, postage prepaid;
+(3) certified mail;
+HEA 1405 - CC 1 41 (4) certificate of mail; or (5) certificate of mailing.
+(c) (d) Except as provided in subsection (e), electronic delivery of a notice or document by an insurer to a party is permitted under this chapter if all the following apply:
+(1) The party has affirmatively consented to electronic delivery and has not withdrawn the consent.
+(2) The party, before giving consent, is provided with a clear and conspicuous statement informing the party of all the following:
+(A) Any right or option of the party to have the notice or document provided or made available in paper or another nonelectronic form.
+(B) The right of the party to withdraw consent to electronic delivery of a notice or document and any fees, conditions, or consequences that will be imposed on the party if the party withdraws consent.
+(C) Whether the party's consent applies:
+(i) only to the particular transaction as to which the notice or document must be given; or (ii) to identified categories of notices or documents subject to electronic delivery during the course of the party's relationship with the insurer.
+(D) The:
+(i) means, after consent is given, by which the party may obtain a paper copy of an electronically delivered notice or document; and (ii) applicable fee for the paper copy.
+(E) The procedure the party must follow to:
+(i) withdraw consent to electronic delivery of a notice or document; and (ii) update information needed to contact the party electronically.
+(3) The party:
+(A) before giving consent, is provided with a statement of the hardware and software requirements for access to and retention of an electronically delivered notice or document; and (B) electronically:
+(i) consents; or (ii) confirms consent; in a manner that reasonably demonstrates that the party is able to access information in the electronic form that will be used for electronic delivery of notices or documents to which the party has given consent.
+HEA 1405 - CC 1 42 (4) If, after the party has consented to electronic delivery of notices or documents, a change in the hardware or software requirements needed for the party to access or retain an electronically delivered notice or document creates a material risk that the party will not be able to access or retain a subsequent notice or document to which the consent applies, the insurer:
+(A) provides the party with a statement of the:
+(i) revised hardware and software requirements for access to and retention of an electronically delivered notice or document; and (ii) right of the party to withdraw consent without the imposition of a fee, condition, or consequence that was not disclosed under subdivision (2)(B); and (B) complies with subdivision (2).
+(e) Notwithstanding any other provision of this chapter, if a party procures a policy of insurance through an online platform:
+(1) the party affirmatively consents to have all notices and other documents related to the policy delivered to the party electronically; and (2) the conditions set forth in subsection (d)(2) through (d)(4) do not apply to the electronic delivery to the party of notices and other documents related to the policy procured through the online platform.
+However, if a party described in this subsection requests to receive notices and documents in paper format, the insurer shall provide all notices and other documents related to the policy to the party in paper format.
+SECTION 30.
+IC 27-1-43-4, AS ADDED BY P.L.119-2014, SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 4.
+(a) This chapter does not affect any applicable legal requirement related to content or timing of a notice or document.
+(b) If another law requiring a notice or document to be provided to a party expressly requires verification or acknowledgment of receipt of the notice or document, electronic delivery of the notice or document is permitted only if the method of electronic delivery provides for verification or acknowledgment of receipt.
+(c) The legal effectiveness, validity, or enforceability of a contract or policy of insurance executed by a party may not be denied solely because of the failure of the insurer to obtain electronic consent or confirmation of consent of the party in accordance with section 3(c)(3)(B) 3(d)(3)(B) of this chapter.
+SECTION 31.
+IC 27-1-43-5, AS ADDED BY P.L.119-2014, SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 5.
+(a) A withdrawal of consent by a party does not HEA 1405 - CC 1 43 affect the legal effectiveness, validity, or enforceability of a notice or document that is electronically delivered to the party before the withdrawal of consent is effective.
+(b) A withdrawal of consent by a party is effective thirty (30) days after the insurer receives notice of the withdrawal.
+(c) An insurer's failure to comply with section 3(c)(4) 3(d)(4) of this chapter is, at the election of the party, considered to be a withdrawal of the party's consent under this chapter.
+SECTION 32.
+IC 27-1-43.2-5, AS ADDED BY P.L.129-2014, SECTION 10, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 5.
+(a) As used in this chapter, "provider" means a person who is contractually obligated to a holder under a service contract.
+(b) A merchant or other seller of a service contract is not a "provider" for the purposes of this chapter by virtue of acting as the seller of the service contract.
+SECTION 33.
+IC 27-1-47 IS ADDED TO THE INDIANA CODE AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Chapter 47.
+Activities Not Prohibited as Rebates Sec. 1.
+(a) The following definitions apply throughout this section:
+(1) "Drawing" means an activity in which:
+(A) multiple participating persons could possibly receive a prize; and (B) the person or persons who receive a prize are determined by chance, as by randomly drawing one (1) or more names or numbers from among many names or numbers.
+(2) "Gift" means the voluntary transfer of anything of value without consideration.
+(3) "Prize" means something of value received by a person as the result of a drawing.
+(b) Notwithstanding any other provision of this title, an insurer, an employee of an insurer, or a producer may do the following:
+(1) Offer and give one (1) or more gifts to a person in connection with marketing for the sale or retention of a contract of insurance if the reasonable value of all gifts given by the insurer, employee, or producer to a person in one (1) year does not exceed two hundred fifty dollars ($250).
+(2) Conduct a drawing if:
+(A) persons participating in the drawing do not pay or incur a cost for their participation; and (B) the value of the prize or prizes received by any single person participating in the drawing does not exceed five HEA 1405 - CC 1 44 hundred dollars ($500).
+(c) Neither:
+(1) a gift given under subsection (b)(1); nor (2) a prize received in a drawing conducted under subsection (b)(2); may be in the form of cash.
+Sec. 2.
+(a) An insurer, by or through its employees, affiliates, insurance producers, or third-party representatives, or an insurance producer acting on the insurance producer's own behalf, may offer or provide, for free or at a discounted price, products or services:
+(1) that relate to or are provided in conjunction with a policy of insurance; and (2) that:
+(A) are primarily intended to:
+(i) educate about;
+(ii) assess;
+(iii) monitor;
+(iv) control; or (v) prevent; risk of loss to persons or to persons' lives, health, or property; or (B) have a nexus to or enhance the value of the insurance benefits of the policy.
+(b) Offering or providing products or services under this section is not a violation of IC 27-1-20-30, IC 27-1-22-18, or IC 27-4-1-4(a)(8).
+Sec. 3.
+(a) Subject to subsection (b), a person holding a license under this title may offer or provide, for free or for less than fair market value, services that are at least tangentially related to an insurance contract or the administration of an insurance contract if the services:
+(1) are not contingent upon the purchase of insurance; and (2) are offered on the same terms to all potential insurance customers.
+(b) Before:
+(1) the recipient of services described in subsection (a):
+(A) receives a quote of insurance; or (B) purchases insurance; or (2) an agent of record is assigned to the recipient of the services; the person offering or providing services under subsection (a) must disclose conspicuously in writing to the recipient of the services that receiving the services is not contingent on the purchase of insurance.
+HEA 1405 - CC 1 45 Sec. 4.
+The insurance commissioner may adopt rules under IC 4-22-2 to administer this chapter.
+SECTION 34.
+IC 27-4-1-4, AS AMENDED BY HEA 1079-2021, SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 4.
+(a) The following are hereby defined as unfair methods of competition and unfair and deceptive acts and practices in the business of insurance:
+(1) Making, issuing, circulating, or causing to be made, issued, or circulated, any estimate, illustration, circular, or statement:
+(A) misrepresenting the terms of any policy issued or to be issued or the benefits or advantages promised thereby or the dividends or share of the surplus to be received thereon;
+(B) making any false or misleading statement as to the dividends or share of surplus previously paid on similar policies;
+(C) making any misleading representation or any misrepresentation as to the financial condition of any insurer, or as to the legal reserve system upon which any life insurer operates;
+(D) using any name or title of any policy or class of policies misrepresenting the true nature thereof; or (E) making any misrepresentation to any policyholder insured in any company for the purpose of inducing or tending to induce such policyholder to lapse, forfeit, or surrender the policyholder's insurance.
+(2) Making, publishing, disseminating, circulating, or placing before the public, or causing, directly or indirectly, to be made, published, disseminated, circulated, or placed before the public, in a newspaper, magazine, or other publication, or in the form of a notice, circular, pamphlet, letter, or poster, or over any radio or television station, or in any other way, an advertisement, announcement, or statement containing any assertion, representation, or statement with respect to any person in the conduct of the person's insurance business, which is untrue, deceptive, or misleading.
+(3) Making, publishing, disseminating, or circulating, directly or indirectly, or aiding, abetting, or encouraging the making, publishing, disseminating, or circulating of any oral or written statement or any pamphlet, circular, article, or literature which is false, or maliciously critical of or derogatory to the financial condition of an insurer, and which is calculated to injure any person engaged in the business of insurance.
+(4) Entering into any agreement to commit, or individually or by a concerted action committing any act of boycott, coercion, or HEA 1405 - CC 1 46 intimidation resulting or tending to result in unreasonable restraint of, or a monopoly in, the business of insurance.
+(5) Filing with any supervisory or other public official, or making, publishing, disseminating, circulating, or delivering to any person, or placing before the public, or causing directly or indirectly, to be made, published, disseminated, circulated, delivered to any person, or placed before the public, any false statement of financial condition of an insurer with intent to deceive.
+Making any false entry in any book, report, or statement of any insurer with intent to deceive any agent or examiner lawfully appointed to examine into its condition or into any of its affairs, or any public official to which such insurer is required by law to report, or which has authority by law to examine into its condition or into any of its affairs, or, with like intent, willfully omitting to make a true entry of any material fact pertaining to the business of such insurer in any book, report, or statement of such insurer.
+(6) Issuing or delivering or permitting agents, officers, or employees to issue or deliver, agency company stock or other capital stock, or benefit certificates or shares in any common law corporation, or securities or any special or advisory board contracts or other contracts of any kind promising returns and profits as an inducement to insurance.
+(7) Making or permitting any of the following:
+(A) Unfair discrimination between individuals of the same class and equal expectation of life in the rates or assessments charged for any contract of life insurance or of life annuity or in the dividends or other benefits payable thereon, or in any other of the terms and conditions of such contract.
+However, in determining the class, consideration may be given to the nature of the risk, plan of insurance, the actual or expected expense of conducting the business, or any other relevant factor.
+(B) Unfair discrimination between individuals of the same class involving essentially the same hazards in the amount of premium, policy fees, assessments, or rates charged or made for any policy or contract of accident or health insurance or in the benefits payable thereunder, or in any of the terms or conditions of such contract, or in any other manner whatever.
+However, in determining the class, consideration may be given to the nature of the risk, the plan of insurance, the actual or expected expense of conducting the business, or any other relevant factor.
+(C) Excessive or inadequate charges for premiums, policy fees, assessments, or rates, or making or permitting any unfair HEA 1405 - CC 1 47 discrimination between persons of the same class involving essentially the same hazards, in the amount of premiums, policy fees, assessments, or rates charged or made for:
+(i) policies or contracts of reinsurance or joint reinsurance, or abstract and title insurance;
+(ii) policies or contracts of insurance against loss or damage to aircraft, or against liability arising out of the ownership, maintenance, or use of any aircraft, or of vessels or craft, their cargoes, marine builders' risks, marine protection and indemnity, or other risks commonly insured under marine, as distinguished from inland marine, insurance; or (iii) policies or contracts of any other kind or kinds of insurance whatsoever.
+However, nothing contained in clause (C) shall be construed to apply to any of the kinds of insurance referred to in clauses (A) and (B) nor to reinsurance in relation to such kinds of insurance.
+Nothing in clause (A), (B), or (C) shall be construed as making or permitting any excessive, inadequate, or unfairly discriminatory charge or rate or any charge or rate determined by the department or commissioner to meet the requirements of any other insurance rate regulatory law of this state.
+(8) Except as otherwise expressly provided by IC 27-1-47 or another law, knowingly permitting or offering to make or making any contract or policy of insurance of any kind or kinds whatsoever, including but not in limitation, life annuities, or agreement as to such contract or policy other than as plainly expressed in such contract or policy issued thereon, or paying or allowing, or giving or offering to pay, allow, or give, directly or indirectly, as inducement to such insurance, or annuity, any rebate of premiums payable on the contract, or any special favor or advantage in the dividends, savings, or other benefits thereon, or any valuable consideration or inducement whatever not specified in the contract or policy; or giving, or selling, or purchasing or offering to give, sell, or purchase as inducement to such insurance or annuity or in connection therewith, any stocks, bonds, or other securities of any insurance company or other corporation, association, limited liability company, or partnership, or any dividends, savings, or profits accrued thereon, or anything of value whatsoever not specified in the contract.
+Nothing in this subdivision and subdivision (7) shall be construed as including within the definition of discrimination or rebates any of the following practices:
+(A) Paying bonuses to policyholders or otherwise abating their premiums in whole or in part out of surplus accumulated from HEA 1405 - CC 1 48 nonparticipating insurance, so long as any such bonuses or abatement of premiums are fair and equitable to policyholders and for the best interests of the company and its policyholders.
+(B) In the case of life insurance policies issued on the industrial debit plan, making allowance to policyholders who have continuously for a specified period made premium payments directly to an office of the insurer in an amount which fairly represents the saving in collection expense.
+(C) Readjustment of the rate of premium for a group insurance policy based on the loss or expense experience thereunder, at the end of the first year or of any subsequent year of insurance thereunder, which may be made retroactive only for such policy year.
+(D) Paying by an insurer or insurance producer thereof duly licensed as such under the laws of this state of money, commission, or brokerage, or giving or allowing by an insurer or such licensed insurance producer thereof anything of value, for or on account of the solicitation or negotiation of policies or other contracts of any kind or kinds, to a broker, an insurance producer, or a solicitor duly licensed under the laws of this state, but such broker, insurance producer, or solicitor receiving such consideration shall not pay, give, or allow credit for such consideration as received in whole or in part, directly or indirectly, to the insured by way of rebate.
+(9) Requiring, as a condition precedent to loaning money upon the security of a mortgage upon real property, that the owner of the property to whom the money is to be loaned negotiate any policy of insurance covering such real property through a particular insurance producer or broker or brokers.
+However, this subdivision shall not prevent the exercise by any lender of the lender's right to approve or disapprove of the insurance company selected by the borrower to underwrite the insurance.
+(10) Entering into any contract, combination in the form of a trust or otherwise, or conspiracy in restraint of commerce in the business of insurance.
+(11) Monopolizing or attempting to monopolize or combining or conspiring with any other person or persons to monopolize any part of commerce in the business of insurance.
+However, participation as a member, director, or officer in the activities of any nonprofit organization of insurance producers or other workers in the insurance business shall not be interpreted, in itself, to constitute a combination in restraint of trade or as combining to create a monopoly as provided in this subdivision and subdivision (10).
+The enumeration in this chapter of specific HEA 1405 - CC 1 49 unfair methods of competition and unfair or deceptive acts and practices in the business of insurance is not exclusive or restrictive or intended to limit the powers of the commissioner or department or of any court of review under section 8 of this chapter.
+(12) Requiring as a condition precedent to the sale of real or personal property under any contract of sale, conditional sales contract, or other similar instrument or upon the security of a chattel mortgage, that the buyer of such property negotiate any policy of insurance covering such property through a particular insurance company, insurance producer, or broker or brokers.
+However, this subdivision shall not prevent the exercise by any seller of such property or the one making a loan thereon of the right to approve or disapprove of the insurance company selected by the buyer to underwrite the insurance.
+(13) Issuing, offering, or participating in a plan to issue or offer, any policy or certificate of insurance of any kind or character as an inducement to the purchase of any property, real, personal, or mixed, or services of any kind, where a charge to the insured is not made for and on account of such policy or certificate of insurance.
+However, this subdivision shall not apply to any of the following:
+(A) Insurance issued to credit unions or members of credit unions in connection with the purchase of shares in such credit unions.
+(B) Insurance employed as a means of guaranteeing the performance of goods and designed to benefit the purchasers or users of such goods.
+(C) Title insurance.
+(D) Insurance written in connection with an indebtedness and intended as a means of repaying such indebtedness in the event of the death or disability of the insured.
+(E) Insurance provided by or through motorists service clubs or associations.
+(F) Insurance that is provided to the purchaser or holder of an air transportation ticket and that:
+(i) insures against death or nonfatal injury that occurs during the flight to which the ticket relates;
+(ii) insures against personal injury or property damage that occurs during travel to or from the airport in a common carrier immediately before or after the flight;
+(iii) insures against baggage loss during the flight to which the ticket relates; or (iv) insures against a flight cancellation to which the ticket HEA 1405 - CC 1 50 relates.
+(14) Refusing, because of the for-profit status of a hospital or medical facility, to make payments otherwise required to be made under a contract or policy of insurance for charges incurred by an insured in such a for-profit hospital or other for-profit medical facility licensed by the state department of health.
+(15) Refusing to insure an individual, refusing to continue to issue insurance to an individual, limiting the amount, extent, or kind of coverage available to an individual, or charging an individual a different rate for the same coverage, solely because of that individual's blindness or partial blindness, except where the refusal, limitation, or rate differential is based on sound actuarial principles or is related to actual or reasonably anticipated experience.
+(16) Committing or performing, with such frequency as to indicate a general practice, unfair claim settlement practices (as defined in section 4.5 of this chapter).
+(17) Between policy renewal dates, unilaterally canceling an individual's coverage under an individual or group health insurance policy solely because of the individual's medical or physical condition.
+(18) Using a policy form or rider that would permit a cancellation of coverage as described in subdivision (17).
+(19) Violating IC 27-1-22-25, IC 27-1-22-26, or IC 27-1-22-26.1 concerning motor vehicle insurance rates.
+(20) Violating IC 27-8-21-2 concerning advertisements referring to interest rate guarantees.
+(21) Violating IC 27-8-24.3 concerning insurance and health plan coverage for victims of abuse.
+(22) Violating IC 27-8-26 concerning genetic screening or testing.
+(23) Violating IC 27-1-15.6-3(b) concerning licensure of insurance producers.
+(24) Violating IC 27-1-38 concerning depository institutions.
+(25) Violating IC 27-8-28-17(c) or IC 27-13-10-8(c) concerning the resolution of an appealed grievance decision.
+(26) Violating IC 27-8-5-2.5(e) through IC 27-8-5-2.5(j) (expired July 1, 2007, and removed) or IC 27-8-5-19.2 (expired July 1, 2007, and repealed).
+(27) Violating IC 27-2-21 concerning use of credit information.
+(28) Violating IC 27-4-9-3 concerning recommendations to consumers.
+(29) Engaging in dishonest or predatory insurance practices in marketing or sales of insurance to members of the United States Armed Forces as:
+HEA 1405 - CC 1 51 (A) described in the federal Military Personnel Financial Services Protection Act, P.L.109-290; or (B) defined in rules adopted under subsection (b).
+(30) Violating IC 27-8-19.8-20.1 concerning stranger originated life insurance.
+(31) Violating IC 27-2-22 concerning retained asset accounts.
+(32) Violating IC 27-8-5-29 concerning health plans offered through a health benefit exchange (as defined in IC 27-19-2-8).
+(33) Violating a requirement of the federal Patient Protection and Affordable Care Act (P.L. 111-148), as amended by the federal Health Care and Education Reconciliation Act of 2010 (P.L. 111-152), that is enforceable by the state.
+(34) After June 30, 2015, violating IC 27-2-23 concerning unclaimed life insurance, annuity, or retained asset account benefits.
+(35) Willfully violating IC 27-1-12-46 concerning a life insurance policy or certificate described in IC 27-1-12-46(a).
+(36) Violating IC 27-1-37-7 concerning prohibiting the disclosure of health care service claims data.
+(37) Violating IC 27-4-10-10 concerning virtual claims payments.
+(38) Violating IC 27-1-24.5 concerning pharmacy benefit managers.
+(b) Except with respect to federal insurance programs under Subchapter III of Chapter 19 of Title 38 of the United States Code, the commissioner may, consistent with the federal Military Personnel Financial Services Protection Act (10 U.S.C. 992 note), adopt rules under IC 4-22-2 to:
+(1) define; and (2) while the members are on a United States military installation or elsewhere in Indiana, protect members of the United States Armed Forces from; dishonest or predatory insurance practices.
+SECTION 35.
+IC 27-7-6-5 IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 5.
+(a) No A notice of cancellation of a policy to which section 4 of this chapter applies shall be is not effective:
+(1) unless it is mailed or delivered by the insurer to the named insured at least twenty (20) days prior to the effective date of cancellation; provided, however, that where or (2) if the cancellation is for nonpayment of premium, unless it is:
+(A) mailed by the insurer to the named insured at least ten (10) days notice before the effective date of cancellation; and (B) accompanied by the a written statement of the reason therefor shall be given. for the cancellation.
+HEA 1405 - CC 1 52 (b) In the event such If a policy was procured by an independent insurance producer duly licensed by the state of Indiana, notice of intent to cancel the policy shall be mailed or delivered to the independent insurance producer at least ten (10) days prior to such the mailing or delivery of the notice of cancellation to the named insured under subsection (a), unless such notice of intent to cancel is or has been waived in writing by the independent insurance producer.
+(c) Unless a written statement of the reason for the cancellation accompanies or is included in the notice of cancellation, the notice of cancellation of a policy that is mailed under subsection (a) shall state or be accompanied by a statement that, upon the written request of the named insured that is mailed or delivered to the insurer not less than fifteen (15) days prior to the effective date of cancellation, the insurer will specify the reason for such cancellation.
+(d) This section shall does not apply to nonrenewal.
+SECTION 36.
+IC 27-7-6-6, AS AMENDED BY P.L.148-2017, SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 6.
+(a) No An insurer shall not fail to renew a policy unless it shall mail or deliver mails to the named insured, at the address shown in the policy, at least twenty (20) days advance notice of its intention not to renew the policy.
+(b) In the event such If a policy was procured by an independent insurance producer duly licensed by the state of Indiana, a notice of intent not to renew the policy shall be mailed or delivered to the independent insurance producer at least ten (10) days prior to such the mailing or delivery of the notice of intention not to renew to the named insured under subsection (a), unless such notice of intent is or has been waived in writing by the independent insurance producer.
+(b) (c) This section shall does not apply:
+(1) if the insurer has manifested its willingness to renew; or (2) in case of nonpayment of premium.
+However, notwithstanding the failure of an insurer to comply with this section, the policy shall terminate on the effective date of any other insurance policy with respect to any automobile designated in both policies.
+(c) (d) A notice of intention not to renew is not required under this section if:
+(1) the insured is transferred from an insurer to an affiliate of the insurer for future coverage; and (2) the transfer results in the same or broader coverage.
+(d) (e) Renewal of a policy shall not constitute a waiver or estoppel with respect to grounds for cancellation which existed before the effective date of such renewal.
+SECTION 37.
+IC 27-7-12-3, AS AMENDED BY P.L.116-2011, HEA 1405 - CC 1 53 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 3.
+(a) Notice of cancellation of property insurance coverage by an insurer must:
+(1) be in writing;
+(2) be delivered or mailed to the named insured at the last known address of the named insured;
+(3) state the effective date of the cancellation; and (4) upon request of the named insured, be accompanied by a written explanation of the specific reasons for the cancellation.
+(b) An insurer shall provide mail written notice of cancellation to the named insured at least:
+(1) ten (10) days before canceling a policy, if the cancellation is for nonpayment of a premium;
+(2) twenty (20) days before canceling a policy, if:
+(A) the cancellation occurs more than sixty (60) days after the date of issuance of the policy; or (B) the insurer has received a copy of a complaint under IC 32-30-10.5-8(d)(2) concerning the property; and (3) ten (10) days before canceling a policy, if the cancellation occurs not more than sixty (60) days after the date of issuance of the policy.
+(c) If the policy was procured by an independent insurance producer licensed in Indiana, the insurer shall deliver or mail notice of cancellation to the insurance producer not less than ten (10) days before the insurer delivers or mails the notice to the named insured, unless the obligation to notify the insurance producer is waived in writing by the insurance producer.
+SECTION 38.
+IC 27-7-12-4, AS AMENDED BY P.L.148-2017, SECTION 17, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 4.
+(a) Notice of nonrenewal by an insurer must:
+(1) be in writing;
+(2) be delivered or mailed to the named insured at the last known address of the named insured;
+(3) state the insurer's intention not to renew the policy upon expiration of the current policy period;
+(4) upon request of the named insured, be accompanied by a written explanation of the specific reasons for the nonrenewal; and (5) be provided mailed to the named insured at least twenty (20) days before the expiration of the current policy period.
+(b) If the policy was procured by an independent insurance producer licensed in Indiana, the insurer shall deliver or mail notice of nonrenewal to the insurance producer not less than ten (10) days before the insurer delivers or mails the notice to the named insured under HEA 1405 - CC 1 54 subsection (a), unless the obligation to notify the insurance producer is waived in writing by the insurance producer.
+(c) Notice of nonrenewal under this section is not required if:
+(1) the named insured is transferred from an insurer to an affiliate of the insurer for future coverage; and (2) the transfer results in the same or broader coverage.
+(d) If an insurer mails or delivers to an insured a renewal notice, bill, certificate, or policy indicating the insurer's willingness to renew a policy and the insured does not respond, the insurer is not required to provide mail to the insured notice of intention not to renew.
+SECTION 39.
+IC 34-30-2-101.4 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2021]:
+Sec. 101.4.
+IC 25-27-2-1 (Concerning the physical therapy compact commission).
+SECTION 40. [EFFECTIVE UPON PASSAGE] (a) As used in this SECTION, "health carrier":
+(1) has the meaning set forth in IC 27-1-46-3; and (2) includes the Medicaid program administered under IC 12-15.
+(b) As used in this SECTION, "specialty drug" means a prescription drug that is typically high cost and:
+(1) is prescribed for an individual who has:
+(A) a chronic, complex, or life-threatening condition;
+(B) a rare medical condition; or (C) both conditions referred to in clauses (A) and (B);
+(2) has limited or exclusive distribution; or (3) requires:
+(A) specialized product handling or administration by the dispensing pharmacy; or (B) specialized clinical care, including:
+(i) frequent dosing adjustments;
+(ii) intensive clinical monitoring; or (iii) expanded services for patients, including intensive patient counseling, education, or ongoing clinical support beyond traditional dispensing activities, such as individualized disease and therapy management to support improved health outcomes.
+(c) Before July 1, 2021, the state department of health, in consultation with the department of insurance, the office of the secretary of family and social services, and the Indiana board of pharmacy created by 25-26-13-3, shall submit to the legislative council in an electronic format under IC 5-14-6 a report setting forth the following concerning specialty drugs:
+(1) Best practice guidelines in providing specialty drugs to a patient in a manner that ensures the patient's safety during HEA 1405 - CC 1 55 the process.
+(2) Information concerning any adverse events affecting the safety of patients resulting from the specialty drug protocols of a health carrier or hospital.
+(d) The report required under this SECTION:
+(1) may not contain any personal identifying information; and (2) must be compliant with the federal Health Insurance Portability and Accountability Act (HIPAA) (P.L.104-191).
+(e) This SECTION expires December 31, 2021.
+SECTION 41. [EFFECTIVE UPON PASSAGE] (a) The legislative services agency shall conduct a study of market concentration in Indiana in the following:
+(1) The health insurance industry.
+(2) The hospital industry.
+(3) The professions of licensed health care practitioners.
+(4) The retail pharmaceutical industry.
+(5) The pharmacy benefit manager industry.
+(6) The pharmacy services administrative organization industry, including its relationship to pharmaceutical wholesalers.
+(7) Pharmaceutical manufacturers.
+(b) Before December 31, 2022, the legislative services agency shall present the findings of the study conducted under subsection (a) in an electronic format under IC 5-14-6 to the following:
+(1) The combined interim study committees on:
+(A) financial institutions and insurance; and (B) public health, behavioral health, and human services; established by IC 2-5-1.3-4.
+(2) The legislative council.
+(3) The office of the governor.
+(c) This SECTION expires January 1, 2023.
+SECTION 42.
+An emergency is declared for this act.
+HEA 1405 - CC 1 Speaker of the House of Representatives President of the Senate President Pro Tempore Governor of the State of Indiana Date:
+Time:
+HEA 1405 - CC 1

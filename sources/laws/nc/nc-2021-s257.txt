@@ -1,0 +1,178 @@
+SL 2021-161 (SB 257) GENERAL ASSEMBLY OF NORTH CAROLINA SESSION 2021 SESSION LAW 2021-161 SENATE BILL 257 AN ACT TO PROMOTE PRICING TRANSPARENCY FOR PATIENTS and to establish standards and criteria for the regulation and licensure of phaRmacy benefits managers providing services for health benefit plans in north carolina.
+The General Assembly of North Carolina enacts:
+SECTION 1.(a) G.S. 58-56A-10 is recodified as G.S. 58-56A-30.
+SECTION 1.(b) Article 56A of Chapter 58 of the General Statutes, as amended by Section 1(a) of this act, reads as rewritten:
+"Article 56A.
+"Pharmacy Benefits Management.
+"§ 58-56A-1.
+Definitions.
+The following definitions apply in this Article:
+(1) 340B contract pharmacy. - Any pharmacy under contract with a 340B covered entity to dispense drugs on behalf of the 340B covered entity.
+(2) 340B covered entity. - Any entity defined in 42 U.S.C. § 256b(a)(4)(A), 42 U.S.C. § 256b(a)(4)(C), 42 U.S.C. § 256b(a)(4)(D), 42 U.S.C. § 256b(a)(4)(E), 42 U.S.C. § 256b(a)(4)(I), 42 U.S.C. § 256b(a)(4)(J), 42 U.S.C. § 256b(a)(4)(K), 42 U.S.C. § 256b(a)(4)(N), or 42 U.S.C. § 256b(a)(4)(O).
+(3) Claim. - A request from a pharmacy or pharmacist to be reimbursed for the cost of filling or refilling a prescription for a drug or for providing a medical supply or device.
+(4) Claims processing service. - The administrative services performed in connection with the processing and adjudicating of claims relating to pharmacist services that include either or both of the following activities: a.
+Receiving payments for pharmacist services. b.
+Making payments to pharmacists or pharmacies for pharmacist services.
+(1)(5) Health benefit plan. - As defined in G.S. 58-50-110(11).
+This definition specifically excludes the State Health Plan for Teachers and State Employees.G.S. 58-3-167.
+(1a)(6) Insured. - An individual covered by a health benefit plan.
+(2)(7) Insurer. - Any entity that provides or offers a health benefit plan.As defined in G.S. 58-3-167.
+(8) Maximum allowable cost list. - A listing of generic or multiple source drugs used by a pharmacy benefits manager to set the maximum allowable cost on which reimbursement of a pharmacy is made.
+(3)(9) Maximum allowable cost price. - The maximum per unit reimbursement for amount that a pharmacy benefits manager will reimburse a pharmacy for the cost of generic or multiple source prescription drugs, medical products, or devices.
+(10) Out-of-pocket costs. - With respect to the acquisition of a drug, the amount to be paid by the insured under the plan or coverage, including any cost-sharing, copayment, coinsurance, or deductible.
+(3a)(11) Pharmacist. - A person licensed to practice pharmacy under Article 4A of Chapter 90 of the General Statutes.
+(12) Pharmacist services. - Products, goods, or services provided as a part of the practice of pharmacy.
+(4)(13) Pharmacy. - A pharmacy registered with the North Carolina Board of Pharmacy.As defined in G.S. 90-85.3(q).
+(5)(14) Pharmacy benefits manager. - An entity who contracts with a pharmacy on behalf of an insurer or third-party administrator to administer or manage prescription drug benefits.benefits to perform any of the following functions: a.
+Negotiating rebates with manufacturers for drugs paid for or procured as described in this Article. b.
+Processing claims for prescription drugs or medical supplies or providing retail network management for pharmacies or pharmacists. c.
+Paying pharmacies or pharmacists for prescription drugs or medical supplies.
+(15) Pharmacy benefits manager affiliate. - A pharmacy or pharmacist that directly or indirectly, through one or more intermediaries, owns or controls or is owned or controlled by a pharmacy benefits manager.
+(16) Pharmacy service administrative organization (PSAO). - An organization that assists community pharmacies and pharmacy benefits managers or third-party payors in achieving administrative efficiencies, including contracting and payment efficiencies.
+(6)(17) Third-party administrator. - As defined in G.S. 58-56-2.
+"§ 58-56A-2.
+Licensure.
+(a) A person or organization may not establish or operate as a pharmacy benefits manager for health benefit plans in this State without obtaining a license from the Commissioner of the Department of Insurance.
+(b) The Commissioner shall develop an application for licensure to operate in this State as a pharmacy benefits manager and may charge an initial application fee of two thousand dollars ($2,000) and an annual renewal fee of one thousand five hundred dollars ($1,500).
+The pharmacy benefits manager application form must collect only the following information:
+(1) The name, address, and telephone contact number of the pharmacy benefits manager.
+(2) The name and address of the pharmacy benefits manager's agent for service of process in this State.
+(3) The name and address of each person with management or control over the pharmacy benefits manager.
+(4) The name and address of each person with a beneficial ownership interest in the pharmacy benefits manager.
+(5) Either (i) a signed statement that, to the best of the applicant's knowledge, no officer with management or control of the pharmacy benefits manager has been convicted of a felony or has violated any requirement of State or federal law applicable to pharmacy benefits management or (ii) a description of any felony or any violation of any requirement of State or federal law applicable to pharmacy benefits management committed by any officer with management or control of the pharmacy benefits manager.
+(c) Unless otherwise provided for in this Article, an applicant or a pharmacy benefits manager that is licensed to conduct business in the State shall file a notice describing any material modification of the information required under this section.
+(d) The Commissioner shall adopt rules establishing the licensing and reporting requirements of pharmacy benefits managers consistent with the provisions of this Article.
+"§ 58-56A-3.
+Consumer protections.
+(a) A pharmacy or pharmacist shall have the right to provide an insured information regarding the amount of the insured's cost share for a prescription drug.
+Neither a pharmacy nor a pharmacist shall be penalized by a pharmacy benefits manager for discussing any information described in this section or for selling a lower-priced drug to the insured if one is available.
+(b) A pharmacy benefits manager shall not, through contract, prohibit a pharmacy from offering and providing direct and limited delivery services to an insured as an ancillary service of the pharmacy, as delineated in the contract between the pharmacy benefits manager and the pharmacy.
+(b1) A pharmacy benefits manager shall not prohibit a pharmacist or pharmacy from charging a minimal shipping and handling fee to the insured for a mailed or delivered prescription if the pharmacist or pharmacy discloses all of the following to the insured before delivery:
+(1) The fee will be charged.
+(2) The fee may not be reimbursed by the health benefit plan, insurer, or pharmacy benefits manager.
+(3) The charge is specifically agreed to by the health benefit plan or pharmacy benefits manager.
+(c) A pharmacy benefits manager shall not charge, or attempt to collect from, an insured a co-payment copayment that exceeds the total submitted charges by the network pharmacy.
+(c1) When calculating an insured's contribution to any out-of-pocket maximum, deductible, copayment, coinsurance, or other applicable cost-sharing requirement, the insurer or pharmacy benefits manager shall include any amounts paid by the insured, or on the insured's behalf, for a prescription that is either:
+(1) Without an AB-rated generic equivalent.
+(2) With an AB-rated generic equivalent if the insured has obtained authorization for the drug through any of the following: a.
+Prior authorization from the insurer or pharmacy benefits manager. b.
+A step therapy protocol. c.
+The exception or appeal process of the insurer or pharmacy benefits manager.
+(c2) For purposes of this section, the term "generic equivalent" means a drug that has an identical amount of the same active ingredients in the same dosage form; meets applicable standards of strength, quality, and purity according to the United States Pharmacopeia or other nationally recognized compendium; and which, if administered in the same amount, would provide comparable therapeutic effects.
+The term "generic equivalent" does not include a drug that is listed by the United States Food and Drug Administration as having unresolved bioequivalence concerns according to the Administration's most recent publication of approved drug products with therapeutic equivalence evaluations.
+(d) Any contract for the provision of a network to deliver health care services between a pharmacy benefits manager and insurer shall be made available for review by the Department.
+(e) The Department shall report to the Attorney General any violations of this section or G.S. 58-56A-4 in accordance with G.S. 58-2-40(5).
+"§ 58-56A-4.
+Pharmacy and pharmacist protections.
+(a) A pharmacy benefits manager may only charge a fee fees or otherwise hold a pharmacy responsible for a fee relating to the adjudication of a claim if the fee is reported on the remittance advice of the adjudicated claim or is set out in contract between the pharmacy benefits manager and the pharmacy.
+No fee or adjustment for the receipt and processing of a claim, or otherwise related to the adjudication of a claim, shall be charged without a justification on the remittance advice or as set out in contract and agreed upon by the pharmacy or pharmacist for each adjustment or fee.
+This section shall not apply with respect to claims under an employee benefit plan under the Employee Retirement Income Security Act of 1974 or Medicare Part D.
+(b) Nothing in this Article shall abridge the right of a pharmacist to refuse to fill or refill a prescription if the pharmacist believes it would be harmful to the patient or is not in the patient's best interest, or if there is a question to the validity of the prescription.
+(c) A pharmacy or pharmacist shall not be prohibited by a pharmacy benefits manager from dispensing any prescription drug, including specialty drugs dispensed by a credentialed and accredited pharmacy, allowed to be dispensed under a license to practice pharmacy under Article 4A of Chapter 90 of the General Statutes.
+(d) A pharmacy benefits manager shall not penalize or retaliate against a pharmacist or pharmacy for exercising rights provided under this Article.
+This subsection does not apply to breach of contract between a pharmacy and a pharmacy benefits manager.
+(e) A claim for pharmacist services may not be retroactively denied or reduced after adjudication of the claim unless any of the following apply:
+(1) The original claim was submitted fraudulently.
+(2) The original claim payment was incorrect because the pharmacy or pharmacist had already been paid for the pharmacist services.
+(3) The pharmacist services were not rendered by the pharmacy or pharmacist.
+(4) The adjustments were agreed to by the pharmacy or pharmacist.
+(5) The adjustments were part of an attempt to limit overpayment recovery efforts by a pharmacy benefits manager.
+(f) Nothing in this section shall be construed to limit overpayment recovery efforts by a pharmacy benefits manager.
+"§ 58-56A-5.
+Maximum allowable cost price.
+(a) In order to place a prescription drug on the maximum allowable cost price list, the drug must be available for purchase by pharmacies in North Carolina from national or regional wholesalers, must not be obsolete, and must meet one of the following conditions:
+(1) The drug is listed as "A" or "B" rated in the most recent version of the United States Food and Drug Administration's Approved Drug Products with Therapeutic Equivalence Evaluations, also known as the Orange Book.
+(2) The drug has a "NR" or "NA" rating, or a similar rating, by a nationally recognized reference.
+(b) A pharmacy benefits manager shall adjust or remove the maximum allowable cost price for a prescription drug to remain consistent with changes in the national marketplace for prescription drugs.
+A review of the maximum allowable cost prices for removal or modification shall be completed by the pharmacy benefits manager at least once every seven business days, and any removal or modification shall occur within seven business days of the review.
+A pharmacy benefits manager shall provide a means by which the contracted pharmacies may promptly review current prices in an electronic, print, or telephonic format within one business day of the removal or modification.
+(c) A pharmacy benefits manager shall ensure that dispensing fees are not included in the calculation of maximum allowable cost price.
+(d) A pharmacy benefits manager shall establish an administrative appeals procedure by which a contracted pharmacy or pharmacist, or a designee, may appeal the provider's reimbursement for a prescription drug subject to maximum allowable cost pricing if the amount of reimbursement for the drug is less than the net amount that the network provider paid to the suppliers of the drug.
+The reasonable administrative appeal procedure must include all of the following:
+(1) A dedicated telephone number and email address or website for the purpose of submitting administrative appeals.
+(2) The ability to submit an administrative appeal regarding the pharmacy benefits plan or program directly to the pharmacy benefits manager or through a pharmacy service administrative organization if the pharmacy service administrative organization has a contract with the pharmacy benefits manager that allows for the submission of appeals.
+(3) No less than 10 calendar days after the applicable prescription fill date to file an administrative appeal.
+(4) A period of no more than 10 calendar days after receipt of notice of the filing of the administrative appeal by the pharmacy benefits manager for a decision to be made on the appeal.
+(5) A requirement that if an appeal is upheld, then, within 10 calendar days of the decision, the pharmacy benefits manager shall take all of the following actions: a.
+Notify the appellant of the decision. b.
+Apply the change in the maximum allowable cost effective as of the date the appeal was resolved and make the change effective for all similarly situated pharmacies or pharmacists, as defined by the payor subject to the Maximum Allowable Cost list. c.
+Permit the appellant to reverse and rebill the claim that was appealed.
+(6) A requirement that if the appeal is denied, then, within 10 calendar days of the decision, the pharmacy benefits manager shall notify the appellant of the decision and provide all of the following information: a.
+The reason for denial. b.
+The National Drug Code number for the prescription drug that is the subject of the appeal. c.
+The names of the national or regional pharmaceutical wholesalers operating in the State.
+"§ 58-56A-15.
+Pharmacy benefits manager networks.
+(a) A pharmacy benefits manager shall not deny the right to any properly licensed pharmacist or pharmacy to participate in a retail pharmacy network on the same terms and conditions of other similarly situated participants in the network.
+(b) A pharmacist or pharmacy that is a member of a pharmacy service administrative organization that enters into a contract with a health benefit plan issuer or a pharmacy benefits manager on the pharmacy's behalf is entitled to receive from the pharmacy service administrative organization a copy of the contract provisions applicable to the pharmacy, including each provision relating to the pharmacy's rights and obligations under the contract.
+(c) Termination of a pharmacy or pharmacist from a pharmacy benefits manager network does not release the pharmacy benefits manager from the obligation to make any payment due to the pharmacy or pharmacist for pharmacist services properly rendered according to the contract.
+This subsection does not apply in cases of fraud, waste, and abuse.
+"§ 58-56A-20.
+Pharmacy benefits manager affiliate disclosure; sharing of data.
+A pharmacy benefits manager shall not, in any way that is prohibited by the Health Insurance Portability and Accountability Act of 1996 (HIPAA), transfer or share records relative to prescription information containing patient-identifiable and prescriber-identifiable data to a pharmacy benefits manager affiliate.
+"§ 58-56A-21.
+Claims data provided to health benefit plan.
+Upon the request of an insurer offering a health benefit plan that contracts with a pharmacy benefits manager, the pharmacy benefits manager shall provide the insurer with claims data that reflects the total amount the insurer paid to the pharmacy benefits manager under the health benefit plan for a specified outpatient prescription drug, including the ingredient cost and the dispensing fee.
+The pharmacy benefits manager shall also provide the cost that it paid for the specified outpatient prescription drug, including the ingredient cost and the dispensing fee.
+"§ 58-56A-25.
+Enforcement.
+(a) The Commissioner may make an examination of the affairs of any pharmacy benefits manager pursuant to the services that it provides for an insurer or a health benefit plan that are relevant to determining if the pharmacy benefits manager is in compliance with this Article.
+When making an examination, the Commissioner may retain attorneys, independent actuaries, independent certified public accountants, or other professionals and specialists as examiners.
+The pharmacy benefits manager shall bear the cost of retaining those persons.
+(b) Pending, during, and after the examination of any pharmacy benefits manager, the Commissioner shall not make public the information or data acquired, and the information or data acquired during an examination is considered proprietary and confidential and is not a public record under Chapter 132 of the General Statutes.
+(c) Violations of this Article are subject to the penalties under G.S. 58-56A-30.
+After notice and hearing, a pharmacy benefits manager may also be subject to revocation of, or a refusal to renew, a license to operate in this State as a result of violations of this Article.
+"§ 58-56A-30.
+Civil Penalties for violations; administrative procedure.
+(a) Whenever the Commissioner has reason to believe that a pharmacy benefits manager has violated any of the provisions of this Article with such frequency as to indicate a general business practice, the Commissioner may, after notice and opportunity for a hearing, proceed under the appropriate subsections of this section.
+(b) If, under subsection (a) of this section, the Commissioner finds a violation of this Article, the Commissioner may order the payment of a monetary penalty as provided in subsection (c) of this section or petition the Superior Court of Wake County for an order directing payment of restitution as provided in subsections (d) and (e) of this section, or both.
+Each day during which a violation occurs constitutes a separate violation.
+(c) If the Commissioner orders the payment of a monetary penalty pursuant to subsection (b) of this section, the penalty shall not be less than one hundred dollars ($100.00) nor more than one thousand dollars ($1,000) per day for each prescription drug resulting from the pharmacy benefit manager's failure to comply with G.S. 58-56A-5.
+In determining the amount of the penalty, the Commissioner shall consider the degree and extent of harm caused by the violation, the amount of money that inured to the benefit of the violator as a result of the violation, whether the violation was committed willfully, and the prior record of the violator in complying or failing to comply with laws, rules, or orders applicable to the violator.
+The clear proceeds of the penalty shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with G.S. 115C-457.2.
+Payment of the civil penalty under this section shall be in addition to payment of any other penalty for a violation of the criminal laws of this State.
+(d) Upon petition of the Commissioner to the court pursuant to subsection (b) of this section, the court may order the pharmacy benefits manager who committed a violation specified in subsection (b) of this section under this Article to make restitution in an amount that would make whole any pharmacist harmed by the violation.
+The petition may be made at any time and also in any appeal of the Commissioner's order.
+(e) Upon petition of the Commissioner to the court pursuant to subsection (b) of this section, the court may order the pharmacy benefits manager who committed a violation specified in subsection (b) of this section under this Article to make restitution to the Department for expenses under subsection (f) of this section, incurred in the investigation, hearing, and any appeals associated with the violation in such amount that would reimburse the agency for the expenses.
+The petition may be made at any time and also in any appeal of the Commissioner's order.
+(f) The Commissioner may contract with consultants and other professionals with relevant expertise as necessary and appropriate to conduct investigation, hearing, and appeals activities as provided in this section.
+Such These contracts shall not be subject to G.S. 114-2.3, G.S. 147-17, or Articles 3, 3C, and 8 of Chapter 143 of the General Statutes, together with rules and procedures adopted under those Articles concerning procurement, contracting, and contract review.
+(g) Nothing in this section prevents the Commissioner from negotiating a mutually acceptable agreement with any pharmacy benefits manager as to any civil penalty or restitution.
+(h) Unless otherwise specifically provided for, all administrative proceedings under this Article are governed by Chapter 150B of the General Statutes.
+Appeals of the Commissioner's orders under this section shall be governed by G.S. 58-2-75.
+"§ 58-56A-45.
+Rules.
+The Commissioner shall adopt rules to implement the provisions of this Article.
+"§ 58-56A-50.
+Contracts with 340B covered entities.
+(a) A contract entered into between a pharmacy benefits manager and a 340B covered entity's pharmacy or between a pharmacy benefits manager and a 340B contract pharmacy shall not do any of the following:
+(1) Restrict access to a pharmacy network or adjust 340B drug reimbursement rates based on whether a pharmacy dispenses drugs under the 340B drug discount program.
+(2) Assess any additional, or vary the amount of any, fees, chargebacks, or other adjustments on the basis of a drug being dispensed under the 340B drug discount program or a pharmacy's status as a 340B covered entity or a 340B contract pharmacy.
+This section does not prevent adjustments to correct errors or overpayments resulting from an adjudicated claim.
+(b) No pharmacy benefits manager making payments pursuant to a health benefit plan shall discriminate against a 340B covered entity or a 340B contract pharmacy in a manner that prevents or interferes with an enrollee's choice to receive a prescription drug from an in-network 340B covered entity or an in-network 340B contract pharmacy.
+(c) The provisions of G.S. 58-51-37 shall apply to pharmacy benefits managers with respect to 340B covered entities and 340B contract pharmacies.
+(d) Any provision of a contract entered into between a pharmacy benefits manager and a 340B covered entity or 340B contract pharmacy that is contrary to this section is unenforceable." SECTION 2.
+G.S. 58-2-40(5) reads as rewritten:
+"(5) Report in detail to the Attorney General any violations of the laws relative to pharmacy benefits managers, insurance companies, associations, orders and bureaus or the business of insurance; and the Commissioner may institute civil actions or criminal prosecutions either by the Attorney General or another attorney whom the Attorney General may select, for any violation of the provisions of Articles 1 through 64 of this Chapter." SECTION 3.
+G.S. 58-56-2 reads as rewritten:
+"§ 58-56-2.
+Definitions.
+The following definitions apply in this Article: ...
+(5) Third party administrator.
+A person who directly or indirectly solicits or effects coverage of, underwrites, collects charges or premiums from, or adjusts or settles claims on residents of this State, or residents of another state from offices in this State, in connection with life or health insurance or annuities, except any of the following: ... m.
+A pharmacy benefits manager licensed under Article 56A of this Chapter. ...." SECTION 4.
+G.S. 58-51-37 reads as rewritten:
+"§ 58-51-37.
+Pharmacy of choice.
+(a) This section shall apply to all health benefit plans providing pharmaceutical services benefits, including prescription drugs, to any resident of North Carolina.
+This section shall also apply to insurance companies and health maintenance organizations that provide or administer coverages and benefits for prescription drugs.
+This section shall apply to pharmacy benefits managers with respect to 340B covered entities and 340B contract pharmacies, as defined in G.S. 58-56A-1.
+This section shall not apply to any entity that has its own facility, employs or contracts with physicians, pharmacists, nurses, and other health care personnel, and that dispenses prescription drugs from its own pharmacy to its employees and to enrollees of its health benefit plan; provided, however, this section shall apply to an entity otherwise excluded that contracts with an outside pharmacy or group of pharmacies to provide prescription drugs and services.
+This section shall not apply to any federal program, clinical trial program, hospital or other health care facility licensed pursuant to Chapter 131E or Chapter 122C of the General Statutes, when dispensing prescription drugs to its patients. ...." SECTION 5.
+No later than December 1, 2021, the Department of Insurance shall convene a stakeholder workgroup to study and recommend a single, unified process to accredit specialty pharmacies in the State.
+The workgroup shall examine at least the regulatory, administrative, and financial challenges facing those who wish to gain specialty pharmacy status.
+The workgroup shall be composed of at least two representatives from each of the following: independent pharmacies, pharmacy service administrative organizations, pharmacy benefits managers, and insurers who offer health benefit plans.
+The workgroup shall meet at least three times and shall report its findings and recommendations to the Joint Legislative Oversight Committee on Health and Human Services, the Senate Health Care Committee, and the House Health Committee no later than May 15, 2022.
+SECTION 6.
+This act becomes effective October 1, 2021, and applies to any contracts entered into, renewed, or amended on or after that date.
+In the General Assembly read three times and ratified this the 9th day of September, 2021. s/ Bill Rabon Presiding Officer of the Senate s/ Harry Warren Presiding Officer of the House of Representatives s/ Roy Cooper Governor Approved 10:37 a.m. this 20th day of September, 2021

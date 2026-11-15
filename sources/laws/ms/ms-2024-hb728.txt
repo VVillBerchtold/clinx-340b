@@ -1,0 +1,99 @@
+MISSISSIPPI LEGISLATURE REGULAR SESSION 2024 By:
+Representative Barton To:
+Drug Policy HOUSE BILL NO. 728 AN ACT TO BE KNOWN AS THE DEFENDING AFFORDABLE PRESCRIPTION DRUG COSTS ACT;
+TO PROVIDE DEFINITIONS FOR THE PURPOSE OF THE ACT;
+TO PROHIBIT HEALTH INSURANCE ISSUERS, PHARMACY BENEFIT MANAGERS AND OTHER THIRD PARTY PAYORS AND DRUG MANUFACTURERS AND DISTRIBUTORS FROM ENGAGING IN CERTAIN DISCRIMINATORY ACTIONS RELATING TO ENTITIES THAT ARE PARTICIPATING OR AUTHORIZED TO PARTICIPATE IN THE FEDERAL 340B DRUG DISCOUNT PROGRAM;
+TO PROVIDE THAT THE COMMISSION OF ANY ACT PROHIBITED BY THIS ACT IS CONSIDERED A VIOLATION OF THE CONSUMER PROTECTION ACT;
+TO AMEND SECTION 75-24-5, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISION;
+AND FOR RELATED PURPOSES.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MISSISSIPPI:
+SECTION 1.
+Short title.
+This act may be cited as the "Defending Affordable Prescription Drug Costs Act".
+SECTION 2.
+Definitions.
+As used in this act, the following terms have the following meanings:
+(a) "340B drug" means a drug that has been subject to any offer for reduced prices by a manufacturer pursuant to 42 USC 256b and is purchased by a covered entity as defined in 42 USC 256b(a)(4).
+(b) "340B entity" means an entity participating or authorized to participate in the federal 340B drug discount H.
+B.
+No. 728 *HR26/R946* ~ OFFICIAL ~ G1/2 24/HR26/R946 PAGE 1 (RF\KW) program, as described in 42 USC 256b, including its pharmacy, or any pharmacy contracted with the participating entity to dispense drugs purchased through the 340B drug discount program.
+(c) "Health insurance issuer" means an entity subject to the insurance laws and regulations of this state, or subject to the jurisdiction of the Commissioner of Insurance, that contracts or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or reimburse any of the costs of health care services, including an accident and sickness insurance company, a health maintenance organization, a preferred provider organization or any similar entity, or any other entity providing a health insurance plan as defined in Section 73-21-153.
+(d) "Manufacturer" has the same meaning as defined in Section 73-21-73.
+(e) "Pharmacy" has the same meaning as defined in Section 73-21-73.
+(f) "Pharmacy benefit manager" has the same meaning as defined in Section 73-21-153.
+SECTION 3.
+Prohibition of certain discriminatory actions related to reimbursement of 340B entities.
+(1) (a) With respect to reimbursement to a 340B entity for 340B drugs, a health insurance issuer, pharmacy benefit manager, other third-party payor, or its agent shall not do any of the following:
+(i) Reimburse a 340B entity for 340B drugs at a rate lower than that paid for the same drug to entities that are H.
+B.
+No. 728 *HR26/R946* ~ OFFICIAL ~ 24/HR26/R946 PAGE 2 (RF\KW) not 340B entities or lower reimbursement for a claim on the basis that the claim is for a 340B drug.
+(ii) Impose any terms or conditions on any 340B entity with respect to any of the following that differ from such terms or conditions applied to non-340B entities on the basis that the entity participates in the federal 340B drug discount program set forth in 42 USC 256b or that a drug is a 340B drug including, without limitation, any of the following: 1.
+Fees, charges, clawbacks, or other adjustments or assessments.
+For purposes of this item 1, the term "other adjustment" includes placing any additional requirements, restrictions, or unnecessary burdens upon the 340B entity that results in administrative costs or fees to the 340B entity that are not placed upon other entities that do not participate in the 340B drug discount program, including affiliate pharmacies of the health insurance issuer, pharmacy benefit manager, or other third-party payor. 2.
+Dispensing fees that are less than the dispensing fees for non-340B entities. 3.
+Restrictions or requirements regarding participation in standard or preferred pharmacy networks. 4.
+Requirements relating to the frequency or scope of audits of inventory management systems. 5.
+Requirements that a claim for a drug include any identification, billing modifier, attestation, or H.
+B.
+No. 728 *HR26/R946* ~ OFFICIAL ~ 24/HR26/R946 PAGE 3 (RF\KW) other indication that a drug is a 340B drug in order to be processed or resubmitted unless it is required by the Centers for Medicare and Medicaid Services or the Division of Medicaid for the administration of the Mississippi Medicaid program. 6.
+Any other restrictions, conditions, practices, or policies that are not imposed on non-340B entities.
+(iii) Require a 340B entity to reverse, resubmit, or clarify a claim after the initial adjudication unless these actions are in the normal course of pharmacy business and not related to 340B drug pricing.
+(iv) Discriminate against a 340B entity in a manner that prevents or interferes with any patient's choice to receive such drugs from the 340B entity, including the administration of such drugs.
+For purposes of this subparagraph (iv), it is considered a discriminatory practice that prevents or interferes with a patient's choice to receive drugs at a 340B entity if a health insurance issuer, pharmacy benefit manager, or other third-party payor places any additional requirements, restrictions, or unnecessary burdens upon the 340B entity that results in administrative costs or fees to the 340B entity, including but not limited to requiring a claim for a drug to include any identification, billing modifier, attestation or other indication that a drug is a 340B drug in order to be processed or resubmitted unless it is required by the Centers for Medicare and H.
+B.
+No. 728 *HR26/R946* ~ OFFICIAL ~ 24/HR26/R946 PAGE 4 (RF\KW) Medicaid Services or the Division of Medicaid in administration of the Mississippi Medicaid program.
+(v) Include any other provision in a contract between a health insurance issuer, pharmacy benefit manager, or other third-party payor and a 340B entity that discriminates against the 340B entity or prevents or interferes with an individual's choice to receive a prescription drug from a 340B entity, including the administration of the drug, in person or via direct delivery, mail, or other form of shipment, or creation of a restriction or additional charge on a patient who chooses to receive drugs from a 340B entity.
+(vi) Require or compel the submission of ingredient costs or pricing data pertaining to 340B drugs to any health insurance issuer, pharmacy benefit manager, or other third-party payor.
+(vii) Exclude any 340B entity from the health insurance issuer, pharmacy benefit manager, or other third-party payor network on the basis that the 340B entity dispenses drugs subject to an agreement under 42 USC 256b, or refusing to contract with a 340B entity for reasons other than those that apply equally to non-340B entities.
+(2) Nothing in this act applies to the Mississippi Medicaid program as payor when Medicaid provides reimbursement for covered outpatient drugs as defined in 42 USC 1396r-8(k).
+H.
+B.
+No. 728 *HR26/R946* ~ OFFICIAL ~ 24/HR26/R946 PAGE 5 (RF\KW) SECTION 4.
+Prohibition of certain discriminatory actions by a manufacturer or distributor related to 340B entities.
+(1) A manufacturer or distributor shall not deny, restrict, prohibit, or otherwise interfere with, either directly or indirectly, the acquisition of a 340B drug by, or delivery of a 340B drug to, a pharmacy that is under contract with a 340B entity and is authorized under such contract to receive and dispense 340B drugs on behalf of the covered entity unless such receipt is prohibited by the United States Department of Health and Human Services.
+(2) A manufacturer or distributor shall not interfere with a pharmacy contracted with a 340B entity.
+SECTION 5.
+Violations.
+The commission of any act prohibited by this act is considered a violation of the Consumer Protection Act, Sections 75-24-1 through 75-24-29, and subjects the violator to any and all actions, including investigative demands, remedies, and penalties provided for in those sections, except there shall be no right to bring a private action.
+A violation occurs each time a prohibited act is committed.
+SECTION 6.
+Federal preemption.
+(1) Nothing in this act is to be construed or applied to be less restrictive than federal law for a person or entity regulated by this act.
+(2) Nothing in this act is to be construed or applied to be in conflict with any of the following:
+(a) Applicable federal law and related regulations.
+H.
+B.
+No. 728 *HR26/R946* ~ OFFICIAL ~ 24/HR26/R946 PAGE 6 (RF\KW) (b) Other laws of this state if the state law is compatible with applicable federal law.
+(3) Limited distribution of a drug required under 21 USC 355-1 is not to be construed as a violation of this act.
+SECTION 7.
+Section 75-24-5, Mississippi Code of 1972, is amended as follows: 75-24-5.
+(1) Unfair methods of competition affecting commerce and unfair or deceptive trade practices in or affecting commerce are prohibited.
+Action may be brought under Section 75-24-5(1) only under the provisions of Section 75-24-9.
+(2) Without limiting the scope of subsection (1) of this section, the following unfair methods of competition and unfair or deceptive trade practices or acts in the conduct of any trade or commerce are * * * prohibited:
+(a) Passing off goods or services as those of another;
+(b) Misrepresentation of the source, sponsorship, approval, or certification of goods or services;
+(c) Misrepresentation of affiliation, connection, or association with, or certification by another;
+(d) Misrepresentation of designations of geographic origin in connection with goods or services;
+(e) Representing that goods or services have sponsorship, approval, characteristics, ingredients, uses, benefits, or quantities that they do not have or that a person has H.
+B.
+No. 728 *HR26/R946* ~ OFFICIAL ~ 24/HR26/R946 PAGE 7 (RF\KW) a sponsorship, approval, status, affiliation, or connection that he does not have;
+(f) Representing that goods are original or new if they are reconditioned, reclaimed, used, or secondhand;
+(g) Representing that goods or services are of a particular standard, quality, or grade, or that goods are of a particular style or model, if they are of another;
+(h) Disparaging the goods, services, or business of another by false or misleading representation of fact;
+(i) Advertising goods or services with intent not to sell them as advertised;
+(j) Advertising goods or services with intent not to supply reasonably expectable public demand, unless the advertisement discloses a limitation of quantity;
+(k) Misrepresentations of fact concerning the reasons for, existence of, or amounts of price reductions;
+(l) Advertising by or on behalf of any licensed or regulated health care professional which does not specifically describe the license or qualifications of the licensed or regulated health care professional;
+(m) Charging an increased premium for reinstating a motor vehicle insurance policy that was cancelled or suspended by the insured solely for the reason that he was transferred out of this state while serving in the United States Armed Forces or on active duty in the National Guard or United States Armed Forces H.
+B.
+No. 728 *HR26/R946* ~ OFFICIAL ~ 24/HR26/R946 PAGE 8 (RF\KW) Reserve.
+It is also an unfair practice for an insurer to charge an increased premium for a new motor vehicle insurance policy if the applicant for coverage or his covered dependents were previously insured with a different insurer and canceled that policy solely for the reason that he was transferred out of this state while serving in the United States Armed Forces or on active duty in the National Guard or United States Armed Forces Reserve.
+For purposes of determining premiums, an insurer shall consider such persons as having maintained continuous coverage.
+The provisions of this paragraph (m) shall apply only to such instances when the insured does not drive the vehicle during the period of cancellation or suspension of his policy;
+(n) Violating the provisions of Section 75-24-8; * * * (o) Violating the provisions of Section 73-3-38 * * *; and (p) Violating any of the provisions of Sections 1 through 6 of this act.
+SECTION 8.
+This act shall take effect and be in force from and after July 1, 2024.
+H.
+B.
+No. 728 *HR26/R946* ~ OFFICIAL ~ 24/HR26/R946 ST:
+Prescription drugs; prohibit discriminating PAGE 9 (RF\KW) actions against 340B drug discount program entities.

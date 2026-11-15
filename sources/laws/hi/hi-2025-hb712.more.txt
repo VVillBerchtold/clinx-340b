@@ -1,0 +1,56 @@
+ACT 143 ACT 143 H.B.
+NO. 712 A Bill for an Act Relating to Health.
+Be It Enacted by the Legislature of the State of Hawaii:
+SECTION 1.
+The legislature finds that the federal 340B drug pricing program (340B program) is essential for providing health care access to low- income and uninsured populations.
+The 340B program requires drug manu- facturers to offer significant discounts on outpatient medications to eligible nonprofit hospitals and safety net providers, rural hospitals, community health centers, and Native Hawaiian health centers.
+The legislature further finds that the 340B program helps stretch limited resources, allowing hospitals to reinvest savings into essential community ben- 329 2025SLH_Text.indd 329 FINAL 9/22/2025 8:16:49 AM ACT 143 efits.
+These benefits include financial assistance for low-income patients, free wellness visits, screenings, vaccinations, transportation to appointments, health education classes, and workforce development programs.
+In Hawaii, the 340B program also supports unique services such as integrating Native Hawaiian health practices into patient care.
+The legislature also finds that, despite the 340B program's importance, drug manufacturers have consistently tried to undermine the benefits provided by the program by limiting the use of contract pharmacies by 340B covered entities, which has made it particularly difficult for patients living in rural areas of the State.
+Contract pharmacies play a vital role in ensuring that patients can access medications, especially in rural areas where many hospitals do not have an in-house pharmacy.
+For example, more than eighty per cent of rural 340B hos- pitals nationwide rely on contract pharmacies to dispense medication to patients who might otherwise go without essential treatments.
+The legislature additionally finds that contract pharmacies are crucial in Hawaii, where geographic barriers make access to health care difficult for many residents.
+By partnering with pharmacies in those communities, hospitals can ensure that patients in remote areas receive their prescribed medications without the need to travel long distances.
+This is especially important for those requir- ing specialty drugs, which are often available only through specific pharmacy channels.
+The legislature further finds that the current restrictions imposed by drug manufacturers not only limit a patient's access to affordable medication, but also jeopardize the financial savings that hospitals depend on to provide these critical services.
+Hospitals use the difference between the 340B discounted drug price and the reimbursement from insurance to reinvest in their operations, expand services, and support underserved communities.
+Without access to contract pharmacies, hospitals face reduced savings, which could result in cutbacks to essential health care programs.
+Accordingly, the purpose of this Act is to preserve the integrity of the 340B drug pricing program by:
+(1) Prohibiting drug manufacturers from denying, restricting, or pro- hibiting the acquisition, shipping, or delivery of a 340B drug to a pharmacy under contract with any 340B covered entity in the State;
+(2) Authorizing 340B covered entities and the attorney general to bring a civil action for enforcement within four years of a violation;
+(3) Requiring 340B covered entities to report certain information annu- ally to the hospital trade association operating in the State; and (4) Requiring the hospital trade association operating in the State to prepare and publicly post annual reports aggregating information provided by all 340B covered entities.
+SECTION 2.
+The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER 340B DRUG DISCOUNT PROGRAM § -1 Definitions.
+As used in this chapter:
+"340B covered entity" means an entity that participates in the federal 340B drug pricing program authorized by title 42 United States Code section 256b (section 340B of the Public Health Service Act).
+"340B drug" means a prescription drug that is purchased by a 340B covered entity through the federal 340B drug pricing program authorized by 330 2025SLH_Text.indd 330 FINAL 9/22/2025 8:16:49 AM ACT 143 title 42 United States Code section 256b (section 340B of the Public Health Service Act) and is dispensed by a pharmacy.
+"Contract pharmacy" means a pharmacy with which a 340B covered en- tity has contracted to dispense 340B drugs on behalf of the 340B covered entity to patients of the 340B covered entity, whether distributed in person, via mail, or by other means.
+"Covered entity" has the same meaning as defined in title 42 United States Code section 256b(a)(4).
+"Manufacturer" has the same meaning as defined in section 328-112.
+"Pharmacy" has the same meaning as defined in section 461-1. § -2 Drug manufacturers; discriminatory acts prohibited.
+(a) No manufacturer, or any agent or affiliate of a manufacturer, shall deny, restrict, or prohibit, either directly or indirectly, the acquisition of a 340B drug by, or shipping or delivery of a 340B drug to, a pharmacy that is under contract with a 340B covered entity and is authorized under the contract to receive and dispense 340B drugs on behalf of the 340B covered entity unless the receipt is prohibited by the United States Department of Health and Human Services.
+(b) Nothing in this section shall deny, restrict, or prohibit a manufac- turer from requiring a 340B covered entity to provide claims data for the man- ufacturer's 340B drugs dispensed through a contract pharmacy arrangement; provided that the claims data is necessary to investigate potential diversion, duplicate discounts, or whether a transaction is eligible for a rebate under ap- plicable arrangements between a drug manufacturer and a third-party payor; provided further that any request for claims data by a manufacturer shall be limited to claims submitted no more than three years prior to the date of the request.
+Any claims data provided pursuant to this subsection shall be shared in a manner that is fully compliant with the Health Insurance Portability and Accountability Act of 1996, P.L. 104-191, and any other applicable privacy laws.
+Nothing in this subsection shall be construed to supersede or conflict with any applicable federal laws, rules, or regulations governing the 340B program.
+(c) No person other than a 340B covered entity or the attorney general may bring a civil action based upon a violation of this section. § -3 Suits by private entities; injunctive relief only.
+Any 340B cov- ered entity that is injured in its business or property by a violation of section -2 may bring a civil action to enjoin the violation.
+If a judgment is awarded in favor of the 340B covered entity, the 340B covered entity shall be awarded reasonable attorney's fees together with the costs of the suit. § -4 Attorney general enforcement; remedies.
+(a) The attorney general may bring a civil action to enjoin a violation of section -2.
+(b) Any manufacturer, or any agent or affiliate of a manufacturer, that violates section -2 shall be fined no less than $500 and no more than $2,500 for each violation.
+The fine shall be collected in a civil action brought by the at- torney general on behalf of the State.
+The penalties provided in this section shall be cumulative to the remedies or penalties available under all other laws of the State.
+Each day that a violation of section -2 occurs shall constitute a separate violation.
+(c) In an action brought by the attorney general, the court may award disgorgement and any other equitable relief that it considers appropriate. § -5 Limitation of actions.
+Any action to enforce a cause of action arising under this chapter shall be barred unless commenced within four years 331 2025SLH_Text.indd 331 FINAL 9/22/2025 8:16:49 AM ACT 143 after the cause of action accrues.
+For the purposes of this section, a cause of ac- tion for a continuing violation is deemed to accrue at any time during the period of the violation. § -6 Reporting.
+(a) Beginning on July 1, 2026, and no later than July 1 each year thereafter, each 340B covered entity shall report to the hospital trade association operating in the State the following information regarding the 340B covered entity's use of contract pharmacies in the 340B program:
+(1) Delineated by form of insurance or third-party payor type, includ- ing but not limited to medicaid, medicare, commercial insurance, and uninsured:
+(A) Aggregated acquisition costs paid for all 340B drugs dispensed at contract pharmacies, including the metric that was used to calculate 340B profits;
+(B) Aggregated payments received from insurers or third-party payers for all 340B drugs dispensed at a contract pharmacy; and (C) The total number of prescriptions filled with 340B drugs at contract pharmacies; and (2) Total number of contract pharmacies, including the number of con- tract pharmacies located outside of the State and the states in which out-of-state contract pharmacies are located.
+(b) An officer of the 340B covered entity shall certify the completeness and accuracy of the report submitted pursuant to subsection (a).
+(c) The hospital trade association located in the State shall use the in- formation described in subsection (a) to prepare an annual report detailing ag- gregate information received from all 340B covered entities in the State.
+No later than October 1, 2027, and each year thereafter, the hospital trade association located in the State shall make the report publicly available, including posting the report on a publicly accessible website." SECTION 3.
+This Act shall take effect on July 1, 2025.
+(Approved May 30, 2025.) 332 2025SLH_Text.indd 332 FINAL 9/22/2025 8:16:49 AM

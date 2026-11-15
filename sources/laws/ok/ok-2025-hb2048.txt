@@ -1,0 +1,237 @@
+An Act ENROLLED HOUSE BILL NO. 2048 By:
+Stinson, Deck, Moore, Archer and Hefner of the House and Howard of the Senate An Act relating to prescriptions; creating the 340B Nondiscrimination Act; defining terms; prohibiting certain discriminatory actions related to reimbursement of certain entities; making certain provisions inapplicable when Medicaid provides reimbursement for covered drugs; prohibiting certain discriminatory actions by a manufacturer or distributor related to certain entities; establishing contract requirement; providing construing provision; authorizing the Insurance Department to establish rules and regulations; providing for enforcement by the Attorney General and Insurance Commissioner; providing for violations and the levying of civil fines; allowing for the sharing of certain information; requiring entities to keep information confidential; providing an exception; providing for federal preemption; providing for severability; amending 36 O.S. 2021, Sections 6960 and 6962, as last amended by Sections 1 and 2, Chapter 306, O.S.L. 2024, and Section 3, Chapter 38, O.S.L. 2022, as last amended by Section 4, Chapter 306, O.S.L. 2024 (36 O.S.
+Supp. 2024, Sections 6960, 6962, and 6966.1), which relate to the Patient's Right to Pharmacy Choice Act; defining terms; prohibiting certain actions by pharmacy benefits managers (PBMs) or agents of a PBM; providing additional requirements for PBM contracts; requiring PBMs to make certain drug formulary and coverage decisions; deeming all processed claims final at point of adjudication; providing for codification; and providing an effective date.
+SUBJECT:
+Prescriptions BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1.
+NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 5400 of Title 36, unless there is created a duplication in numbering, reads as follows:
+This act shall be known and may be cited as the "340B Nondiscrimination Act".
+SECTION 2.
+NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 5401 of Title 36, unless there is created a duplication in numbering, reads as follows:
+As used in this act: 1.
+"340B drug" means a drug that has been subject to any offer for reduced prices by a manufacturer pursuant to Section 256b of Title 42 of the United States Code and is purchased by a covered entity as defined in Section 256b(a)(4) of Title 42 of the United States Code; 2.
+"340B entity" means an entity participating or authorized to participate in the federal 340B drug discount program, as described in Section 256b of Title 42 of the United States Code, including its pharmacy, or any pharmacy contracted with the participating entity to dispense drugs purchased through the 340B drug discount program; 3.
+"Pharmacy" means a pharmacy licensed by the Oklahoma State Board of Pharmacy, except that patients who are provided pharmacy care shall be physically located in the state; and 4.
+"Pharmacy benefits manager" means a person that performs pharmacy benefits management and any other person acting for such person under a contractual or employment relationship in the performance of pharmacy benefits management for a managed care company, nonprofit hospital, medical service organization, insurance ENR.
+H.
+B.
+NO. 2048 Page 2 company, third-party payor or a health program administered by a department of this state.
+SECTION 3.
+NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 5402 of Title 36, unless there is created a duplication in numbering, reads as follows:
+A.
+With respect to reimbursement to a 340B entity for 340B drugs, a health insurance issuer, pharmacy benefits manager, other third-party payor, or its agent shall not: 1.
+Reimburse a 340B entity for 340B drugs at a rate lower than that paid for the same drug to entities that are not 340B entities or lower reimbursement for a claim on the basis that the claim is for a 340B drug; 2.
+Impose any terms or conditions on any 340B entity with respect to any of the following that differ from such terms or conditions applied to non-340B entities on the basis that the entity participates in the federal 340B drug discount program set forth in Section 256b of Title 42 of the United States Code or that a drug is a 340B drug including, without limitation, any of the following: a. fees, charges, clawbacks, or other adjustments or assessments.
+For purposes of this subsection, the term "other adjustments" includes placing any additional requirements, restrictions, or unnecessary burdens upon the 340B entity that result in administrative costs or fees to the 340B entity that are not placed upon other entities that do not participate in the 340B drug discount program, including affiliate pharmacies of the health insurance issuer, pharmacy benefits manager, or other third- party payor, b. dispensing fees that are less than the dispensing fees for non-340B entities, c. restrictions or requirements regarding participation in standard or preferred pharmacy networks, d. requirements relating to the frequency or scope of audits of inventory management systems, ENR.
+H.
+B.
+NO. 2048 Page 3 e. requirements that a claim for a drug include any identification, billing modifier, attestation, or other indication that a drug is a 340B drug in order to be processed or resubmitted unless it is required by the Centers for Medicare and Medicaid Services or the Oklahoma Health Care Authority for the administration of the Oklahoma Medicaid program, or f. any other restrictions, conditions, practices, or policies that are not imposed on non-340B entities; 3.
+Require a 340B entity to reverse, resubmit, or clarify a claim after the initial adjudication unless these actions are in the normal course of pharmacy business and not related to 340B drug pricing; 4.
+Discriminate against a 340B entity in a manner that prevents or interferes with any patient's choice to receive such drugs from the 340B entity, including the administration of such drugs.
+For purposes of this subsection, it is considered a discriminatory practice that prevents or interferes with a patient's choice to receive drugs at a 340B entity if a health insurance issuer, pharmacy benefits manager, or other third-party payor places any additional requirements, restrictions, or unnecessary burdens upon the 340B entity that results in administrative costs or fees to the 340B entity, including but not limited to, requiring a claim for a drug to include any identification, billing modifier, attestation, or other indication that a drug is a 340B drug in order to be processed or resubmitted unless it is required by the Centers for Medicare and Medicaid Services or the Oklahoma Health Care Authority in administration of the Oklahoma Medicaid program; 5.
+Include any other provision in a contract between a health insurance issuer, pharmacy benefits manager, or other third-party payor and a 340B entity that discriminates against the 340B entity or prevents or interferes with an individual's choice to receive a prescription drug from a 340B entity, including the administration of the drug, in person or via direct delivery, mail, or other form of shipment, or creation of a restriction or additional charge on a patient who chooses to receive drugs from a 340B entity; 6.
+Require or compel the submission of ingredient costs or pricing data pertaining to 340B drugs to any health insurance issuer, pharmacy benefits manager, or other third-party payor; or ENR.
+H.
+B.
+NO. 2048 Page 4 7.
+Exclude any 340B entity from the health insurance issuer, pharmacy benefits manager, or other third-party payor network on the basis that the 340B entity dispenses drugs subject to an agreement under Section 256b of Title 42 of the United States Code, or refusing to contract with a 340B entity for reasons other than those that apply equally to non-340B entities.
+B.
+Nothing in this section applies to the Oklahoma Medicaid program as payor when Medicaid provides reimbursement for covered outpatient drugs as defined in Section 1396r-8(k) of Title 42 of the United States Code.
+SECTION 4.
+NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 5403 of Title 36, unless there is created a duplication in numbering, reads as follows:
+A.
+A manufacturer shall not deny, restrict, prohibit, or otherwise interfere with, either directly or indirectly, the acquisition of a 340B drug by, or delivery of a 340B drug to a 340B entity, unless such receipt is prohibited by the United States Department of Health and Human Services.
+B.
+A manufacturer shall not interfere with a pharmacy contracted with a 340B entity.
+C.
+A 340B entity shall contract with any willing pharmacy upon mutually agreeable terms within a fifteen-mile radius of the 340B entity's location.
+D.
+Nothing in this section shall be construed to limit the number of pharmacies that a 340B entity shall be allowed to contract with.
+SECTION 5.
+NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 5404 of Title 36, unless there is created a duplication in numbering, reads as follows:
+A.
+The Insurance Department is authorized to establish rules and regulations interpreting the provisions of this act concerning health insurers.
+The Department is responsible for enforcing this act specifically with respect to health insurers.
+It may levy civil fines ranging from One Hundred Dollars ($100.00) to Ten Thousand Dollars ($10,000.00) per violation of this act.
+This section does not prevent the Insurance Department from seeking assistance from the Attorney General in enforcing this act or limit the Insurance ENR.
+H.
+B.
+NO. 2048 Page 5 Departments ability to regulate the licensing of pharmacy benefit managers.
+Each instance of a prohibited act constitutes a separate violation.
+B.
+The Attorney General is authorized to establish rules and regulations interpreting the provisions of this act and concerning any person or entity who is not a health insurer subject to enforcement by the Insurance Department.
+The Attorney General may impose civil fines of not less than One Hundred Dollars ($100.00) and not greater than Ten Thousand Dollars ($10,000.00) for each violation of the provisions of this act.
+C.
+Nothing shall prohibit the Attorney General's Office or the Insurance Department from sharing any information with each other as a part of an investigation regarding conduct that is prohibited by this act.
+Any information shared between the Attorney General's Office and the Insurance Department shall be kept confidential unless it is used during an enforcement action authorized by this act, the disclosing agency has authorized such disclosure, or the information is publicly available.
+A violation occurs each time a prohibited act is committed.
+SECTION 6.
+NEW LAW A new section of law to be codified in the Oklahoma Statutes as Section 5405 of Title 36, unless there is created a duplication in numbering, reads as follows:
+A.
+Nothing in this section is to be construed or applied to be less restrictive than federal law for a person or entity regulated by this act.
+B.
+Nothing in this act is to be construed or applied to be in conflict with any of the following: 1.
+Applicable federal law and related regulations; or 2.
+Other laws of this state if the state law is compatible with applicable federal law.
+C.
+Limited distribution of a drug required under Section 355-1 of Title 21 of the United States Code is not to be construed as a violation of this section.
+D.
+If any provision of this act, an amendment made by this act, or the application of such provision or amendment to any person or ENR.
+H.
+B.
+NO. 2048 Page 6 circumstance is held to be unconstitutional, the remainder of this act, the amendments made by this act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.
+SECTION 7.
+AMENDATORY 36 O.S. 2021, Section 6960, as last amended by Section 1, Chapter 306, O.S.L. 2024 (36 O.S.
+Supp. 2024, Section 6960), is amended to read as follows:
+Section 6960.
+A.
+For purposes of the Patient's Right to Pharmacy Choice Act: 1.
+"340B drug pricing" means the pricing agreement established under Section 602 of the Veterans Health Care Act of 1992, Pub.
+L.
+No. 102-585; 2.
+"340B entity" means a covered entity as that term is defined in 42 U.S.C., Section 256b; 3.
+"Covered entity" means a nonprofit hospital or medical service organization, for-profit hospital or medical service organization, insurer, health benefit plan, health maintenance organization, health program administered by the state in the capacity of providing health coverage, or an employer, labor union, or other group of persons that provides health coverage to persons in this state.
+This term does not include a health plan that provides coverage only for accidental injury, specified disease, hospital indemnity, disability income, or other limited benefit health insurance policies and contracts that do not include prescription drug coverage; 2. 4.
+"Health insurer" means any corporation, association, benefit society, exchange, partnership or individual licensed by the Oklahoma Insurance Code; 3. 5.
+"Health insurer payor" means a health insurance company, health maintenance organization, union, hospital and medical services organization or any entity providing or administering a self-funded health benefit plan; 4. 6.
+"Mail-order pharmacy" means a pharmacy licensed by this state that primarily dispenses and delivers covered drugs via common carrier;
+ENR.
+H.
+B.
+NO. 2048 Page 7 5. 7.
+"Pharmacy benefits manager" or "PBM" means a person, business, or other entity that performs pharmacy benefits management.
+The term shall include a person or entity acting on behalf of a PBM in a contractual or employment relationship in the performance of pharmacy benefits management for a managed care company, nonprofit hospital, medical service organization, insurance company, third-party payor or a health program administered by a department of this state; 6. 8.
+"Pharmacy benefits management" means a service provided to covered entities to facilitate the provisions of prescription drug benefits to covered individuals within the state, including, but not limited to, negotiating pricing and other terms with drug manufacturers and providers.
+Pharmacy benefits management may include any or all of the following services: a. claims processing, retail network management, and payment of claims to pharmacies for prescription drugs dispensed to covered individuals, b. administration or management of pharmacy discount cards or programs, c. clinical formulary development and management services, or d. rebate contracting and administration; 7. 9.
+"Provider" means a pharmacy, as defined in Section 353.1 of Title 59 of the Oklahoma Statutes or an agent or representative of a pharmacy; 8. 10.
+"Retail pharmacy network" means retail pharmacy providers contracted with a PBM in which the pharmacy primarily fills and sells prescriptions via a retail, storefront location; 9. 11.
+"Rural service area" means a five-digit ZIP code in which the population density is less than one thousand (1,000) individuals per square mile; 10. 12.
+"Spread pricing" means a prescription drug pricing model utilized by a pharmacy benefits manager in which the PBM charges a health benefit plan a contracted price for prescription drugs that differs from the amount the PBM directly or indirectly pays the pharmacy or pharmacist for providing pharmacy services;
+ENR.
+H.
+B.
+NO. 2048 Page 8 11. 13.
+"Suburban service area" means a five-digit ZIP code in which the population density is between one thousand (1,000) and three thousand (3,000) individuals per square mile; and 12. 14.
+"Urban service area" means a five-digit ZIP code in which the population density is greater than three thousand (3,000) individuals per square mile.
+B.
+Nothing in the definitions of pharmacy benefits manager or pharmacy benefits management as such terms are defined in the Patient's Right to Pharmacy Choice Act, the Pharmacy Audit Integrity Act, or Sections 357 through 360 of Title 59 of the Oklahoma Statutes shall be construed to deem the following entities to be a pharmacy benefits manager: 1.
+An employer of its own self-funded health benefit plan, except, to the extent permitted by applicable law, where the employer without the utilization of a third party and unrelated to the employer's own pharmacy: a. negotiates directly with drug manufacturers, b. processes claims on behalf of its members, or c. manages its own retail network of pharmacies; or 2.
+A pharmacy that provides a patient with a discount card or program that is for exclusive use at the pharmacy offering the discount.
+SECTION 8.
+AMENDATORY 36 O.S. 2021, Section 6962, as last amended by Section 2, Chapter 306, O.S.L. 2024 (36 O.S.
+Supp. 2024, Section 6962), is amended to read as follows:
+Section 6962.
+A.
+The Attorney General shall review and approve retail pharmacy network access for all pharmacy benefits managers (PBMs) to ensure compliance with Section 6961 of this title.
+B.
+A PBM, or an agent of a PBM, shall not: 1.
+Cause or knowingly permit the use of advertisement, promotion, solicitation, representation, proposal or offer that is untrue, deceptive or misleading;
+ENR.
+H.
+B.
+NO. 2048 Page 9 2.
+Charge a pharmacist or pharmacy a fee related to the adjudication of a claim including without limitation a fee for: a. the submission of a claim, b. enrollment or participation in a retail pharmacy network, or c. the development or management of claims processing services or claims payment services related to participation in a retail pharmacy network; 3.
+Reimburse a pharmacy or pharmacist in the state an amount less than the amount that the PBM reimburses a pharmacy owned by or under common ownership with a PBM for providing the same covered services.
+The reimbursement amount paid to the pharmacy shall be equal to the reimbursement amount calculated on a per-unit basis using the same generic product identifier or generic code number paid to the PBM-owned or PBM-affiliated pharmacy; 4.
+Deny a provider the opportunity to participate in any pharmacy network at preferred participation status if the provider is willing to accept the terms and conditions that the PBM has established for other providers as a condition of preferred network participation status; 5.
+Deny, limit or terminate a provider's contract based on employment status of any employee who has an active license to dispense, despite probation status, with the State Board of Pharmacy; 6.
+Retroactively deny or reduce reimbursement for a covered service claim after returning a paid claim response as part of the adjudication of the claim, unless: a. the original claim was submitted fraudulently, or b. to correct errors identified in an audit, so long as the audit was conducted in compliance with Sections 356.2 and 356.3 of Title 59 of the Oklahoma Statutes; 7.
+Fail to make any payment due to a pharmacy or pharmacist for covered services properly rendered in the event a PBM terminates a provider from a pharmacy benefits manager network;
+ENR.
+H.
+B.
+NO. 2048 Page 10 8.
+Conduct or practice spread pricing, as defined in Section 6960 of this title, in this state; or 9.
+Charge a pharmacist or pharmacy a fee related to participation in a retail pharmacy network including but not limited to the following: a. an application fee, b. an enrollment or participation fee, c. a credentialing or re-credentialing fee, d. a change of ownership fee, or e. a fee for the development or management of claims processing services or claims payment services; 10.
+Discriminate, offer lower reimbursement, or impose any separate terms upon a provider on the basis that a provider participates in 340B drug pricing; 11.
+Require a provider to reverse, resubmit, or clarify a 340B drug pricing claim after the initial adjudication unless these actions are in the normal course of pharmacy business and not related to 340B drug pricing; 12.
+Require a billing modifier to indicate that the drug or claim is a 340B drug pricing claim, unless the drug or claim is being billed to the Oklahoma Medicaid Program; 13.
+Modify a patient copayment on the basis that the provider of the patient participates in 340B drug pricing; 14.
+Exclude a provider from a network on the basis that the provider participates in 340B drug pricing; 15.
+Establish or set network adequacy requirements based on 340B drug pricing participation by a provider; 16.
+Prohibit a 340B entity or a pharmacy under contract with a 340B entity from participating in the network of the PBM on the basis of participation in 340B drug pricing; or ENR.
+H.
+B.
+NO. 2048 Page 11 17.
+Base the drug formulary or drug coverage decisions upon the 340B drug pricing status of a drug, including price or availability, or whether a dispensing pharmacy participates in 340B drug pricing.
+C.
+The prohibitions under this section shall apply to contracts between pharmacy benefits managers and providers for participation in retail pharmacy networks. 1.
+A PBM contract shall: a. not restrict, directly or indirectly, any pharmacy that dispenses a prescription drug from informing, or penalize such pharmacy for informing, an individual of any differential between the individual's out-of- pocket cost or coverage with respect to acquisition of the drug and the amount an individual would pay to purchase the drug directly, and b. ensure that any entity that provides pharmacy benefits management services under a contract with any such health plan or health insurance coverage does not, with respect to such plan or coverage, restrict, directly or indirectly, a pharmacy that dispenses a prescription drug from informing, or penalize such pharmacy for informing, a covered individual of any differential between the individual's out-of-pocket cost under the plan or coverage with respect to acquisition of the drug and the amount an individual would pay for acquisition of the drug without using any health plan or health insurance coverage, and c. eliminate discriminatory contracting as it relates to:
+(1) transferring the benefit of 340B drug pricing savings from a 340B entity to another entity, including without limitation pharmacy benefits managers, private insurers, and managed care organizations, (2) offering a lower reimbursement rate for drugs purchased under 340B drug pricing than for the same drug not purchased under 340B drug pricing, (3) refusal to cover drug purchases utilizing 340B drug pricing, ENR.
+H.
+B.
+NO. 2048 Page 12 (4) refusal to allow providers who utilize 340B drug pricing to participate in networks, and (5) charging more than fair market value or seeking profit sharing in exchange for services involving 340B drug pricing. 2.
+A pharmacy benefits manager's contract with a provider shall not prohibit, restrict, or limit disclosure of information or documents to the Attorney General, law enforcement or state and federal governmental officials investigating or examining a complaint or conducting a review of a pharmacy benefits manager's compliance with the requirements under the Patient's Right to Pharmacy Choice Act, the Pharmacy Audit Integrity Act, and Sections 357 through 360 of Title 59 of the Oklahoma Statutes.
+D.
+A pharmacy benefits manager shall: 1.
+Establish and maintain an electronic claim inquiry processing system using the National Council for Prescription Drug Programs' current standards to communicate information to pharmacies submitting claim inquiries; 2.
+Fully disclose to insurers, self-funded employers, unions or other PBM clients the existence of the respective aggregate prescription drug discounts, rebates received from drug manufacturers and pharmacy audit recoupments; 3.
+Provide the Attorney General, insurers, self-funded employer plans and unions unrestricted audit rights of and access to the respective PBM pharmaceutical manufacturer and provider contracts, plan utilization data, plan pricing data, pharmacy utilization data and pharmacy pricing data; 4.
+Maintain, for no less than three (3) years, documentation of all network development activities including but not limited to contract negotiations and any denials to providers to join networks.
+This documentation shall be made available to the Attorney General upon request; and 5.
+Report to the Attorney General, on a quarterly basis for each health insurer payor, on the following information: a. the aggregate amount of rebates received by the PBM, ENR.
+H.
+B.
+NO. 2048 Page 13 b. the aggregate amount of rebates distributed to the appropriate health insurer payor, c. the aggregate amount of rebates passed on to the enrollees of each health insurer payor at the point of sale that reduced the applicable deductible, copayment, coinsure or other cost sharing amount of the enrollee, d. the individual and aggregate amount paid by the health insurer payor to the PBM for pharmacy services itemized by pharmacy, drug product and service provided, and e. the individual and aggregate amount a PBM paid a provider for pharmacy services itemized by pharmacy, drug product and service provided; 6.
+Make drug formulary and coverage decisions based on the normal course of business of the PBM, not based upon the 340B drug pricing status of a drug, including price or availability, or whether a dispensing pharmacy participates in 340B drug pricing.
+E.
+Nothing in the Patient's Right to Pharmacy Choice Act shall prohibit the Attorney General from requesting and obtaining detailed data, including raw data, in response to the information provided by a PBM in the quarterly reports required by this section.
+The Attorney General may alter the frequency of the reports required by this section at his or her sole discretion.
+F.
+The Attorney General may promulgate rules to implement the provisions of the Patient's Right to Pharmacy Choice Act, the Pharmacy Audit Integrity Act, and Sections 357 through 360 of Title 59 of the Oklahoma Statutes.
+SECTION 9.
+AMENDATORY Section 3, Chapter 38, O.S.L. 2022, as last amended by Section 4, Chapter 306, O.S.L. 2024 (36 O.S.
+Supp. 2024, Section 6966.1), is amended to read as follows:
+Section 6966.1.
+A.
+The Insurance Commissioner may censure, suspend, revoke, or refuse to issue or renew a license of or levy a civil penalty against any person licensed under the insurance laws of this state for any violation of the Patient's Right to Pharmacy Choice Act, Section 6958 et seq. of this title.
+ENR.
+H.
+B.
+NO. 2048 Page 14 B. 1.
+If the Attorney General finds, after notice and opportunity for hearing, that a pharmacy benefits manager (PBM) violated one or more provisions of the Patient's Right to Pharmacy Choice Act, the Pharmacy Audit Integrity Act or the provisions of Sections 357 through 360 of Title 59 of the Oklahoma Statutes, the Attorney General may instruct the Insurance Commissioner that the PBM be censured or his or her license be suspended or revoked.
+If the Attorney General makes such instruction, the Commissioner shall enforce such action within thirty (30) days. 2.
+In addition to or in lieu of any censure or suspension or revocation of a license by the Commissioner, the Attorney General may levy a civil or administrative fine not less than One Hundred Dollars ($100.00) and not greater than Ten Thousand Dollars ($10,000.00) for each violation of the provisions of the Patient's Right to Pharmacy Choice Act, the Pharmacy Audit Integrity Act or the provisions of Sections 357 through 360 of Title 59 of the Oklahoma Statutes. 3.
+The Attorney General may order restitution for economic loss suffered by pharmacies or patients for violations of the Patient's Right to Pharmacy Choice Act, the Pharmacy Audit Integrity Act, or the provisions of Sections 357 through 360 of Title 59 of the Oklahoma Statutes.
+C.
+Notwithstanding whether the license of a PBM has been issued, suspended, revoked, surrendered or lapsed by operation of law, the Attorney General is hereby authorized to enforce the provisions of the Patient's Right to Pharmacy Choice Act and impose any penalty or remedy authorized under the act against a PBM under investigation for or charged with a violation of the Patient's Right to Pharmacy Choice Act, the Pharmacy Audit Integrity Act, the provisions of Sections 357 through 360 of Title 59 of the Oklahoma Statutes or any provision of the insurance laws of this state.
+D.
+Each day that a PBM conducts business in this state without a license from the Insurance Department shall be deemed a violation of the Patient's Right to Pharmacy Choice Act.
+E. 1.
+All hearings conducted by the Office of the Attorney General pursuant to this section shall be public and held in accordance with the Administrative Procedures Act.
+ENR.
+H.
+B.
+NO. 2048 Page 15 2.
+Hearings shall be held at the Office of the Attorney General or any other place the Attorney General may deem convenient. 3.
+The Attorney General, upon written request from a PBM affected by the hearing, shall cause a full stenographic record of the proceedings to be made by a competent court reporter.
+This record shall be at the expense of the PBM. 4.
+The ordinary fees and costs of the hearing examiner appointed pursuant to Section 319 of this title may be assessed by the hearing examiner against the respondent unless the respondent is the prevailing party.
+F.
+Any PBM whose license has been censured, suspended, revoked or denied renewal or who has had a fine levied against him or her shall have the right of appeal from the final order of the Attorney General, pursuant to Section 318 et seq. of Title 75 of the Oklahoma Statutes.
+G.
+If the Attorney General determines, based upon an investigation of complaints, that a PBM has engaged in violations of the provisions of the Patient's Right to Pharmacy Choice Act, the Pharmacy Audit Integrity Act, and Sections 357 through 360 of Title 59 of the Oklahoma Statutes with such frequency as to indicate a general business practice, and that the PBM should be subjected to closer supervision with respect to those practices, the Attorney General may require the PBM to file a report at any periodic interval the Attorney General deems necessary.
+H. 1.
+The Attorney General shall have the authority to collect all fines, penalties, restitution, and interest thereon pursuant to the provisions of the Patient's Right to Pharmacy Choice Act, the Pharmacy Audit Integrity Act, and the provisions of Sections 357 through 360 of Title 59 of the Oklahoma Statutes, or any other charge, cause of action, prelitigation settlement, or other settlement that requires the recovery of money as a result of violations of the Patient's Right to Pharmacy Choice Act.
+Funds collected by the Attorney General pursuant to the Patient's Right to Pharmacy Choice Act, the Pharmacy Audit Integrity Act, and Sections 357 through 360 of Title 59 of the Oklahoma Statutes shall be deposited into the Attorney General's Pharmacy Benefits Manager Enforcement Revolving Fund created in Section 5 of this act. 2.
+Costs of investigation, litigation, attorney fees, and other expenses incurred shall be retained by the Office of the Attorney ENR.
+H.
+B.
+NO. 2048 Page 16 General.
+Remaining funds shall be distributed to pharmacists, patients, or other injured parties as determined by the Attorney General. 3.
+The Attorney General shall promulgate rules for the distribution of funds pursuant to this subsection.
+I.
+All claims processed by a PBM on behalf of a provider that participates in 340B drug pricing or on behalf of a 340B entity shall be deemed final at the point of adjudication.
+SECTION 10.
+This act shall become effective November 1, 2025.
+ENR.
+H.
+B.
+NO. 2048 Page 17 Passed the House of Representatives the 26th day of March, 2025.
+Presiding Officer of the House of Representatives Passed the Senate the 8th day of May, 2025.
+Presiding Officer of the Senate OFFICE OF THE GOVERNOR Received by the Office of the Governor this ____________________ day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________ Approved by the Governor of the State of Oklahoma this _________ day of ___________________, 20_______, at _______ o'clock _______ M. _________________________________ Governor of the State of Oklahoma OFFICE OF THE SECRETARY OF STATE Received by the Office of the Secretary of State this __________ day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________ ENR.
+H.
+B.
+NO. 2048 Page 18

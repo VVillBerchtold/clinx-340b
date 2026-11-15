@@ -1,0 +1,65 @@
+25.627.15 100th Legislative Session 154 2025 South Dakota Legislature Senate Bill 154 ENROLLED AN ACT ENTITLED An Act to prohibit pharmaceutical manufacturers from interfering in contracts between 340B entities and pharmacies and to provide a penalty therefor.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
+Section 1.
+That § 37-24-6 be AMENDED: 37-24-6.
+It is a deceptive act or practice for any person to:
+(1) Knowingly act, use, or employ any deceptive act or practice, fraud, false pretense, false promises, or misrepresentation or to conceal, suppress, or omit any material fact in connection with the sale or advertisement of any merchandise or the solicitation of contributions for charitable purposes, regardless of whether any person has in fact been misled, deceived, or damaged thereby;
+(2) Advertise price reductions without satisfying one of the following:
+(a) Including in the advertisement the specific basis for the claim of a price reduction; or (b) Offering the merchandise for sale at the higher price from which the reduction is taken for at least seven consecutive business days during the sixty-day period prior to the advertisement.
+Any person advertising consumer property or services in this state, which advertisements contain representations or statements as to any type of savings claim, including reduced price claims and price comparison value claims, shall maintain reasonable records for a period of two years from the date of sale and advertisement, which records shall disclose the factual basis for such representations or statements and from which the validity of any such claim be established.
+However, these reasonable record provisions do not apply to the sale of any merchandise that is of a class of merchandise that is routinely advertised on at least a weekly basis in newspapers, shopping tabloids, or similar publications 25.627.15 2 154 and that has a sales price before price reduction that is less than fifteen dollars per item;
+(3) Represent a sale of merchandise at reduced rates due to the cessation of business operations and after the date of the first advertisement remain in business under the same, or substantially the same, ownership or trade name, or continue to offer for sale the same type of merchandise at the same location for more than one hundred twenty days;
+(4) Give or offer a rebate, discount, or anything of value to a person as an inducement for selling consumer property or services in consideration of giving the names of prospective purchasers or otherwise aiding in making a sale to another person, if the earning of the rebate, discount, or other thing of value is contingent upon the occurrence of an event subsequent to the time the person agrees to the sale;
+(5) Engage in any scheme or plan for disposal or distribution of merchandise whereby a participant pays a valuable consideration for the chance to receive compensation primarily for introducing one or more additional persons into participation in the planner's scheme or for the chance to receive compensation when the person introduced by the participant introduces a new participant;
+(6) Send, deliver, provide, mail, or cause to be sent, delivered, provided, or mailed any bill or invoice for unordered property or unordered service provided;
+(7) Advertise a rate, price, or fee for a hotel, motel, campsite, or other lodging accommodation which is not in fact available to the public under the terms advertised.
+It is not a violation of this subdivision to establish contract rates which are different than public rates;
+(8) Charge a rate, price, or fee for a hotel, motel, campsite, or other lodging accommodation which is different than the rate, price, or fee charged on the first night of the guest's stay unless, at the initial registration of the guest, a written notification of each price, rate, or fee to be charged during the guest's reserved continuous stay is delivered to the guest and an acknowledgment of receipt of the notice is signed by the guest and kept by the innkeeper for the same period of time as is required by § 34-18-21;
+(9) Knowingly fail to mail or to deliver by electronic means to a future guest a written confirmation of the date and rates of reservations made for any accommodation at a hotel, motel, campsite, or other lodging accommodation when a written request for confirmation is received from the future guest;
+SB154 ENROLLED 25.627.15 3 154 (10) Require money in advance of arrival or a handling fee in the event of cancellation of any hotel, motel, campsite, or other lodging accommodation unless the innkeeper has a written policy or a separate contract with the guest stating so that is mailed or delivered by electronic means to the guest at or near the making of the reservation;
+(11) Knowingly advertise or cause to be listed through the internet or in a telephone directory a business address that misrepresents where the business is actually located or that falsely states that the business is located in the same area covered by the telephone directory.
+This subdivision does not apply to a telephone service provider, an internet service provider, or a publisher or distributor of a telephone directory, unless the conduct proscribed in this subdivision is on behalf of the provider, publisher, or distributor;
+(12) Sell, market, promote, advertise, or otherwise distribute any card or other purchasing mechanism or device that is not insurance that purports to offer discounts or access to discounts from pharmacies for prescription drug purchases if:
+(a) The card or other purchasing mechanism or device does not expressly state in bold and prominent type, prevalently placed, that discounts are not insurance;
+(b) The discounts are not specifically authorized by a separate contract with each pharmacy listed in conjunction with the card or other purchasing mechanism or device; or (c) The discount or access to discounts offered, or the range of discounts or access to the range of discounts, is misleading, deceptive, or fraudulent, regardless of the literal wording.
+The provisions of this subdivision do not apply to a customer discount or membership card issued by a store or buying club for use in that store or buying club, or a patient access program voluntarily sponsored by a pharmaceutical manufacturer, or a consortium of pharmaceutical manufacturers, that provide free or discounted prescription drug products directly to low income or uninsured individuals either through a discount card or direct shipment;
+(13) Send or cause to be sent an unsolicited commercial electronic mail message that does not include in the subject line of such message "ADV:" as the first four characters.
+If the message contains information that consists of explicit sexual material that may only be viewed, purchased, rented, leased, or held in possession SB154 ENROLLED 25.627.15 4 154 by an individual eighteen years of age and older, the subject line of each message shall include "ADV:ADLT" as the first eight characters.
+An unsolicited commercial electronic mail message does not include a message sent to a person with whom the initiator has an existing personal or business relationship or a message sent at the request or express consent of the recipient;
+(14) Violate the provisions of § 22-25-52;
+(15) Knowingly fail to disclose the amount of any mandatory fee when reservations are made by a future guest at a hotel, motel, campsite, or other lodging accommodations.
+A mandatory fee under this subdivision includes any resort fee or parking fee charged by the lodging accommodations whether or not the guest utilizes the amenities or the parking facility for which the fee is assessed;
+(16) Cause misleading information to be transmitted to users of caller identification technologies or otherwise block or misrepresent the origin of a telephone solicitation.
+No provider of telephone caller identification services, telecommunications, broadband, or voice over internet protocol service may be held liable for violations of this subdivision committed by other individuals or entities.
+It is not a violation of this subdivision:
+(a) For a telephone solicitor to utilize the name and number of the entity the solicitation is being made on behalf of rather than the name and number of the telephone solicitor;
+(b) If an authorized activity of a law enforcement agency; or (c) If a court order specifically authorizes the use of caller identification manipulation; or (17) Violate section 3 or 4 of this Act.
+Each act in violation of this section under one thousand dollars is a Class 1 misdemeanor.
+Each act in violation of this statute over one thousand dollars but under one hundred thousand dollars is a Class 6 felony.
+Each act in violation of this section over one hundred thousand dollars is a Class 5 felony.
+Section 2.
+That a NEW SECTION be added to a NEW CHAPTER in title 58:
+Terms used in this chapter mean:
+(1) "Pharmaceutical manufacturer," any person engaged in the business of preparing, producing, converting, processing, packaging, labeling, or distributing a prescription drug, but not including a wholesale distributor or dispenser;
+SB154 ENROLLED 25.627.15 5 154 (2) "Pharmacy," any place within or outside this state, licensed by the State Board of Pharmacy, where drugs are dispensed, and pharmaceutical care is provided to residents of this state;
+(3) "340B drug," a drug purchased through the 340B drug discount program by a 340B entity;
+(4) "340B drug discount program," a program that imposes limitations on the prices of drugs purchased by covered entities, in accordance with 42 U.S.C. § 256b (January 1, 2025); and (5) "340B entity," a covered entity as defined in 42 U.S.C. § 256b(a)(4) (January 1, 2025).
+Section 3.
+That a NEW SECTION be added to a new chapter in title 58:
+A pharmaceutical manufacturer may not, directly or indirectly, deny, restrict, or prohibit the acquisition of a 340B drug or the delivery of a 340B drug to a location that is authorized to receive the drug by a 340B entity or pharmacy, unless receipt of the 340B drug is prohibited by federal law.
+Nothing in this section requires a pharmaceutical manufacturer to provide a 340B drug price discount to a pharmacy.
+Nothing in this section prohibits a pharmaceutical manufacturer from limiting distribution of a drug in accordance with 21 U.S.C. § 355-1 (January 1, 2025).
+Section 4.
+That a NEW SECTION be added to a new chapter in title 58:
+A pharmaceutical manufacturer may not, directly or indirectly, require a 340B entity or pharmacy to submit any claim or utilization data, as a condition for allowing the acquisition of a 340B drug by, or delivery of a 340B drug to, a 340B entity, unless the claim or utilization data sharing is required by federal law.
+Nothing in this section prohibits a pharmaceutical manufacturer from conducting an audit of a 340B entity, in accordance with 42 U.S.C. § 256b(a)(5)(C) (January 1, 2025).
+Section 5.
+That a NEW SECTION be added to a new chapter in title 58:
+In addition to any other remedy provided by law, a 340B entity or a pharmacy may file a civil action against a pharmaceutical manufacturer for a violation of this Act, and may request injunctive relief, actual and consequential damages, and reasonable attorneys' fees and costs.
+SB154 ENROLLED 25.627.15 6 154 An Act to prohibit pharmaceutical manufacturers from interfering in contracts between 340B entities and pharmacies and to provide a penalty therefor.
+Received at this Executive Office I certify that the attached Act originated in this _____ day of _____________, the: 2025 at ____________M.
+Senate as Bill No. 154 By Secretary of the Senate for the Governor The attached Act is hereby approved this ________ day of President of the Senate ______________, A.D., 2025 Attest:
+Governor Secretary of the Senate STATE OF SOUTH DAKOTA, ss.
+Office of the Secretary of State Speaker of the House Filed ____________, 2025 Attest: at _________ o'clock __M.
+Chief Clerk Secretary of State Senate Bill No. 154 By File No. ____ Asst.
+Secretary of State Chapter No. ______ SB154 ENROLLED

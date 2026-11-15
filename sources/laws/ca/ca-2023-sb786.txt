@@ -1,0 +1,30 @@
+SB-786 Prescription drug pricing.(2023-2024) Date Published: 10/09/2023 09:00 PM Senate Bill No. 786 CHAPTER 414 An act to add Article 3 (commencing with Section 127470) to Chapter 2.5 of Part 2 of Division 107 of the Health and Safety Code, relating to prescription drugs. [ Approved by Governor October 07, 2023.
+Filed with Secretary of State October 07, 2023. ] LEGISLATIVE COUNSEL'S DIGEST SB 786, Portantino.
+Prescription drug pricing.
+Existing federal law requires the United States Secretary of Health and Human Services to enter into an agreement with each manufacturer of covered outpatient drugs to ensure the amount a covered entity is required to pay for those drugs does not exceed the average manufacturer price of the drug under the federal Medicaid program.
+Existing state law requires a covered entity to dispense only drugs subject to these federal pricing requirements to Medi-Cal beneficiaries.
+Existing law defines a "covered entity" to include a federally qualified health center and entities receiving specified grants and federal funding.
+This bill would prohibit a pharmacy benefit manager from discriminating against a covered entity or its pharmacy in connection with dispensing a drug subject to federal pricing requirements or preventing a covered entity from retaining the benefit of discounted pricing for those drugs.
+DIGEST KEY Vote: majority Appropriation: no Fiscal Committee: no Local Program: no BILL TEXT THE PEOPLE OF THE STATE OF CALIFORNIA DO ENACT AS FOLLOWS:
+SECTION 1.
+Article 3 (commencing with Section 127470) is added to Chapter 2.5 of Part 2 of Division 107 of the Health and Safety Code, to read:
+Article 3.
+Prescription Drug Pricing for Covered Entities 127470.
+For purposes of this article:
+(a) "Covered drug" means a drug purchased by a covered entity that is subject to the federal pricing requirements set forth in Section 256b of Title 42 of the United States Code.
+(b) "Covered entity" means a provider defined as a covered entity in Section 256b of Title 42 of the United States Code.
+(c) "Pharmacy benefit manager" has the same meaning as defined in Section 4430 of the Business and Professions Code and includes a wholly or partially owned or controlled subsidiary of a pharmacy benefit manager.
+(d) "Specified pharmacy" means a pharmacy owned by, or under contract with, a covered entity that is registered with the 340B discount drug purchasing program to dispense covered drugs on behalf of the covered entity, whether in person or via mail. 127471.
+(a) A pharmacy benefit manager shall not impose any requirements, conditions, or exclusions that do either of the following:
+(1) Discriminate against a covered entity or a specified pharmacy in connection with dispensing covered drugs.
+(2) Prevent a covered entity from retaining the benefit of discounted pricing for the purchase of covered drugs.
+(b) Discrimination prohibited pursuant to subdivision (a) includes, but is not limited to, all of the following:
+(1) Payment terms, reimbursement methodologies, or other terms and conditions that distinguish between covered drugs and other drugs, account for the availability of discounts under the 340B discount drug purchasing program described in Section 256b of Title 42 of the United States Code in determining reimbursement, or are less favorable than the payment terms or reimbursement methodologies for similarly situated entities that are not furnishing or dispensing covered drugs.
+(2) Terms or conditions applied to covered entities or specified pharmacies based on the furnishing or dispensing of covered drugs or their status as a covered entity or specified pharmacy, including restrictions or requirements for participation in specialty, standard, or preferred pharmacy networks, or requirements related to the frequency or scope of audits.
+(3) Refusing to contract with or terminating a contract with a covered entity or specified pharmacy, or otherwise excluding a covered entity or specified pharmacy from a specialty, standard or preferred network, on the basis that the entity or pharmacy is a covered entity or a specified pharmacy or for reasons other than those that apply equally to entities or pharmacies that are not covered entities or specified pharmacies.
+(4) Retaliation against a covered entity or specified pharmacy based on its exercise of any right or remedy under this article.
+(5) Interfering with an individual's choice to receive a covered drug from a covered entity or specified pharmacy, whether in person or via direct delivery, mail, or other form of shipment.
+(6) Restricting or prohibiting a covered entity from raising a grievance or speaking publicly about any pharmacy benefit manager that violates this subdivision or from filing a legal action against a pharmacy benefit manager for violating this subdivision.
+(c) This section does not apply to the Medi-Cal program or the federal Medicare Program but does apply to pharmacy benefit managers that contract with managed care organizations that serve Medi-Cal or Medicare members.
+(d) The provisions of this section shall not be waived, voided, or nullified by contract.
+(e) This article shall only be implemented to the extent that it is consistent with Section 256b of Title 42 of the United States Code or any rules or regulations adopted thereunder.

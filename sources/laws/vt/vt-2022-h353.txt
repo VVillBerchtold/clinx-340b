@@ -1,0 +1,141 @@
+No. 131 Page 1 of 21 2022 No. 131.
+An act relating to pharmacy benefit management.
+(H.353) It is hereby enacted by the General Assembly of the State of Vermont:
+Sec. 1.
+INTENT It is the intent of the General Assembly to increase access to needed medications by making prescription drugs more affordable and accessible to Vermonters by increasing State regulation of pharmacy benefit managers and pharmacy benefit management.
+It is also the intent of the General Assembly to stabilize and safeguard against the loss of more independent and community pharmacies, where pharmacists provide personalized care to Vermonters and help them with their health care needs, including medication management, medication adherence, and health screenings.
+Sec. 1a. 18 V.S.A. § 9421 is amended to read: § 9421.
+PHARMACY BENEFIT MANAGEMENT;
+REGISTRATION;
+INSURER AUDIT OF PHARMACY BENEFIT MANAGER ACTIVITIES *** (f) The Department of Financial Regulation shall monitor the cost impacts on Vermont consumers of pharmacy benefit manager regulation pursuant to this section, subchapter 9 of this chapter, and 8 V.S.A. chapter 107 and shall recommend appropriate modifications to the laws as needed to promote health care affordability in this State.
+VT LEG #363607 v.1 No. 131 Page 2 of 21 2022 (g) As used in this section: *** Sec. 2. 18 V.S.A. chapter 221, subchapter 9 is amended to read:
+Subchapter 9.
+Pharmacy Benefit Managers § 9471.
+DEFINITIONS As used in this subchapter: *** (2) "Health insurer" is defined by section 9402 of this title and shall include:
+(A) a health insurance company, a nonprofit hospital and medical service corporation, and health maintenance organizations;
+(B) an employer, labor union, or other group of persons organized in Vermont that provides a health plan to beneficiaries who are employed or reside in Vermont; and (C) the State of Vermont and any agent or instrumentality of the State that offers, administers, or provides financial support to State government; and (D) Medicaid, and any other public health care assistance program. *** (5) "Pharmacy benefit manager" means an entity that performs pharmacy benefit management, except an entity that provides pharmacy benefit management services for Vermont Medicaid.
+The term includes a VT LEG #363607 v.1 No. 131 Page 3 of 21 2022 person or entity in a contractual or employment relationship with an entity performing pharmacy benefit management for a health plan. *** (7) "Pharmacy benefit manager affiliate" means a pharmacy or pharmacist that, directly or indirectly, through one or more intermediaries, is owned or controlled by, or is under common ownership or control with, a pharmacy benefit manager. § 9472.
+PHARMACY BENEFIT MANAGERS;
+REQUIRED PRACTICES WITH RESPECT TO HEALTH INSURERS AND COVERED PERSONS (a) A pharmacy benefit manager that provides pharmacy benefit management for a health plan shall discharge its duties with reasonable care and diligence and be fair and truthful under the circumstances then prevailing that a pharmacy benefit manager acting in like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims has a fiduciary duty to its health insurer client that includes a duty to be fair and truthful toward the health insurer, to act in the health insurer's best interests, and to perform its duties with care, skill, prudence, and diligence.
+In the case of a health benefit plan offered by a health insurer as defined by subdivision 9471(2)(A) of this title, the health insurer shall remain responsible for administering the health benefit plan in accordance with the health VT LEG #363607 v.1 No. 131 Page 4 of 21 2022 insurance policy or subscriber contract or plan and in compliance with all applicable provisions of Title 8 and this title.
+(b) A pharmacy benefit manager shall provide notice to the health insurer that the terms contained in subsection (c) of this section may be included in the contract between the pharmacy benefit manager and the health insurer.
+(c) A pharmacy benefit manager that provides pharmacy benefit management for a health plan shall do all of the following:
+(1) Provide all financial and utilization information requested by a health insurer relating to the provision of benefits to beneficiaries through that health insurer's health plan and all financial and utilization information relating to services to that health insurer.
+A pharmacy benefit manager providing information under this subsection may designate that material as confidential.
+Information designated as confidential by a pharmacy benefit manager and provided to a health insurer under this subsection may shall not be disclosed by the health insurer to any person without the consent of the pharmacy benefit manager, except that disclosure may be made by the health insurer:
+(A) in a court filing under the consumer protection provisions of 9 V.S.A. chapter 63, provided that the information shall be filed under seal and that prior to the information being unsealed, the court shall give notice and an opportunity to be heard to the pharmacy benefit manager on why the information should remain confidential;
+VT LEG #363607 v.1 No. 131 Page 5 of 21 2022 (B) to State and federal government officials;
+(C) when authorized by 9 V.S.A. chapter 63;
+(C)(D) when ordered by a court for good cause shown; or (D)(E) when ordered by the Commissioner as to a health insurer as defined in subdivision 9471(2)(A) of this title pursuant to the provisions of Title 8 and this title.
+(2) Notify a health insurer in writing of any proposed or ongoing activity, policy, or practice of the pharmacy benefit manager that presents, directly or indirectly, any conflict of interest with the requirements of this section.
+(3) With regard to the dispensation of a substitute prescription drug for a prescribed drug to a beneficiary in which the substitute drug costs more than the prescribed drug and the pharmacy benefit manager receives a benefit or payment directly or indirectly, disclose to the health insurer the cost of both drugs and the benefit or payment directly or indirectly accruing to the pharmacy benefit manager as a result of the substitution.
+(4) Unless the contract provides otherwise, if If the pharmacy benefit manager derives any payment or benefit for the dispensation of prescription drugs within the State based on volume of sales for certain prescription drugs or classes or brands of drugs within the State, pass that payment or benefit on in full to the health insurer.
+VT LEG #363607 v.1 No. 131 Page 6 of 21 2022 (5) Disclose to the health insurer all financial terms and arrangements for remuneration of any kind that apply between the pharmacy benefit manager and any prescription drug manufacturer that relate to benefits provided to beneficiaries under or services to the health insurer's health plan, including formulary management and drug-switch programs, educational support, claims processing, and pharmacy network fees charged from retail pharmacies and data sales fees.
+A pharmacy benefit manager providing information under this subsection may designate that material as confidential.
+Information designated as confidential by a pharmacy benefit manager and provided to a health insurer under this subsection may shall not be disclosed by the health insurer to any person without the consent of the pharmacy benefit manager, except that disclosure may be made by the health insurer:
+(A) in a court filing under the consumer protection provisions of 9 V.S.A. chapter 63, provided that the information shall be filed under seal and that prior to the information being unsealed, the court shall give notice and an opportunity to be heard to the pharmacy benefit manager on why the information should remain confidential;
+(B) when authorized by 9 V.S.A. chapter 63;
+(C) when ordered by a court for good cause shown; or (D) when ordered by the Commissioner as to a health insurer as defined in subdivision 9471(2)(A) of this title pursuant to the provisions of Title 8 and this title.
+VT LEG #363607 v.1 No. 131 Page 7 of 21 2022 (d) At least annually, a pharmacy benefit manager that provides pharmacy benefit management for a health plan shall disclose to the health insurer, the Department of Financial Regulation, and the Green Mountain Care Board the aggregate amount the pharmacy benefit manager retained on all claims charged to the health insurer for prescriptions filled during the preceding calendar year in excess of the amount the pharmacy benefit manager reimbursed pharmacies.
+(e) A pharmacy benefit manager contract with a health insurer shall not contain any provision purporting to reserve discretion to the pharmacy benefit manager to move a drug to a higher tier or remove a drug from its drug formulary any more frequently than two times per year.
+(f)(1) A pharmacy benefit manager shall not require a covered person purchasing a covered prescription drug to pay an amount greater than the lesser of:
+(A) the cost-sharing amount under the terms of the health benefit plan;
+(B) the maximum allowable cost for the drug; or (C) the amount the covered person would pay for the drug if the covered person were paying the cash price.
+(2) Any amount paid by a covered person under subdivision (1) of this subsection shall be attributed toward any deductible and, to the extent consistent with Sec. 2707 of the Public Health Service Act (42 U.S.C.
+VT LEG #363607 v.1 No. 131 Page 8 of 21 2022 § 300gg-6), the annual out-of-pocket maximums under the covered person's health benefit plan.
+(g) Compliance with the requirements of this section is required for pharmacy benefit managers entering into contracts with a health insurer in this State for pharmacy benefit management in this State. § 9473.
+PHARMACY BENEFIT MANAGERS;
+REQUIRED PRACTICES WITH RESPECT TO PHARMACIES (a) Within 14 calendar days following receipt of a pharmacy claim, a pharmacy benefit manager or other entity paying pharmacy claims shall do one of the following:
+(1) Pay or reimburse the claim.
+(2) Notify the pharmacy in writing that the claim is contested or denied.
+The notice shall include specific reasons supporting the contest or denial and a description of any additional information required for the pharmacy benefit manager or other payer to determine liability for the claim.
+(b) A participation contract between a pharmacy benefit manager and a pharmacist shall not prohibit, restrict, or penalize a pharmacy or pharmacist in any way from disclosing to any covered person any health care information that the pharmacy or pharmacist deems appropriate, including:
+(1) the nature of treatment, risks, or alternatives to treatment;
+(2) the availability of alternate therapies, consultations, or tests;
+VT LEG #363607 v.1 No. 131 Page 9 of 21 2022 (3) the decision of utilization reviewers or similar persons to authorize or deny services;
+(4) the process that is used to authorize or deny health care services; or (5) information on financial incentives and structures used by the health insurer.
+(c) A pharmacy benefit manager or other entity paying pharmacy claims shall not:
+(1) impose a higher co-payment for a prescription drug than the co- payment applicable to the type of drug purchased under the insured's health plan;
+(2) impose a higher co-payment for a prescription drug than the maximum allowable cost for the drug;
+(3) require a pharmacy to pass through any portion of the insured's co- payment, or patient responsibility, to the pharmacy benefit manager or other payer;
+(2) prohibit a pharmacy or pharmacist from discussing information regarding the total cost for pharmacist services for a prescription drug;
+(4)(3) prohibit or penalize a pharmacy or pharmacist for providing information to an insured regarding the insured's cost-sharing amount for a prescription drug; or VT LEG #363607 v.1 No. 131 Page 10 of 21 2022 (5)(4) prohibit or penalize a pharmacy or pharmacist for the pharmacist or other pharmacy employee disclosing to an insured the cash price for a prescription drug or selling a lower cost drug to the insured if one is available.
+(d) A pharmacy benefit manager contract with a participating pharmacist or pharmacy shall not prohibit, restrict, or limit disclosure of information to the Commissioner, law enforcement, or State and federal government officials, provided that:
+(1) the recipient of the information represents that the recipient has the authority, to the extent provided by State or federal law, to maintain proprietary information as confidential; and (2) prior to disclosure of information designated as confidential, the pharmacist or pharmacy:
+(A) marks as confidential any document in which the information appears; and (B) requests confidential treatment for any oral communication of the information.
+(e) A pharmacy benefit manager shall not terminate a contract with or penalize a pharmacist or pharmacy due to the pharmacist or pharmacy:
+(1) disclosing information about pharmacy benefit manager practices, except for information determined to be a trade secret under State law or by the Commissioner, when disclosed in a manner other than in accordance with subsection (d) of this section; or VT LEG #363607 v.1 No. 131 Page 11 of 21 2022 (2) sharing any portion of the pharmacy benefit manager contract with the Commissioner pursuant to a complaint or query regarding the contract's compliance with the provisions of this chapter.
+(c)(f) For each drug for which a pharmacy benefit manager establishes a maximum allowable cost in order to determine the reimbursement rate, the pharmacy benefit manager shall do all of the following:
+(1) Make available, in a format that is readily accessible and understandable by a pharmacist, the actual maximum allowable cost for each drug and the source used to determine the maximum allowable cost, which shall not be dependent upon individual beneficiary identification or benefit stage.
+(2) Update the maximum allowable cost at least once every seven calendar days.
+In order to be subject to maximum allowable cost, a drug must be widely available for purchase by all pharmacies in the State, without limitations, from national or regional wholesalers and must not be obsolete or temporarily unavailable.
+(3) Establish or maintain a reasonable administrative appeals process to allow a dispensing pharmacy provider to contest a listed maximum allowable cost.
+(4)(A) Respond in writing to any appealing pharmacy provider within 10 calendar days after receipt of an appeal, provided that, except as provided in subdivision (B) of this subdivision (4), a dispensing pharmacy provider shall VT LEG #363607 v.1 No. 131 Page 12 of 21 2022 file any appeal within 10 calendar days from the date its claim for reimbursement is adjudicated.
+(B) A pharmacy benefit manager shall allow a dispensing pharmacy provider to appeal after the 10-calendar-day appeal period set forth in subdivision (A) of this subdivision (4) if the prescription claim is subject to an audit initiated by the pharmacy benefit manager or its auditing agent.
+(5) For a denied appeal, provide the reason for the denial and identify the national drug code and a Vermont-licensed wholesaler of an equivalent drug product that may be purchased by contracted pharmacies at or below the maximum allowable cost.
+(6) For an appeal in which the appealing pharmacy is successful:
+(A) make the change in the maximum allowable cost within 30 business days after the redetermination; and (B) allow the appealing pharmacy or pharmacist to reverse and rebill the claim in question.
+(d)(g) A pharmacy benefit manager shall not:
+(1) require a claim for a drug to include a modifier or supplemental transmission, or both, to indicate that the drug is a 340B drug unless the claim is for payment, directly or indirectly, by Medicaid; or (2) restrict access to a pharmacy network or adjust reimbursement rates based on a pharmacy's participation in a 340B contract pharmacy arrangement.
+VT LEG #363607 v.1 No. 131 Page 13 of 21 2022 (h)(1) A pharmacy benefit manager or other third party that reimburses a 340B covered entity for drugs that are subject to an agreement under 42 U.S.C. § 256b through the 340B drug pricing program shall not reimburse the 340B covered entity for pharmacy-dispensed drugs at a rate lower than that paid for the same drug to pharmacies that are not 340B covered entities, and the pharmacy benefit manager shall not assess any fee, charge-back, or other adjustment on the 340B covered entity on the basis that the covered entity participates in the 340B program as set forth in 42 U.S.C. § 256b.
+(2) With respect to a patient who is eligible to receive drugs that are subject to an agreement under 42 U.S.C. § 256b through the 340B drug pricing program, a pharmacy benefit manager or other third party that makes payment for the drugs shall not discriminate against a 340B covered entity in a manner that prevents or interferes with the patient's choice to receive the drugs from the 340B covered entity.
+(i) A pharmacy benefit manager shall not reimburse a pharmacy or pharmacist in this State an amount less than the amount the pharmacy benefit manager reimburses a pharmacy benefit manager affiliate for providing the same pharmacist services.
+(j) A pharmacy benefit manager shall not restrict, limit, or impose requirements on a licensed pharmacy in excess of those set forth by the Vermont Board of Pharmacy or by other State or federal law, nor shall it VT LEG #363607 v.1 No. 131 Page 14 of 21 2022 withhold reimbursement for services on the basis of noncompliance with participation requirements.
+(k) A pharmacy benefit manager shall provide notice to all participating pharmacies prior to changing its drug formulary.
+Sec. 3. 18 V.S.A. § 3802 is amended to read: § 3802.
+PHARMACY RIGHTS DURING AN AUDIT Notwithstanding any provision of law to the contrary, whenever a health insurer, a third-party payer, or an entity representing a responsible party conducts an audit of the records of a pharmacy, the pharmacy shall have a right to all of the following: *** (2) If an audit is to be conducted on-site at a pharmacy, the entity conducting the audit:
+(A) shall give the pharmacy at least 14 days' advance written notice of the audit and the specific prescriptions to be included in the audit; and (B) may shall not audit a pharmacy on Mondays or on weeks containing a federal holiday, unless the pharmacy agrees to alternative timing for the audit.; and (3) Not to have an entity (C) shall not audit claims that:
+(A)(i) were submitted to the pharmacy benefit manager more than 18 months prior to the date of the audit, unless:
+VT LEG #363607 v.1 No. 131 Page 15 of 21 2022 (i)(I) required by federal law; or (ii)(II) the originating prescription was dated within the 24- month period preceding the date of the audit; or (B)(ii) exceed 200 selected prescription claims.
+(3) If any audit is to be conducted remotely, the entity conducting the audit:
+(A) shall give the pharmacy at least seven business days following the pharmacy's confirmation of receipt of the notice of the audit to respond to the audit; and (B) shall not audit claims that:
+(i) were submitted to the pharmacy benefit manager more than three months prior to the date of the audit or on a date earlier than that for which the pharmacy could electronically retransmit a corrected claim; or (ii) exceed five selected prescription claims. *** (19) To have the preliminary audit report delivered to the pharmacy within 60 30 days following the conclusion of the audit pharmacy's preliminary response. *** (21) To have a final audit report delivered to the pharmacy within 120 30 days after the end of the appeals period, as required by section 3803 of this title.
+VT LEG #363607 v.1 No. 131 Page 16 of 21 2022 *** (24) To have all payment data related to audited claims, including:
+(A) payment amount;
+(B) any direct and indirect remuneration (DIR) or generic effective rate (GER) fees assessed or other financial offsets;
+(C) date of electronic payment or check date and number;
+(D) the specific contracted reimbursement basis for each claim, including its basis, such as maximum allowable cost (MAC), wholesale acquisition cost (WAC), average wholesale price (AWP), or average manufacturer price (AMP); and (E) the respective values used to calculate each claim payment.
+Sec. 4. 8 V.S.A. § 4089j is amended to read: § 4089j.
+RETAIL PHARMACIES;
+FILLING OF PRESCRIPTIONS (a) As used in this section: *** (4) "Pharmacy benefit manager affiliate" means a pharmacy or pharmacist that, directly or indirectly, through one or more intermediaries, is owned or controlled by, or is under common ownership or control with, a pharmacy benefit manager.
+(5) "Drug" or "prescription drug" has the same meaning as "prescription drug" in 26 V.S.A. § 2022 and includes:
+(A) biological products, as defined in 18 V.S.A. § 4601;
+VT LEG #363607 v.1 No. 131 Page 17 of 21 2022 (B) medications used to treat complex, chronic conditions, including medications that require administration, infusion, or injection by a health care professional;
+(C) medications for which the manufacturer or the U.S.
+Food and Drug Administration requires exclusive, restricted, or limited distribution; and (D) medications with specialized handling, storage, or inventory reporting requirements. *** (b) A health insurer and or pharmacy benefit manager doing business in Vermont shall permit a retail pharmacist licensed under 26 V.S.A. chapter 36 to fill prescriptions for all prescription drugs in the same manner and at the same level of reimbursement as they are filled by mail order pharmacies any other pharmacist or pharmacy, including a mail-order pharmacy or a pharmacy benefit manager affiliate, with respect to the quantity of drugs or days' supply of drugs dispensed under each prescription.
+(c) Notwithstanding any provision of a health insurance plan to the contrary, if a health insurance plan provides for payment or reimbursement that is within the lawful scope of practice of a pharmacist, the insurer may provide payment or reimbursement for the service when the service is provided by a pharmacist.
+(d)(1) A health insurer or pharmacy benefit manager shall permit a participating network pharmacy to perform all pharmacy services within the VT LEG #363607 v.1 No. 131 Page 18 of 21 2022 lawful scope of the profession of pharmacy as set forth in 26 V.S.A. chapter 36.
+(2) A health insurer or pharmacy benefit manager shall not do any of the following:
+(A) Require a covered individual, as a condition of payment or reimbursement, to purchase pharmacist services, including prescription drugs, exclusively through a mail-order pharmacy or a pharmacy benefit manager affiliate.
+(B) Offer or implement plan designs that require a covered individual to use a mail-order pharmacy or a pharmacy benefit manager affiliate.
+(C) Order a covered individual, orally or in writing, including through online messaging, to use a mail-order pharmacy or a pharmacy benefit manager affiliate.
+(D) Establish network requirements that are more restrictive than or inconsistent with State or federal law, rules adopted by the Board of Pharmacy, or guidance provided by the Board of Pharmacy or by drug manufacturers that operate to limit or prohibit a pharmacy or pharmacist from dispensing or prescribing drugs.
+(E) Offer or implement plan designs that increase plan or patient costs if the covered individual chooses not to use a mail-order pharmacy or a pharmacy benefit manager affiliate.
+The prohibition in this subdivision (E) includes requiring a covered individual to pay the full cost for a prescription VT LEG #363607 v.1 No. 131 Page 19 of 21 2022 drug when the covered individual chooses not to use a mail-order pharmacy or a pharmacy benefit manager affiliate.
+(3) A health insurer or pharmacy benefit manager shall not, by contract, written policy, or written procedure, require that a pharmacy designated by the health insurer or pharmacy benefit manager dispense a medication directly to a patient with the expectation or intention that the patient will transport the medication to a health care setting for administration by a health care professional.
+(4) A health insurer or pharmacy benefit manager shall not, by contract, written policy, or written procedure, require that a pharmacy designated by the health insurer or pharmacy benefit manager dispense a medication directly to a health care setting for a health care professional to administer to a patient.
+(5) The provisions of this subsection shall not apply to Medicaid.
+Sec. 5.
+DEPARTMENT OF FINANCIAL REGULATION;
+PHARMACY BENEFIT MANAGEMENT;
+REPORT (a) The Department of Financial Regulation, in consultation with interested stakeholders, shall consider:
+(1) whether pharmacy benefit managers should be required to be licensed to operate in this State;
+(2) whether pharmacy benefit managers should be prohibited from conducting or participating in spread pricing;
+VT LEG #363607 v.1 No. 131 Page 20 of 21 2022 (3) the cost impacts of pharmacy benefit manager licensure and related regulatory measures in other states that have enacted such legislation;
+(4) in collaboration with the Board of Pharmacy, whether any amendments to the Board's rules are needed to reflect necessary distinctions or appropriate limitations on pharmacist scope of practice;
+(5) whether there should be a minimum dispensing fee that pharmacy benefit managers and health insurers must pay to pharmacies and pharmacists for dispensing prescription drugs;
+(6) how a pharmacy should be reimbursed for a claim if a pharmacy benefit manager denies a pharmacy's appeal in whole or in part, including whether the pharmacy should be allowed to submit a claim to the health insurer for the balance between the pharmacy benefit manager's reimbursement and the pharmacy's reasonable acquisition cost plus a dispensing fee;
+(7) whether there is a problem in Vermont of pharmacies soliciting health insurance plan beneficiaries directly to market the pharmacy's services and, if so, how best to address the problem; and (8) other issues relating to pharmacy benefit management and its effects on Vermonters, on pharmacies and pharmacists, and on health insurance in this State.
+(b) On or before January 15, 2023, the Department of Financial Regulation shall provide its findings and recommendations regarding the issues described VT LEG #363607 v.1 No. 131 Page 21 of 21 2022 in subsection (a) of this section to the House Committee on Health Care and the Senate Committees on Health and Welfare and on Finance.
+Sec. 6.
+APPLICABILITY (a) The provisions of Sec. 2 of this act (18 V.S.A. chapter 221, subchapter 9, pharmacy benefit managers) shall apply to a contract or health plan issued, offered, renewed, recredentialed, amended, or extended on or after January 1, 2023, including any health insurer that performs claims processing or other prescription drug or device services through a third party.
+(b) A person doing business in this State as a pharmacy benefit manager on or before January 1, 2023 shall have six months following that date to come into compliance with the provisions of Sec. 2 of this act (18 V.S.A. chapter 221, subchapter 9, pharmacy benefit managers).
+Sec. 7. 2021 Acts and Resolves No. 74, Sec.
+E.227.2 is amended to read:
+Sec.
+E.227.2 REPEAL 18 V.S.A. § 9473(d)(g) (pharmacy benefit managers; 340B entities) is repealed on January 1, 2023 April 1, 2024.
+Sec. 8.
+EFFECTIVE DATES (a) Secs. 1a (18 V.S.A. § 9421), 2 (18 V.S.A. chapter 221, subchapter 9), 3 (18 V.S.A. § 3802), and 4 (8 V.S.A. § 4089j) shall take effect on January 1, 2023.
+(b) The remaining sections shall take effect on passage.
+Date Governor signed bill:
+May 24, 2022 VT LEG #363607 v.1

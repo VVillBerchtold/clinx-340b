@@ -1,0 +1,65 @@
+law25290 Chapter 290 2025 -- H 5634 SUBSTITUTE A AS AMENDED Enacted 06/27/2025 A N A C T RELATING TO BUSINESSES AND PROFESSIONS -- DEFENDING AFFORDABLE PRESCRIPTION DRUG COSTS ACT Introduced By:
+Representatives J.
+Brien, Baginski, Cotter, Hopkins, and Place Date Introduced:
+February 26, 2025 It is enacted by the General Assembly as follows:
+SECTION 1.
+Title 5 of the General Laws entitled "BUSINESSES AND PROFESSIONS" is hereby amended by adding thereto the following chapter:
+CHAPTER 19.3 DEFENDING AFFORDABLE PRESCRIPTION DRUG COSTS ACT 5-19.3-1.
+Short title.
+This chapter shall be known and may be cited as the "Defending Affordable Prescription Drug Costs Act". 5-19.3-2.
+Definitions.
+As used in this chapter, the following terms have the following meanings:
+(13) "340B drug" means a drug that has been subject to any offer for reduced prices by a manufacturer pursuant to 42 U.S.C. § 256b and is purchased by a covered entity as defined in 42 U.S.C. § 256b(a)(4).
+(21) "340B contract pharmacy" means a pharmacy, as defined in §5-19.1-2, that dispenses 340B drugs on behalf of a 340B-covered entity under contract.
+(32) "340B covered entity" means an entity participating or authorized to participate in the federal 340B drug discount program, as described in 42 U.S.C. § 256b.
+(4) "Health insurer" means every nonprofit medical service corporation, hospital service corporation, health maintenance organization, or other insurer offering or insuring health services.
+(5) "Pharmaceutical manufacturer" means any person or entity that manufactures or sells prescription drugs, directly or through another person or entity, in this state.
+(6) "Pharmacy benefit manager" or "PBMs" means an entity doing business in the state that contracts to administer or manage prescription-drug benefits on behalf of any carrier that provides prescription-drug benefits to residents of this state. 5-19.3-3.
+Prohibition of certain discriminatory actions related to reimbursement of 340B covered entities and 340B contract pharmacies.
+(a) With respect to reimbursement to a 340B covered entity for 340B drugs, a health insurer, pharmacy benefit manager, manufacturer, other third-party payor, or its agent shall not do any of the following:
+(1) Establish a lower reimbursement amount to a 340B covered entity or 340B contract pharmacy for a 340B drug than it would be paid for a non-340B drug, based solely on the drug's 340B status;
+(2) Impose fees, chargebacks, adjustments, or conditions on reimbursement to a 340B covered entity, that differs from such terms or conditions applied to a non-340B entity, based on 340B status and participation in the federal 340B drug discount program set forth in 42 U.S.C. § 256b;
+(3) Deny or limit participation in standard or preferred pharmacy networks based on 340B status;
+(4) Impose requirements relating to the frequency or scope of audits of inventory management systems inconsistent with the federal 340B drug pricing program;
+(5) Require submission of claims-level data or documentation that identifies 340B drugs as a condition of reimbursement or pricing, unless it is required by the Centers for Medicare and Medicaid Services;
+(6) Require a 340B covered entity to reverse, resubmit, or clarify a claim after the initial adjudication unless these actions are in the normal course of pharmacy business and not related to 340B drug pricing;
+(7) Interfere with, or limit, a 340B covered entity's choice to use a contract pharmacy for drug distribution or dispensing;
+(8) Include any other provision in a contract between a health insurer, pharmacy benefit manager, manufacturer, or other third-party payor and a 340B covered entity that differ from the terms and conditions applied to entities that are not 340B covered entities, that discriminates against the 340B covered entity or prevents or interferes with an individual's choice to receive a prescription drug from a 340B covered entity, including the administration of such drugs in person or via direct delivery, mail, or other form of shipment, or create a restriction or additional charge on a patient who chooses to receive drugs from a 340B covered entity;
+(9) Place a restriction or additional charge on a patient who chooses to receive 340B drugs from a 340B covered entity if such restriction or additional charge differs from the terms and conditions applied where patients choose to receive drugs that are not 340B drugs from an entity that is not a 340B covered entity or from a pharmacy that is not a 340B contract pharmacy;
+(10) Exclude any 340B covered entity from a health insurer, pharmacy benefit manager, or other third-party payor network or refuse to contract with a 340B covered entity for reasons other than those that apply equally to a non-340B entity;
+(11) Impose any other restrictions, requirements, practices, or policies that are not imposed on a non-340B entity.
+(b) Nothing in this section is intended to limit a health insurer or pharmacy benefit manager's ability to use preferred pharmacies or develop preferred networks so long as participation is not based on an entity's status as a 340B covered entity and participation in the network is subject to the same terms and conditions as a non-340B covered entity. 5-19.3-4.
+Exclusion.
+Nothing in this chapter applies to the Medicaid program as payor when Medicaid provides reimbursement for covered outpatient drugs as defined in 42 U.S.C. § 1396r-8(k). 5-19.3-5.
+Prohibition on certain discriminatory actions by a pharmaceutical manufacturer, agent, or affiliate of such manufacturer related to 340B entities.
+(a) A pharmaceutical manufacturer, agent, or affiliate of such manufacturer shall not deny, restrict, prohibit, or otherwise interfere with, either directly or indirectly, the acquisition of a 340B drug by, or delivery of a 340B drug to, a pharmacy that is under contract with a 340B covered entity and is authorized under such contract to receive and dispense 340B drugs on behalf of the covered entity unless such receipt is prohibited by the United States department of health and human services.
+(b) A pharmaceutical manufacturer, agent, or affiliate of such manufacturer shall not interfere with a 340B contract pharmacy that is actively contracted with a 340B covered entity.
+(c) A pharmaceutical manufacturer, agent, or affiliate of such manufacturer shall not impose additional terms or limitations not required by federal law as a condition of 340B participation. 5-19.3-6.
+Reporting and audit.
+Annually on or before April 1, each 340B covered entity participating in the federal 340B drug pricing program established by 42 U.S.C. § 256b shall submit to the office of the governor, the speaker of the house of representatives, the president of the senate, and auditor general a report detailing the 340B covered entity's participation in the program during the previous calendar year, which report shall be posted on the state auditor general's website and which shall contain at least the following information:
+(1) The aggregated acquisition cost for all prescription drugs that the 340B covered entity obtained through the 340B program during the previous calendar year.;
+(2) The aggregated payment amount that the 340B covered entity received for drugs, under the 340B program and dispensed or administered to patients enrolled in commercial and Medicare Supplemental plans.;
+(3) The aggregated payment amount that the 340B covered entity made:
+(i) To contract pharmacies to dispense drugs to its patients under the 340B program during the previous calendar year;
+(ii) To any other outside vendor for managing, administering, or facilitating any aspect of the 340B covered entity's drug program during the previous calendar year; and (iii) For all other expenses related to administering the 340B program, including staffing, operational, and administrative expenses, during the previous calendar year.;
+(4) The names of all vendors, including split billing vendors, and contract pharmacies, with which the 340B covered entity contracted to provide services associated with the covered entity's 340B program participation during the previous calendar year;
+(5) The number of claims for all prescription drugs the 340B covered entity obtained through the 340B program during the previous calendar year, including the total number of claims and the number of claims reported by commercial and Medicare Supplemental plans;
+(6) A description of the ways in which the 340B entity uses savings from its participation in the 340B program to benefit patients and/or its community through programs, projects, and services funded in whole or in part by savings from the 340B program;
+(7) A description of any and all material breach, change in 340B eligibility status, and/or the U.S.
+Department of Health and Human Services, Health Resources and Services Administration's ("HRSA") 340B program or manufacturer audits during the previous calendar year;
+(8) A description of the 340B covered entity's self-audit and oversight of its participation in the 340B program in compliance with the HRSA 340B program rules and guidance; and (9) Such additional information as the general assembly or auditor general may request. 5-19.3-7.
+Compliance and enforcement.
+The office of the state auditor general shall have the authority to:
+(1) Investigate complaints and take appropriate actions to ensure compliance with this chapter.
+(2) Promulgate rules and regulations necessary to carry out the provisions of this chapter. 5-19.3-8.
+Violations.
+(a) A violation of chapter 13.1 of title 6 ("deceptive trade practices") shall occur each time a prohibited act is committed.
+(b) The commission of any act prohibited by this chapter is considered a violation of chapter 13.113 of title 6 ("unfair sales practices"), as may be amended from time to time, and subject to any penalties thereunder. 5-19.3-9.
+Federal preemption.
+(a) Nothing in this chapter is to be construed or applied to be less restrictive than federal law for a person or entity regulated by this chapter.
+(b) Nothing in this chapter is to be construed or applied to be in conflict with any of the following:
+(1) Applicable federal law and related regulations.
+(2) Other laws of this state if the state law is compatible with applicable federal law.
+(c) Limited distribution of a drug required under 21 U.S.C. § 355-1 is not to be construed as a violation of this chapter.
+SECTION 2.
+This act shall take effect on October 1, 2025. ======== LC000919/SUB A ========

@@ -1,0 +1,137 @@
+LB767 LB767 2022 2022 LEGISLATURE OF NEBRASKA ONE HUNDRED SEVENTH LEGISLATURE SECOND SESSION LEGISLATIVE BILL 767 FINAL READING Introduced by Kolterman, 24;
+Aguilar, 35;
+Bostar, 29;
+Flood, 19;
+Lindstrom, 18;
+McCollister, 20;
+Morfeld, 46;
+Pahls, 31;
+Stinner, 48;
+Wishart, 27.
+Read first time January 05, 2022 Committee:
+Banking, Commerce and Insurance A BILL FOR AN ACT relating to pharmacy benefit managers; to adopt the Pharmacy Benefit Manager Licensure and Regulation Act; to eliminate provisions relating to pharmacy benefit managers; to provide an operative date; to provide severability; and to outright repeal section 71-2484, Revised Statutes Cumulative Supplement, 2020.
+Be it enacted by the people of the State of Nebraska, -1- LB767 LB767 2022 2022 Section 1.
+Sections 1 to 12 of this act shall be known and may be cited as the Pharmacy Benefit Manager Licensure and Regulation Act.
+Sec. 2.
+(1) The Pharmacy Benefit Manager Licensure and Regulation Act establishes the standards and criteria for the licensure and regulation of pharmacy benefit managers providing a claims processing service or other prescription drug or device service for a health benefit plan.
+(2) The purposes of the act are to:
+(a) Promote, preserve, and protect public health, safety, and welfare through effective regulation and licensure of pharmacy benefit managers;
+(b) Promote the solvency of the commercial health insurance industry, the regulation of which is reserved to the states by the federal McCarran-Ferguson Act, 15 U.S.C. 1011 to 1015, as such act and sections existed on January 1, 2022, as well as provide for consumer savings and encourage fairness in prescription drug benefits;
+(c) Provide for powers and duties of the director; and (d) Prescribe monetary penalties for violations of the Pharmacy Benefit Manager Licensure and Regulation Act.
+Sec. 3.
+For purposes of the Pharmacy Benefit Manager Licensure and Regulation Act:
+(1) Auditing entity means a pharmacy benefit manager or any person that represents a pharmacy benefit manager in conducting an audit for compliance with a contract between the pharmacy benefit manager and a pharmacy;
+(2) Claims processing service means an administrative service performed in connection with the processing and adjudicating of a claim relating to a pharmacist service that includes:
+(a) Receiving a payment for a pharmacist service; or (b) Making a payment to a pharmacist or pharmacy for a pharmacist service; -2- LB767 LB767 2022 2022 (3) Covered person means a member, policyholder, subscriber, enrollee, beneficiary, dependent, or other individual participating in a health benefit plan;
+(4) Director means the Director of Insurance;
+(5) Health benefit plan means a policy, contract, certificate, or agreement entered into, offered, or issued by a health carrier to provide, deliver, arrange for, pay for, or reimburse any of the costs of a physical, mental, or behavioral health care service;
+(6) Health carrier has the same meaning as in section 44-1303;
+(7) Other prescription drug or device service means a service other than a claims processing service, provided directly or indirectly, whether in connection with or separate from a claims processing service, including, but not limited to:
+(a) Negotiating a rebate, discount, or other financial incentive or arrangement with a drug company;
+(b) Disbursing or distributing a rebate;
+(c) Managing or participating in an incentive program or arrangement for a pharmacist service;
+(d) Negotiating or entering into a contractual arrangement with a pharmacist or pharmacy;
+(e) Developing and maintaining a formulary;
+(f) Designing a prescription benefit program; or (g) Advertising or promoting a service;
+(8) Pharmacist has the same meaning as in section 38-2832;
+(9) Pharmacist service means a product, good, or service or any combination thereof provided as a part of the practice of pharmacy;
+(10) Pharmacy has the same meaning as in section 71-425;
+(11)(a) Pharmacy benefit manager means a person, business, or entity, including a wholly or partially owned or controlled subsidiary of a pharmacy benefit manager, that provides a claims processing service or other prescription drug or device service for a health benefit plan to a -3- LB767 LB767 2022 2022 covered person who is a resident of this state; and (b) Pharmacy benefit manager does not include:
+(i) A health care facility licensed in this state;
+(ii) A health care professional licensed in this state;
+(iii) A consultant who only provides advice as to the selection or performance of a pharmacy benefit manager; or (iv) A health carrier to the extent that it performs any claims processing service or other prescription drug or device service exclusively for its enrollees; and (12) Plan sponsor has the same meaning as in section 44-2702.
+Sec. 4.
+(1) The Pharmacy Benefit Manager Licensure and Regulation Act applies to any contract or health benefit plan issued, renewed, recredentialed, amended, or extended on or after the operative date of this act, including any health carrier that performs a claims processing service or other prescription drug or device service through a third party.
+(2) As a condition of licensure, any contract in existence on the date a pharmacy benefit manager receives its license to do business in this state shall comply with the requirements of the act.
+(3) Nothing in the act is intended or shall be construed to conflict with existing relevant federal law.
+Sec. 5.
+(1) A person shall not establish or operate as a pharmacy benefit manager in this state for a health benefit plan without first obtaining a license from the director under the Pharmacy Benefit Manager Licensure and Regulation Act.
+(2) The director may adopt and promulgate rules and regulations establishing the licensing application, financial, and reporting requirements for pharmacy benefit managers under the act.
+(3) A person applying for a pharmacy benefit manager license shall submit an application for licensure in the form and manner prescribed by the director. -4- LB767 LB767 2022 2022 (4) A person submitting an application for a pharmacy benefit manager license shall include with the application a nonrefundable application fee.
+The director shall establish the nonrefundable application fee in an amount not to exceed five hundred dollars.
+(5) The director may refuse to issue or renew a license if the director determines that the applicant or any individual responsible for the conduct of affairs of the applicant is not competent, trustworthy, financially responsible, or of good personal and business reputation, has been found to have violated the insurance laws of this state or any other jurisdiction, or has had an insurance or other certificate of authority or license denied or revoked for cause by any jurisdiction.
+(6)(a) Unless surrendered, suspended, or revoked by the director, a license issued under this section is valid as long as the pharmacy benefit manager continues to do business in this state and remains in compliance with the provisions of the act and any applicable rules and regulations, including the completion of a renewal application on a form prescribed by the director and payment of an annual license renewal fee.
+The director shall establish the annual license renewal fee in an amount not to exceed two hundred fifty dollars.
+(b) Such application and renewal fee shall be received by the director on or before thirty days prior to the anniversary of the effective date of the pharmacy benefit manager's initial or most recent license.
+Sec. 6.
+(1) A participation contract between a pharmacy benefit manager and any pharmacist or pharmacy providing prescription drug coverage for a health benefit plan shall not prohibit or restrict any pharmacy or pharmacist from or penalize any pharmacy or pharmacist for disclosing to any covered person any health care information that the pharmacy or pharmacist deems appropriate regarding:
+(a) The nature of treatment, risks, or an alternative to such treatment; -5- LB767 LB767 2022 2022 (b) The availability of an alternate therapy, consultation, or test;
+(c) The decision of a utilization reviewer or similar person to authorize or deny a service;
+(d) The process that is used to authorize or deny a health care service or benefit; or (e) Information on any financial incentive or structure used by the health carrier.
+(2) A pharmacy benefit manager shall not prohibit a pharmacy or pharmacist from discussing information regarding the total cost for a pharmacist service for a prescription drug or from selling a more affordable alternative to the covered person if a more affordable alternative is available.
+(3) A pharmacy benefit manager contract with a participating pharmacist or pharmacy shall not prohibit, restrict, or limit disclosure of information to the director, law enforcement, or a state or federal governmental official, provided that:
+(a) The recipient of the information represents that such recipient has the authority, to the extent provided by state or federal law, to maintain proprietary information as confidential; and (b) Prior to disclosure of information designated as confidential, the pharmacist or pharmacy:
+(i) Marks as confidential any document in which the information appears; or (ii) Requests confidential treatment for any oral communication of the information.
+(4) A pharmacy benefit manager shall not terminate the contract with or penalize a pharmacist or pharmacy due to the pharmacist or pharmacy:
+(a) Disclosing information about a pharmacy benefit manager practice, except information determined to be a trade secret, as determined by state law or the director; or (b) Sharing any portion of the pharmacy benefit manager contract -6- LB767 LB767 2022 2022 with the director pursuant to a complaint or a query regarding whether the contract is in compliance with the Pharmacy Benefit Manager Licensure and Regulation Act.
+(5)(a) A pharmacy benefit manager shall not require a covered person purchasing a covered prescription drug to pay an amount greater than the lesser of the covered person's cost-sharing amount under the terms of the health benefit plan or the amount the covered person would pay for the drug if the covered person were paying the cash price.
+(b) Any amount paid by a covered person under subdivision (5)(a) of this section shall be attributable toward any deductible or, to the extent consistent with section 2707 of the federal Public Health Service Act, 42 U.S.C. 300gg-6, as such section existed on January 1, 2022, the annual out-of-pocket maximum under the covered person's health benefit plan.
+Sec. 7.
+(1) Unless otherwise prohibited by federal law, an auditing entity conducting a pharmacy audit shall:
+(a) Give any pharmacy notice fifteen business days prior to conducting an initial onsite audit;
+(b) For any audit that involves clinical or professional judgement, conduct such audit by or in consultation with a pharmacist; and (c) Audit each pharmacy under the same standards and parameters as other similarly situated pharmacies.
+(2) Unless otherwise prohibited by federal law, for any pharmacy audit conducted by an auditing entity:
+(a) The period covered by the audit shall not exceed twenty-four months from the date that the claim was submitted to the auditing entity, unless a longer period is required under state or federal law;
+(b) If an auditing entity uses random sampling as a method for selecting a set of claims for examination, the sample size shall be appropriate for a statistically reliable sample;
+(c) The auditing entity shall provide the pharmacy a masked list -7- LB767 LB767 2022 2022 containing any prescription number or date range that the auditing entity is seeking to audit;
+(d) No onsite audit shall take place during the first five business days of the month without the consent of the pharmacy;
+(e) No auditor shall enter the area of any pharmacy where patient- specific information is available without being escorted by an employee of the pharmacy and, to the extent possible, each auditor shall remain out of the sight and hearing range of any pharmacy customer;
+(f) No recoupment shall be deducted from or applied against a future remittance until after the appeal process is complete and both parties receive the results of the final audit;
+(g) No pharmacy benefit manager shall require information to be written on a prescription unless such information is required to be written on the prescription by state or federal law;
+(h) Recoupment may be assessed for information not written on a prescription if:
+(i)(A) Such information is required in the provider manual; or (B) The information is required by the federal Food and Drug Administration or the drug manufacturer's product safety program; and (ii) The information required under subdivision (i)(A) or (B) of this subdivision (h) is not readily available for the auditing entity at the time of the audit; and (i) No auditing entity or agent shall receive payment based on a percentage of any recoupment.
+(3) For recoupment under the Pharmacy Benefit Manager Licensure and Regulation Act, the auditing entity shall:
+(a) Include consumer-oriented parameters based on manufacturer listings in the audit parameters;
+(b) Consider the pharmacy's usual and customary price for a compounded medication as the reimbursable cost, unless the pricing method is outlined in the pharmacy provider contract; -8- LB767 LB767 2022 2022 (c) Base a finding of overpayment or underpayment on the actual overpayment or underpayment and not a projection that relies on the number of patients served who have a similar diagnosis, the number of similar orders, or the number of refills for similar drugs;
+(d) Not use extrapolation to calculate the recoupment or penalties unless required by state or federal law;
+(e) Not include a dispensing fee in the calculation of an overpayment, unless a prescription was not actually dispensed, the prescriber denied authorization, the prescription dispensed was a medication error by the pharmacy, or the identified overpayment is solely based on an extra dispensing fee;
+(f) Not consider as fraud any clerical or record-keeping error, such as a typographical error, scrivener's error, or computer error regarding a required document or record.
+Such error may be subject to recoupment;
+(g) Not assess any recoupment in the case of an error that has no actual financial harm to the covered person or health benefit plan.
+An error that is the result of the pharmacy failing to comply with a formal corrective action plan may be subject to recoupment; and (h) Not allow interest to accrue during the audit period for either party, beginning with the notice of the audit and ending with the final audit report.
+(4)(a) To validate a pharmacy record and the delivery of a pharmacy service, the pharmacy may use an authentic and verifiable statement or record, including a medication administration record of a nursing home, assisted-living facility, hospital, physician, or other authorized practitioner or an additional audit documentation parameter located in the provider manual.
+(b) Any legal prescription that meets the requirements in this section may be used to validate a claim in connection with a prescription, refill, or change in a prescription, including a medication administration record, fax, e-prescription, or documented telephone call -9- LB767 LB767 2022 2022 from the prescriber to the prescriber's agent.
+(5) The auditing entity conducting the audit shall establish a written appeal process which shall include procedures for appealing both a preliminary audit report and a final audit report.
+(6)(a) A preliminary audit report shall be delivered to the pharmacy within one hundred twenty days after the conclusion of the audit.
+(b) A pharmacy shall be allowed at least thirty days following receipt of a preliminary audit report to provide documentation to address any discrepancy found in the audit.
+(c) A final audit report shall be delivered to the pharmacy within one hundred twenty days after receipt of the preliminary audit report or the appeal process has been exhausted, whichever is later.
+(d) An auditing entity shall remit any money due to a pharmacy or pharmacist as the result of an underpayment of a claim within forty-five days after the appeal process has been exhausted and the final audit report has been issued.
+(7) Where contractually required, an auditing entity shall provide a copy to the plan sponsor of any of the plan sponsor's claims that were included in the audit, and any recouped money shall be returned to the health benefit plan or plan sponsor.
+(8) This section does not apply to any investigative audit that involves suspected fraud, willful misrepresentation, or abuse, or any audit completed by a state-funded health care program.
+Sec. 8.
+(1) With respect to each contract and contract renewal between a pharmacy benefit manager and a pharmacy, the pharmacy benefit manager shall:
+(a) Update any maximum allowable cost price list at least every seven business days, noting any price change from the previous list, and provide a means by which a network pharmacy may promptly review a current price in an electronic, print, or telephonic format within one business day of any such change at no cost to the pharmacy; -10- LB767 LB767 2022 2022 (b) Maintain a procedure to eliminate a product from the maximum allowable cost price list in a timely manner to remain consistent with any change in the marketplace; and (c) Make the maximum allowable cost price list available to each contracted pharmacy in a format that is readily accessible and usable to the contracted pharmacy.
+(2) A pharmacy benefit manager shall not place a prescription drug on a maximum allowable cost price list unless the drug is available for purchase by pharmacies in this state from a national or regional drug wholesaler and is not obsolete.
+(3) Each contract between a pharmacy benefit manager and a pharmacy shall include a process to appeal, investigate, and resolve disputes regarding any maximum allowable cost price.
+The process shall include:
+(a) A fifteen-business-day limit on the right to appeal following submission of an initial claim by a pharmacy;
+(b) A requirement that any appeal be investigated and resolved within seven business days after the appeal is received by the pharmacy benefit manager; and (c) A requirement that the pharmacy benefit manager provide a reason for any denial of an appeal and identify the national drug code for the drug that may be purchased by the pharmacy at a price at or below the price on the maximum allowable cost price list as determined by the pharmacy benefit manager.
+(4) If an appeal is determined to be valid by the pharmacy benefit manager, the pharmacy benefit manager shall:
+(a) Make an adjustment in the drug price no later than one day after the appeal is resolved; and (b) Permit the appealing pharmacy to reverse and rebill the claim in question, using the date of the original claim.
+Sec. 9.
+(1) A pharmacy benefit manager that reimburses a 340B entity or a 340B contract pharmacy for a drug that is subject to an -11- LB767 LB767 2022 2022 agreement under 42 U.S.C. 256b shall not reimburse the 340B entity or the 340B contract pharmacy for the pharmacy-dispensed drug at a rate lower than that paid for the same drug to similarly situated pharmacies that are not 340B entities or 340B contract pharmacies, and shall not assess any fee, chargeback, or other adjustment upon the 340B entity or 340B contract pharmacy on the basis that the 340B entity or 340B contract pharmacy participates in the program set forth in 42 U.S.C. 256b.
+(2) A pharmacy benefit manager shall not discriminate against a 340B entity or 340B contract pharmacy in a manner that prevents or interferes with a covered individual's choice to receive such drug from the corresponding 340B entity or 340B contract pharmacy.
+(3) For purposes of this section:
+(a) 340B contract pharmacy means any pharmacy under contract with a 340B entity to dispense drugs on behalf of such 340B entity; and (b) 340B entity means an entity participating in the federal 340B drug discount program, as described in 42 U.S.C. 256b.
+Sec. 10.
+A pharmacy benefit manager shall not exclude a Nebraska pharmacy from participation in the pharmacy benefit manager's specialty pharmacy network if:
+(1) The pharmacy holds a specialty pharmacy accreditation from a nationally recognized independent accrediting organization; and (2) The pharmacy is willing to accept the terms and conditions of the pharmacy benefit manager's agreement with the pharmacy benefit manager's specialty pharmacies.
+Sec. 11.
+(1) The director shall enforce compliance with the requirements of the Pharmacy Benefit Manager Licensure and Regulation Act.
+(2)(a) Pursuant to the Insurers Examination Act, the director may examine or audit the books and records of a pharmacy benefit manager providing a claims processing service or other prescription drug or device service for a health benefit plan to determine compliance with the -12- LB767 LB767 2022 2022 act.
+(b) Information or data acquired during an examination under subdivision (2)(a) of this section is:
+(i) Considered proprietary and confidential;
+(ii) Not subject to sections 84-712, 84-712.01, and 84-712.03 to 84-712.09;
+(iii) Not subject to subpoena; and (iv) Not subject to discovery or admissible as evidence in any private civil action.
+(3) The director may use any document or information provided pursuant to subsection (3) or (4) of section 6 of this act in the performance of the director's duties to determine compliance with the Pharmacy Benefit Manager Licensure and Regulation Act.
+(4) The director may impose a monetary penalty on a pharmacy benefit manager or the health carrier with which a pharmacy benefit manager is contracted for a violation of the Pharmacy Benefit Manager Licensure and Regulation Act.
+The director shall establish the monetary penalty for a violation of the act in an amount not to exceed one thousand dollars per entity for each violation.
+Sec. 12.
+The director may adopt and promulgate rules and regulations to carry out the Pharmacy Benefit Manager Licensure and Regulation Act.
+Sec. 13.
+This act becomes operative on January 1, 2023.
+Sec. 14.
+If any section in this act or any part of any section is declared invalid or unconstitutional, the declaration shall not affect the validity or constitutionality of the remaining portions.
+Sec. 15.
+The following section is outright repealed:
+Section 71-2484, Revised Statutes Cumulative Supplement, 2020. -13-

@@ -1,0 +1,83 @@
+Delaware Code Online The Delaware Code Online Toggle searchToggle navigation Laws of Delaware Laws of Delaware Regulations Regulations Administrative Code Administrative Code Municipal Charters Municipal Charters FAQ Title 18 > Chapter 33A Authenticated PDF § 3371A § 3372A § 3373A § 3374A TITLE 18 Insurance Code Insurance CHAPTER 33A.
+Pharmacy Benefits Managers [For application of this chapter, see 80 Del.
+Laws, c. 245, § 2] Subchapter VII.
+Prohibited Practices;
+Penalties;
+Enforcement [For application of this subchapter, see 83 Del.
+Laws, c. 256, § 15] § 3371A.
+Definitions [For application of this section, see 83 Del.
+Laws, c. 256, § 15].
+For purposes of this subchapter:
+(1) "Board of Pharmacy" means the Delaware Board of Pharmacy.
+(2) "Claim" means as defined under § 3321A of this title.
+(3) "Insurer" means as defined under § 3321A of this title.
+(4) "Pharmacist" means as defined under § 2502 of Title 24.
+(5) "Pharmacy" means as defined under § 2502 of Title 24.
+(6) "Pharmacy benefits manager" means as defined under § 3302A of this title.
+(7) "Pharmacy benefits manager network" means a network of pharmacists or pharmacies that are offered by an agreement or contract to provide pharmacy goods or services.
+(8) "Pharmacy goods or services" means as defined under § 3325A of this title.
+(9) "Spread pricing" means the model of prescription drug pricing in which the pharmacy benefits manager charges a health benefit plan a contracted price for prescription drugs, and the contracted price for the prescription drugs differs from the amount the pharmacy benefits manager directly or indirectly pays the pharmacist or pharmacy for pharmacy goods or services.83 Del.
+Laws, c. 256, § 13; 85 Del.
+Laws, c. 49, § 1; § 3372A.
+Prohibited practices [For application of this section, see 83 Del.
+Laws, c. 256, § 15].
+A pharmacy benefits manager or representative of a pharmacy benefits manager may not do any of the following:
+(1) Engage in spread pricing.
+(2) Cause or knowingly permit the use of any advertisement, promotion, solicitation, representation, proposal, or offer that is untrue, deceptive, or misleading.
+(3) Unless reviewed and approved by the Commissioner, charge a pharmacist or pharmacy a fee related to the adjudication of a claim, including a fee for any of the following: a.
+The receipt and processing of a pharmacy claim. b.
+The development or management of claims processing services in a pharmacy benefits manager network. c.
+Participation in a pharmacy benefits manager network.
+(4) Unless reviewed and approved by the Commissioner in coordination with the Board of Pharmacy, require pharmacy accreditation standards or certification requirements inconsistent with, more stringent than, or in addition to requirements of the Board of Pharmacy.
+(5) Violate § 3325A(b) of this title.
+(6) Violate § 3362A of this title.
+(7) Pay or reimburse a pharmacy or pharmacist for the ingredient drug product component of pharmacist services less than the national average drug acquisition cost that was in effect on the date of service.
+If the national average drug acquisition cost is unavailable, the wholesale acquisition cost should be applied.
+The wholesale acquisition cost price must be the price published in effect on the date of service for the drug claim.
+(8) Make or permit any reduction of payment for pharmacy goods or services by a pharmacy benefits manager or an insurer directly or indirectly to a pharmacy under a reconciliation process to an effective rate of reimbursement, including generic effective rates, brand effective rates, direct and indirect remuneration fees, or any other reduction or aggregate reduction of payment.
+(9) After adjudication of a claim for pharmacy goods or services, directly or indirectly retroactively deny or reduce the claim unless 1 or more of the following applies: a.
+The original claim was intentionally submitted fraudulently. b.
+The original claim payment was incorrect because the pharmacy or pharmacist had already been paid for the pharmacy goods or services. c.
+The pharmacy goods or services were not properly rendered by the pharmacy or pharmacist.
+(10) Amend a contract between a pharmacy benefits manager and a pharmacy or pharmacist without providing at least 60 days' notice to the affected pharmacy or pharmacist.
+(11) Require pharmacists to break open unit-of-use items beyond manufacturer recommendations if the only commercially available package size exceeds the minimum days' supply.
+Packaging labeled "for single-patient-use only" shall be deemed to be the smallest package size available.
+(12) Require a pharmacy to dispense a therapeutically equivalent or therapeutically alternative drug that costs the enrollee more out-of-pocket than the prescribed drug, unless the substitution is made for medical reasons that benefit the enrollee.
+(13) Transfer or share prescription information containing enrollee-identifiable or prescriber-identifiable data to an affiliated pharmacy for any commercial purpose other than the purposes of facilitating pharmacy reimbursement, formulary compliance, or utilization review.83 Del.
+Laws, c. 256, § 13; 85 Del.
+Laws, c. 481, § 6; § 3373A.
+Penalties and enforcement [For application of this section, see 83 Del.
+Laws, c. 256, § 15].
+(a) If the Commissioner determines that a pharmacy benefits manager has violated any provision of this chapter or any regulation adopted under this chapter, the Commissioner may, after notice and a hearing, issue an order that requires the pharmacy benefits manager to do 1 or more of the following:
+(1) Cease and desist from the identified violation and further similar violations.
+(2) Take specific affirmative action to correct the violation.
+(3) Make restitution of money, property, or other assets to a person that has suffered financial injury because of the violation.
+(4) Pay a fine in an amount determined by the Commissioner, not to exceed $10,000, for each violation of this chapter.
+(5) Pay the costs, including applicable attorneys' fees, incurred by the Commissioner in bringing the action.
+(b) A hearing under this section must be held under §§ 323 through 328 of this title and any regulations adopted by the Commissioner.
+(c) The Commissioner may adopt regulations to enforce this chapter and to establish a complaint process and set associated fees to address grievances and appeals brought under this chapter.82 Del.
+Laws, c. 115, § 4; 83 Del.
+Laws, c. 256, § 14; § 3374A.
+Prohibition of discrimination against 340B entities by pharmacy benefits managers.
+(a) For purposes of this section:
+(1) "340B drug" means a drug that is a covered outpatient drug under 42 U.S.C. § 256b.
+(2) "340B drug program" means the federal drug pricing program under 42 U.S.C. § 256b that limits prices on drugs purchased by covered entities.
+(3) "Claim" means a request from a covered entity or the covered entity's contracted pharmacy to be reimbursed for the cost of filling or refilling a prescription for a drug or for providing a medical supply or device.
+(4) "Covered entity" means as defined in 42 U.S.C. § 256b(a)(4).
+(5) "Pharmacy benefits manager" means as defined in § 3302A of this title.
+(6) "Purchaser" means as defined in § 3351A of this title.
+(b) A pharmacy benefits manager or purchaser may not discriminate, either directly or indirectly, against a covered entity or the covered entity's contracted pharmacy on the basis of its participation in the 340B program, including by doing any of the following:
+(1) Providing a reimbursement rate for a 340B drug that is less than the national average drug acquisition cost rate for that drug as determined by the United States Centers for Medicare and Medicaid Services, measured at the time the drug is administered or dispensed, or if no such rate is available at that time, a reimbursement rate that is less than the wholesale acquisition cost of the drug, as contemplated under § 3372A of this title.
+(2) Imposing a term or condition that differs from terms or conditions imposed on an entity that is not a covered entity or the covered entity's contracted pharmacy, including any of the following: a.
+Imposing a fee, chargeback, clawback, or other adjustment to the covered entity or the covered entity's contracted pharmacy that is not imposed on or exceeds the amount imposed on an entity that is not a covered entity or the covered entity's contracted pharmacy. b.
+Restricting or requiring participation in a pharmacy network. c.
+Requiring more frequent auditing or a broader scope of audit for inventory management systems using generally accepted accounting principles, unless such audit is required under state or federal law. d.
+Requiring a covered entity or the covered entity's contracted pharmacy to reverse, resubmit, identify, modify, or clarify a claim after the initial adjudication, unless these actions are the normal course of pharmacy business and not related to the 340B program or required under applicable state or federal law. e.
+Requiring accreditation or recertification inconsistent with, more stringent than, or in addition to state or federal law. f.
+Discriminating against a 340B entity or the entity's contracted pharmacy in a manner that prevents or interferes with an individual's choice to receive a prescription drug from a 340B covered entity or the covered entity's contracted pharmacy, including the administration of the drug. g.
+Imposing any provision determined by the Insurance Commissioner to interfere with the ability of a covered entity or the covered entity's contracted pharmacy to maximize the value of discounts provided under the 340B program.
+(c) A violation of subsection (b) of this section by any person constitutes an unfair practice in the insurance business under Chapter 23 of this title.
+(d) Any contract that is entered into, amended, extended, or renewed after September 19, 2024 that includes a provision that violates subsection (b) of this section is against public policy and is void and unenforceable. 84 Del.
+Laws, c. 408, § 2; 83 Del.
+Laws, c. 256, § 13;
+Delaware General Assembly Judicial Executive Contact Twitter Help

@@ -2,6 +2,25 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
+## 0.6.0 (not yet tagged)
+
+Adds a table of state laws that name the 340B program. No filing, row, figure or column of the four states' filings changes.
+
+### Added (state laws, 0.6.0)
+
+- `data/state-laws.csv`: 73 enacted laws in 38 states, one row per act, each with its kinds, citation, bill, dates, who it binds, what it does, its limits, how it is enforced, a passage quoted from the law, and the link to the official page it was read on. Notes about the saved pages themselves (a page that prints no effective date, for example) sit in their own column, `source_note`, apart from what the law says.
+- `data/state-laws-not-listed.csv`: nine laws that came up and are not in the table, each with its reason.
+- `data/340b-state-laws.json`: both, with the seven kinds.
+- `laws/` (the tables as kept by hand, the kinds, and the 58 official sites linked to) and `sources/laws/` (the saved text of each official page: 125 files).
+- `src/filings340b/laws.py`: the rules. The build stops unless each law's saved text names the program, its quoted passage is in that text word for word, each filled date is printed on a saved page, and each link is on a listed official site.
+- `tools/save_law_text.py`, which saves an official page's words, and `tests/test_laws.py`.
+- METHODS.md section 10, and the new files in DATA_DICTIONARY.md and the README.
+
+### Changed (0.6.0)
+
+- `dataset_version` in both JSON files is 0.6.0.
+- The two tools that save page text now also replace a toll-free telephone number written with a leading 1 (`tools/save_law_text.py`, `tools/extract_text.py`). No saved text of a filing changes.
+
 ## 0.5.0 (tagged `v0.5.0`, 15 November 2026)
 
 Adds Idaho. No Rhode Island, Vermont or Minnesota value, row or order changes, and no column is added.

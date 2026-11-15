@@ -1,0 +1,449 @@
+SL 2025-69 (SB 479) GENERAL ASSEMBLY OF NORTH CAROLINA SESSION 2025 SESSION LAW 2025-69 SENATE BILL 479 AN ACT Supporting Community Retail Pharmacies and Improving Transparency.
+The General Assembly of North Carolina enacts:
+PART i.
+Pharmacy of choice modifications SECTION 1.1.
+G.S. 58-51-37 reads as rewritten:
+"§ 58-51-37.
+Pharmacy of choice.
+(a) This section shall apply to all health benefit plans providing pharmaceutical services benefits, including prescription drugs, to any resident of North Carolina.
+This section shall also apply to insurance companies and health maintenance organizations that provide or administer coverages and benefits for prescription drugs.
+This section shall apply to pharmacy benefits managers with respect to 340B covered entities and 340B contract pharmacies, as defined in G.S. 58-56A-1.
+This section shall not apply to any entity that has its own facility, employs or contracts with physicians, pharmacists, nurses, and other health care personnel, and that dispenses prescription drugs from its own pharmacy to its employees and to enrollees of its health benefit plan; provided, however, this section shall apply to an entity otherwise excluded that contracts with an outside pharmacy or group of pharmacies to provide prescription drugs and services.
+This section shall not apply to any federal program, clinical trial program, hospital or other health care facility licensed pursuant to Chapter 131E or Chapter 122C of the General Statutes, when dispensing prescription drugs to its patients.
+(b) As used Definitions. - The following definitions apply in this section:
+(1) "Copayment" means a type of cost sharing whereby insured or covered persons pay a specified predetermined amount per unit of service with their insurer paying the remainder of the charge.
+The copayment is incurred at the time the service is used.
+The copayment may be a fixed or variable amount.340B contract pharmacy. - As defined in G.S. 58-56A-1.
+(2) "Contract provider" means a Contract provider. - A pharmacy granted the right to provide prescription drugs and pharmacy services according to the terms of the insurer.
+(3) Copayment. - A type of cost-sharing in which an insured is required to pay a specified predetermined amount, which is either fixed or variable, per unit of service that is incurred at the time of service and in which the insurer pays the remainder of the charge for that service.
+(4) "Health Health benefit plan" is as that term is plan. - As defined in G.S. 58-50-110(11).G.S. 58-3-167.
+(5) Housing unit. - All of the following are considered housing units: a.
+A house. b.
+An apartment. c.
+A mobile home or trailer. d.
+A group of rooms or a single room that is occupied, or intended for occupation, as separate living quarters, in which the occupants live separately from any other persons in the building and have direct access from the outside of the building or through a common hall.
+(6) Independent pharmacy. - A pharmacy that is part of a group of 10 or fewer pharmacies under common ownership, including a pharmacy that is part of a group of one.
+(7) Insured. - An individual covered by a health benefit plan.
+(4)(8) "Insurer" means any entity that provides or offers a health benefit plan.Insurer. - As defined in G.S. 58-3-167.
+(9) Reserved for future codification purposes.
+(5)(10) "Pharmacy" means a Pharmacy. - A pharmacy registered with the North Carolina Board of Pharmacy.
+(11) Pharmacy desert. - Either of the following areas: a.
+An urban community or neighborhood without a pharmacy within a 2-mile radius of any point in the community or neighborhood. b.
+A rural community without a pharmacy within a 15-mile radius of any point in the community.
+(12) Rural. - An open county or settlement with fewer than 5,000 residents or 2,000 housing units.
+(13) Urban. - A densely developed area with at least 5,000 residents or 2,000 housing units.
+(b1) Applicability. - This section applies to insurers offering health benefit plans that include prescription drug or pharmacy benefits.
+This section shall also apply to pharmacy benefits managers in the same way that it applies to insurers with respect to 340B covered entities and 340B contract pharmacies.
+This section does not apply to any federal program or clinical trial program, hospital, or other health care facility licensed pursuant to Chapter 131E or Chapter 122C of the General Statutes, when dispensing prescription drugs to its patients.
+(c) The terms of a health benefit plan shall not:Prohibitions. - An insurer shall not do any of the following:
+(1) Prohibit or limit a resident of this State, an insured who is eligible for reimbursement for pharmacy services as a participant or beneficiary of a health benefit plan, from selecting a pharmacy of his or her the insured's choice when the pharmacy has agreed to participate in the health benefit plan according to the terms offered by the insurer;insurer.
+(2) Deny a pharmacy the opportunity to participate as a contract provider under a health benefit plan if the pharmacy agrees to provide pharmacy services that meet the terms and requirements, including terms of reimbursement, of the insurer under a health benefit plan, provided that if the plan.
+If a pharmacy is offered the opportunity to participate, it participate as a contract provider, then the pharmacy must participate or no provisions of G.S. 58-51-37 shall apply;apply.
+(3) Impose upon a beneficiary of pharmacy services under a health benefit plan an insured any copayment, fee, or condition that is not equally imposed upon all beneficiaries insureds in the same benefit category, class, or copayment level under the health benefit plan when receiving services from a contract provider;provider.
+(4) Impose a monetary advantage or penalty under a health benefit plan that would affect a beneficiary's an insured's choice of pharmacy.
+Monetary advantage or penalty includes pharmacy, including a higher copayment, a reduction in reimbursement for services, or the promotion of one participating pharmacy contract provider over another by these methods.
+Prohibitions on the imposition of a monetary advantage shall not apply to monetary advantages imposed upon a pharmacy located in a pharmacy desert or a county with a population of fewer than 20,000 residents.
+(5) Reduce allowable reimbursement for pharmacy services to a beneficiary under a health benefit plan an insured because the beneficiary insured selects a pharmacy of his or her choice, so long as that pharmacy has enrolled with the health benefit plan under the terms offered to all pharmacies in the plan coverage area; orarea.
+(6) Require a beneficiary, an insured, as a condition of payment or reimbursement, to purchase pharmacy products or services, including prescription drugs, exclusively through a mail-order pharmacy.
+(d) Use of Agent. - A pharmacy, by or through a pharmacist acting on its behalf as its employee, agent, or owner, may not waive, discount, rebate, or distort a copayment of any insurer, policy, or plan, insurer or health benefit plan or a beneficiary's an insured's coinsurance portion of a prescription drug coverage or reimbursement and if of a prescription drug.
+If a pharmacy, by or through a pharmacist's acting action on its behalf as its employee, agent agent, or owner, provides a pharmacy service to an enrollee of a health benefit plan insured that meets the terms and requirements of the insurer under a health benefit plan, then the pharmacy shall provide its pharmacy services to all enrollees of individuals covered under that health benefit plan on the same terms and requirements of the insurer.
+A violation of this subsection shall be is a violation of the Pharmacy Practice Act subjecting the pharmacist as a licensee to disciplinary authority of the North Carolina Board of Pharmacy pursuant to G.S. 90-85.38.
+(e) Offer to Participate. - At least 60 days before the effective date of any health benefit plan providing reimbursement to North Carolina residents coverage for prescription drugs, which drugs that restricts pharmacy participation, the entity insurer providing the health benefit plan shall notify, in writing, provide a written notification and offer to all pharmacies within the geographical coverage area of the health benefit plan, and offer to the pharmacies plan the opportunity to participate in the health benefit plan.
+All pharmacies in the geographical coverage area of the plan shall be eligible to participate under identical reimbursement terms for providing pharmacy services, including prescription drugs.
+The entity providing the health benefit plan insurer shall, through reasonable means, on a timely basis, and on regular intervals in order to effectuate the purposes of this section, inform the beneficiaries of the plan insureds of the names and locations of pharmacies that are participating in the plan as providers of pharmacy services and prescription drugs.
+Additionally, participating pharmacies shall be entitled to announce their participation to their customers through a means acceptable to the pharmacy and the entity providing the health benefit plans. insurer.
+The pharmacy notification provisions of this section shall not apply when an individual or group is enrolled, but when the plan enters a particular county of the State.
+(f) Rebates and Marketing Incentives. - If rebates or marketing incentives are allowed to pharmacies or other dispensing entities providing pharmaceutical services or benefits under a health benefit plan, these rebates or marketing incentives shall be offered on an equal basis to all pharmacies and other dispensing entities providing services or benefits under a the health benefit plan when pharmacy services, including prescription drugs, are purchased in the same volume and under the same terms of payment.
+Nothing in this section shall prevent a pharmaceutical manufacturer or wholesale distributor of pharmaceutical products from providing special prices, marketing incentives, rebates, or discounts to different purchasers not prohibited by federal and State antitrust laws.
+(g) Any entity or insurer providing a health benefit plan is subject to G.S. 58-2-70.
+Violations of This Section. - It shall be a violation of this section for any insurer to provide any health benefit plan providing coverage for pharmaceutical services or products to residents of this State that does not conform to the provisions of this section.
+A violation of this section shall subject the entity providing a health benefit plan insurer to the sanctions of revocation, suspension, or refusal to renew license in the discretion of the Commissioner pursuant to G.S. 58-3-100.
+A violation of this section creates a civil cause of action for damages or injunctive relief in favor of any person or pharmacy aggrieved by the violation.
+(h) A violation of this section creates a civil cause of action for damages or injunctive relief in favor of any person or pharmacy aggrieved by the violation.
+(i) Approval by Commissioner. - The Commissioner shall not approve any health benefit plan providing pharmaceutical services which that does not conform to this section.
+(j) Provisions to the Contrary Void. - Any provision in a health benefit plan which is executed, delivered, or renewed, or otherwise contracted for in this State that is contrary to any provision of this section shall, to the extent of the conflict, be void.
+(k) It shall be a violation of this section for any insurer or any person to provide any health benefit plan providing for pharmaceutical services to residents of this State that does not conform to the provisions of this section.
+(l) Certain Lock-In Programs. - An insurer's use of a lock-in program developed pursuant to G.S. 58-51-37.1 or G.S. 108A-68.2 is not a violation of this section." SECTION 1.2.
+This Part becomes effective October 1, 2025, and applies to insurance contracts entered into or amended on or after that date.
+PART Ii.
+Pharmacy services administrative organizations TRANSPARENCY and freedom of contract SECTION 2.1.
+Chapter 58 of the General Statutes is amended by adding a new Article to read:
+"Article 56B.
+"Pharmacy Services Administrative Organizations.
+"§ 58-56B-1.
+Definitions.
+The following definitions apply in this Article:
+(1) Reserved for future codification purposes.
+(2) Independent pharmacy. - As defined in G.S. 58-51-37.
+(3) Insured. - An individual covered by a health benefit plan.
+(4) Pharmacy. - As defined in G.S. 58-51-37.
+(5) Pharmacy benefits manager or PBM. - As defined in G.S. 58-56A-1.
+(6) Pharmacy services administrative organization or PSAO. - An entity operating within this State that contracts with one or more independent pharmacies to conduct business with third-party payers on behalf of the independent pharmacy or pharmacies to provide administrative services to the independent pharmacy or pharmacies and to negotiate and enter into contracts with third-party payers or PBMs on behalf of the independent pharmacy or pharmacies.
+Administrative services provided on behalf of one or more independent pharmacies may include one or more of the following: a.
+Assistance with claims. b.
+Assistance with audits. c.
+Centralized payment. d.
+Certification in specialized care programs. e.
+Compliance support. f.
+Setting flat fees for generic drugs. g.
+Assistance with store layout. h.
+Inventory management. i.
+Marketing support. j.
+Management and analysis of payment and drug dispensing data. k.
+Provision of services for retail cash cards.
+(7) PSAO-pharmacy contract. - A contractual agreement between a PSAO and an independent pharmacy under which a PSAO agrees to negotiate with PBMs or third-party payers or both on behalf of an independent pharmacy.
+A PSAO-pharmacy contract may contain an agreement that the PSAO will provide other services to the independent pharmacy in addition to negotiation with PBMs or third-party payers.
+(8) Reserved for future codification purposes.
+(9) Wholesale distributor. - As defined in G.S. 106-145.2.
+"§ 58-56B-5.
+Regulation of PSAOs by Department.
+(a) Licensure Requirement. - No pharmacy services administrative organization that negotiates with PBMs, third-party payers, or both on behalf of any pharmacy in this State shall operate without obtaining a license from the Department.
+(b) Application. - The Commissioner shall develop an application for licensure as a pharmacy services administrative organization and may charge an initial application fee of two hundred dollars ($200.00) and an annual renewal fee of one hundred fifty dollars ($150.00).
+The application form must collect at least the following information:
+(1) The name, address, and telephone contact number of the PSAO.
+(2) The name and address of the PSAO's agent for service of process in this State.
+(3) The name and address of each individual with management or control over the PSAO.
+(4) The name and address of each individual or entity with a beneficial ownership interest in the PSAO.
+(5) Either (i) a signed statement that, to the best of the applicant's knowledge, no officer with management or control of the PSAO has been convicted of a felony or has violated any requirement of State or federal law applicable to pharmacy services administration, pharmacy benefits management, or pharmacy services or (ii) a description of any felony or any violation of any requirement of State or federal law applicable to pharmacy services administration, pharmacy benefits management, or pharmacy services committed by any officer with management or control of the pharmacy benefits manager.
+(c) Application Modifications. - Unless otherwise provided for in this Article, an applicant or a PSAO that is licensed to conduct business in the State shall file a notice describing any material modification of the information required to be contained in the licensure application under this section.
+(d) Report and Disclose Requirements of Licensees. - Information contained in a report or disclosure required to be submitted to the Department by a PSAO under this Article shall not reveal any personally identifiable information of any insured.
+Information contained in this report is not considered a public record under Chapter 132 of the General Statutes or under G.S. 58-2-100 and is confidential and privileged.
+"§ 58-56B-10.
+Disclosure of ownership requirements.
+(a) To the Department. - Prior to licensure under this Article and within 10 calendar days of any material change to that disclosure, each PSAO shall provide a written disclosure of ownership to the Department.
+(b) To Independent Pharmacies, PBMs, and Third-Party Payers. - Prior to entering into a contract with an independent pharmacy, PBM, or third-party payer, a PSAO shall provide the pharmacy, PBM, or third-party payer a written disclosure of ownership or control in order to assist the pharmacy, PBM, or third-party payer in making an informed decision regarding the relationship with the PSAO and the pharmacy, including the PSAO's relationship with any independent pharmacy on behalf of which the PSAO is negotiating.
+(c) Content of Required Disclosures. - A disclosure of ownership required under this section shall include the extent of any ownership or control of the PSAO by any parent company, subsidiary, or other organization that does any of the following:
+(1) Provides pharmacy services or support.
+(2) Provides prescription drugs or drug services.
+(3) Manufactures, sells, or distributes prescription drugs, biological products, or medical devices.
+(d) Updates to Required Disclosure. - If there is any material change in ownership or control of a PSAO relating to any disclosure required under this section, then a PSAO shall notify the Department and all relevant independent pharmacies, PBMs, and third-party payers of this change within 10 calendar days of the change.
+"§ 58-56B-15.
+Contract requirements.
+(a) Negotiated Terms. - A PSAO-pharmacy contract shall include a requirement that the PSAO provide to the pharmacy a copy of any contract, amendment, payment schedule, or reimbursement rate within 10 calendar days after the execution of, or amendment to, a contract that the PSAO has signed on behalf of the independent pharmacy.
+(b) Updates to Required Disclosures. - A contract between a PSAO and an independent pharmacy, PBM, or third-party payer shall include the requirement that the PSAO update disclosures in accordance with G.S. 58-56B-10(d).
+(c) Prohibition on Certain Purchase Requirements. - A PSAO shall not require a pharmacy to purchase specific amounts of prescription drugs, whether generic or brand name, in order to access discounts.
+(d) Audits. - If a PSAO-pharmacy contract grants a PBM the right or obligation to conduct audits of an independent pharmacy, then that PSAO-pharmacy contract is required to contain language that permits the PBM to obtain information from the PSAO in connection with the PBM's audit of that independent pharmacy.
+(e) Timely Transmission of Remittance. - A PSAO-pharmacy contract shall provide that all remittances for claims submitted to the PSAO by a PBM or third-party payer on behalf of the independent pharmacy shall be passed through by the PSAO to the pharmacy within a reasonable amount of time after receipt of the remittance by the PSAO from a PBM or third-party payer.
+The reasonable amount of time required under this section shall be established in the PSAO-pharmacy contract.
+"§ 58-56B-20.
+Prohibition on price discrimination.
+A PSAO shall not discriminate on the price of drugs sold to an independent pharmacy based on the price of drugs purchased from a wholesale distributor of the drug.
+"§ 58-56B-30.
+Ownership interests in or of the PSAO by drug manufacturers, sellers, or wholesale distributors.
+(a) Prohibitions. - A PSAO that owns or is owned by, in whole or in part, any entity that manufactures, sells, or distributes prescription drugs, biological products, or medical devices shall not, as a condition of entering into a PSAO-pharmacy contract, require that the independent pharmacy purchase any drugs or medical devices solely from an entity with which the PSAO has an ownership interest or that has an ownership in the PSAO.
+(b) Disclosure Requirements. - A PSAO that owns or is owned by, in whole or in part, any entity that manufactures, sells, or distributes prescription drugs, biological products, or medical devices shall disclose to the Department any agreement with an independent pharmacy to purchase prescription drugs, biological products, or medical devices by an independent pharmacy from the PSAO or an entity with which the PSAO has an ownership interest or that has an ownership in the PSAO.
+"§ 58-56B-35.
+Appeals.
+(a) Disputes. - If there is a dispute between an independent pharmacy and a PBM or third-party payer, then a PSAO which has entered into a PSAO-pharmacy contract with that independent pharmacy shall ensure and facilitate timely communication between the pharmacy and the PBM or third-party payer.
+(b) PSAO Contracted with an Independent Pharmacy. - If a third-party payer or a PBM provides any notice or other information to a PSAO that is related to an independent pharmacy with which the PSAO has entered into a PSAO-pharmacy contract, then that shall be considered provision of that notice or other information to the pharmacy with which the PSAO is contracted.
+A third-party payer or PBM shall not be required to provide notice or other information to both the PSAO and the independent pharmacy with which the PSAO has entered into a PSAO-pharmacy contract.
+(c) Timeliness. - A PSAO shall forward all notices of appeals from an independent pharmacy with which the PSAO has entered into a PSAO-pharmacy contract to the relevant PBM or third-party payer in a timely manner.
+(d) Denials. - If an appeal received by a PSAO from an independent pharmacy does not meet the minimum requirements contained within a PSAO-pharmacy contract, then the PSAO shall notify the pharmacy and provide the denial reason or reasons.
+The PSAO shall allow the pharmacy to resubmit the appeal for review by a PBM, if applicable.
+"§ 58-56B-40.
+Penalties.
+(a) Financial Penalty. - Any PSAO that fails to comply with the provisions of this Article, as determined by the Commissioner, shall pay a penalty of five hundred dollars ($500.00) per day from the day the Commissioner notifies the PSAO of noncompliance until the Commissioner determines the applicable provision is met.
+(b) Impact on Licensure. - Failure to comply with this Article may be grounds for revocation or nonrenewal of a license under this Article, as determined by the Commissioner.
+(c) Unfair Trade. - A violation of any of the following provisions of this Article is an unfair trade practice under Article 63 of this Chapter and under G.S. 75-1.1:
+(1) G.S. 58-56B-10.
+(2) G.S. 58-56B-15.
+(3) G.S. 58-56B-20.
+(4) G.S. 58-56B-30.
+(5) G.S. 58-56B-35." SECTION 2.2.(a) Article 56B of Chapter 58 of the General Statutes, as amended by Section 2.1 of this act, is amended by adding a new section to read:
+"§ 58-56B-50.
+Rules.
+The Commissioner of Insurance is authorized to adopt rules, temporary or otherwise, regarding the administration of this Article." SECTION 2.2.(b) No later than October 1, 2026, the Commissioner of Insurance shall adopt rules necessary to implement this Part.
+SECTION 2.2.(c) This section is effective when it becomes law.
+SECTION 2.3.
+Section 2.1 of this Part is effective October 1, 2026, and applies to contracts entered into, renewed, or amended on or after that date.
+Except as otherwise provided, the remainder of this Part is effective when it becomes law.
+PART iII. pharmacy benefits manager transparency, fair reimbursement, and fiduciary duties SECTION 3.1.(a) G.S. 58-56A-1 reads as rewritten:
+"§ 58-56A-1.
+Definitions.
+The following definitions apply in this Article: ...
+(4b) Reserved for future codification purposes. ...
+(5a) High-deductible health plan. - As defined under the Internal Revenue Code. ...
+(16a) Section 223. - Section 223 of the Internal Revenue Code or its equivalent.
+(16b) Specialty drug. - Any of the following prescription medications: a.
+A medication that is subject to restricted distribution by the United States Food and Drug Administration. b.
+A medication used to treat complex or chronic conditions that requires special handling, provider coordination, or patient education. c.
+A medication classified as a specialty drug as determined by a health benefit plan.
+(16c) Specialty pharmacy. - A pharmacy accredited as a specialty pharmacy by a nationally recognized, independent accrediting organization that evaluates a pharmacy's compliance with quality, safety, and service standards for handling, dispensing, and managing specialty drugs.
+The accreditation may be issued by the Utilization Review Accreditation Commission (URAC), the Accreditation Commission for Health Care (ACHC), the National Association of Boards of Pharmacy (NABP), the Joint Commission, or their successors. ...." SECTION 3.1.(b) Article 56A of Chapter 58 of the General Statutes is amended by adding a new section to read:
+"§ 58-56A-22.
+Reporting requirements for transparency.
+(a) Reports to Commissioner. - No later than May 1 of every year, all pharmacy benefits managers shall report to the Commissioner all of the following information regarding prescription drug benefits specific to insurers within the State with which a pharmacy benefits manager has a contract:
+(1) The aggregate amount of the rebates that the pharmacy benefits manager received from all drug manufacturers or whole distributers by therapeutic category of prescription drugs.
+In reporting the aggregate amount of the rebates, the pharmacy benefits manager shall include any utilization discounts it receives from a manufacturer or wholesale distributor.
+(2) The aggregated amount of difference between the amount paid by the health benefit plan for prescription drugs and the aggregated amount paid to pharmacies for claims paid under the health benefit plan, including point-of-sale and retroactive charges.
+(3) The spread between aggregate amount paid to pharmacies for prescription drugs and the aggregated amount charged to insurers for prescription drugs.
+(4) A list of all pharmacies that are under common control or ownership of the pharmacy benefits manager.
+(5) A pharmacy benefits manager that is affiliated with a retail pharmacy shall provide the aggregated amount of any differences between what the pharmacy benefits manager reimburses or charges affiliated retail pharmacies and what it reimburses or charges non-affiliated retail pharmacies.
+(6) The aggregate amount of all fees or other assessments, including point-of-sale and retroactive charges, that are imposed on, or collected from, contracted, preferred, or in-network pharmacies.
+Retroactive charges shall not include any funds recouped from an audit conducted under Part 8 of Article 50 of this Chapter.
+(7) The aggregate amount of rebates and fees that were passed on to either the insurer with which the pharmacy benefits manager is contracted or an insured at the point-of-sale of a prescription drug.
+(8) The highest, lowest, and mean aggregate percentages for retained rebates by the pharmacy benefits manager.
+(b) Confidentiality of Data. - Information contained in a report required under this section shall not reveal any personally identifiable information of any insured.
+Information contained in this report is not considered a public record under Chapter 132 of the General Statutes or under G.S. 58-2-100 and is confidential and privileged." SECTION 3.2.(a) G.S. 58-56A-4 is amended by adding a new subsection to read:
+"(g) No pharmacy benefits manager contract may require, either, directly or indirectly or through a pharmacy services administration organization, an independent pharmacy, as defined in G.S. 58-51-37, or any pharmacy in a pharmacy desert, as defined in G.S. 58-51-37, to accept reimbursement for providing a covered prescription drug, device, or service at a rate less than the acquisition cost for the covered drug, device, or service.
+A violation of this section is an unfair trade practice under Article 63 of this Chapter and under G.S. 75-1.1 and is subject to all of the enforcement and penalty provisions of an unfair trade practice under this Chapter and under Article 1 of Chapter 75 of the General Statutes." SECTION 3.2.(b) This section applies to contracts entered into, renewed, or amended on or after October 1, 2025.
+SECTION 3.3.
+Article 56A of Chapter 58 of the General Statutes is amended by adding a new section to read:
+"§ 58-56A-55.
+Health benefit plan requirements applicable.
+(a) All requirements relating to the coverage of prescription drugs and pharmacy services under this Chapter that apply to health benefit plans are applicable to pharmacy benefits managers in the same way they are applicable to an insurer.
+(b) Article 63 of this Chapter, Unfair Trade Practices, is applicable to a pharmacy benefits manager in the same manner as it is applicable to an insurer." SECTION 3.4.
+G.S. 58-56A-21 reads as rewritten:
+"§ 58-56A-21.
+Claims data provided to health benefit plan.Duties owed to contracted insurers.
+(a) Fiduciary Duty. - A pharmacy benefits manager has a fiduciary duty to act in good faith and fair dealing in the performance of all of its contractual duties, including all of the following:
+(1) Controlling costs.
+(2) Acting in the best interest of the insurers and health benefit plans offered by the insurers with which the pharmacy benefits manager has a contract.
+(3) Acting with prudence and passing through any rebates or discounts the pharmacy benefits manager received related to covered benefits bought and paid for with the contracted insurer's assets or funds.
+(4) Avoiding self-dealing and conflicts of interest.
+(b) Claims Data Requests. - Upon the request of an insurer offering a health benefit plan that contracts with a pharmacy benefits manager, the pharmacy benefits manager shall provide the insurer with claims data that reflects the total amount the insurer paid to the pharmacy benefits manager under the health benefit plan for a specified outpatient prescription drug, including the ingredient cost and the dispensing fee.
+The pharmacy benefits manager shall also provide the cost that it paid for the specified outpatient prescription drug, including the ingredient cost and the dispensing fee." SECTION 3.5.(a) Article 56A of Chapter 58 of the General Statutes is amended by adding a new section to read:
+"§ 58-56A-6.
+Spread pricing reports.
+(a) Beginning March 31, 2026, and quarterly thereafter, any pharmacy benefits manager that charges an insurer offering a health benefit plan a price for a prescription drug that differs from the amount the pharmacy benefits manager directly or indirectly pays the pharmacy or pharmacist for providing pharmacist services under that same health benefit plan shall report the aggregate difference between the price charged the insurer and the price paid to the pharmacy or pharmacist for each drug where there is a difference in price.
+(b) Any insurer who receives a spread pricing report from a pharmacy benefits manager shall make that report available on its website and to any employers who have purchased a health benefit plan from the insurer.
+(c) Any pharmacy benefits manager who (i) is obligated to make a report under subsection (a) of this section and (ii) is in a contractual relationship with an employer who has purchased a health benefit plan from an insurer shall submit the report directly to the employer." SECTION 3.5.(b) This section applies to contracts entered into, renewed, or amended on or after October 1, 2025.
+SECTION 3.6.
+No later than October 1, 2025, the Department of Insurance shall adopt rules to implement this Part.
+SECTION 3.7.
+Sections 3.1, 3.2, and 3.5 of this Part are effective October 1, 2025.
+The remainder of this Part is effective when it becomes law.
+PART iV. clarify pharmacy benefits manager anti-steering regulation and ensure network adequacy SECTION 4.1.
+G.S. 58-56A-3 reads as rewritten:
+"§ 58-56A-3.
+Consumer protections. ...
+(b1) A pharmacy benefits manager shall not prohibit a pharmacist or pharmacy from charging a minimal shipping and handling fee to the insured for a mailed or delivered prescription if the pharmacist or pharmacy discloses all of the following to the insured before delivery:
+(1) The fee will be charged.
+(2) The fee may not be reimbursed by the health benefit plan, insurer, or pharmacy benefits manager.
+(3) The charge is specifically agreed to by the health benefit plan or pharmacy benefits manager. ...
+(c3) G.S. 58-3-182 applies to pharmacy benefits managers when calculating an insured's out-of-pocket cost for a covered prescription drug. ...
+(f) G.S. 58-51-37 shall apply to pharmacy benefits managers that contract with an insurer in this State in the same manner as it applies to an insurer." SECTION 4.2.
+G.S. 58-56A-15 reads as rewritten:
+"§ 58-56A-15.
+Pharmacy benefits manager networks.
+(a) A pharmacy benefits manager shall not deny the right to any properly licensed pharmacist or pharmacy to participate in a retail pharmacy network on the same terms and conditions of other similarly situated participants in the network.
+(b) A pharmacist or pharmacy that is a member of a pharmacy service administrative organization that enters into a contract with a health benefit plan issuer or a pharmacy benefits manager on the pharmacy's behalf is entitled to receive from the pharmacy service administrative organization a copy of the contract provisions applicable to the pharmacy, including each provision relating to the pharmacy's rights and obligations under the contract.
+(c) Termination of a pharmacy or pharmacist from a pharmacy benefits manager network does not release the pharmacy benefits manager from the obligation to make any payment due to the pharmacy or pharmacist for pharmacist services properly rendered according to the contract.
+This subsection does not apply in cases of fraud, waste, and abuse.
+(d) A pharmacy benefits manager shall not require multiple specialty pharmacy accreditations as a prerequisite for participation in a retail pharmacy network that dispenses specialty drugs nor exclude a specialty pharmacy from the right to participate in the network.
+(e) A pharmacy benefits manager shall not charge a pharmacist or pharmacy a fee related to participation in a retail pharmacy network.
+(f) A pharmacy benefits manager pharmacy provider network shall meet or exceed the Medicare Part D program standards for convenient access to network pharmacies under 42 C.F.R. § 423.120." SECTION 4.3.
+This Part is effective October 1, 2025, and applies to contracts entered into, renewed, or amended on or after that date. part V. strengthen pharmacy audit protections SECTION 5.1.(a) Article 4C of Chapter 90 of the General Statutes is recodified as Part 8 of Article 50 of Chapter 58 of the General Statutes, as follows:
+(1) G.S. 90-85.50(a) is recodified as G.S. 58-50-400, to be entitled "Definitions." Subdivision (1) of G.S. 90-85.50(a) is recodified as subdivision (6) of G.S. 58-50-400, and subdivision (2) of G.S. 90-85.50(a) is recodified as subdivision (8) of G.S. 58-50-400.
+(2) The lead-in language of subsection (b) of G.S. 90-85.50 is recodified as G.S. 58-50-405(a).
+(3) G.S. 90-85.52 is recodified as G.S. 58-50-410.
+(4) G.S. 90-85.51 is recodified as G.S. 58-50-420.
+(5) G.S. 90-85.53 is recodified as G.S. 58-50-425.
+(6) The subdivisions of G.S. 90-85.50(b) are recodified as follows: a.
+Subdivision (1) through subdivision (5) are recodified as subdivisions (1) through (5) of G.S. 58-50-405(a). b.
+Subdivision (6) of G.S. 90-85.50(b) is recodified as subsection (i) of G.S. 58-50-410. c.
+Subdivision (7) through subdivision (10) are recodified as subdivisions (6) through (9) of G.S. 58-50-405(a). d.
+Subdivision (11) of G.S. 90-85.50(b) is recodified as subsection (e) of G.S. 58-50-410, and the existing subunits of subdivision (11) of G.S. 90-85.50(b) are redesignated accordingly. e.
+Subdivision (12) of G.S. 90-85.50(b) is recodified as subsection (f) of G.S. 58-50-410. f.
+Subdivision (13) of G.S. 90-85.50(b) is recodified as G.S. 58-50-415, to be entitled "Reversals of approval." g.
+Subdivision (14) through subdivision (19) are recodified as subdivisions (10) through (15) of G.S. 58-50-405(a). h.
+Subdivision (20) of G.S. 90-85.50(b) is recodified as subsection (d) of G.S. 58-50-410. i.
+Subdivision (21) of G.S. 90-85.50(b) is recodified as subsection (g) of G.S. 58-50-410, and the existing subunits of subdivision (21) of G.S. 90-85.50(b) are redesignated accordingly. j.
+Subdivision (22) is recodified as subdivision (16) of G.S. 58-50-405(a). k.
+Subdivision (23) of G.S. 90-85.50(b) is recodified as subsection (b) of G.S. 58-50-405. l.
+Subdivision (24) is recodified as subdivision (17) of G.S. 58-50-405(a).
+SECTION 5.1.(b) Part 8 of Article 50 of Chapter 58 of the General Statutes, as created by subsection (a) of this section, reads as rewritten:
+"Part 8.
+Pharmacy Audit Rights.
+"§ 58-50-400.
+Definitions.
+The following definitions apply in this Article:Part:
+(1) Auditing entity. - The responsible party conducting an audit of a pharmacy or the entity conducting an audit of a pharmacy on behalf of a responsible party.
+(2) Claim. - A request for reimbursement submitted by a pharmacy or pharmacist to a pharmacy benefits manager for a single fill or refill of any drug, product, or medication for which a prescription is written by a licensed prescriber under applicable State or federal law, or pharmacist-provided service, that has been adjudicated and processed by the pharmacy benefits manager.
+Each fill or refill shall constitute a separate and distinct claim, regardless of the number of days' supply or quantity dispensed.
+(3) Reserved for future codification purposes.
+(4) Medication error. - The dispensing of the wrong prescription drug, the dispensing of a prescription to the wrong patient, or the dispensing of a prescription with the wrong directions or patient instructions.
+(5) Pharmacist. - An individual licensed to practice pharmacy under Article 4A of Chapter 90 of the General Statutes.
+(6) "Pharmacy" means a person Pharmacy. - An individual or entity holding a valid pharmacy permit pursuant to G.S. 90-85.21 or G.S. 90-85.21A.
+(7) Reserved for future codification purposes.
+(8) "Responsible party" means the Responsible party. - An insurer offering a health benefit plan or any other entity regulated under this Chapter responsible for payment of claims for health care services other than (i) the individual to whom the health care services were rendered or (ii) that individual's guardian or legal representative.healthcare services.
+"§ 58-50-405.
+Rights of a pharmacy/audits.
+(a) Notwithstanding any other provision of law, whenever a managed care company, insurance company, third-party payer, or any entity that represents a responsible party an auditing entity conducts an audit of the records of a pharmacy, the pharmacy has a right to all of the following:
+(1) To have at At least 14 days' advance notice of the initial on-site audit for each audit cycle.
+(2) To have any audit that involves clinical judgment be done with The participation of a licensed pharmacist who is licensed, and is employed or working under contract with the auditing entity.entity when an audit involves clinical judgment.
+(3) Not to have clerical Clerical or record-keeping errors, including typographical errors, scrivener's errors, and computer errors, on a required document or record, in the absence of any other evidence, not to be deemed fraudulent.
+This subdivision does not prohibit recoupment of fraudulent payments.
+(4) If required under the terms of the contract, to have upon request by the pharmacy to the auditing entity provide a pharmacy, upon request, entity, the provision of all records related to the audit in an electronic format or contained in digital media.
+(5) To have the The properly documented records of a hospital or any person authorized to prescribe controlled substances for the purpose of providing medical or pharmaceutical care for their patients transmitted by any means of communication in order to validate a pharmacy record with respect to a prescription or refill for a controlled substance or narcotic drug.
+(6) Prior to the initiation of an audit, if If the audit is conducted for an identified problem, notification prior to the audit of the identifiable problem and limitation of the audit is limited to claims that are identified by prescription number.
+(7) If an audit is conducted for a reason other than described in subdivision (6) of this subsection, the audit is limited to 100 selected prescriptions.an identified problem, limitation of the audit to the lesser of (i) one-tenth of one percent (0.1%) of the number of total prescription fills processed through the pharmacy benefits manager for that pharmacy in a calendar year or (ii) 50 prescription fills processed through the pharmacy benefits manager for that pharmacy in a calendar year.
+(8) If an audit reveals the necessity for a review of additional claims, to have the audit conducted on site.site upon request by the pharmacy.
+Except in the case of an identified problem, the pharmacy shall also be entitled to written notice provided at least 14 days prior to any audit of additional claims that details the basis for the review of additional claims, including a specific description of any suspected fraud or abuse.
+(9) Except for audits initiated for the reason described in subdivision (6) of this subsection, to be subject to no No more than one audit in one calendar year, unless fraud or misrepresentation is reasonably suspected.suspected or unless an audit is conducted for an identifiable problem.
+(10) To be audited under the The same standards and parameters applied to the pharmacy as are applied to other similarly situated pharmacies audited by the same auditing entity.
+(11) To have at At least 30 days following receipt of the preliminary audit report to produce documentation to address any discrepancy found during an audit.
+(12) To have the The period covered by an audit limited to 24 months from the date a claim was submitted to, or adjudicated by, a managed care company, an insurance company, a third-party payer, or any entity that represents responsible parties, the auditing entity unless a longer period is permitted by a federal plan under federal law.
+(13) Not to be subject to the No initiation or scheduling of audits during the first five calendar days of any month due to the high volume of prescriptions filled during that time, without the express consent of the pharmacy.
+The pharmacy shall cooperate with the auditor auditing entity to establish an alternate date should the audit fall within the days excluded.
+(14) To have the The preliminary audit report delivered to the pharmacy within 120 days after conclusion of the audit.
+(15) To have a The final audit report delivered to the pharmacy within 90 days after the end of the appeals period, as provided for in G.S. 90-85.51.as required under this Part.
+(16) To have an An audit based only on information obtained by the auditing entity conducting the audit and not based on any audit report or other information gained from an audit conducted by a different auditing entity.
+This subdivision does not prohibit an auditing entity from using an earlier audit report prepared by that auditing entity for the same pharmacy.
+Except as required by State or federal law, an auditing entity conducting an audit may have is granted access to a pharmacy's previous audit report only if the previous report was prepared by that auditing entity.
+(17) To The use of any prescription that complies with federal or State laws and regulations at the time of dispensing to validate a claim in connection with a prescription, prescription refill, or a change in a prescription.
+(b) If the auditing entity conducting an audit of a pharmacy is conducted by a vendor or subcontractor, that entity subcontractor of the responsible party on behalf of which the audit is conducted, then that vendor or contractor is required to identify the responsible party on whose behalf of which the audit is being conducted without having this information being requested.having been first requested by the pharmacy.
+"§ 58-50-410.
+Pharmacy audit recoupments.
+(a) The entity conducting an audit auditing entity shall not recoup any disputed funds, charges, or other penalties from a pharmacy until (i) the deadline for initiating the appeals process established pursuant to G.S. 90-85.51 in accordance with this Part has elapsed or (ii) after the final internal disposition of an audit, including the required appeals process as set forth in G.S. 90-85.51, process, whichever is later, unless fraud or misrepresentation is reasonably suspected.
+(b) Recoupment on an audit shall be refunded to the responsible party as contractually agreed upon by the parties.
+(c) The entity conducting the audit may charge or assess the responsible party, directly or indirectly, based on amounts recouped if both of the following conditions are met:
+(1) The responsible party and the entity conducting the audit have entered into a contract that explicitly states the percentage charge or assessment to the responsible party.
+(2) A commission or other payment to an agent or employee of the entity conducting the audit is not based, directly or indirectly, on amounts recouped.
+(d) Not to have the The accounting practice of extrapolation shall not be used in calculating recoupments or penalties for pharmacy audits, unless otherwise required by federal requirements or federal plans.
+(e) Except for cases of Food and Drug Administration regulation or drug manufacturer safety programs, to be free of recoupments based on any of the following and unless defined within the billing requirements set forth in the pharmacy a pharmacy's provider manual that are not inconsistent with the current rules adopted by the North Carolina Board of Pharmacy Regulations:Pharmacy, an auditing entity shall not subject a pharmacy to recoupments based on any of the following:
+(1) Documentation requirements in addition to or exceeding that exceed the requirements set by the North Carolina Board of Pharmacy for creating or maintaining documentation prescribed by the State Board of Pharmacy.documentation.
+(2) A requirement that a pharmacy or pharmacist perform a professional duty in addition to or exceeding that exceeds the professional duties prescribed by the State North Carolina Board of Pharmacy.Pharmacy or required under Article 4A of Chapter 90 of the General Statutes.
+(f) To A pharmacy shall be subject to recoupment only following the correction of a claim and to have recoupment claim.
+Recoupment is limited to amounts paid in excess of amounts payable under the corrected claim.
+(g) Not to be An auditing entity shall not subject a pharmacy to recoupment on any portion of the reimbursement for the dispensed product of a prescription, unless otherwise provided in this subdivision:one of the following applies:
+(1) Recoupment of reimbursement, or a portion of reimbursement, for the dispensed product of a prescription may be had in the following cases: a.
+Fraud There is fraud or other intentional and willful misrepresentation evidenced by a review of the claims data, statements, physical review, or other investigative methods. b.(2) Dispensing A prescription was dispensed in excess of the benefit design, as established by the plan sponsor. c.(3) Prescriptions A prescription was not filled in accordance with the prescriber's order. d.(4) Actual There was an overpayment to the pharmacy.
+(2)(h) Recoupment of claims in cases set out in sub-subdivision a. of this subdivision under subsection (g) of this section shall be based on the actual financial harm to the entity or the actual underpayment or overpayment.
+Calculations of overpayments shall not include dispensing fees unless one or more of the following conditions is present:applies: a.(1) A prescription was not actually dispensed. b.(2) The prescriber denied authorization. c.(3) The prescription dispensed was a medication error by the pharmacy.
+For purposes of this subdivision, a medication error is a dispensing of the wrong drug or dispensing to the wrong patient or dispensing with the wrong directions. d.(4) The identified overpayment is based solely on an extra dispensing fee. e.(5) The pharmacy was noncompliant with Risk Evaluation and Mitigation Strategies (REMS) program guidelines. f.(6) There was insufficient documentation, including electronically stored information, as described in this subsection.that did not meet the standards set by the North Carolina Board of Pharmacy. g.(7) Fraud There is evidence of fraud or other intentional and willful misrepresentation by the pharmacy.
+(i) To have a Any projection of an overpayment or underpayment by an auditing entity shall be based on either the number of patients served with a similar diagnosis or the number of similar prescription orders or refills for similar drugs.
+This subdivision subsection does not prohibit recoupments of actual overpayments, unless the projection for overpayment or underpayment is part of a settlement by the pharmacy.
+"§ 58-50-415.
+Reversals of approval.
+Except for Medicare claims, to be no auditing entity shall subject a pharmacy to reversals of approval for drug, prescriber, or patient eligibility upon adjudication of a claim only in cases in which unless the pharmacy obtained the adjudication by fraud or misrepresentation of claim elements.
+"§ 58-50-420.
+Mandatory appeals process.
+(a) Each auditing entity that conducts an audit of a pharmacy shall establish an appeals process under which a pharmacy may appeal an unfavorable preliminary audit report to the auditing entity.
+(b) If, following the appeal, the auditing entity finds that an unfavorable audit report or any portion of the unfavorable audit report is unsubstantiated, then the auditing entity shall dismiss the unsubstantiated portion of the audit report without any further proceedings.
+(c) Each auditing entity conducting an audit shall provide a copy, if required under contractual terms, of the audit findings to the plan sponsor responsible party or the insurer offering a health benefit plan after completion of any appeals process.
+"§ 58-50-425.
+Applicability.
+This Article Part does not apply to any audit, review, or investigation that involves alleged Medicaid fraud, Medicaid abuse, insurance fraud, or other criminal fraud or misrepresentation.
+"§ 58-50-430.
+Rulemaking.
+The Commissioner is authorized to adopt rules to implement, administer, and enforce this Part." SECTION 5.2.(a) G.S. 58-50-410, as created by Section 5.1(a) of this Part and as amended by Section 5.1(b) of this Part, is further amended by adding a new subsection to read:
+"(j) Prior to any recoupment, the auditing entity shall provide the pharmacy with a summary describing the total recoupment amount and the approximate date, within a seven-day window, on which the recoupment will occur.
+This summary shall be accompanied by payment summaries or electronic remittance advices documenting any disputed funds, charges, or other penalties." SECTION 5.2.(b) Part 8 of Article 50 of Chapter 58 of the General Statutes, as created by Section 5.1(a) of this Part, is amended by adding a new section to read:
+"§ 58-50-429.
+Violations.
+(a) A violation of this Part is an unfair trade practice under Article 63 of this Chapter.
+(b) A violation of this Part is an unfair trade practice under G.S. 75-1.1 and is subject to all of the enforcement and penalty provisions of an unfair trade practice under Article 1 of Chapter 75 of the General Statutes." SECTION 5.3.
+Section 5.2 of this Part becomes effective January 1, 2026, and applies to audits conducted on or after that date.
+The remainder of this Part is effective when it becomes law. part vi.
+Pharmacy benefits manager affiliates SECTION 6.1.
+G.S. 58-56A-20 reads as rewritten:
+"§ 58-56A-20.
+Pharmacy benefits manager affiliate disclosure; sharing of data.affiliates.
+(a) A pharmacy benefits manager shall not, in any way that is prohibited by the Health Insurance Portability and Accountability Act of 1996 (HIPAA), transfer or share records relative to prescription information containing patient-identifiable and prescriber-identifiable data to a pharmacy benefits manager affiliate.
+(b) A pharmacy benefits manager shall not reimburse a pharmacy or pharmacist in this State an amount less than the amount that the pharmacy benefits manager reimburses a pharmacy benefits manager affiliate for providing the same pharmacist services or same prescription drug.
+In determining the amount of the reimbursement for the purposes of this section, the amount shall be calculated on a per-unit basis using the same generic product identifier or generic code number and shall reflect all drug manufacturer's rebates, all direct and indirect administrative fees, and any other cost-savings or discounts that may be given related to the drug or services.
+A violation of this subsection is an unfair trade practice under Article 63 of this Chapter and under G.S. 75-1.1 and is subject to all of the enforcement and penalty provisions of an unfair trade practice under this Chapter and under Article 1 of Chapter 75 of the General Statutes." SECTION 6.2.
+This Part becomes effective October 1, 2025, and applies to pharmacist services or prescription drugs dispensed on or after that date.
+PART VII. consumers to receive the benefit of pharmacy rebates for prescription drugs SECTION 7.1.
+Article 3 of Chapter 58 of the General Statutes is amended by adding a new section to read:
+"§ 58-3-182.
+Consumer protections/prescription cost-sharing.
+(a) Definitions. - The following definitions apply in this section:
+(1) Defined cost-sharing. - A deductible payment or coinsurance amount imposed on an insured for a prescription drug that is covered under the insured's health benefit plan.
+(2) Reserved for future codification purposes.
+(3) Reserved for future codification purposes.
+(4) Rebate. - A formulary discount or price concession attributable to the utilization of prescription drugs in the State and that is paid by a manufacturer to a pharmacy benefits manager.
+(b) When calculating an insured's defined cost-sharing for a covered prescription drug at the point of sale, an insurer offering a health benefit plan shall base the calculation on the price of the prescription drug after taking into account all rebates associated with that prescription drug.
+The price of the prescription drug shall be reduced by an amount equal to ninety percent (90%) of all rebates received, or to be received, in conjunction with the dispensing or administration of the prescription drug.
+(c) Nothing in this section shall preclude an insurer from decreasing an insured's defined cost-sharing by an amount greater than that required under this section.
+(d) By January 1 of each year, each insurer offering a health benefit plan shall submit to the Commissioner a certification attesting that, for all health benefit plans offered in this State by the insurer, the insurer has complied with the requirements of this section.
+The Commissioner shall establish the form to be utilized for this certification.
+(e) Failure to complete the certification or comply with any of the other requirements under this section is a violation subject to G.S. 58-2-70.
+Each day that an insurer fails to complete the certification is considered a separate violation.
+(f) A violation of this section is an unfair trade practice under Article 63 of this Chapter and under G.S. 75-1.1 and is subject to all of the enforcement and penalty provisions of an unfair trade practice under this Chapter and under Article 1 of Chapter 75 of the General Statutes." SECTION 7.2.
+This Part is effective January 1, 2027, and applies to prescription drugs purchased by insureds on or after that date.
+PART VIII.
+PRESCRIPTION DRUG TRANSPARENCY SECTION 8.(a) Chapter 90 of the General Statutes is amended by adding a new Article to read:
+"Article 4D.
+"Prescription Drug Transparency.
+"§ 90-85.55.
+Definitions.
+The following definitions apply in this Article:
+(1) Interested parties. - All of the following: a.
+State agencies that (i) purchase prescription drugs or (ii) employ prescribers. b.
+Health insurance companies. c.
+Health care service plan providers. d.
+Pharmacy benefits managers.
+(2) Manufacturer. - An entity or an agent of an entity that produces, prepares, propagates, compounds, processes, packages, repackages, or labels a brand-name or generic drug.
+"Manufacturer" does not include an entity engaged in the preparation and dispensing of a brand-name or generic drug pursuant to a prescription.
+(3) Prescriber. - Any person authorized under the laws of this State to issue a prescription order.
+(4) Prescription drug. - Defined in G.S. 90-85.3.
+(5) Prescription order. - Defined in G.S. 90-85.3.
+(6) Price. - The wholesale acquisition cost as defined in 42 U.S.C. § 1395w-3a(c)(6)(B).
+(7) Secretary. - The Secretary of the Department of Health and Human Services.
+"§ 90-85.56.
+Required notifications and disclosures.
+(a) Price Increases. - By January 31 of each year, a manufacturer shall notify all interested parties of each increase in price of fifteen percent (15%) or greater that occurred in the prior calendar year for a prescription drug with a price of one hundred dollars ($100.00) or more for a 30-day supply.
+The manufacturer shall disclose all of the following to interested parties for each drug price increase noticed for the prior calendar year under this subsection:
+(1) The date and price of acquisition of the drug, if it was not developed by the manufacturer.
+(2) A schedule of price increases for the drug for the five years prior to the calendar year for which the drug price increase was required to be noticed under this subsection.
+(b) New Products. - A manufacturer shall notify all interested parties of the price of any new prescription drug within three days after it is made available for purchase in this State.
+Within 30 days after the notification required by this subsection, the manufacturer shall disclose to interested parties the date and price of acquisition of the drug if it was not developed by the manufacturer.
+(c) Satisfaction of Obligations. - A manufacturer's obligations under this section shall be fully satisfied by the submission of information and data that a manufacturer includes in its annual consolidated report on Securities and Exchange Commission Form 10-K or any other public disclosure.
+(d) Information is Not Public Record. - Information provided to the Secretary or an interested party pursuant to this section shall, except to the extent it is already in the public domain, be considered trade secret under Article 24 of Chapter 66 of the General Statutes, confidential, exempt from public inspection and copying under Chapter 132 of the General Statutes, and shall not be disclosed directly or indirectly.
+The Secretary, interested parties, and their agents shall not publish or otherwise disclose any information that would allow for the identification of an individual drug, therapeutic class of drugs, or manufacturer, that would reveal the prices of any drug or therapeutic class of drugs, or that has the potential to compromise the financial, competitive, or proprietary nature of any information submitted by the manufacturer pursuant to this section.
+The Secretary and interested parties shall impose the confidentiality protections of this section on any downstream third party that may receive or otherwise have access to this information.
+"§ 90-85.57.
+Penalty for failure to report.
+The Secretary shall assess a civil penalty against any manufacturer failing to report the information required by this Article.
+The amount of the penalty shall not exceed one thousand dollars ($1,000) for each day the manufacturer fails to submit the required information.
+The clear proceeds of any civil penalties assessed pursuant to this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with G.S. 115C-457.2.
+Chapter 150B of the General Statutes applies to proceedings for the assessment of civil penalties under this section.
+"§ 90-85.58.
+Report and data collection by the Secretary; public portal.
+(a) Plan for Implementation. - The Secretary shall develop a plan to collect data from manufacturers pursuant to G.S. 90-85.56 to provide transparency and accountability for prescription drug pricing.
+The Secretary shall consult with other state and national agencies and nonprofit organizations to determine how to implement this data collection directive but shall not disclose any confidential, proprietary, or trade secret information.
+(b) Public Portal. - The Secretary shall create an online portal to provide the public with access to the notifications, reports, and other disclosures required by this Article.
+(c) Annual Report. - Beginning January 1, 2027, and annually thereafter, the Secretary shall report to the Joint Legislative Oversight Committee on Health and Human Services the following information with respect to prescription drugs sold in this State:
+(1) The 25 drugs prescribed most frequently in the State.
+(2) The 25 most costly drugs based on the total amount spent on those drugs by consumers in this State.
+(3) The 25 drugs with the greatest percentage cost increases during the prior calendar year.
+(4) The 10 manufacturers with the greatest average percentage cost increase for the prior calendar year for all drugs sold by that manufacturer in the State." SECTION 8.(b) The Department of Health and Human Services shall adopt rules necessary to implement this Part.
+SECTION 8.(c) Section 8(a) of this Part is effective January 1, 2026.
+The remainder of this Part is effective when it becomes law. pART Ix. pHARMACY rEPORTING REQUIREMENTS SECTION 9.
+Article 4A of Chapter 90 of the General Statutes is amended by adding a new section to read:
+"§ 90-85.42.
+Board of Pharmacy reporting.
+(a) Definitions. - The following definitions apply in this section:
+(1) Large retail pharmacy. - More than 25 pharmacies in common ownership.
+(2) Small retail pharmacy. - Twenty-five or fewer pharmacies in common ownership.
+(b) Reporting Requirements. - No later than October 1 of each year, the Board shall report the following information to the Department of Insurance and the Joint Legislative Oversight Committee on Health and Human Services:
+(1) The current number of licensed pharmacies in the State.
+(2) The number of small retail pharmacies that have opened in the preceding five years.
+(3) The number of large retail pharmacies that have opened in the preceding five years.
+(4) The number of small retail pharmacies that have closed in the preceding five years.
+(5) The number of large retail pharmacies that have closed in the preceding five years." Part X.
+RFP Changes SECTION 10.(a) Article 3B of Chapter 135 of the General Statutes is amended by adding a new section to read:
+"§ 135-49.
+Pharmacy benefits manager contracts.
+The Executive Administrator shall consider incorporating the following items into a request for proposal for a pharmacy benefits manager for the Plan:
+(1) Allowing the Plan's pharmacy benefits managers to provide a monetary advantage to pharmacies in North Carolina neighborhoods, communities, and counties that are underserved by pharmacies.
+(2) Requiring the Plan's pharmacy benefits managers to annually report all of the information required in G.S. 58-56A-22 to the State Treasurer, Commissioner of Insurance, and Joint Legislative Oversight Committee on Health and Human Services no later than May 1 of each year.
+(3) Preventing the Plan's pharmacy benefits managers from contractually requiring independent pharmacies to accept reimbursement for a drug, device, or pharmacy service in an amount that is less than the acquisition cost of the drug, device, or pharmacy service.
+(4) Requiring the Plan and the Plan's pharmacy benefits managers to adhere to the coverage requirements of G.S. 58-56A-55.
+(5) Requiring the Plan's pharmacy benefits managers to act as a fiduciary in accordance with G.S. 58-56A-21.
+(6) Requiring the Plan and the Plan's pharmacy benefits managers to adhere to the pharmacy of choice provisions of G.S. 58-51-37.
+(7) Requiring the Plan's pharmacy benefits managers to meet or exceed the Medicare Part D program standards for convenient access to network pharmacies under 42 C.F.R. § 423.120.
+(8) Requiring the Plan's pharmacy benefits managers to reimburse affiliated and non-affiliated pharmacies on the same terms.
+(9) Adhering to the cost-sharing consumer protection provisions of G.S. 58-3-182." SECTION 10.(b) This Part becomes effective October 1, 2025, and applies to requests for proposals issued on or after that date.
+Part XI.
+EXTEND PHARMACY REIMBURSEMENT RATES IN MEDICAID MANAGED CARE SECTION 11.(a) Section 9D.19A of S.L. 2021-180, as amended by Section 9D.8 of S.L. 2022-74, reads as rewritten:
+"SECTION 9D.19A.(a) Notwithstanding G.S. 108D-65(6)b., for the prepaid health plan capitated contracts required under Article 4 of Chapter 108D of the General Statutes, the reimbursement for the ingredient cost for covered outpatient drugs and the professional drug dispensing fee shall be set at one hundred percent (100%) of the Medicaid pharmacy fee-for-service reimbursement methodologies in Attachment 4.19-B of section 12 of the Medicaid State Plan under Title XIX of the Social Security Act Medicaid Assistance Program, as filed with, and approved by, the Centers for Medicare and Medicaid Services.
+The National Average Drug Acquisition Cost (NADAC), when applicable and as allowed under the Medicaid State Plan, plus a professional dispensing fee based on the cost of the dispensing study conducted on behalf of the North Carolina Department of Health and Human Services, Division of Health Benefits, will serve as the primary method utilized for reimbursement for retail community pharmacy claims not dispensed utilizing covered outpatient drugs acquired through the 340B drug discount program established under 42 U.S.C. § 256b.
+All claims utilizing drugs acquired through the 340B drug discount program shall be reimbursed in accordance with the CMS-approved Medicaid State Plan.
+"SECTION 9D.19A.(b) This section is effective when it becomes law and expires June 30, 2026.2031." SECTION 11.(b) This section is effective when it becomes law.
+PART xII.
+Effective date SECTION 12.
+Except as otherwise provided, this act is effective when it becomes law.
+In the General Assembly read three times and ratified this the 30th day of June, 2025. s/ Phil Berger President Pro Tempore of the Senate s/ Donna McDowell White Presiding Officer of the House of Representatives s/ Josh Stein Governor Approved 9:16 a.m. this 9th day of July, 2025

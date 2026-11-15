@@ -1,0 +1,8 @@
+kind,label,description
+contract-pharmacy,Contract pharmacy access,"Limits what a drug maker may do to hold back 340B drugs from a pharmacy that works under contract with a covered entity, or to put conditions on sending them."
+payer-nondiscrimination,Payer and PBM non-discrimination,"Limits what an insurer, a pharmacy benefit manager or another payer may do to a 340B covered entity or its pharmacy, such as paying less for a 340B drug or leaving the pharmacy out of a network."
+reporting,Reporting,"Requires covered entities, or others, to report 340B figures to the state, or a state office to publish them."
+medicaid,Medicaid,"Sets rules for 340B drugs in the state's Medicaid program, such as how they are billed or paid for."
+use-of-savings,Use of savings,Says how a covered entity is to use what it earns or saves through 340B.
+study,Study,"Orders a study, a task force or a one-time report on 340B."
+other,Other,Names 340B and does something the kinds above do not cover.

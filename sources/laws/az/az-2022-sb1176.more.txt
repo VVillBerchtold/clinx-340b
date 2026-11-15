@@ -1,0 +1,32 @@
+Chapter 0288 - 552R - H Ver of SB1176 House Engrossed Senate Bill tax credit review committee; meetings (now: 340B drug program; prohibitions) State of Arizona Senate Fifty-fifth Legislature Second Regular Session 2022 CHAPTER 288 SENATE BILL 1176 An Act amending title 20, chapter 25, Arizona Revised Statutes, by adding article 3;
+RELATING to pharmacy.
+(TEXT OF BILL BEGINS ON NEXT PAGE) Be it enacted by the Legislature of the State of Arizona:
+Section 1.
+Title 20, chapter 25, Arizona Revised Statutes, is amended by adding article 3, to read:
+ARTICLE 3. 340B PHARMACIES START_STATUTE20-3341.
+Definitions In this article, unless the context otherwise requires: 1.
+"Drug coverage":
+(a) means any form of compensation paid to a pharmacy that dispenses PRESCRIPTION drugs for a patient under a contractual or other legal obligation with a health insurer or pharmacy benefit manager.
+(b) Does not include either of the following:
+(i) Coverage provided pursuant to title 36, chapter 29, article 1.
+(ii) Any amounts paid by an individual on his or her own behalf or on behalf of another individual without a contractual or legal obligation to do so. 2.
+"health care plan" has the same meaning prescribed in section 20-3151. 3.
+"Health insurer" has the same meaning prescribed in section 20-242. 4.
+"Third party" means a health insurer or pharmacy benefit manager that provides or manages drug coverage under a health care plan. 5.
+"340B covered entity" means an entity that participates in the 340B drug discount program AUTHORIZED by 42 united states code section 256b. 6.
+"340B drug" means a drug that is purchased by a 340B covered entity through the 340B drug discount program AUTHORIZED by 42 United States Code section 256b and that is dispensed by a pharmacy.
+END_STATUTE START_STATUTE20-3342.
+Applicability A.
+This article applies to THIRD parties that provide or manage drug coverage under a health care plan in this state.
+B.
+This article does not apply to any of the following: 1.
+The Arizona health care cost containment system administration and its contractors as defined in section 36-2901 to the extent the services are provided pursuant to title 36, chapter 29 or 34 or equivalent medicaid PROGRAMS from other states. 2.
+The department of health services to the extent the services are provided under the AIDS drug assistance program. 3.
+Any individual or entity identified in section 36-2930.05.
+END_STATUTE START_STATUTE20-3343. 340B drug program; 340B covered entities; pharmacies; drug coverage A.
+All contracts that are issued, delivered or renewed on or after January 1, 2024 for a third party that reimburses for 340B drugs shall not do any of the following: 1. discriminate in reimbursement on the basis that the pharmacy dispenses a 340B drug. 2.
+Assess any fee, chargeback, clawback or adjustment on the basis that a pharmacy dispenses a 340B drug. 3.
+Exclude a pharmacy from a third party's pharmacy network on the basis that the pharmacy dispenses a 340B drug. 4.
+Restrict the METHODS or pharmacies within a third party network by which a 340B covered entity may dispense or deliver 340B drugs.
+END_STATUTE APPROVED BY THE GOVERNOR JUNE 13, 2022.
+FILED IN THE OFFICE OF THE SECRETARY OF STATE JUNE 13, 2022.

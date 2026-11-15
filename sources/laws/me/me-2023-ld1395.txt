@@ -1,0 +1,71 @@
+Title 22, §1728:
+Prescription drug transparency report Maine Legislature Maine Revised Statutes Session Law Statutes Maine State Constitution Information §1728 PDF §1728 MS-Word Statute Search Ch. 401 Contents Title 22 Contents List of Titles Maine Law & Disclaimer Revisor's Office Maine Legislature §1727 Title 22:
+HEALTH AND WELFARE Subtitle 2:
+HEALTH Part 4:
+HOSPITALS AND MEDICAL CARE Chapter 401:
+GENERAL PROVISIONS §1729 §1728.
+Prescription drug transparency report 1.
+Hospital defined. [PL 2025, c. 388, Pt.
+P, §1 (RP).] 1-A.
+Definitions.
+As used in this section, unless the context otherwise indicates, the following terms have the following meanings.
+A.
+"Hospital" means:
+(1) An acute care institution licensed and operating in this State as a hospital under section 1811 or the parent of such an institution; or (2) A hospital subsidiary or hospital affiliate in the State that provides medical services or medically related diagnostic and laboratory services or engages in ancillary activities supporting those services. [PL 2025, c. 388, Pt.
+P, §2 (NEW).] B.
+"340B contract pharmacy" has the same meaning as in Title 24-A, section 7752, subsection 5. [PL 2025, c. 388, Pt.
+P, §2 (NEW).] C.
+"340B drug" has the same meaning as in Title 24-A, section 7752, subsection 6. [PL 2025, c. 388, Pt.
+P, §2 (NEW).] D.
+"340B entity" has the same meaning as in Title 24-A, section 7752, subsection 7. [PL 2025, c. 388, Pt.
+P, §2 (NEW).] [PL 2025, c. 388, Pt.
+P, §2 (NEW).] 2.
+Report on participation in federal 340B drug program.
+Beginning January 1, 2024, each hospital participating in the federal drug pricing program under Section 340B of the federal Public Health Service Act, 42 United States Code, Section 256b, referred to in this section as "the 340B program," shall provide an annual report to the Maine Health Data Organization.
+The Maine Health Data Organization shall post the report on its publicly accessible website.
+Each hospital shall report in a standardized format as agreed upon by the Maine Health Data Organization and the hospital, and include, at a minimum, the following information in the report consistent with the annual reporting of hospitals voluntarily participating in the good stewardship program of the American Hospital Association or its successor organization:
+A.
+A description of how the hospital uses savings from participation in the 340B program to benefit its community through programs and services funded in whole or in part by savings from the 340B program, including services that support community access to care that the hospital could not continue without savings from the 340B program; [PL 2023, c. 276, §1 (NEW).] B.
+The annual estimated savings from the 340B program to the hospital, comparing the acquisition price of drugs under the 340B program to group purchasing organization pricing.
+If group purchasing organization pricing is not available for a drug under the 340B program, the acquisition price for that drug must be compared to a price from another acceptable pricing source; [PL 2023, c. 276, §1 (NEW).] C.
+A comparison of the hospital's estimated savings under the 340B program to the hospital's total drug expenditures, including examples of the hospital's top drugs purchased through the 340B program; and [PL 2023, c. 276, §1 (NEW).] D.
+A description of the hospital's internal review and oversight of the 340B program, which must meet the federal Department of Health and Human Services, Health Resources and Services Administration's program rules and guidance for compliance. [PL 2023, c. 276, §1 (NEW).] [PL 2023, c. 276, §1 (NEW).] 2-A.
+Additional reporting by hospitals on participation in federal 340B drug program.
+In addition to any report required pursuant to subsection 2, beginning July 1, 2026, each hospital participating in the 340B program shall provide an annual report to the Maine Health Data Organization.
+The Maine Health Data Organization shall post the report on its publicly accessible website.
+Each hospital shall report in a standardized format, as agreed upon by the Maine Health Data Organization and the hospital, and include, at a minimum, the following information in the report:
+A.
+The hospital's national provider identification number; [PL 2025, c. 388, Pt.
+P, §3 (NEW).] B.
+The name of the hospital; [PL 2025, c. 388, Pt.
+P, §3 (NEW).] C.
+The address of the hospital for the purpose of accepting service of process; [PL 2025, c. 388, Pt.
+P, §3 (NEW).] D.
+The classification of the hospital; [PL 2025, c. 388, Pt.
+P, §3 (NEW).] E.
+The aggregated acquisition cost for the prescription drugs obtained under the 340B program; [PL 2025, c. 388, Pt.
+P, §3 (NEW).] F.
+The aggregated payment amount received for the prescription drugs obtained under the 340B program and dispensed to patients; [PL 2025, c. 388, Pt.
+P, §3 (NEW).] G.
+The number of pricing units dispensed or administered for prescription drugs described in paragraph F; [PL 2025, c. 388, Pt.
+P, §3 (NEW).] H.
+The aggregated payments made:
+(1) To 340B contract pharmacies to dispense 340B drugs;
+(2) To any other entity that is not the 340B entity and is not a 340B contract pharmacy for managing any aspect of the hospital's 340B program; and (3) For all other expenses related to administering the 340B program; and [PL 2025, c. 388, Pt.
+P, §3 (NEW).] I.
+The number of claims for prescription drugs described in paragraph H. [PL 2025, c. 388, Pt.
+P, §3 (NEW).] The information required under this subsection must be reported by payor type, including commercial insurance, medical assistance, the MaineCare program and Medicare as required by the Maine Health Data Organization.
+The information for paragraphs E to G must also be reported at the National Drug Code level for the 50 most frequently dispensed prescription drugs by the hospital under the 340B program.
+The information must include all physician-administered and physician-dispensed prescription drugs.
+Data submitted must also include prescription drugs dispensed by outpatient facilities that are identified as child facilities under the 340B program based on their inclusion on a hospital's Medicare cost report. [PL 2025, c. 388, Pt.
+P, §3 (NEW).] 3.
+Reporting.
+The Maine Health Data Organization shall produce and post on its publicly accessible website a report that includes a summary of the aggregate information received from hospitals required to report under subsection 2 and subsection 2-A.
+The Maine Health Data Organization shall submit the report required by this subsection to the Office of Affordable Health Care, as established in Title 5, section 3122, the Maine Prescription Drug Affordability Board, as established in Title 5, section 12004-G, subsection 14-I, and the joint standing committee of the Legislature having jurisdiction over health data reporting and prescription drug matters. [PL 2025, c. 388, Pt.
+P, §4 (AMD).] SECTION HISTORY PL 2023, c. 276, §1 (NEW).
+PL 2025, c. 388, Pt.
+P, §§1-4 (AMD).
+The Revisor's Office cannot provide legal advice or interpretation of Maine law to the public.
+If you need legal advice, please consult a qualified attorney.
+Office of the Revisor of Statutes · 7 State House Station · State House Room 108 · Augusta, Maine 04333-0007 Data for this page extracted on 10/05/2026 17:28:28.
+Maine Government Legislature • Executive • Judicial • Agency Rules Visit the State House Tour Guide • Accessibility • Security Screening • Directions & Parking Email Office of the Revisor of Statutes

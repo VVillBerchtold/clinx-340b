@@ -1,0 +1,67 @@
+First Regular Session of the 124th General Assembly (2025) PRINTING CODE.
+Amendments:
+Whenever an existing statute (or a section of the Indiana Constitution) is being amended, the text of the existing provision will appear in this style type, additions will appear in this style type, and deletions will appear in this style type.
+Additions:
+Whenever a new statutory provision is being enacted (or a new constitutional provision adopted), the text of the new provision will appear in this style type.
+Also, the word NEW will appear in that style type in the introductory clause of each SECTION that adds a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation:
+Text in a statute in this style type or this style type reconciles conflicts between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE ENROLLED ACT No. 118 AN ACT to amend the Indiana Code concerning health.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1.
+IC 16-18-2-0.2 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]:
+Sec. 0.2.
+"340B covered entity", for purposes of IC 16-40-6, has the meaning set forth in IC 16-40-6-1.
+SECTION 2.
+IC 16-18-2-0.3 IS ADDED TO THE INDIANA CODE AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]:
+Sec. 0.3.
+"340B program", for purposes of IC 16-40-6, has the meaning set forth in IC 16-40-6-2.
+SECTION 3.
+IC 16-18-2-52.5 IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]:
+Sec. 52.5.
+(a) "Charity care", for purposes of IC 16-21-6, and IC 16-21-9, and IC 16-40-6, means the unreimbursed cost to a hospital of providing, funding, or otherwise financially supporting health care services:
+(1) to a person classified by the hospital as financially indigent or medically indigent on an inpatient or outpatient basis; and (2) to financially indigent patients through other nonprofit or public outpatient clinics, hospitals, or health care organizations.
+(b) As used in this section, "financially indigent" means an uninsured or underinsured person who is accepted for care with no obligation or a discounted obligation to pay for the services rendered based on the hospital's financial criteria and procedure used to determine if a patient is eligible for charity care.
+The criteria and SEA 118 - CC 1 2 procedure must include income levels and means testing indexed to the federal poverty guidelines.
+A hospital may determine that a person is financially or medically indigent under the hospital's eligibility system after health care services are provided.
+(c) As used in this section, "medically indigent" means a person whose medical or hospital bills after payment by third party payors exceed a specified percentage of the patient's annual gross income as determined in accordance with the hospital's eligibility system, and who is financially unable to pay the remaining bill.
+SECTION 4.
+IC 16-40-6 IS ADDED TO THE INDIANA CODE AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]:
+Chapter 6. 340B Drug Pricing Program Reporting Sec. 1.
+(a) As used in this chapter, "340B covered entity" means an entity described in 42 U.S.C. 256b(a)(4)(L) through 42 U.S.C. 256b(a)(4)(O) that:
+(1) is authorized to participate in the federal 340B Drug Pricing Program under Section 340B of the federal Public Health Service Act (42 U.S.C. 256b(a)(4)); and (2) has a service address in Indiana as of January 1 of the reporting year.
+(b) The term includes any offsite outpatient facility affiliated under the 340B program with an entity described in subsection (a).
+Sec. 2.
+As used in this chapter, "340B program" refers to the federal 340B Drug Pricing Program established under 42 U.S.C. 256b.
+Sec. 3.
+(a) Before April 1 of each year, a 340B covered entity shall report the following information and transactions to the state department concerning the 340B covered entity's participation in or participation on behalf of the 340B covered entity in the federal 340B program for the previous calendar year:
+(1) The:
+(A) name;
+(B) service address;
+(C) 340B program identification number; and (D) designation of entity type, as specified in 42 U.S.C. 256b(a)(4); of the 340B covered entity.
+(2) The aggregate acquisition cost for all prescription drugs obtained under the 340B program and dispensed or administered to patients.
+(3) The aggregate payment amount received for all drugs SEA 118 - CC 1 3 obtained under the 340B program and dispensed or administered to patients.
+(4) The aggregate payment made to pharmacies under contract to dispense drugs obtained under the 340B program.
+(5) The number of claims for prescription drugs described in subdivision (3).
+(6) How the 340B covered entity uses any savings from participating in the 340B program, including the amount of savings used for the provision of charity care, community benefits, or a similar program of providing unreimbursed or subsidized health care.
+(7) The aggregate payments made to any other entity that is not a 340B covered entity and is not a contract pharmacy as described in subdivision (4) for managing any aspect of the 340B covered entity's 340B program.
+(8) The aggregate payment made for any other administering expense for the 340B program.
+(9) The aggregate number of prescription drugs dispensed or administered to patients for which a payment was reported under subdivision (3).
+(10) The percentage of the 340B covered entity's claims that were for prescription drugs obtained under the 340B program.
+(11) The number and percentage of low income patients of the 340B covered entity that were served by a sliding fee scale for a prescription drug dispensed or administered under the 340B program.
+(12) The 340B covered entity's total operating costs.
+(13) The 340B covered entity's total costs for charity care.
+(14) A copy of the 340B covered entity's financial assistance policy for the reporting year.
+(b) The information required to be reported under subsection (a)(3) through (a)(5) must, to the extent feasible, be reported by payer type, including the following:
+(1) Commercial.
+(2) Medicaid.
+(3) Medicare.
+(4) Uninsured.
+(c) The data submitted in the reports required under subsection (a) is confidential and is not available for public inspection.
+(d) Before November 15 of each year, the state department shall prepare a report that aggregates the data submitted under SEA 118 - CC 1 4 subsection (a) and:
+(1) submit the report to the legislative council in an electronic format under IC 5-14-6; and (2) post the report on the state department's website.
+Sec. 4.
+A 340B covered entity that fails to provide the information required under section 3 of this chapter by the date required shall pay to the state department a fine of one thousand dollars ($1,000) per day for which the information is past due.
+SEA 118 - CC 1 President of the Senate President Pro Tempore Speaker of the House of Representatives Governor of the State of Indiana Date:
+Time:
+SEA 118 - CC 1

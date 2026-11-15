@@ -1,0 +1,30 @@
+SECOND REGULAR SESSION [TRULY AGREED TO AND FINALLY PASSED] SENATE SUBSTITUTE FOR SENATE BILL NO. 751 102ND GENERAL ASSEMBLY 2024 4271S.05T AN ACT To amend chapter 376, RSMo, by adding thereto one new section relating to the distribution of 340B drugs.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+Section A.
+Chapter 376, RSMo, is amended by adding thereto one new section, to be known as section 376.414, to read as follows: 376.414. 1.
+For purposes of this section, the following terms mean:
+(1) "340B drug", a drug that:
+(a) Is a covered outpatient drug within the meaning of Section 340B of the Public Health Service Act, 42 U.S.C.
+Section 256b, enacted by Section 602 of the Veterans Health Care Act of 1992, P.L. 102-585;
+(b) Has been subject to any offer for reduced prices by a manufacturer under 42 U.S.C.
+Section 256b(a)(1); and (c) Is purchased by a covered entity;
+(2) "Covered entity", the same meaning given to the term in Section 340B(a)(4) of the Public Health Service Act, 42 U.S.C.
+Section 256b(a)(4);
+(3) "Package", the same meaning given to the term in 21 U.S.C.
+Section 360eee(11)(A);
+SS SB 751 2 (4) "Pharmaceutical manufacturer", an entity that is engaged in the production, preparation, propagation, compounding, conversion, or processing of covered outpatient drugs, whether directly or indirectly, by extraction from substances of natural origin, independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis, or any entity engaged in the packaging, repackaging, labeling, relabeling, or distribution of covered outpatient drugs;
+(5) "Pharmacy", the same meaning given to the term in section 338.210;
+(6) "Third-party logistics provider", the same meaning given to the term in section 338.330. 2.
+A pharmaceutical manufacturer, third-party logistics provider, or an agent or affiliate of such pharmaceutical manufacturer or third-party logistics provider, shall not deny, restrict, or prohibit, either directly or indirectly, the acquisition of a 340B drug by, or delivery of a 340B drug to, a pharmacy that is under contract with, or otherwise authorized by, a covered entity to receive 340B drugs on behalf of the covered entity unless such receipt is prohibited by the United States Department of Health and Human Services.
+A wholesale drug distributor, as defined in section 338.330, shall not be considered an agent or affiliate for purposes of this subsection. 3.
+The commission of any act prohibited by subsection 2 of this section shall constitute an unlawful practice within the meaning of section 407.020, and any action authorized in sections 407.010 to 407.130 may be taken.
+Each package of 340B drugs determined to be subject to a prohibited act under subsection 2 of this section shall SS SB 751 3 constitute a separate violation under subsection 2 of this section. 4.
+The state board of pharmacy is authorized to investigate any complaint of a violation of subsection 2 of this section by an individual or entity licensed by the board of pharmacy, and to impose discipline, suspension, or revocation of the license of any such individual or entity. 5.
+The state board of pharmacy may promulgate rules to implement the provisions of subsection 2 of this section.
+Any rule or portion of a rule, as that term is defined in section 536.010, that is created under the authority delegated in this section shall become effective only if it complies with and is subject to all of the provisions of chapter 536 and, if applicable, section 536.028.
+This section and chapter 536 are nonseverable and if any of the powers vested with the general assembly pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of rulemaking authority and any rule proposed or adopted after August 28, 2024, shall be invalid and void. 6.
+Nothing in this section shall be construed or applied to be less restrictive than any federal law as to any person or entity regulated by this section.
+Nothing in this section shall be construed or applied to be in conflict with any of the following:
+(1) Applicable federal law and related regulation; or (2) Other laws of this state, if the state law is compatible with applicable federal law. 7.
+Limited distribution of a drug required under 21 U.S.C.
+Section 355-1 shall not be construed as a violation of subsection 2 of this section. 

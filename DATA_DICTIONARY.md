@@ -1,6 +1,6 @@
 # Data dictionary
 
-Every file in `data/` is UTF-8 with a header row and `\n` line ends. `340b-state-filings.json` holds the same tables in one document, with `dataset_version` and `license`. Columns ending `_as_filed` are copied from the filing without correction.
+Every file in `data/` is UTF-8 with a header row and `\n` line ends. `340b-state-filings.json` holds the filings tables in one document, with `dataset_version` and `license`; `340b-state-laws.json` does the same for the state laws. Columns ending `_as_filed` are copied from the filing without correction.
 
 Four states are in the dataset, and each record names the form it was made on (`filings.csv`, column `form`). Rhode Island's form prints schedule letters and line numbers. Vermont's page, Minnesota's tables and Idaho's report print none, so for those states `schedule` and `line` in `line_items.csv` hold short keys assigned by this dataset (listed under `line_items.csv` below). A column that does not apply to a form is blank for that form's records; a blank is never a zero.
 
@@ -197,6 +197,49 @@ One row per run of pages a filer added to the form. These pages are archived in 
 | `document_sha256` | SHA-256 of the archived PDF |
 | `document_bytes` | Size of the PDF. Its page count is `last_page` (`first_page` is 1) |
 
+## state-laws.csv
+
+One row per enacted state law that names the 340B program. Kept by hand in `laws/laws.csv`; METHODS.md section 10 says how. Rows are in order of state, session year and `law_id`.
+
+| Column | Meaning |
+|---|---|
+| `law_id` | The row's name: state, session year, then the bill number or, where the official page prints no bill number, the chapter or code section. Example: `co-2025-sb25-071`, `mt-2019-ch215` |
+| `state` | Two-letter state code |
+| `kinds` | One or more of the seven kinds in `laws/kinds.csv`, joined by `\|`, in that file's order. In the JSON file this is a list |
+| `title` | The act's short title, where the act gives itself one. Otherwise blank |
+| `citation` | Where the law sits in the state's code, or in the act where the page prints no code number |
+| `bill` | The bill as the official page prints it. Blank where the page does not print it |
+| `session_year` | The year of the session that passed the act |
+| `act` | The act, chapter or public law number as printed. Blank where the page does not print it |
+| `signed_date` | The day the act was signed or approved, `YYYY-MM-DD`. Blank unless a saved page prints it |
+| `effective_date` | The day the act, or its 340B part, took effect. Blank unless a saved page prints it as that |
+| `binds` | Who the law puts a duty on |
+| `summary` | What the law does, in plain words |
+| `limits` | What it leaves out, and when it starts or ends |
+| `enforcement` | Penalties, and who enforces. Blank where the text gives none |
+| `quote` | One passage from the law that names the program, word for word as in the saved text |
+| `source_url` | The official page the law was read on |
+| `source_form` | How that page was read: `web page`, `pdf` or `scanned pdf` |
+| `source_text`, `source_sha256` | The saved text of that page in this repository, and its SHA-256 fingerprint |
+| `more_url`, `more_text`, `more_sha256` | A second official page (a bill's history, or a code section), its saved text and fingerprint. All three blank where there is none |
+| `source_note` | A note about the saved pages themselves, for anyone checking a row: for example that a page prints no effective date, or prints an act's chapter and not its bill number. Blank where there is nothing to note |
+| `retrieved` | The day the pages were saved |
+
+## state-laws-not-listed.csv
+
+Laws that came up and are not in the table. Kept by hand in `laws/not-listed.csv`.
+
+| Column | Meaning |
+|---|---|
+| `state` | Two-letter state code |
+| `name` | The law, as it is usually cited |
+| `reason` | The reason it is not listed, in a sentence |
+| `source_url` | Its official page, where one was read. Otherwise blank |
+
+## 340b-state-laws.json
+
+`dataset_version`, `license`, then `kinds` (the seven kinds, each with a label and a description), `laws` (the rows of `state-laws.csv`, with `kinds` as a list) and `not_listed`, then `sites`: each official site a law links to, with its `host`, its `state` and `owner`, the office that publishes it.
+
 ## Working files
 
 These are not part of the published data, but they are in the repository.
@@ -204,6 +247,8 @@ These are not part of the published data, but they are in the repository.
 - `transcriptions/<state>/<year>/<filing_id>.csv`: the columns are those of the transcription, in the order the file has them. A file that leaves out any claim count has a last column, `claims_withheld`, with the same values as in `line_items.csv`. On such a row `claims_as_filed` is empty. A file with no left-out count has no such column.
 - `verification/<state>/<year>/<filing_id>.image-read.csv`: `page`, `schedule`, `line`, `amount`, `claims`, `answer`, and the same last column `claims_withheld` when a row is left out. On such a row `claims` is empty.
 - `verification/<state>/<year>/claim-sums.csv`: `filing_id`, `schedule`, and `claim_sum`, the sum of the claim counts of the schedule's rows, not counting the printed total. It has a row for each filing and schedule that has a left-out count.
+- `laws/laws.csv`, `laws/not-listed.csv`: the two published laws tables, as kept by hand. `laws/kinds.csv`: `kind`, `label`, `description`. `laws/hosts.csv`: `host`, `state`, `owner`, one row for each official site a law links to.
+- `sources/laws/<state>/<law_id>.txt` and `<law_id>.more.txt`: the saved text of a law's official page and of its second page.
 - `private/small-counts.csv` (never committed): `filing_id`, `schedule`, `line`, `claims_as_filed` (the count as transcribed) and `image_read_claims` (the count the second reader wrote).
 
 ## external-share-light.svg, external-share-dark.svg

@@ -9,6 +9,7 @@ from __future__ import annotations
 import csv
 import io
 import json
+from collections.abc import Mapping
 from decimal import Decimal
 from pathlib import Path
 
@@ -16,6 +17,14 @@ from filings340b import __version__
 from filings340b.chart import Bar, charts
 from filings340b.errors import DataError
 from filings340b.forms import RI_FORM, form_of
+from filings340b.laws import COLUMNS as LAW_COLUMNS
+from filings340b.laws import (
+    NOT_LISTED_COLUMNS,
+    laws_document,
+    load_laws,
+    load_not_listed,
+    load_sites,
+)
 from filings340b.load import load_filings
 from filings340b.model import PUBLISHABLE, Filing
 from filings340b.money import plain
@@ -273,6 +282,11 @@ def _csv_bytes(table: Table, columns: list[str]) -> bytes:
     return buffer.getvalue().encode("utf-8")
 
 
+def _json_bytes(document: Mapping[str, object]) -> bytes:
+    text = json.dumps(document, indent=2, ensure_ascii=False, sort_keys=True)
+    return (text + "\n").encode("utf-8")
+
+
 COLUMNS: dict[str, list[str]] = {
     "entities": [
         "entity_id",
@@ -386,9 +400,16 @@ def build_outputs(root: Path) -> dict[str, bytes]:
     outputs = {f"{name}.csv": _csv_bytes(tables[name], COLUMNS[name]) for name in COLUMNS}
     document = {"dataset_version": __version__, "license": "CC-BY-4.0", **tables}
     outputs.update(charts(_bars(filings)))
-    outputs["340b-state-filings.json"] = (
-        json.dumps(document, indent=2, ensure_ascii=False, sort_keys=True) + "\n"
-    ).encode("utf-8")
+    outputs["340b-state-filings.json"] = _json_bytes(document)
+    # The table of state laws is separate from the filings: its own three files.
+    laws, kinds = load_laws(root)
+    if laws:
+        not_listed = load_not_listed(root)
+        outputs["state-laws.csv"] = _csv_bytes(laws, LAW_COLUMNS)
+        outputs["state-laws-not-listed.csv"] = _csv_bytes(not_listed, NOT_LISTED_COLUMNS)
+        outputs["340b-state-laws.json"] = _json_bytes(
+            laws_document(laws, kinds, not_listed, load_sites(root), __version__)
+        )
     return outputs
 
 

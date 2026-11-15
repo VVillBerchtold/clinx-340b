@@ -1,0 +1,140 @@
+Illinois General Assembly - Public Act 104-0769 Select Language × The Illinois General Assembly offers the Google TranslateTM service for visitor convenience.
+In no way should it be considered accurate as to the translation of any content herein.
+Visitors of the Illinois General Assembly website are encouraged to use other translation services available on the internet.
+The English language version is always the official and authoritative version of this website.
+NOTE:
+To return to the original English language version, select the "Show Original" button on the Google TranslateTM menu bar at the top of the window.
+Choose Language English Afrikaans Albanian Arabic Armenian Azerbaijani Basque Bengali Bosnian Catalan Croatian Czech Danish Dutch Esperanto Estonian Filipino Finnish French Galician Georgian German Greek Gujarati Haitian Creole Hausa Hawaiian Hebrew Hindi Hungarian Icelandic Indonesian Interlingua Interlingue Inuktitut Irish Italian Japanese Javanese Kannada Khmer Korean Latin Latvian Lithuanian Luxembourgish Macedonian Malagasy Malayalam Maltese Maori Marathi Myanmar Nepali Norwegian Odia Pashto Punjabi Romanian Russian Samoan Sango Sanskrit Sardinian Sindhi Sinhala Slovak Slovenian Somali Southern Sotho Spanish Sundanese Swahili Swedish Tamil Telugu Thai Tigrinya Tonga Turkish Ukrainian Urdu Vietnamese Welsh Xhosa Yiddish Yoruba Zulu Powered by Translate Close Illinois General Assembly Top Navigation Bar Translate Learn Select General Assembly Search the 104th General Assembly Enter search terms for legislation, members, committees, or schedules.
+ILGA.GOV LEGISLATION & LAWS Bills & Resolutions Public Acts Illinois Compiled Statutes Illinois Constitution Search Legislation Glossary Guide Reports & Inquiry Legislative Reports Special Reports FTP Site Legislator Lookup Capitol Complex Phone Numbers Rules & Regulations Illinois Register Administrative Rules Senate Members Schedules Committees Request for Remote Testimony Journals Transcripts Rules Audio/Video FOIA Information Senate Employment Opportunities Media Guidelines House Members Schedules Committees Submit testimony for House Committees Journals Transcripts Rules Audio/Video FOIA Information House Employment Opportunities Log In Mobile Top Bar Search the 104th General Assembly Enter keywords to search the Illinois General Assembly website.
+Public Act 104-0769 Home Legislation Public Acts Bill Status Full Text Printer Friendly Version PDF Public Act 104-0769 Open PDF Public Act 0769 104TH GENERAL ASSEMBLY Public Act 104-0769 HB4327 Enrolled LRB104 17027 BAB 30442 b AN ACT concerning auditing.
+Be it enacted by the People of the State of Illinois, represented in the General Assembly:
+Section 1.
+Short title.
+This Act may be cited as the 340B Transparency, Reporting, and Accountability Act.
+Section 5.
+Findings.
+The General Assembly finds that:
+(1) The intent of the 340B Drug Discount Program is to provide resources to reach more eligible patients and provide more comprehensive services.
+In doing so, 340B covered entities provide discounted medicines to eligible health care organizations for the purpose of improving access to affordable medications and health care services for low-income, underinsured, uninsured, or otherwise vulnerable patients being treated at eligible hospitals, clinics, federally qualified health centers (FQHC), and safety-net hospitals in or adjacent to vulnerable communities.
+(2) Congress intended the 340B Drug Discount Program to provide discounts to 340B covered entities that provide direct health care to uninsured and underinsured vulnerable patients.
+(3) The appropriate and effective use of the 340B Drug Discount Program is essential for improving health outcomes, particularly for vulnerable and underserved communities in rural, suburban, and urban areas throughout Illinois meeting the definitions of vulnerable communities.
+(4) There is a need for statewide data to evaluate the ways in which 340B Drug Discount Program utilization, financial impact, and patient benefits enable vulnerable Illinoisans to access care and fit into the overall health care safety net framework.
+Additional transparency in aggregate financial and operational reporting enhances legislative oversight without interfering with federal law.
+Increased transparency is needed to ensure that vulnerable communities receive the benefits intended from the Patient Access to Pharmacy Protection Act.
+(5) To protect vulnerable communities, the General Assembly must pass the Health Equity Infrastructure Access and Stabilization Act.
+This includes creation of and funding of the following components:
+(A) the Vulnerable Community Health Capital Fund Voluntary investment program;
+(B) the Community Health Networks of Continuum Care;
+(C) the Illinois Safety Net Hospital Package;
+(D) the Behavioral and Mental Health (BMH) Access and Expansion Fund;
+(E) the Stabilization and Sustainability Operational Funding Program;
+(F) the 340B Grantee Contract Pharmacy Access Act integration;
+(G) sustainable funding opportunities through transparency of the 340B Federal Program; and (H) the Unified Health Equity Omnibus Package.
+(6) Savings associated with the federal 340B Drug Discount Program may support the financial stability of hospitals, FQHCs, Ryan White providers, rural providers, and other historical safety-net institutions serving vulnerable communities experiencing health care access shortages, provider scarcity, or risk of service reduction or closure.
+(7) Vulnerable communities in the State of Illinois are populations or geographic areas whose residents experience disproportionate barriers to achieving optimal health outcomes due to cumulative social, economic, environmental, and structural disadvantages.
+These communities are characterized by elevated health disparities, limited access to health care services, and increased exposure to risk factors, such as poverty, inadequate insurance coverage, geographic isolation, systemic discrimination, and unmet social determinants of health, including housing, transportation, food security, and environmental conditions, and who, as a result of these conditions, experience reduced access to timely, culturally competent, and geographically proximate community-based hospital and health care services.
+(8) This Act is intended solely to establish a State-level reporting and transparency framework to allow the 340B program to be evaluated, and shall not regulate pricing, reimbursement, or participation in the federal 340B Program.
+Section 10.
+Definitions.
+As used in this Act:
+"340B covered entity" or "covered entity" means an entity in Illinois that qualifies as a covered entity under Section 340B of the federal Public Health Service Act, 42 U.S.C. 256b(a)(4).
+"340B Drug Discount Program" means the program established under Section 340B of the federal Public Health Service Act, 42 U.S.C. 256b.
+"340B entity type" means the designation of the 340B covered entity according to the entity types specified in 42 U.S.C. 256b(a)(4).
+"340B identification number" means the unique identification number provided by the Health Resources and Services Administration to identify a 340B-eligible entity in the 340B Office of Pharmacy Affairs Information System.
+"340B contract pharmacy" means any pharmacy that is under contract with a 340B covered entity to dispense 340B drugs on behalf of the 340B covered entity and is either (i) located in Illinois and qualifies as a pharmacy under Section 3 of the Pharmacy Practice Act; or (ii) is located in a state, commonwealth, or territory of the United States, other than Illinois, and dispenses 340B drugs on behalf of the 340B covered entity.
+"340B grantee" means an entity in Illinois that qualifies as a covered entity under subparagraphs (A)-(K) of paragraph (4) of subsection (a) of Section 340B of the federal Public Health Service Act, 42 U.S.C. 256b(a)(4)(A)-(K).
+"Critical Access Hospital" has the meaning given to that term in paragraph (4) of subsection (b) of Section 5-5e of the Illinois Public Aid Code.
+"Hospital" means a hospital licensed under the Hospital Licensing Act or University of Illinois Hospital Act.
+"Pharmaceutical manufacturer" has the meaning given to the term "manufacturer" in the Wholesale Drug Distribution Licensing Act.
+"Reporting year" means the 12-month period to be covered by the report described in Section 15, as determined by the Department of Insurance.
+"Safety-Net Hospital" has the meaning given to that term Section 5-5e.1 of the Illinois Public Aid Code.
+"Vulnerable communities" include, but are not limited to:
+(1) low-income and economically disadvantaged populations, including households below 80% of area median income;
+(2) racial and ethnic minority populations and historically marginalized groups experiencing systemic inequities;
+(3) rural and medically underserved areas with limited provider access or hospital closures;
+(4) communities facing environmental justice burdens, including high pollution exposure;
+(5) populations with higher prevalence of chronic disease and poor health outcomes linked to social determinants of health; or (6) individuals with disabilities, older adults, LGBTQ+ populations, and justice-involved individuals identified as equity-focused populations under Illinois law.
+Section 15. 340B Drug Discount Program study.
+(a) As soon as practical after the effective date of this Act, the Department of Insurance shall conduct a comprehensive study of how 340B covered entities and pharmaceutical manufacturers within Illinois participate in the 340B Drug Discount Program.
+The study shall include an examination of the impact of this participation by 340B covered entities on State health programs, such as Medicaid and the State Employees Group Insurance Program.
+The study shall include, but not be limited to, an assessment of:
+(1) with respect to each covered entity, the:
+(A) name;
+(B) service address;
+(C) 340B identification number; and (D) 340B designation, as specified in 42 U.S.C 256b(a)(4);
+(2) the aggregate amount, by 340B entity type, spent on third-party administrators for the management of the 340B Drug Discount Program;
+(3) the average difference between the cost imposed by each covered entity on 340B-priced drugs and the reimbursement rate for 340B drugs, organized by therapeutic class;
+(4) the aggregate and transaction-level acquisition cost paid by a 340B covered entity for all prescription drugs organized by therapeutic class obtained under the 340B Drug Discount Program and dispensed or administered to patients;
+(5) the aggregate and transaction-level payment amount received by a 340B covered entity for all drugs organized by therapeutic class obtained under the 340B Drug Discount Program and dispensed or administered to patients;
+(6) with respect to 340B covered entities, a list of contract pharmacies contracted with the 340B covered entity to dispense 340B covered drugs;
+(7) the aggregate and transaction-level payment made to contract pharmacies to dispense drugs obtained under the 340B Drug Discount Program;
+(8) how the 340B covered entity uses any savings from participating in the 340B Drug Discount Program, including the total amount of 340B savings used for the provision of charity care, community benefits (including identification of the benefit program), any similar program of providing unreimbursed or subsidized health care, and any remaining savings for other purposes;
+(9) to the extent the information is available, the percentage of total patients of the 340B covered entity that were:
+(A) served by a sliding fee scale for a prescription drug dispensed or administered under the 340B Drug Discount Program;
+(B) Medicaid customers and uninsured or underinsured patients;
+(C) racial and ethnic minority populations;
+(D) patients residing in rural or Medically Underserved Areas, including Governor's Exceptions, designated by the Health Resources and Services Administration, an agency of the United States Department of Health and Human Services;
+(E) populations with a higher prevalence of chronic disease and poor health outcomes linked to societal determinants of health; and (F) individuals with disabilities, older adults, LGBTQ+ populations, and justice-involved individuals;
+(10) with respect to covered entities, the 340B covered entity's total operating costs;
+(11) with respect to covered entities, a copy of the 340B covered entity's financial assistance policy for the reporting year;
+(12) identification of the parties involved in the 340B procurement and dispensing process for each covered facility;
+(13) the aggregate and transaction-level payment made to a pharmacy services administrative organization that provides pharmacy services for a 340B contract pharmacy;
+(14) the aggregate and transaction-level payment made to a pharmacy benefit manager that provides pharmacy benefit management services for a 340B covered entity, if the information has not already been submitted in a pharmaceutical manufacturer 340B audit;
+(15) the total cost and number of hours spent preparing the data in response to the study;
+(16) with respect to pharmaceutical manufacturers, copies of any 340B audits conducted during the previous calendar year;
+(17) the specific pharmaceutical manufacturers that are participating in the 340B Drug Discount Program in Illinois;
+(18) with respect to pharmaceutical manufacturers, any restrictions placed by that manufacturer on participation in the 340B Drug Discount Program, any accompanying data supporting those restrictions, and the reasoning;
+(19) a description of the impact of the 340B Drug Discount Program on the patients and the community served by each 340B covered entity;
+(20) with respect to pharmaceutical manufacturers, and for the purpose of analyzing the impact of the 340B Drug Discount Program, the aggregate amount of all 340B discounts provided for each calendar year beginning in 2020; and (21) with respect to pharmaceutical manufacturers, the aggregate amount of all 340B discounts provided for each calendar year beginning in 2020, stated as a percentage of the manufacturer's total annual revenues.
+(b) The Department of Insurance may adopt rules as necessary to implement this Section.
+(c) The Department of Insurance shall request the information described in subsection (a) in a format designated by the Department.
+All 340B covered entities, and pharmaceutical manufacturers doing business in the State of Illinois, shall comply with requests for information relevant to subsection (a) from the Department of Insurance in the format prescribed and within the timeframe specified.
+Failure by a covered entity or pharmaceutical manufacturer to submit all requested information described in subsection (a) within 30 calendar days from the time frame specified by the Department shall result in a fine levied by the Director of:
+(1) $500 per day the information is past due; or (2) $100 per day the information is past due for hospitals with fewer than 100 licensed beds, Critical Access Hospitals, Safety-Net Hospitals, and 340B grantees.
+Fines collected pursuant to this subsection shall be deposited into the Vulnerable Community Hospital Capital Investment Fund, which is hereby created as a special fund in the State treasury.
+All moneys in the Vulnerable Community Hospital Capital Investment Fund shall be used to support the health equity framework for supporting access to health care, creating sustainability, and supporting the implementation of the 340B Drug Discount Program.
+The Department of Insurance shall enforce this Section pursuant to the powers granted to it by law, including, but not limited to, the powers provided under Article XXIV of the Illinois Insurance Code.
+Subsections (2) through (5) of Section 403A of the Illinois Insurance Code shall apply to the imposition of any fine.
+(d) Subject to subsection (e), the Department of Insurance shall maintain the confidentiality of any information submitted under subsection (c) for which the submitting person or entity includes a request that meets the criteria in paragraph (g) of subsection (1) of Section 7 of the Freedom of Information Act, and the information shall not be subject to subpoena in any private civil litigation in this State.
+Nothing in this Section shall prevent the Department of Insurance from furnishing information collected from 340B covered entities or pharmaceutical manufacturers to State or federal authorities that may investigate, prosecute, or pursue other legal action against a 340B covered entity or pharmaceutical manufacturer for violations of 42 U.S.C. 256b or any applicable State law.
+(e) The Department of Insurance shall submit a report of the findings of its study to the General Assembly and to the Governor by July 1, 2028.
+The report shall provide findings aggregated across 340B covered entities and pharmaceutical manufacturers and shall not disclose information or data attributed to any specific 340B covered entity or pharmaceutical manufacturer.
+The report shall note any requests for information from the Department of Insurance where the requested information was never submitted.
+The report shall address whether the data collected by the Department indicates a need for annual or biennial reporting by 340B covered entities.
+The report may include any aggregated findings related to the populations identified in paragraph (9) of subsection (a).
+The report shall address whether the data collected by the Department indicates a need for biennial reporting by 340B covered entities.
+Section 20.
+Severability.
+If any provision of this Act or the Patient Access to Pharmacy Act is held invalid by a court, the validity of the remainder of this Act and the Patient Access to Pharmacy Act shall not be affected by that determination of invalidity.
+If the applicability of any provision of this Act or the Patient Access to Pharmacy Act to any person or circumstance is held invalid by a court, the applicability of that provision to other persons or circumstances shall not be affected by that determination of invalidity.
+Section 95.
+Repeal.
+This Act is repealed on July 1, 2032.
+Section 900.
+If and only if House Bill 2371 of the 104th General Assembly becomes law, then the Patient Access to Pharmacy Protection Act is amended by changing Section 40 and Section 99 as follows:
+(10400HB2371sam002, Sec. 40) Sec. 40.
+Enforcement.
+(a) The Attorney General is authorized to enforce this Act under its general authority under the Attorney General Act.
+If the Attorney General has reasonable cause to believe that there is or has been a violation of Section 15 of this Act, then the Attorney General may commence a civil action in the name of the People of the State of Illinois to enforce the provisions of this Act in the appropriate circuit court.
+(b) Upon finding a violation of Section 15 of this Act, a court may order:
+(1) temporary, preliminary, or permanent injunctive relief for any act, policy, or practice that violates this Act;
+(2) money damages to be paid to the 340B covered entity as a result of the violation of this Act;
+(3) the assessment of a civil penalty of up to $1,000 per violation for each violation of Section 15; or (4) any other relief.
+(c) A civil penalty imposed or a settlement or other payment made pursuant to this Act shall be made payable to the Attorney General's State Projects and Court Ordered Distribution Fund.
+(Source: 10400HB2371sam002.) (10400HB2371sam002, Sec. 99) Sec. 99.
+Effective date.
+This Act takes effect upon becoming law or on the effective date of House Bill 4327 of the 104th General Assembly, whichever is later; however, this Act does not take effect at all unless House Bill 4327 of the 104th General Assembly becomes law.
+(Source: 10400HB2371sam002.) Section 905.
+The State Finance Act is amended by adding Section 5.1038 as follows:
+(30 ILCS 105/5.1038 new) Sec. 5.1038.
+The Vulnerable Community Hospital Capital Investment Fund.
+Section 999.
+Effective date.
+This Act takes effect upon becoming law or on the effective date of House Bill 2371 of the 104th General Assembly, as amended by Senate Amendment No. 2, whichever is later; however, this Act does not take effect at all unless House Bill 2371 of the 104th General Assembly, as amended by Senate Amendment No. 2, becomes law.
+Effective Date: 8/7/2026 Footer Disclaimer This site is maintained for the Illinois General Assembly by the Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706.
+Contact ILGA Webmaster ILGA.gov uses cookies to ensure you get the best experience on our website.
+By continuing to browse ILGA.gov you consent to our use of cookies.
+Read About Cookies ILGA.GOV 2026 ILGA.gov | All Rights Reserved | ADA | Disclaimers | Learn This site is maintained for the Illinois General Assembly by the Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706.
+Contact ILGA Webmaster ILGA.gov uses cookies to ensure you get the best experience on our website.
+By continuing to browse ILGA.gov you consent to our use of cookies.
+Read About Cookies ILGA.GOV 2026 ILGA.gov | All Rights Reserved | ADA | Disclaimers | Learn

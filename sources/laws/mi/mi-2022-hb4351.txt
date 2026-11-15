@@ -1,0 +1,77 @@
+Act No. 12 Public Acts of 2022 Approved by the Governor February 23, 2022 Filed with the Secretary of State February 23, 2022 EFFECTIVE DATE:
+February 23, 2022 state of michigan 101st Legislature Regular session of 2022 Introduced by Reps.
+Whitsett, Brann, Lightner, Rendon, Whiteford, Borton, Allor, Glenn, Farrington, Bellino, Yaroch, Wozniak, O'Malley, Calley and Aiyash ENROLLED HOUSE BILL No. 4351 AN ACT to amend 1984 PA 218, entitled "An act to provide for the regulation of third party administrators; to provide for the licensure of administrative service managers; to provide for certain powers and duties for certain state agencies and officers; to provide for the confidentiality of certain personal data; and to prescribe penalties for a violation of this act," by amending sections 2, 36, and 52 (MCL 550.902, 550.936, and 550.952) and by adding sections 26 and 27.
+The People of the State of Michigan enact:
+Sec. 2.
+As used in this act:
+(a) "Administrative services manager" or "manager" means an individual responsible for conducting the daily operations of a third party administrator.
+(b) "Benefit plan" or "plan" means a medical, surgical, dental, vision, or health care benefit plan and may include coverage under a policy or certificate issued by a carrier.
+(c) "Board" means the TPA advisory board created under section 19.
+(d) "Carrier" means an insurer, including a health maintenance organization, regulated under the insurance code of 1956, 1956 PA 218, MCL 500.100 to 500.8302, or a dental care corporation regulated under 1963 PA 125, MCL 550.351 to 550.373.
+(e) "Claim" means a request for payment for administering, filling, or refilling a drug or for providing a pharmacy service or a medical supply or device to an enrollee as that term is defined in section 116 of the insurance code of 1956, 1956 PA 218, MCL 500.116.
+(f) "Commissioner" means the director.
+(g) "Department" means the department of insurance and financial services.
+(h) "Director" means the director of the department.
+(i) "ERISA" means the employee retirement income security act of 1974, Public Law 93-406.
+(j) "Health plan" means a qualified health plan as that term is defined in section 1261 of the insurance code of 1956, 1956 PA 218, MCL 500.1261.
+(k) "Manufacturer" means that term as defined in section 17706 of the public health code, 1978 PA 368, MCL 333.17706.
+(l) "Person" means an individual, sole proprietorship, partnership, corporation, association, or any other legal entity.
+(m) "Personal data" means any record or information pertaining to the diagnosis, treatment, or health of an individual covered by a plan.
+(n) "Pharmacy" means that term as defined in section 17707 of the public health code, 1978 PA 368, MCL 333.17707.
+(o) Except as otherwise provided in subdivision (p), "pharmacy benefit manager" means an entity that contracts with a pharmacy or a pharmacy services administration organization on behalf of a health plan or carrier to provide pharmacy health services to individuals covered by the health plan or carrier or administration that includes, but is not limited to, any of the following:
+(i) Contracting directly or indirectly with pharmacies to provide drugs to enrollees or other covered persons.
+(ii) Administering a drug benefit.
+(iii) Processing or paying pharmacy claims.
+(iv) Creating or updating drug formularies.
+(v) Making or assisting in making prior authorization determinations on drugs.
+(vi) Administering rebates on drugs.
+As used in this subparagraph, "rebate" means a formulary discount or remuneration attributable to the use of prescription drugs that is paid by a manufacturer or third party, directly or indirectly, to a pharmacy benefit manager after a claim has been adjudicated at a pharmacy.
+Rebate does not include a fee, including, but not limited to, a bona fide service fee or administrative fee, that is not a formulary discount or remuneration described in this subparagraph.
+As used in this subparagraph, "third party" does not include a pharmacy benefit manager.
+(vii) Establishing a pharmacy network.
+(p) "Pharmacy benefit manager" does not include the department of health and human services, a carrier, or an insurer.
+(q) "Pharmacy services administration organization" means an entity that provides contracting and other administrative services relating to prescription drug benefits to pharmacies.
+(r) "Processes claims" means the administrative services performed in connection with a claim for benefits under a plan.
+(s) "Service contract" means the written agreement for the provision of administrative services between the TPA and a plan, a sponsor of a plan, or a carrier.
+(t) "Third party administrator" or "TPA" means a person that directly or indirectly processes claims under a service contract and that may also provide 1 or more other administrative services under a service contract, other than under a worker's compensation self-insurance program pursuant to section 611 of the worker's disability compensation act of 1969, 1969 PA 317, MCL 418.611.
+Third party administrator includes a pharmacy benefit manager.
+Third party administrator does not include a carrier or employer sponsoring a plan.
+Sec. 26.
+(1) A carrier or third party administrator that is a pharmacy benefit manager shall not prohibit a 340B Program entity or a pharmacy that has a license in good standing in this state under contract with a 340B Program entity from participating in the carrier's or third party administrator that is a pharmacy benefit manager's provider network solely because it is a 340B Program entity or a pharmacy under contract with a 340B Program entity.
+A carrier or third party administrator that is a pharmacy benefit manager shall not reimburse a 340B Program entity or a pharmacy under contract with a 340B Program entity differently than other similarly situated pharmacies.
+As used in this subsection, "340B Program entity" means an entity authorized to participate in the federal 340B Program under section 340B of the public health service act, 42 USC 256b.
+(2) A carrier or other third party, or a third party administrator that is a pharmacy benefit manager, shall not, except as required by law to prevent a duplicate rebate, require a claim for a drug to include a modifier or otherwise to indicate that the drug is a 340B drug unless the claim is for payment, directly or indirectly, by the Medicaid program.
+As used in this subsection:
+(a) "Medicaid program" means the program for medical assistance established under title XIX of the social security act, 42 USC 1396 to 1396w-6.
+(b) "Rebate" means a formulary discount or remuneration attributable to the use of prescription drugs that is paid by a manufacturer or third party, directly or indirectly, to a pharmacy benefit manager after a claim has been adjudicated at a pharmacy.
+Rebate does not include a fee, including, but not limited to, a bona fide service fee or administrative fee, that is not a formulary discount or remuneration described in this subdivision.
+(c) "Third party" does not include a pharmacy benefit manager or carrier.
+(d) "340B drug" means a covered drug as that term is defined in 42 USC 256b.
+(3) A third party administrator that is a pharmacy benefit manager shall not exclude or discriminate against a pharmacy solely based on the carrier not having a vested financial interest in the pharmacy.
+As used in this subsection, "having a vested financial interest" means having ownership, having co-ownership, being a shareholder, or having another connection from which financial gain or loss could be realized.
+Sec. 27.
+A contract between a carrier or third party administrator that is a pharmacy benefit manager and a pharmacy must not prohibit the pharmacy from disclosing the current selling price of a drug in accordance with section 17757 of the public health code, 1978 PA 368, MCL 333.17757.
+This section applies to a contract described in this section executed, extended, or renewed on or after the effective date of the amendatory act that added this section.
+Sec. 36.
+By July 1, 2022 and each July 1 after that date, a third party administrator shall prepare under oath and file with the director a statement concerning the third party administrator's affairs on a form provided by the director.
+A third party administrator shall file the annual statement required under this section by July 1 of the year following the year covered by the statement.
+On request and for good cause shown, the director may grant to a third party administrator a reasonable extension of time not to exceed 30 days within which the statement must be filed.
+A third party administrator shall pay the annual statement filing fee prescribed in section 18.
+Sec. 52.
+(1) If a TPA or manager violates a cease and desist order under this act and has been given notice and an opportunity for a hearing held under the administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328, the director may order a civil fine of not more than $10,000.00 for each violation, or a suspension or revocation of the TPA's certificate of authority or manager's license, or both the fine and suspension or revocation.
+(2) The director may refuse to issue a TPA certificate of authority under this act if the director determines that the TPA or any individual responsible for the conduct of affairs of the TPA is not competent, trustworthy, financially responsible or of good personal and business reputation, or has had an insurance or a TPA certificate of authority or license denied or revoked for cause by any jurisdiction.
+(3) The director may deny, suspend, or revoke the license of a TPA, or may issue a cease and desist order if the TPA is not licensed, if the director finds, after notice and opportunity for hearing, any of the following:
+(a) That the TPA has violated any lawful rule or order of the director or any provision of the insurance laws of this state.
+(b) That the TPA refused to be examined or to produce its accounts, records, and files for examination, or that any individual responsible for the conduct of affairs of the TPA has refused to give information with respect to its affairs or has refused to perform any other legal obligation as to an examination when required by the director.
+(c) That the TPA has, without just cause, refused to pay proper claims or perform services arising under its contracts or has, without just cause, caused covered individuals to accept less than the amount due them or caused covered individuals to employ attorneys or bring suit against the TPA or a payor that it represents to secure full payment or settlement of the claims.
+(d) That the TPA is required under this act to have a license and fails at any time to meet any qualification for which issuance of a license could have been refused had the failure then existed and been known to the director, unless the director issued a license with knowledge of the grounds for disqualification and had the authority to waive it.
+(e) That any of the individuals responsible for the conduct of affairs of the TPA has been convicted of, or has entered a plea of guilty or nolo contendere to, a felony without regard to whether adjudication was withheld.
+(f) That the TPA's license has been suspended or revoked in another state.
+(g) That the TPA has failed to file a timely statement under section 36 or to pay a filing fee under section 18.
+(4) As used in this section, "individual responsible for the conduct of affairs of the TPA" means any of the following:
+(a) A member of the board of directors, board of trustees, executive committee, or other governing board or committee.
+(b) A principal officer for a corporation or a partner or member for a partnership, association, or limited liability company.
+(c) A shareholder or member holding directly or indirectly 10% or more of the voting stock, voting securities, or voting interest of the TPA.
+(d) Any person who exercises control or influence over the affairs of the TPA.
+This act is ordered to take immediate effect.
+Clerk of the House of Representatives Secretary of the Senate Approved___________________________________________ ____________________________________________________ Governor

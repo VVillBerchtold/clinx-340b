@@ -1,0 +1,281 @@
+PHARMACY AUDIT INTEGRITY AND TRANSPARENCY ACT - OMNIBUS AMENDMENTS Act of Jul. 17, 2024, P.L. 852, No. 77 Cl. 35 Session of 2024 No. 2024-77 HB 1993 AN ACT Amending the act of November 21, 2016 (P.L.1318, No.169), entitled "An act providing for pharmacy audit procedures, for registration of pharmacy benefits managers and auditing entities, for maximum allowable cost transparency and for prescription drugs reimbursed under the PACE and PACENET program; and making related repeals," further providing for title of act; in preliminary provisions, further providing for short title, for scope of act and for definitions and providing for regulations; in pharmacy audits, further providing for limitations; in registration, further providing for PBM and auditing entity registration; providing for pharmacy benefits manager contracts; in PBM cost transparency requirements, providing for PBM transparency report required, repealing provisions relating to regulations and providing for PSAO reporting requirements; in enforcements, further providing for scope of enforcement authority; providing for pharmacy services; and making repeals.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1.
+The title and sections 101 and 102 of the act of November 21, 2016 (P.L.1318, No.169), known as the Pharmacy Audit Integrity and Transparency Act, are amended to read:
+AN ACT Providing for pharmacy audit procedures, for registration of pharmacy benefits managers and auditing entities, for maximum allowable cost transparency [and], for prescription drugs reimbursed under the PACE and PACENET program and for pharmacy benefit managers contract requirements and prohibited activities; and making related repeals.
+Section 101.
+Short title.
+This act shall be known and may be cited as the [Pharmacy Audit Integrity and Transparency] Pharmacy Benefit Reform Act.
+Section 102.
+Scope of act.
+The following apply:
+(1) This act covers any audit of the records of a pharmacy conducted by a managed care company, third-party payer, pharmacy benefits manager or an entity that represents a covered entity.
+(2) This act covers any contract between a pharmacy or a PBM and a health insurer or a health benefit plan, or a contract between a pharmacy and a PBM on behalf of a health insurer or health benefit plan.
+(3) Except for the provisions of Chapter 5, this act shall not apply to a self-insured health benefit plan subject to ERISA or exempted from ERISA under section 4(b) of ERISA.
+Section 2.
+The definitions of "covered entity" and "health insurance policy" in section 103 of the act are amended and the section is amended by adding definitions to read:
+Section 103.
+Definitions.
+The following words and phrases when used in this act shall have the meanings given to them in this section unless the context clearly indicates otherwise:
+"Affiliate" or "affiliated." An affiliate as defined in section 1401 of the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921. * * * "Complex or chronic medical condition." A physical, behavioral or developmental condition that has no known cure, is progressive or can be debilitating or fatal if unmanaged or untreated.
+"Covered entity." A contract holder or policy holder providing pharmacy benefits to a covered individual under a health [insurance policy] benefit plan pursuant to a contract administered by a pharmacy benefit manager. * * * "ERISA." The Employee Retirement Income Security Act of 1974 (Public Law 93-406, 29 U.S.C. § 1001 et seq.). * * * "Health benefit plan." A policy, contract or certificate entered into, offered, issued or renewed by a health insurer to provide, deliver, arrange for, pay for or reimburse any of the costs of physical, mental or behavioral health care services.
+The term does not include Medicare supplement or accident only, fixed indemnity, limited benefit, credit, dental, vision, specified disease, TRICARE supplemental insurance, long-term care or disability income, workers' compensation or automobile medical payment insurance. * * * ["Health insurance policy." A policy, subscriber contract, certificate or plan that provides prescription drug coverage.
+The term includes both comprehensive and limited benefit health policies.] * * * "Health insurer client." The term includes both a health insurer and a health benefit plan offered by a health insurer.
+"Licensee or registrant." An entity subject to oversight of the department under this act.
+The term includes:
+(1) An auditing entity.
+(2) A health insurer.
+(3) A pharmacy benefit manager.
+(4) A pharmacy services administration organization.
+"Mail order pharmacy." A pharmacy where prescriptions are dispensed to covered individuals via the mail.
+"Maintenance medication." A medication prescribed for a chronic, long-term condition and taken on a regular, recurring basis. * * * "Rare medical condition." A disease or condition that affects fewer than 200,000 individuals in the United States or approximately 1 in 1,500 individuals worldwide.
+"Retail pharmacy." A pharmacy where prescriptions are able to be dispensed to covered individuals on the premises of the pharmacy.
+"Specialty drug." Either of the following:
+(1) A prescription drug prescribed to a covered individual with a cost that meets or exceeds the cost of a drug on the specialty tier of Medicare Part D under 42 CFR 423.104(d)(2)(iv) (relating to requirements related to qualified prescription drug coverage) and meets three or more of the following criteria:
+(i) The drug requires specialized product handling or administration by the dispensing pharmacy.
+(ii) The drug requires specialized clinical care, including, but not limited to, frequent dosing adjustments to the prescription drug, clinical monitoring or expanded patient service, intensive patient counseling and ongoing clinical support, such as individualized disease or therapy management to support patient outcomes for a covered individual.
+(iii) The drug is prescribed for a covered individual with a rare medical condition, complex or chronic medical condition or life-threatening medical condition.
+(iv) The prescription drug has a limited or exclusive distribution and is not typically stocked or dispensed by a retail pharmacy.
+(2) A prescription drug that is prescribed to a covered individual and that is listed as a specialty drug on the medical assistance fee-for-service specialty pharmacy drug list.
+"Specialty pharmacy." A pharmacy that has been nationally accredited by an independent third party to dispense specialty drugs.
+"Spread pricing." A model of prescription drug pricing in which the PBM charges a health benefit plan or health insurer a contracted price for prescription drugs and the contracted price for the prescription drugs differs from the amount the PBM directly or indirectly pays the pharmacist or pharmacy for prescription drugs and related pharmacist services.
+Section 3.
+The act is amended by adding a section to read:
+Section 104.
+Regulations.
+Except as provided for in Chapter 10, the department may promulgate regulations necessary for the administration of this act.
+Section 4.
+Section 303 of the act is amended by adding a subsection to read:
+Section 303.
+Limitations. * * * (c) Scrivener's error.--A scrivener's error made by a pharmacy not attributed to fraud, waste or abuse that is discovered during a pharmacy audit by the PBM shall result in the PBM recouping the dispensing fee for that particular transaction, not the entire amount for the medication received by the patient.
+Section 5.
+Section 501(b) of the act is amended and the section is amended by adding a subsection to read:
+Section 501.
+PBM and auditing entity registration. * * * (a.1) PSAO registration.--To conduct business in this Commonwealth, a PSAO shall register with the department on an application form provided by the department.
+The form shall reflect the reporting requirements under section 704.1.
+Nothing under this subsection shall be construed as requiring a health insurer, health benefit plan or PBM to enter into a contract with a PSAO.
+(b) Term and fee.-- (1) The term of registration shall be two years from the date of issuance.
+(2) The department shall set an initial application fee and a renewal application fee, which shall be submitted with an application for registration.
+An initial application fee shall be nonrefundable.
+A renewal application fee shall be returned if the renewal of the registration is not granted.
+(3) The amount of the initial application fee and renewal application fee shall be sufficient to fund the department's duties in relation to its responsibilities under this chapter but may not exceed [$1,000.]:
+(i) $10,000 for a PBM or auditing entity.
+(ii) $500 for a PSAO. * * * Section 6.
+The act is amended by adding a chapter to read:
+CHAPTER 6 PHARMACY BENEFITS MANAGER CONTRACTS Section 601.
+Contract provisions.
+(a) General rule.--A PBM registered with the department and conducting business on behalf of a health insurer client in this Commonwealth may not:
+(1) Reimburse a retail pharmacy an amount less than the amount that the PBM reimburses a PBM-affiliated retail pharmacy located in this Commonwealth for providing the same pharmacist services.
+(2) Reimburse a federally qualified health center, health care facility or other entity participating in the program under section 340(b) of the Public Health Service Act (58 Stat. 682, 42 U.S.C. § 256(b)) an amount lesser than similar entities not participating in the program.
+(3) Authorize the PBM to unilaterally alter the terms of a participation contract beyond the terms and conditions of the original contract agreed to by a PSAO or pharmacy with a PBM beyond the terms and conditions of the original contract agreed to by the pharmacy or PSAO with a PBM.
+(4) Designate a prescription drug as a specialty drug or require a prescription drug to be dispensed exclusively at a specialty pharmacy unless it meets the criteria of a specialty drug under section 103.
+(b) Rebates.--Beginning on the effective date of this section, a PBM shall pass through to the health benefit plan no less than 95% of any prescription drug manufacturer rebate obtained by the PBM on behalf of a health insurer client if the health benefit plan delegates negotiation of the rebate to the PBM.
+(c) Contract information.--PBM contracts shall provide information to a pharmacist, pharmacy or PSAO pertaining to the schedule and total for any fee charged by the PBM for participation in the PBM's network.
+Section 602.
+Patient steering.
+(a) Prohibitions.--A health benefit plan, health insurer or PBM contracting with a health benefit plan or health insurer may not:
+(1) Require a covered individual, as a condition of payment or reimbursement, to purchase pharmacist services, including, but not limited to, prescription drugs, exclusively through a mail-order pharmacy or PBM retail pharmacy affiliate.
+(2) Prohibit or limit a covered individual from selecting an in-network pharmacy or in-network pharmacist of the covered individual's choice if that pharmacy or pharmacist meets and agrees to the terms and conditions, including reimbursements, in the PBM's contract.
+(3) Require a covered individual to use a PBM-affiliated retail pharmacy.
+(4) Transfer a covered individual's prescriptions from an in-network pharmacy to another pharmacy unless requested by the covered individual.
+(5) Use financial incentives, including, but not limited to, adjustments in cost sharing obligations of a covered individual, to the exclusive benefit of a PBM-affiliated retail pharmacy.
+(6) Except as provided in subsection (b), auto-enroll a covered individual in mail-order pharmacy services.
+(b) Construction.--Nothing in this section shall be construed:
+(1) To prevent a PBM, health benefit plan or health insurer from requiring a covered individual to use an approved specialty pharmacy operating in the PBM's network.
+(2) To prevent a health benefit plan, health insurer or PBM contracting with a health benefit plan or health insurer from auto-enrolling a covered individual in mail-order services for a maintenance medication, provided that:
+(i) a covered individual may not be auto-enrolled for the first 90 days of a new maintenance medication; and (ii) a covered individual shall have the ability to opt out of mail-order pharmacy services at any time.
+Section 603.
+Clawbacks prohibited.
+(a) General rule.--A pharmacist, pharmacy intern or technician may not charge a patient an amount for a covered prescription drug that exceeds the lesser of:
+(1) The net reimbursement paid to the pharmacy for the prescription drug by the health benefit plan, health insurer or PBM contracting with a health benefit plan or health insurer.
+(2) The amount an individual would pay for the prescription drug if the prescription drug were purchased without coverage under a health benefit plan.
+(b) Collection of difference in cost sharing.--A health benefit plan, health insurer or PBM contracting with a health benefit plan or health insurer may not collect from the member any difference in cost sharing the member pays to the pharmacy and the member's cost sharing defined in the member's benefit plan.
+Section 604.
+Network adequacy.
+(a) General rule.--A PBM shall establish a reasonably adequate and accessible retail pharmacy network for the provision of prescription drugs under a health benefit plan that shall provide for convenient patient access to pharmacies within a reasonable distance from a patient's residence in accordance with the following requirements:
+(1) The network may not be limited to affiliated pharmacies only.
+(2) The network shall meet or exceed the requirements of 42 CFR 423.120(a) (relating to access to covered part D drugs) or a successor regulation.
+If a PBM fails to comply with the requirements, it shall not be considered a violation if the PBM contracts with all retail pharmacies within the network distance standards of the health benefit plan participants.
+(b) Report requirement.--Beginning April 1, 2026, and annually thereafter, a PBM shall file with the department a network adequacy report, on a form prescribed by the department, describing the PBM network and the PBM network's accessibility in this Commonwealth.
+The reports shall be posted on the department's publicly accessible Internet website.
+Section 7.
+The act is amended by adding a section to read:
+Section 703.1.
+PBM transparency report required.
+(a) General rule.--Beginning July 1, 2026, and annually thereafter, each registered PBM shall submit to the department a transparency report containing data for each health insurer client in this Commonwealth from the prior calendar year.
+The transparency report shall contain the following information:
+(1) The aggregate amount of all rebates that the PBM received from all pharmaceutical manufacturers for all health insurer clients and for each health insurer client.
+(2) The aggregate administrative fees that the PBM received from all manufacturers for all health insurer clients and for each health insurer client.
+(3) The aggregate-retained rebates that the PBM received from all pharmaceutical manufacturers and did not pass through to health insurer clients.
+(4) The highest, lowest and mean aggregate retained rebate percentage for all health insurer clients and for each health insurer client.
+(5) For a PBM that controls or is affiliated with a pharmacy, a description of any differences between what the PBM reimburses or charges affiliated and nonaffiliated pharmacies.
+(b) Publication.--Within 60 days of receipt, the department shall publish the transparency report under this section on the department's publicly accessible Internet website in a form that meets the following requirements:
+(1) Does not disclose the name of a PBM.
+(2) Does not directly or indirectly disclose the identity of a specific health insurer client or present information in a manner that can be extrapolated to identify a specific health insurer client.
+(3) Does not list the price or prices charged for a specific drug or class of drugs.
+(4) Does not specify the amount of any rebates provided for a specific drug or class of drug.
+(c) Additional categories.--The department may, by regulation, direct PBMs to include additional categories for aggregated data from health insurer clients in the annual transparency report submitted under this section.
+(d) Confidentiality.-- (1) The information submitted to the department in accordance with the transparency report required under subsection (a) shall be privileged and given confidential treatment and shall not be:
+(i) subject to discovery or admissible as evidence in a private civil action;
+(ii) subject to subpoena;
+(iii) subject to access under the act of February 14, 2008 (P.L.6, No.3), known as the Right-to-Know Law; or (iv) made public by the department or any other person without the prior written consent of the PBM, insurer or insurance group to which it pertains, except as provided in paragraph (3).
+(2) The commissioner, the department, a person who receives information under subsection (a) while acting under the authority of the commissioner or department or a person with whom the information is shared under this chapter shall not be permitted or required to testify in a private civil action concerning confidential information in the transparency report.
+(3) To assist in the performance of its regulatory duties, the department may:
+(i) Use information submitted under this section in furtherance of a regulatory or legal action brought pursuant to the department's official duties.
+(ii) Share information submitted under this section with the NAIC, regulatory or law enforcement officials of this Commonwealth or other jurisdictions, and third-party consultants, if, prior to receiving the transparency report information, the recipient demonstrates by written statement the necessary authority and intent to give confidential treatment to the information as required by this section.
+(iii) Publish all or part of the information if, after giving the entity who would be affected thereby notice and opportunity to be heard, the department determines that the interest of the public will be served by the publication thereof.
+(4) The sharing of information by the department under this section does not constitute a delegation of regulatory authority or rulemaking.
+The department shall be solely responsible for the administration, execution and enforcement of this chapter.
+(5) The sharing of transparency report information with, to or by the department as authorized by this chapter does not constitute a waiver of any applicable privilege or claim of confidentiality.
+(6) Information submitted under this section that is in the possession or control of the NAIC or a third-party consultant as provided under this section shall:
+(i) be confidential and privileged;
+(ii) be exempt from access under the Right-to-Know Law;
+(iii) not be subject to subpoena; and (iv) not be subject to discovery or admissible as evidence in a private civil action.
+Section 8.
+Section 704 of the act is repealed: [Section 704.
+Regulations.
+The department may promulgate regulations as necessary and appropriate to implement the provisions of this chapter.] Section 9.
+The act is amended by adding a section to read:
+Section 704.1.
+PSAO reporting requirements.
+A PSAO shall provide the following information to the department and each pharmacy that has contracted for services:
+(1) Changes in the PSAO's ownership, including a parent company or subsidiary of the PSAO, no later than five days prior to the change in ownership of the PSAO, the parent company of a PSAO or a subsidiary of the PSAO.
+(2) Whether the change in ownership includes a company or organization that provides pharmaceutical, prescription drug or device services.
+(3) Whether the change in ownership includes a company that sells or manufacturers prescription drugs, biologics or medical devices.
+Section 10.
+Section 901 of the act is amended to read:
+Section 901.
+Scope of enforcement authority.
+(a) Scope.--The department may investigate and enforce the provisions of this act only insofar as the actions or inactions being investigated relate to prescription drug coverage under a health [insurance policy] benefit plan. [(b) Remedy.--Actions or inactions within the scope of the department's investigative and enforcement authority under subsection (a) found to violate this act constitute "unfair methods of competition" and "unfair or deceptive acts or practices" within the meaning of section 5 of the act of July 22, 1974 (P.L.589, No.205), known as the Unfair Insurance Practices Act.
+A proceeding under this section shall be conducted in accordance with 2 Pa.C.S.
+Ch. 5 Subch.
+A (relating to practice and procedure of Commonwealth agencies).] (b.1) Examination and access to records.--The following apply:
+(1) (i) The department may order a PBM, a health insurer and a PBM's affiliates to produce records, books or other information as reasonably necessary to ascertain compliance with this act.
+(ii) The department may retain an expert or experts as reasonably necessary to assist the department to conduct an analysis of PBM business practices under this paragraph.
+The reasonable and necessary costs for the expert services shall be paid by the PBM, payable within 30 days of the PBM's receipt of a bill for the services.
+Analysis under this section shall include:
+(A) The impact of steering and spread pricing on the cost of prescription drugs to consumers in this Commonwealth and pharmacy access.
+(B) The impact to consumers and pharmacies in this Commonwealth by requiring a health benefit plan or PBM contracting with a health benefit plan to reimburse a pharmacy utilizing the national average drug acquisition cost and a professional dispensing fee of $10.49.
+(2) The department may examine or audit the books and records of a PBM, a health insurer and a PBM's affiliates to ascertain compliance with this act.
+The examination shall be conducted in accordance with Article IX of the act of May 17, 1921 (P.L.789, No.285), known as The Insurance Department Act of 1921.
+(c) Review of specialty drugs.--The department shall establish an efficient process by which a pharmacy may refer designation of a prescription drug under a health benefit plan, by a PBM contracting with a health benefit plan, or a health insurer as a specialty drug which fails to meet the criteria under section 103.
+No later than 60 days following the effective date of this subsection, the department shall publish guidance to effectuate this subsection, including the list of prescription drugs classified as a specialty drug under the medical assistance fee-for-service program.
+The list under this subsection shall not be considered exclusive for the purposes of review by the department under this section.
+The department shall update guidance under this section to reflect changes in specialty drugs under the medical assistance fee-for-service program for each plan year.
+(d) Penalties.--Upon the determination, after notice and hearing, that this act has been violated, the commissioner may impose the following penalties:
+(1) Suspension or revocation of the licensee or registrant's license, authorization to operate or registration.
+(2) Refusal to issue or renew a license, authorization to operate or registration.
+(3) A cease and desist order.
+(4) Order reimbursement to an insured, pharmacy or dispenser that has incurred a monetary loss as a result of a violation of this act.
+(5) For each violation of this act that a licensee or registrant knew or reasonably should have known was a violation, a penalty of not more than $100,000, not to exceed an aggregate penalty of $1,000,000 in a single calendar year.
+(6) For each violation of this act that a licensee or registrant did not know nor reasonably should have known was a violation, a penalty of not more than $50,000, not to exceed an aggregate penalty of $500,000 in a single calendar year.
+(e) Additional remedies.--The enforcement remedies imposed under this section are in addition to any other remedies or penalties that may be imposed under any other applicable law of this Commonwealth, including the act of July 22, 1974 (P.L.589, No.205), known as the Unfair Insurance Practices Act.
+A violation of this act shall be deemed to be an unfair method of competition and an unfair or deceptive act or practice under the Unfair Insurance Practices Act.
+(f) Administrative procedure.--The administrative provisions of this section shall be subject to 2 Pa.C.S.
+Ch. 5 Subch.
+A (relating to practice and procedure of Commonwealth agencies).
+A party against whom penalties are assessed in an administrative action may appeal to Commonwealth Court as provided in 2 Pa.C.S.
+Ch. 7 Subch.
+A (relating to judicial review of Commonwealth agency action).
+Section 11.
+The act is amended by adding a chapter to read:
+CHAPTER 10 PHARMACY SERVICES Section 1001.
+Definitions.
+The following words and phrases when used in this chapter shall have the meanings given to them in this section unless the context clearly indicates otherwise:
+"Board." The State Board of Pharmacy.
+"COVID-19" or "Coronavirus disease 2019." A highly contagious infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+"Direct and immediate personal supervision." As follows:
+(1) Review by the pharmacist of the prescription or drug order prior to dispensing.
+(2) Verification by the pharmacist of the final product.
+(3) Immediate availability of the pharmacist on the premises to direct the work of the supervised individual and to respond to questions or problems.
+"Licensee." An individual licensed by the board.
+"Pharmacy Act." The act of September 27, 1961 (P.L.1700, No.699), known as the Pharmacy Act.
+"Pharmacy technician." An individual who:
+(1) Is required to be registered with the board as a pharmacy technician following the promulgation of final-form regulations under section 3 of the act of November 30, 2020 (P.L.1306, No.140), entitled "An act amending the act of September 27, 1961 (P.L.1700, No.699), entitled 'An act relating to the regulation of the practice of pharmacy, including the sales, use and distribution of drugs and devices at retail; and amending, revising, consolidating and repealing certain laws relating thereto,' further providing for definitions; and providing for pharmacy technician and pharmacy technician trainee registration, qualifications and supervision, for pharmacy technician data entry and for laboratory waiver." (2) May assist in the practice of pharmacy under the direct and immediate personal supervision of a licensed pharmacist after meeting the requirements of this act, the Pharmacy Act and the regulations promulgated under this act or the Pharmacy Act.
+The term shall not include an individual performing clerical support with no direct interaction with prescription medication or ability to enter a prescription drug order.
+"Practice of pharmacy." The following:
+(1) The provision of health care services by a pharmacist, which includes:
+(i) The interpretation, evaluation and implementation of medical orders for the provision of pharmacy services or prescription drug orders.
+(ii) The delivery, dispensing or distribution of prescription drugs.
+(iii) Participation in drug and device selection.
+(iv) Drug administration.
+(v) Drug regimen review.
+(vi) Drug therapy management, including such services provided under the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108-173, 117 Stat. 2066).
+(vii) Drug or drug-related research.
+(viii) Compounding.
+(ix) Proper and safe storage of drugs and devices.
+(x) Management of drug therapy under section 9.3 of the Pharmacy Act, or, if in an institutional setting, consistent with the institution's assignment of clinical duties pursuant to a written agreement or protocol as specified in section 9.1 of the Pharmacy Act.
+(xi) Maintaining proper records.
+(xii) Patient counseling.
+(xiii) Acts, services, operations or transactions necessary or incident to the provision of these health care services.
+(2) The term shall not include the operations of a manufacturer or distributor as defined in The Controlled Substance, Drug, Device and Cosmetic Act.
+"The Controlled Substance, Drug, Device and Cosmetic Act." The act of April 14, 1972 (P.L.233, No.64), known as The Controlled Substance, Drug, Device and Cosmetic Act, or the Controlled Substances Act (Public Law 91-513, 84 Stat. 1236).
+Section 1002.
+Administration of injectable medications, biologicals and immunizations.
+(a) General rule.--The board shall by regulation establish education and training standards and practice guidelines pursuant to which pharmacists shall be authorized to administer injectable medications, biologicals and immunizations to individuals eight years of age or older and influenza and COVID-19 immunizations by injectable or needle-free delivery methods to individuals five years of age or older.
+The standards and guidelines shall include, but not be limited to, the following:
+(1) Satisfactory completion of an academic and practical curriculum approved by the board that includes the current guidelines and recommendations of the Centers for Disease Control and Prevention in the Public Health Service of the United States Department of Health and Human Services, the American Council on Pharmaceutical Education or a similar health authority or professional body and includes, but is not limited to, disease epidemiology, vaccine characteristics, injection technique, emergency response to adverse events and related topics.
+(2) Maintenance of a current cardiopulmonary resuscitation (CPR) certificate acceptable to the board.
+(3) That the administration of injectable medications, biologicals and immunizations be in accordance with a definitive set of treatment guidelines established by a physician and the Centers for Disease Control and Prevention, Advisory Committee on Immunization Practices guidelines or another competent authority approved by the board.
+(4) That a minimum of two hours of the 30-hour requirement for continuing education for license renewal be dedicated to administering injectable medications, biologicals and immunizations.
+(5) For individuals under 18 years of age, that parental consent be obtained prior to administration.
+(6) Maintenance of a level of professional liability insurance coverage in the minimum amount of $1,000,000 per occurrence or claims made.
+Failure to maintain insurance coverage as required shall subject the licensees to disciplinary proceedings.
+The board shall accept as satisfactory evidence of insurance coverage any of the following:
+(i) personally purchased liability insurance;
+(ii) professional liability insurance coverage provided by the individual licensee's employer; or (iii) similar insurance coverage acceptable to the board.
+(7) Notification of the individual's primary care provider, if known, within 48 hours of administration.
+(b) No delegation.--Except as provided under subsection (e), a pharmacist's authority to administer injectable medications, biologicals and immunizations shall not be delegated to any other individual.
+A pharmacy intern who has completed a course of education and training which meets the requirements of subsection (a)(1) and (2) and maintains liability insurance in the amounts specified under subsection (a)(6) may administer injectable medications, biologicals and immunizations, in keeping with the requirements under subsection (a)(3), to individuals who are eight years of age or older and influenza and COVID-19 immunizations by injectable or needle-free delivery methods to individuals five years of age or older only under the direct, immediate and personal supervision of a pharmacist holding the authority to administer injectable medications, biologicals and immunizations or a physician, physician assistant or certified registered nurse practitioner.
+(c) Report of administration.--A supervising pharmacist shall report the administration of immunizations under this section to the immunization registry maintained by the Department of Health within 72 hours of immunization administration and to the individual's primary care provider in accordance with subsection (a)(7).
+Nothing in this subsection shall be construed to prohibit a supervising pharmacist from delegating the reporting of immunization administration to a pharmacy intern or technician.
+(d) Information and referral.--A pharmacist, pharmacy intern or pharmacist technician who administers an influenza or COVID-19 immunization to an individual under 18 years of age shall inform the parent or adult caregiver of the importance of a well-child visit with a pediatrician or other licensed primary care provider and refer the patient as appropriate.
+(e) Delegation of authority.--A pharmacist who holds the authority to administer injectable medications, biologicals and immunizations may delegate the authority to administer:
+(1) Influenza and COVID-19 immunizations to a certified registered nurse practitioner, physician assistant, registered nurse or licensed practical nurse; or (2) COVID-19 immunizations that are authorized or that are licensed by the United States Food and Drug Administration to individuals 13 years of age or older or influenza vaccinations that are recommended by the Advisory Committee on Immunization Practices to individuals 13 years of age or older to a pharmacy technician if:
+(i) The pharmacy technician:
+(A) Until the board promulgates final regulations implementing registration of pharmacy technicians, holds a national certification from the Pharmacy Technician Certification Board or the National Healthcareer Association; or (B) After the board promulgates final regulations implementing registration of pharmacy technicians, is registered with the board.
+(ii) The following conditions are met:
+(A) The supervising qualified pharmacist is providing direct, immediate and personal supervision to the qualified pharmacy technician who is administering the immunizations or vaccinations.
+(B) The qualified pharmacy technician has completed a practical training program that is approved by the Accreditation Council for Pharmacy Education and that includes hands-on injection technique and the recognition and treatment of emergency reactions to vaccines.
+(C) The qualified pharmacy technician has a current certificate in basic cardiopulmonary resuscitation.
+(D) The qualified pharmacy technician has obtained liability insurance as required under subsection (a)(6) through the qualified pharmacy technician's employer.
+(E) Administration of a COVID-19 immunization or influenza vaccinations shall be in keeping with the requirements under subsection (a)(3).
+Section 1003.
+Clinical laboratory certificate.
+(a) Certificate.--If a pharmacy holds a valid certificate of waiver issued by the Centers for Medicare and Medicaid Services, a pharmacy or pharmacist may order and perform laboratory examinations and procedures for COVID-19, influenza, respiratory syncytial virus and streptococcal infections authorized or approved by the United States Food and Drug Administration under the Clinical Laboratory Improvement Amendments of 1988 (Public Law 100-578, 102 Stat. 2903) and shall be exempt from the requirements under section 3 of the act of September 26, 1951 (P.L.1539, No.389), known as The Clinical Laboratory Act.
+(b) Designation.--A pharmacist may designate the administration of a test under subsection (a) to a pharmacy intern or pharmacy technician if the designation by the pharmacist to a pharmacy intern or pharmacy technician and the administration of the test is in keeping with nationally recognized clinical practice guidelines that have not been disapproved by the Department of Health through transmission to the Legislative Reference Bureau for publication in the next available issue of the Pennsylvania Bulletin.
+Section 1004.
+Report on pharmacy-administered vaccines.
+(a) Report.--The Department of Health shall, in consultation with the board, report to the President pro tempore of the Senate, the Majority Leader and the Minority Leader of the Senate, the Speaker of the House of Representatives and the Majority Leader and the Minority Leader of the House of Representatives information concerning pharmacist activities authorized under this chapter, including:
+(1) The number of injectable medications, biologicals and immunizations administered to individuals under 18 years of age broken down by age.
+(2) The number of injectable medications, biologicals and immunizations administered to individuals under 18 years of age broken down by type of injectable medications, biologicals and immunizations.
+(3) Subject to information being made available, an assessment on whether there is a change in the number of well visits for children with their primary pediatric care provider attributable pharmacist services authorized under this chapter.
+(4) Beginning from the effective date of this section, changes in the pharmacy immunization rates for individuals under 18 years of age.
+(b) Scope of report.--The Department of Health shall review data available for injectable medications, biologicals and immunizations administered by a pharmacist, pharmacy intern or technician in this Commonwealth.
+The Department of Health shall also review data available from other state governments which have authorized pharmacists to provide similar pharmacy services as authorized under this chapter.
+(c) Timing of report.--The Department of Health shall report its findings no later than five years following the effective date of this subsection and include recommendations for changes in the laws of this Commonwealth.
+(d) Publication.--Upon completion of the report and transmission of the report under subsection (a), the Department of Health shall publish the findings on the Department of Health's publicly accessible Internet website.
+Section 12.
+Repeals are as follows:
+(1) The General Assembly declares that the repeal under paragraph (2) is necessary to effectuate the addition of section 1002 of the act.
+(2) Sections 9.2 and 9.5 of the act of September 27, 1961 (P.L.1700, No.699), known as the Pharmacy Act, are repealed.
+Section 13.
+The addition of section 1002 of the act is a continuation of sections 9.2 and 9.5 of the act of September 27, 1961 (P.L.1700, No.699), known as the Pharmacy Act.
+Except as otherwise provided in section 1002 of the act, all activities initiated under sections 9.2 and 9.5 of the Pharmacy Act shall continue and remain in full force and effect and may be completed under section 1002 of the act.
+Orders, regulations, rules and decisions which were made under sections 9.2 and 9.5 of the Pharmacy Act and which are in effect on the effective date of section 12(2) of this act shall remain in full force and effect until revoked, vacated or modified under section 1002 of the act.
+Contracts, obligations and collective bargaining agreements entered into under sections 9.2 and 9.5 of the Pharmacy Act are not affected nor impaired by the repeal of sections 9.2 and 9.5 of the Pharmacy Act.
+Section 14.
+The following shall apply:
+(1) The addition of Chapter 6 and section 703.1 of the act shall apply to a contract issued, renewed or amended after the effective date of this section.
+(2) The following shall apply:
+(i) For a health insurance policy for which either rates or forms are required to be filed with the Federal Government or the Insurance Department, this act shall apply to the health insurance policy for which a form or rate is first approved on or after the effective date of this paragraph.
+(ii) For a health insurance policy for which neither rates nor forms are required to be filed with the Federal Government or the Insurance Department, this act shall apply to the health insurance policy issued or renewed on or after 180 days after the effective date of this paragraph.
+Section 15.
+This act shall take effect as follows:
+(1) The following provisions shall take effect in 90 days:
+(i) The amendment or addition of the definitions of "affiliate" or "affiliated," "complex or chronic medical condition," "covered entity," "ERISA," "health benefit plan," "health insurance policy," "health insurer client," "licensee or registrant," "mail order pharmacy," "maintenance medication," "rare medical condition," "retail pharmacy," "specialty drug," "specialty pharmacy" and "spread pricing" in section 103 of the act.
+(ii) Section 14 of this act.
+(2) This section shall take effect immediately.
+(3) The remainder of this act shall take effect in 120 days.
+APPROVED--The 17th day of July, A.D. 2024.
+JOSH SHAPIRO

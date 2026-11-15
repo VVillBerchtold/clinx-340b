@@ -1,0 +1,27 @@
+36-2930.03 - 340B drug pricing; requirements; applicability; annual report; definitions 36-2930.03. 340B drug pricing; requirements; applicability; annual report; definitions A.
+Beginning the later of January 1, 2017 or on approval by the centers for medicare and medicaid services: 1. 340B covered entities shall submit point-of-sale prescription and physician-administered drug claims for members for drugs that are identified in the 340B pricing file, whether or not the drugs are purchased under the 340B drug pricing program.
+The claims shall include a professional fee and the lesser of either:
+(a) The actual acquisition cost.
+(b) The 340B ceiling price. 2.
+The administration or a contractor shall reimburse claims for drugs that are identified in the 340B pricing file and that are dispensed by 340B covered entities or administered by 340B covered entity providers, whether or not the drugs are purchased under the 340B drug pricing program, at the amount submitted pursuant to paragraph 1 of this subsection plus a professional fee as determined by the administration unless a contract between the 340B covered entity and the administration or a contractor specifies a different professional fee. 3.
+The administration and its contractors may not reimburse any contracted pharmacy for drugs dispensed as part of the 340B drug pricing program.
+The administration and its contractors shall reimburse contracted pharmacies for drugs that are not purchased, dispensed or administered as part of or subject to the 340B drug pricing program.
+A contracted pharmacy shall be reimbursed at the price and professional fee set forth in the contract between the contracted pharmacy and the administration or its contractors.
+B.
+This section does not require the administration or its contractors to reimburse a pharmacy that does not have a contract with the administration or its contractors.
+C.
+This section does not apply to licensed hospitals and outpatient facilities that are owned or operated by a licensed hospital.
+D.
+On or before November 1, the administration shall report to the governor, the president of the senate, the speaker of the house of representatives and the joint legislative budget committee regarding the technological feasibility and costs of applying this section to licensed hospitals and outpatient facilities that are owned or operated by a licensed hospital.
+E.
+For the purposes of this section: 1.
+"340B ceiling price" means the maximum price that drug manufacturers may charge covered entities participating in the 340B drug pricing program as reported by the drug manufacturer to the United States department of health and human services.
+The 340B ceiling price per unit is defined as the average manufacturer price minus the federal unit rebate amount. 2.
+"340B covered entity" means a covered entity as defined by 42 United States Code section 256b that participates in the 340B drug pricing program. 3.
+"340B drug pricing program" means the discount drug purchasing program described in 42 United States Code section 256b. 4.
+"Actual acquisition cost" means the purchase price of a drug paid by a pharmacy net of all discounts, rebates, chargebacks and other adjustments to the price of the drug, not including professional fees. 5.
+"Administration" has the same meaning prescribed in section 36-2901 and includes the administration's contracted pharmacy benefits manager. 6.
+"Contracted pharmacy" means a separate pharmacy with which a 340B covered entity contracts to provide comprehensive pharmacy services using medications that are subject to 340B drug pricing. 7.
+"Contractor" has the same meaning prescribed in section 36-2901 and includes a contractor's pharmacy benefits manager. 8.
+"Professional fee" means the amount paid for the professional services provided by the pharmacist for dispensing a prescription.
+Professional fee does not include any payment for the drug being dispensed.

@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# clinx-340b: state 340B filings as open data
+# clinx-340b: state 340B filings and laws as open data
 
 Some states now require hospitals and health centers in the federal 340B drug program to report, each year, what the program cost them, what it paid them, and whom they paid along the way. The reports are public, but they are PDF files, one per filer, and hard to read side by side.
 
@@ -32,9 +32,30 @@ Three notes on reading across states:
 - **Idaho's record is statewide totals only.** Idaho's law keeps each entity's filing confidential and has the State Controller publish the figures added together. The dataset holds that report as one record (`record_kind` is `state_report_totals`), with a row for every cell the report prints. It has no row for any single covered entity.
 - The states use different forms, so each record names its own. Rhode Island's rows keep the schedule letters and line numbers the form prints. Vermont's page, Minnesota's tables and Idaho's report print none, so their rows carry short keys assigned by this dataset, beside the label as printed. Vermont's separate narratives are listed as attachments and not transcribed.
 
+## State laws about 340B (new in 0.6.0)
+
+Beside the filings, the dataset now lists the state laws that name the 340B program: 73 laws in 38 states, each one read on the state's own website.
+
+| File | What it is |
+|---|---|
+| [`state-laws.csv`](data/state-laws.csv) | One row per enacted law: its kinds, citation, bill, dates, who it binds, what it does, its limits, how it is enforced, a sentence quoted from the law, and the link to the official page |
+| [`state-laws-not-listed.csv`](data/state-laws-not-listed.csv) | Laws that came up in the search and are not in the table, each with the reason |
+| [`340b-state-laws.json`](data/340b-state-laws.json) | Both, with the list of kinds, in one document |
+
+How to read it:
+
+- **A law is listed only if its official text names 340B**, or cites the program's section of federal law, 42 U.S.C. 256b. The text of each official page is saved in [`sources/laws/`](sources/laws/), and the sentence quoted in each row is in that saved text word for word. The build stops if it is not.
+- **Every link goes to a legislature's or a state office's own site.** [`laws/hosts.csv`](laws/hosts.csv) lists them. No row was taken from a tracker or from someone else's summary.
+- **A blank means the official page does not print it.** A signing date, an effective date, a bill number or an act number is filled only where a saved page prints it. Montana's code, for one, prints the chapter of an act and not its bill number.
+- **Each law has one or more of seven kinds**: contract pharmacy access, payer and PBM non-discrimination, reporting, Medicaid, use of savings, study, and other. [`laws/kinds.csv`](laws/kinds.csv) says what each means.
+- **No row for a state means none was found, not that none exists.** Nothing was found for Alabama, Alaska, the District of Columbia, Florida, Georgia, Kansas, Massachusetts, New Jersey, New York, South Carolina, Texas, Wisconsin or Wyoming. Georgia, Kansas and New York have entries in the not-listed file. If you know of a law that is missing, open an issue with the link to the state's page.
+- **It is a list of what was enacted.** It does not follow court cases about these laws, bills that have not passed, or how a law is enforced in practice. The summaries are plain-words descriptions; the law's own text is the record. None of it is legal advice.
+
+[METHODS.md](METHODS.md) section 10 says how each law was found, read and checked.
+
 ## Open the data
 
-Everything published is in [`data/`](data/), as CSV files and one JSON file. Start with these four:
+Everything published is in [`data/`](data/), as CSV files and two JSON files. For the filings, start with these four:
 
 | File | What it is |
 |---|---|
@@ -100,6 +121,8 @@ Read it with care. A filer that runs its own pharmacy carries that cost in its o
 | `transcriptions/` | The first read: one file per filing, every printed row with its page number and how it was checked |
 | `verification/` | The second read, made from the page pictures |
 | `reference/` | Normalized vendor names, spending categories, and a note for every difference found in a filing |
+| `laws/` | The table of state laws, kept by hand: the laws, the seven kinds, the official sites, and the laws not listed |
+| `sources/laws/` | The text of each law's official page, as saved on the day it was read |
 | `data/` | The published dataset. Rebuilt from the folders above; never edited by hand |
 | `src/`, `tests/`, `tools/` | The code that checks and builds the dataset |
 

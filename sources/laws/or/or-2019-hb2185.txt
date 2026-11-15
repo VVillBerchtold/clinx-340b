@@ -1,0 +1,85 @@
+80th OREGON LEGISLATIVE ASSEMBLY--2019 Regular Session Enrolled House Bill 2185 Introduced and printed pursuant to House Rule 12.00.
+Presession filed (at the request of House In- terim Committee on Health Care) CHAPTER .................................................
+AN ACT Relating to pharmacy benefit managers; creating new provisions; and amending ORS 735.530 and 735.534.
+Be It Enacted by the People of the State of Oregon:
+SECTION 1.
+Section 2 of this 2019 Act is added to and made a part of ORS 735.530 to 735.552.
+SECTION 2.
+(1) As used in this section, "out-of-pocket cost" means the amount paid by an enrollee under the enrollee's coverage, including deductibles, copayments, coinsurance or other expenses as prescribed by the Department of Consumer and Business Services by rule.
+(2) A pharmacy benefit manager registered under ORS 735.532:
+(a) May not require a prescription to be filled or refilled by a mail order pharmacy as a condition for reimbursing the cost of the drug.
+(b) Except as provided in paragraph (c) of this subsection, may require a prescription for a specialty drug to be filled or refilled at a specialty pharmacy as a condition for the re- imbursement of the cost a drug.
+(c) Shall reimburse the cost of a specialty drug that is filled or refilled at a network pharmacy that is a long term care pharmacy.
+(d)(A) Shall allow a network pharmacy to mail, ship or deliver prescription drugs to its patients as an ancillary service.
+(B) Is not required to reimburse a delivery fee charged by a pharmacy for a delivery de- scribed in subparagraph (A) of this paragraph unless the fee is specified in the contract be- tween the pharmacy benefit manager and the pharmacy.
+(e) May not require a patient signature as proof of delivery of a mailed or shipped pre- scription drug if the network pharmacy:
+(A)(i) Maintains a mailing or shipping log signed by a representative of the pharmacy; or (ii) Maintains each notification of delivery provided by the United States Postal Service or a package delivery service; and (B) Is responsible for the cost of mailing, shipping or delivering a replacement for a drug that was mailed or shipped but not received by the enrollee.
+(f) May not penalize a network pharmacy for or otherwise directly or indirectly prevent a network pharmacy from informing an enrollee of the difference between the out-of-pocket cost to the enrollee to purchase a prescription drug using the enrollee's pharmacy benefit and the pharmacy's usual and customary charge for the prescription drug.
+Enrolled House Bill 2185 (HB 2185-C) Page 1 (3) The Department of Consumer and Business Services may adopt rules to carry out the provisions of this section.
+SECTION 3.
+ORS 735.530 is amended to read: 735.530.
+As used in ORS 735.530 to 735.552:
+(1) "Claim" means a request from a pharmacy or pharmacist to be reimbursed for the cost of filling or refilling a prescription for a drug or for providing a medical supply or service.
+(2) "Enrollee" means an individual who has enrolled for coverage in a health benefit plan for which a pharmacy benefit manager has contracted with the insurer to reimburse claims submitted by pharmacies or pharmacists for the costs of drugs prescribed for the individual.
+(3) "Health benefit plan" has the meaning given that term in ORS 743B.005. [(2)] (4) "Insurer" has the meaning given that term in ORS 731.106.
+(5) "Long term care pharmacy" means a pharmacy for which the primary business is to serve a:
+(a) Licensed long term care facility, as defined in ORS 442.015;
+(b) Licensed residential facility, as defined in ORS 443.400; or (c) Licensed adult foster home, as defined in ORS 443.705.
+(6) "Mail order pharmacy" means a pharmacy for which the primary business is to re- ceive prescriptions by mail, telephone or electronic transmission and dispense drugs to pa- tients through the use of the United States Postal Service, a package delivery service or home delivery.
+(7) "Network pharmacy" means a pharmacy that contracts with a pharmacy benefit manager. [(3)] (8) "Pharmacist" has the meaning given that term in ORS 689.005. [(4)] (9) "Pharmacy" includes:
+(a) A pharmacy as defined in ORS 689.005; [and] (b) A long term care pharmacy; and [(b)] (c) An entity that provides or oversees administrative services for two or more pharmacies.
+(10) "Pharmacy benefit" means the payment for or reimbursement of an enrollee's cost for prescription drugs. [(5)(a)] (11)(a) "Pharmacy benefit manager" means a person that contracts with pharmacies on behalf of an insurer offering a health benefit plan, a third party administrator or the Oregon Prescription Drug Program established in ORS 414.312 to:
+(A) Process claims for prescription drugs or medical supplies or provide retail network man- agement for pharmacies or pharmacists;
+(B) Pay pharmacies or pharmacists for prescription drugs or medical supplies; or (C) Negotiate rebates with manufacturers for drugs paid for or procured as described in this paragraph.
+(b) "Pharmacy benefit manager" does not include a health care service contractor as defined in ORS 750.005.
+(12) "Specialty drug" means a drug that:
+(a) Is subject to restricted distribution by the United States Food and Drug Adminis- tration; or (b) Requires special handling, provider coordination or patient education that cannot be provided by a retail pharmacy.
+(13) "Specialty pharmacy" means a pharmacy capable of meeting the requirements ap- plicable to specialty drugs. [(6)] (14) "Third party administrator" means a person licensed under ORS 744.702.
+(15) "340B pharmacy" means a pharmacy that is authorized to purchase drugs at a dis- count under 42 U.S.C. 256b.
+SECTION 4.
+ORS 735.534 is amended to read: 735.534.
+(1) As used in this section:
+Enrolled House Bill 2185 (HB 2185-C) Page 2 (a)(A) "Generally available for purchase" means a drug is available for purchase in this state by a pharmacy from a national or regional wholesaler at the time a claim for re- imbursement is submitted by a network pharmacy.
+(B) A drug is not "generally available for purchase" if the drug:
+(i) May be dispensed only in a hospital or inpatient care facility;
+(ii) Is unavailable due to a shortage of the product or an ingredient;
+(iii) Is available to a pharmacy at a price that is at or below the maximum allowable cost only if purchased in substantial quantities that are inconsistent with the business needs of a pharmacy;
+(iv) Is sold at a discount due to a short expiration date on the drug; or (v) Is the subject of an active or pending recall. [(a)] (b) "List" means the list of drugs for which maximum allowable costs have been estab- lished. [(b)] (c) "Maximum allowable cost" means the maximum amount that a pharmacy benefit man- ager will reimburse a pharmacy for the cost of a drug. [(c)] (d) "Multiple source drug" means a therapeutically equivalent drug that is available from at least two manufacturers. [(d) "Network pharmacy" means a retail drug outlet registered under ORS 689.305 that contracts with a pharmacy benefit manager.] (e) "Therapeutically equivalent" has the meaning given that term in ORS 689.515.
+(2) A pharmacy benefit manager registered under ORS 735.532:
+(a) May not place a drug on a list unless there are at least two [therapeutically equivalent,] multiple source drugs, or at least one generic drug generally available for purchase [from only one manufacturer, generally available for purchase by network pharmacies from national or regional wholesalers].
+(b) Shall ensure that all drugs on a list are generally available for purchase [by pharmacies in this state from national or regional wholesalers].
+(c) Shall ensure that [all drugs] no drug on a list [are not] is obsolete.
+(d) Shall make available to each network pharmacy at the beginning of the term of a contract, and upon renewal of a contract, the [sources utilized] specific authoritative industry sources, other than proprietary sources, the pharmacy benefit manager uses to determine the maximum allowable cost [pricing of] set by the pharmacy benefit manager.
+(e) Shall make a list available to a network pharmacy upon request in a format that [is readily accessible to and usable by the network pharmacy.]:
+(A) Is electronic;
+(B) Is computer accessible and searchable;
+(C) Identifies all drugs for which maximum allowable costs have been established; and (D) For each drug specifies:
+(i) The national drug code; and (ii) The maximum allowable cost.
+(f) Shall update each list maintained by the pharmacy benefit manager every seven business days and make the updated lists, including all changes in the price of drugs, available to network phar- macies in [a readily accessible and usable format] the format described in paragraph (e) of this subsection.
+(g) Shall ensure that dispensing fees are not included in the calculation of maximum allowable cost.
+(h) May not reimburse a 340B pharmacy differently than any other network pharmacy based on its status as a 340B pharmacy.
+(i) May not retroactively deny or reduce a claim for reimbursement of the cost of ser- vices after the claim has been adjudicated by the pharmacy benefit manager unless the:
+(A) Adjudicated claim was submitted fraudulently;
+Enrolled House Bill 2185 (HB 2185-C) Page 3 (B) Pharmacy benefit manager's payment on the adjudicated claim was incorrect because the pharmacy or pharmacist had already been paid for the services;
+(C) Services were improperly rendered by the pharmacy or pharmacist; or (D) Pharmacy or pharmacist agrees to the denial or reduction prior to the pharmacy benefit manager notifying the pharmacy or pharmacist that the claim has been denied or reduced.
+(3) Subsection (2)(i) of this section may not be construed to limit pharmacy claim audits under ORS 735.540 to 735.552. [(3)] (4) A pharmacy benefit manager must establish a process by which a network pharmacy may appeal its reimbursement for a drug subject to maximum allowable cost pricing.
+A network pharmacy may appeal a maximum allowable cost if the reimbursement for the drug is less than the net amount that the network pharmacy paid to the supplier of the drug.
+The process must allow a network pharmacy a period of no less than 60 days after a claim is reimbursed in which to file the appeal.
+An appeal requested under this section must be completed within 30 calendar days of the pharmacy making the claim for which appeal has been requested.
+(5) A pharmacy benefit manager shall allow a network pharmacy to submit the doc- umentation in support of its appeal on paper or electronically and may not:
+(a) Refuse to accept an appeal submitted by a person authorized to act on behalf of the network pharmacy;
+(b) Refuse to adjudicate an appeal for the reason that the appeal is submitted along with other claims that are denied; or (c) Impose requirements or establish procedures that have the effect of unduly ob- structing or delaying an appeal. [(4)] (6) A pharmacy benefit manager must provide as part of the appeals process established under subsection [(3)] (4) of this section:
+(a) A telephone number at which a network pharmacy may contact the pharmacy benefit man- ager and speak with an individual who is responsible for processing appeals;
+(b) A final response to an appeal of a maximum allowable cost within seven business days; and (c) If the appeal is denied, the reason for the denial and the national drug code of a drug that may be purchased by similarly situated pharmacies at a price that is equal to or less than the maximum allowable cost. [(5)(a)] (7)(a) If an appeal is upheld under this section, the pharmacy benefit manager shall:
+(A) Make an adjustment for the pharmacy that requested the appeal from the date of initial adjudication forward; and (B) Allow the pharmacy to reverse the claim and resubmit an adjusted claim without any additional charges.
+(b) If the request for an adjustment has come from a critical access pharmacy, as defined by the Oregon Health Authority by rule for purposes related to the Oregon Prescription Drug Program, the adjustment approved under paragraph (a) of this subsection shall apply only to critical access pharmacies. [(6)] (8) This section does not apply to the state medical assistance program.
+(9) The Department of Consumer and Business Services may adopt rules to carry out the provisions of this section.
+SECTION 5.
+Section 2 of this 2019 Act and the amendments to ORS 735.530 and 735.534 by sections 3 and 4 of this 2019 Act apply to pharmacy benefits and to contracts between pharmacies or pharmacists and pharmacy benefit managers entered into, renewed or ex- tended on or after January 1, 2021.
+Enrolled House Bill 2185 (HB 2185-C) Page 4 Passed by House April 16, 2019 Received by Governor:
+Repassed by House June 19, 2019 ........................M.,........................................................., 2019 Approved: .................................................................................. ........................M.,........................................................., 2019 Timothy G.
+Sekerak, Chief Clerk of House .................................................................................. ..................................................................................
+Kate Brown, Governor Tina Kotek, Speaker of House Filed in Office of Secretary of State:
+Passed by Senate June 18, 2019 ........................M.,........................................................., 2019 ..................................................................................
+Peter Courtney, President of Senate ..................................................................................
+Bev Clarno, Secretary of State Enrolled House Bill 2185 (HB 2185-C) Page 5

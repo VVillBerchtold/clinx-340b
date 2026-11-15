@@ -1,0 +1,27 @@
+Enrolled Copy S.B. 140 PHARMACY BENEFIT AMENDMENTS 2021 GENERAL SESSION STATE OF UTAH Chief Sponsor:
+Evan J.
+Vickers House Sponsor:
+Steve Eliason LONG TITLE General Description:
+This bill amends provisions relating to pharmacies that are operated by or contract with a federally qualified health center.
+Highlighted Provisions:
+This bill: < defines terms; and < prohibits certain actions by a pharmacy benefit manager or third party with respect to a federally qualified health center that participates in the 340B discount drug program.
+Money Appropriated in this Bill:
+None Other Special Clauses:
+None Utah Code Sections Affected:
+ENACTS: 31A-46-310, Utah Code Annotated 1953 Be it enacted by the Legislature of the state of Utah:
+Section 1.
+Section 31A-46-310 is enacted to read: 31A-46-310.
+Prohibited actions with respect to a federally qualified health center.
+(1) As used in this section, "federally qualified health center":
+(a) means the same as that term is defined in 42 U.S.C.
+Sec. 1395x(aa)(4); and S.B. 140 Enrolled Copy (b) includes the pharmacy or pharmacies that are operated by or contract with a federally qualified health center described in Subsection (1)(a) to dispense drugs purchased through the federally qualified health center.
+(2) This section applies to a contract entered into or renewed on or after January 1, 2022, between an insurer and a pharmacy described in Subsection (1)(b).
+(3) An insurer may not vary the amount that the insurer reimburses to a federally qualified health center for a drug on the basis of whether:
+(a) the drug is a 340B drug; or (b) the pharmacy is a 340B entity.
+(4) Subsection (3) does not apply to a drug reimbursed, directly or indirectly, by the Medicaid program.
+(5) An insurer or an insurer's pharmacy service entity may not:
+(a) on the basis that a federally qualified health center participates, directly or through a contractual arrangement, in the 340B drug discount program:
+(i) assess a fee, charge-back, or other adjustment on a federally qualified health center;
+(ii) restrict access to the insurer's pharmacy network;
+(iii) require the federally qualified health center to enter into a contract with a specific pharmacy to participate in the insurer's pharmacy network;
+(iv) create a restriction or an additional charge on a patient who chooses to receive drugs from a federally qualified health center; or (v) create any additional requirements or restrictions on the federally qualified health center; or (b) require a claim for a drug to include a modifier to indicate that the drug is a 340B drug unless the claim is for payment, directly or indirectly, by the Medicaid program. -2-

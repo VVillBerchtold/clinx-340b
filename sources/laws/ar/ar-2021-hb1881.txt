@@ -1,0 +1,57 @@
+Stricken language would be deleted from and underlined language would be added to present law.
+Act 1103 of the Regular Session State of Arkansas As Engrossed:
+H4/15/21 93rd General Assembly A Bill Regular Session, 2021 HOUSE BILL 1881 By:
+Representatives M.
+Gray, Wardlaw, Murdock, V.
+Flowers By:
+Senator Rapert For An Act To Be Entitled AN ACT TO ESTABLISH THE 340B DRUG PRICING NONDISCRIMINATION ACT;
+AND FOR OTHER PURPOSES.
+Subtitle TO ESTABLISH THE 340B DRUG PRICING NONDISCRIMINATION ACT.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+SECTION 1.
+Arkansas Code Title 23, Chapter 92, is amended to add an additional subchapter to read as follows:
+Subchapter 6 - 340B Drug Pricing Nondiscrimination Act 23-92-601.
+Title.
+This subchapter shall be known and may be cited as the "340B Drug Pricing Nondiscrimination Act". 23-92-602.
+Definitions.
+As used in this subchapter:
+(1) "Patient" means an individual seeking medical diagnosis and treatment;
+(2) "Pharmacy" means the same as defined in § 17-92-101;
+(3) "Provider" means a licensed pharmacist as defined in § 17- 92-101;
+(4)(A) "Third party" means: *ANS395* 04-15-2021 11:26:49 ANS395 As Engrossed:
+H4/15/21 HB1881 (i) A payor or the payor's intermediary; or (ii) A pharmacy benefits manager.
+(B) "Third party" does not include:
+(i) The Arkansas Medicaid Program;
+(ii) A risk-based provider organization as established under the Medicaid Provider-Led Organized Care Act, § 20-77-2701 et seq.; or (iii) A self-insured governmental plan or a pharmacy benefits manager for a self-insured governmental plan; and (5) "340B drug pricing" means the program established under section 602 of the Veterans Health Care Act of 1992, Pub.
+L.
+No. 102-585. 23-92-603.
+Third-party requirements.
+A third party shall:
+(1) Inform a patient that the patient is not required to use a mail-order pharmacy;
+(2) Obtain a signed waiver from a patient before allowing the use of a mail-order pharmacy;
+(3) Make drug formulary and coverage decisions based on the third party's normal course of business;
+(4) Allow a patient the freedom to use any pharmacy or any provider the patient chooses, whether or not the pharmacy participates in 340B drug pricing; and (5) Eliminate discriminatory contracting as it relates to:
+(A) Transferring the benefit of 340B drug-pricing savings from one (1) entity, including critical access hospitals, federally qualified health centers, other hospitals, or 340B drug-pricing participants and their underserved patients, to another entity, including without limitation pharmacy benefits managers, private insurers, and managed care organizations;
+(B) Pricing that occurs when offering a lower reimbursement for a drug purchased under 340B drug pricing than for the same drug not purchased under 340B drug pricing;
+(C) Refusal to cover drugs purchased under 340B drug pricing;
+(D) Refusal to allow 340B drug-pricing pharmacies to participate in networks; and 04-15-2021 11:26:49 ANS395 As Engrossed:
+H4/15/21 HB1881 (E) Charging more than fair market value or seeking profit sharing in exchange for services involving 340B drug pricing. 23-92-604.
+Third party and pharmaceutical manufacturer - Prohibitions.
+(a) A third party shall not:
+(1) Coerce a patient into using a mail-order pharmacy;
+(2) Require a patient to use a mail-order pharmacy;
+(3) Discriminate, lower the reimbursement, or impose any separate terms upon a pharmacy in any other third party contract on the basis that a pharmacy participates in 340B drug pricing;
+(4) Require a pharmacy to reverse, resubmit, or clarify a 340B drug-pricing claim after the initial adjudication unless these actions are in the normal course of pharmacy business and not related to 340B drug pricing;
+(5) Require a billing modifier to indicate that the drug or claim is a 340B drug-pricing claim unless the drug or claim is being billed to the fee-for-service Arkansas Medicaid Program;
+(6) Modify a patient's copayment on the basis of a pharmacy's participation in 340B drug pricing;
+(7) Exclude a pharmacy from a network on the basis of the pharmacy's participation in 340B drug pricing;
+(8) Establish or set network adequacy requirements based on 340B drug pricing participation by a provider or a pharmacy; or (9) Prohibit an entity authorized to participate in 340B drug pricing or a pharmacy under contract with an entity authorized to participate in 340B drug pricing from participating in the third party's provider network on the basis of participation in 340B drug pricing.
+(b) A third party that is a pharmacy benefits manager shall not base the drug formulary or drug coverage decisions upon the 340B drug-pricing status of a drug, including price or availability, or whether a dispensing pharmacy participates in 340B drug pricing.
+(c) A pharmaceutical manufacturer shall not:
+(1) Prohibit a pharmacy from contracting or participating with an entity authorized to participate in 340B drug pricing by denying access to drugs that are manufactured by the pharmaceutical manufacturer; or (2) Deny or prohibit 340B drug pricing for an Arkansas-based community pharmacy that receives drugs purchased under a 340B drug pricing 04-15-2021 11:26:49 ANS395 As Engrossed:
+H4/15/21 HB1881 contract pharmacy arrangement with an entity authorized to participate in 340B drug pricing. 23-92-605.
+Pharmacy claims.
+All pharmacy claims processed by a pharmacy that participates in 340B drug pricing are final at the point of adjudication. 23-92-606.
+Rules.
+The Insurance Commissioner shall promulgate rules to implement this subchapter. /s/M.
+Gray APPROVED: 5/3/21 04-15-2021 11:26:49 ANS395
