@@ -2,7 +2,7 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
-## 0.5.0 (not tagged yet)
+## 0.5.0 (tagged `v0.5.0`, 15 November 2026)
 
 Adds Idaho. No Rhode Island, Vermont or Minnesota value, row or order changes, and no column is added.
 
