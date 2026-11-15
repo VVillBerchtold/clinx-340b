@@ -1,0 +1,100 @@
+page,block,row,column,value
+3,KEY HIGHLIGHTS,Total Claims Dispensed,,"1,916,995"
+3,KEY HIGHLIGHTS,Aggregate Payments Received,,$812.9M
+3,KEY HIGHLIGHTS,340B Savings to Community,,$430.6M
+3,KEY HIGHLIGHTS,Unique Covered Entities,,62
+3,CY2025 Key Financial Metrics (All Covered Entities),Payments to Contract Pharmacies,,"$46,157,189"
+3,CY2025 Key Financial Metrics (All Covered Entities),Aggregate Acquisition Cost,,"$399,146,308"
+3,CY2025 Key Financial Metrics (All Covered Entities),340B Savings Utilized,,"$430,646,950"
+3,CY2025 Key Financial Metrics (All Covered Entities),Aggregate Payments Received,,"$812,855,945"
+3,CY2025 Key Financial Metrics (All Covered Entities),axis,,"$900,000,000.00"
+3,CY2025 Key Financial Metrics (All Covered Entities),axis,,"$800,000,000.00"
+3,CY2025 Key Financial Metrics (All Covered Entities),axis,,"$700,000,000.00"
+3,CY2025 Key Financial Metrics (All Covered Entities),axis,,"$600,000,000.00"
+3,CY2025 Key Financial Metrics (All Covered Entities),axis,,"$500,000,000.00"
+3,CY2025 Key Financial Metrics (All Covered Entities),axis,,"$400,000,000.00"
+3,CY2025 Key Financial Metrics (All Covered Entities),axis,,"$300,000,000.00"
+3,CY2025 Key Financial Metrics (All Covered Entities),axis,,"$200,000,000.00"
+3,CY2025 Key Financial Metrics (All Covered Entities),axis,,"$100,000,000.00"
+3,CY2025 Key Financial Metrics (All Covered Entities),axis,,$-
+4,Section 3: Submission Overview,Total submissions received,Count,62
+4,Section 3: Submission Overview,Total submissions received,Notes,All submissions complete
+4,Section 3: Submission Overview,Total child sites,Count,689
+4,Section 3: Submission Overview,Submissions with complete status,Count,62 (100%)
+4,Section 3: Submission Overview,Submissions with complete status,Notes,Full compliance
+5,Aggregate Acquisition Cost,Commercial,Aggregate Acquisition Cost,"$181,432,809.78"
+5,Aggregate Acquisition Cost,Commercial,% of Total Cost,45.5%
+5,Aggregate Acquisition Cost,Medicare,Aggregate Acquisition Cost,"$123,723,651.05"
+5,Aggregate Acquisition Cost,Medicare,% of Total Cost,31.0%
+5,Aggregate Acquisition Cost,Medicaid,Aggregate Acquisition Cost,"$38,571,842.44"
+5,Aggregate Acquisition Cost,Medicaid,% of Total Cost,9.7%
+5,Aggregate Acquisition Cost,Self-Pay,Aggregate Acquisition Cost,"$26,402,497.12"
+5,Aggregate Acquisition Cost,Self-Pay,% of Total Cost,6.6%
+5,Aggregate Acquisition Cost,Other,Aggregate Acquisition Cost,"$15,558,352.43"
+5,Aggregate Acquisition Cost,Other,% of Total Cost,3.9%
+5,Aggregate Acquisition Cost,Uninsured,Aggregate Acquisition Cost,"$13,457,155.31"
+5,Aggregate Acquisition Cost,Uninsured,% of Total Cost,3.4%
+5,Aggregate Acquisition Cost,TOTAL,Aggregate Acquisition Cost,"$399,146,308.13"
+5,Aggregate Acquisition Cost,TOTAL,% of Total Cost,100.0%
+5,Aggregate Payments Received,Commercial,Aggregate Payments Received,"$369,837,524.44"
+5,Aggregate Payments Received,Commercial,% of Total Payments,45.5%
+5,Aggregate Payments Received,Medicare,Aggregate Payments Received,"$252,687,542.10"
+5,Aggregate Payments Received,Medicare,% of Total Payments,31.1%
+5,Aggregate Payments Received,Medicaid,Aggregate Payments Received,"$78,847,226.49"
+5,Aggregate Payments Received,Medicaid,% of Total Payments,9.7%
+5,Aggregate Payments Received,Self-Pay,Aggregate Payments Received,"$53,848,492.82"
+5,Aggregate Payments Received,Self-Pay,% of Total Payments,6.6%
+5,Aggregate Payments Received,Other,Aggregate Payments Received,"$30,834,625.73"
+5,Aggregate Payments Received,Other,% of Total Payments,3.8%
+5,Aggregate Payments Received,Uninsured,Aggregate Payments Received,"$26,800,533.32"
+5,Aggregate Payments Received,Uninsured,% of Total Payments,3.3%
+5,Aggregate Payments Received,TOTAL,Aggregate Payments Received,"$812,855,944.90"
+5,Aggregate Payments Received,TOTAL,% of Total Payments,100.0%
+6,Aggregate Payments to Contract Pharmacies,Commercial,Payments to Contract Pharmacies,"$20,983,420.92"
+6,Aggregate Payments to Contract Pharmacies,Commercial,% of Total CP Payments,45.5%
+6,Aggregate Payments to Contract Pharmacies,Medicare,Payments to Contract Pharmacies,"$14,344,528.57"
+6,Aggregate Payments to Contract Pharmacies,Medicare,% of Total CP Payments,31.1%
+6,Aggregate Payments to Contract Pharmacies,Medicaid,Payments to Contract Pharmacies,"$4,475,247.22"
+6,Aggregate Payments to Contract Pharmacies,Medicaid,% of Total CP Payments,9.7%
+6,Aggregate Payments to Contract Pharmacies,Self-Pay,Payments to Contract Pharmacies,"$3,056,015.23"
+6,Aggregate Payments to Contract Pharmacies,Self-Pay,% of Total CP Payments,6.6%
+6,Aggregate Payments to Contract Pharmacies,Other,Payments to Contract Pharmacies,"$1,749,972.96"
+6,Aggregate Payments to Contract Pharmacies,Other,% of Total CP Payments,3.8%
+6,Aggregate Payments to Contract Pharmacies,Uninsured,Payments to Contract Pharmacies,"$1,548,003.95"
+6,Aggregate Payments to Contract Pharmacies,Uninsured,% of Total CP Payments,3.4%
+6,Aggregate Payments to Contract Pharmacies,TOTAL,Payments to Contract Pharmacies,"$46,157,188.85"
+6,Aggregate Payments to Contract Pharmacies,TOTAL,% of Total CP Payments,100.0%
+6,Number of Claims by Payer Type,Commercial,Total Claims,"870,039"
+6,Number of Claims by Payer Type,Commercial,% of Total,45.4%
+6,Number of Claims by Payer Type,Medicare,Total Claims,"596,406"
+6,Number of Claims by Payer Type,Medicare,% of Total,31.1%
+6,Number of Claims by Payer Type,Medicaid,Total Claims,"185,822"
+6,Number of Claims by Payer Type,Medicaid,% of Total,9.7%
+6,Number of Claims by Payer Type,Self-Pay,Total Claims,"127,335"
+6,Number of Claims by Payer Type,Self-Pay,% of Total,6.6%
+6,Number of Claims by Payer Type,Other,Total Claims,"75,021"
+6,Number of Claims by Payer Type,Other,% of Total,3.9%
+6,Number of Claims by Payer Type,Uninsured,Total Claims,"61,979"
+6,Number of Claims by Payer Type,Uninsured,% of Total,3.2%
+6,Number of Claims by Payer Type,TOTAL,Total Claims,"1,916,995"
+6,Number of Claims by Payer Type,TOTAL,% of Total,100.0%
+7,340B Savings Utilization,Offset financial loss due to under-reimbursement from government programs,Amount Applied,"$179,839,482.89"
+7,340B Savings Utilization,Offset financial loss due to under-reimbursement from government programs,% of Total Savings,41.8%
+7,340B Savings Utilization,Offset financial loss due to providing uncompensated care,Amount Applied,"$61,298,205.88"
+7,340B Savings Utilization,Offset financial loss due to providing uncompensated care,% of Total Savings,14.2%
+7,340B Savings Utilization,Financial assistance for patients who cannot pay for care or medications,Amount Applied,"$44,787,465.67"
+7,340B Savings Utilization,Financial assistance for patients who cannot pay for care or medications,% of Total Savings,10.4%
+7,340B Savings Utilization,Prescription medication assistance programs,Amount Applied,"$16,576,436.76"
+7,340B Savings Utilization,Prescription medication assistance programs,% of Total Savings,3.8%
+7,340B Savings Utilization,Community health programs and outreach/education,Amount Applied,"$9,517,162.55"
+7,340B Savings Utilization,Community health programs and outreach/education,% of Total Savings,2.2%
+7,340B Savings Utilization,Subsidized health services provided below actual cost,Amount Applied,"$8,931,702.10"
+7,340B Savings Utilization,Subsidized health services provided below actual cost,% of Total Savings,2.1%
+7,340B Savings Utilization,Education of health professionals serving underserved populations,Amount Applied,"$4,640,886.47"
+7,340B Savings Utilization,Education of health professionals serving underserved populations,% of Total Savings,1.1%
+7,340B Savings Utilization,Programs addressing barriers to healthcare access,Amount Applied,"$1,849,356.29"
+7,340B Savings Utilization,Programs addressing barriers to healthcare access,% of Total Savings,0.4%
+7,340B Savings Utilization,Additional / Other reported uses (10 entities*),Amount Applied,"$103,206,248.74"
+7,340B Savings Utilization,Additional / Other reported uses (10 entities*),% of Total Savings,24.0%
+7,340B Savings Utilization,TOTAL,Amount Applied,"$430,646,950.35"
+7,340B Savings Utilization,TOTAL,% of Total Savings,100.0%

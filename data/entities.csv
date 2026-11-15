@@ -1,4 +1,5 @@
 entity_id,state,entity_type,name_as_filed,opais_ids_as_filed,entity_type_as_filed,city_as_filed
+id-statewide,ID,state_total,,,,
 mn-abbott-northwestern,MN,hospital,Abbott Northwestern Hospital,,Disproportionate Share Hospital,Minneapolis
 mn-cambridge,MN,hospital,Cambridge Medical Center,,Disproportionate Share Hospital,Cambridge
 mn-ccm-health,MN,hospital,CCM Health,,Critical Access Hospital,Montevideo

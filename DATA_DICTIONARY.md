@@ -2,9 +2,11 @@
 
 Every file in `data/` is UTF-8 with a header row and `\n` line ends. `340b-state-filings.json` holds the same tables in one document, with `dataset_version` and `license`. Columns ending `_as_filed` are copied from the filing without correction.
 
-Three states are in the dataset, and each record names the form it was made on (`filings.csv`, column `form`). Rhode Island's form prints schedule letters and line numbers. Vermont's page and Minnesota's tables print none, so for those states `schedule` and `line` in `line_items.csv` hold short keys assigned by this dataset (listed under `line_items.csv` below). A column that does not apply to a form is blank for that form's records; a blank is never a zero.
+Four states are in the dataset, and each record names the form it was made on (`filings.csv`, column `form`). Rhode Island's form prints schedule letters and line numbers. Vermont's page, Minnesota's tables and Idaho's report print none, so for those states `schedule` and `line` in `line_items.csv` hold short keys assigned by this dataset (listed under `line_items.csv` below). A column that does not apply to a form is blank for that form's records; a blank is never a zero.
 
 Rhode Island and Vermont records are an entity's own filing. Minnesota's are not: they are the figures the Minnesota Department of Health printed about the covered entities it names, in its report to the legislature, one figure each (the report is titled 2025 and covers 2024 data). For Minnesota, "as filed" in a column name means as printed in the State's report, and a "filing" is one printed row of the report's Appendix Table 6.1, or the statewide record. `filings.csv` column `record_kind` tells the three kinds apart.
+
+Idaho's one record is the State Controller's report of statewide totals; the entities' own filings are confidential and the report names none of them. For Idaho, "as filed" means as printed in that report.
 
 ## filings.csv
 
@@ -12,11 +14,11 @@ One row per filing.
 
 | Column | Meaning |
 |---|---|
-| `filing_id` | State, reporting year and a short name, for example `ri-2025-east-bay-cap`. Minnesota: `mn-2024-<key>`, with a key assigned by this dataset from the printed name, and `mn-2024-statewide` |
+| `filing_id` | State, reporting year and a short name, for example `ri-2025-east-bay-cap`. Minnesota: `mn-2024-<key>`, with a key assigned by this dataset from the printed name, and `mn-2024-statewide`. Idaho: `id-2025-statewide` |
 | `entity_id` | The filer, constant across years |
 | `state` | Two-letter state code |
-| `reporting_year` | The year the filing covers. Rhode Island: the calendar year. Vermont: the year of the period the page prints as `FY2025` (see `period_as_filed`). Minnesota: the data year, 2024; the report's title says 2025 |
-| `form_revision` | The form and revision, or the document's title, as printed on the pages. Minnesota: `340B Covered Entity Report, 2025` |
+| `reporting_year` | The year the filing covers. Rhode Island: the calendar year. Vermont: the year of the period the page prints as `FY2025` (see `period_as_filed`). Minnesota: the data year, 2024; the report's title says 2025. Idaho: the calendar year the report covers |
+| `form_revision` | The form and revision, or the document's title, as printed on the pages. Minnesota: `340B Covered Entity Report, 2025`. Idaho: `Idaho 340B Drug Pricing Program, Inaugural Report, Calendar Year 2025` |
 | `reporting_basis_as_filed` | Cash or accrual, as printed on the cover page. Blank for Vermont: its page prints none |
 | `recertification_date_as_filed` | As printed on the cover page. Blank for Vermont: its page prints none |
 | `corporate_address_as_filed` | As printed on the cover page. Blank for Vermont: its page prints none |
@@ -27,13 +29,13 @@ One row per filing.
 | `pdf_bytes` | Size of the PDF |
 | `page_count` | Pages in the PDF |
 | `scanned` | `true` when the PDF has no text layer |
-| `form` | The form the filing was made on: `ri-oag-340b` (Rhode Island's Form RIOAG-340B), `vt-gmcb-340b-financial` (Vermont's 340B Program Financial Reporting Detail) or `mn-mdh-340b-report` (Minnesota's report to the legislature, Appendix Tables 6.1 and 6.2). It decides the rows, units, sums and measures that apply |
+| `form` | The form the filing was made on: `ri-oag-340b` (Rhode Island's Form RIOAG-340B), `vt-gmcb-340b-financial` (Vermont's 340B Program Financial Reporting Detail) `mn-mdh-340b-report` (Minnesota's report to the legislature, Appendix Tables 6.1 and 6.2) or `id-sco-340b-report` (the Idaho State Controller's statewide report). It decides the rows, units, sums and measures that apply |
 | `status_as_filed` | The status the page prints. Vermont: `draft`. Blank for Rhode Island: its form prints none |
 | `status_notice_as_filed` | The notice that carries the status, quoted exactly as printed (its line break written as a space). Blank for Rhode Island |
 | `period_as_filed` | The period the page prints. Vermont: `FY2025`. Blank for Rhode Island |
 | `submission_as_filed` | The line the page prints about its submission. Vermont: `As Submitted to the Green Mountain Care Board in 2026`. Blank for Rhode Island |
-| `cover_page_url` | The state web page that lists the document, when the manifest records one (Vermont). Blank for Rhode Island and Minnesota |
-| `record_kind` | `filing`: an entity's own filing (Rhode Island, Vermont). `state_report_row`: one printed row of Minnesota's Table 6.1, a figure the State published about one entity. `state_report_totals`: the one record (`mn-2024-statewide`) that holds Minnesota's Table 6.2 and the report's running text around the tables; it is not an entity |
+| `cover_page_url` | The state web page that lists the document, when the manifest records one (Vermont). Blank for Rhode Island, Minnesota and Idaho |
+| `record_kind` | `filing`: an entity's own filing (Rhode Island, Vermont). `state_report_row`: one printed row of Minnesota's Table 6.1, a figure the State published about one entity. `state_report_totals`: the one record (`mn-2024-statewide`) that holds Minnesota's Table 6.2 and the report's running text around the tables; it is not an entity. Idaho's only record (`id-2025-statewide`) is of this kind: the whole statewide report |
 
 ## entities.csv
 
@@ -43,8 +45,8 @@ One row per filer.
 |---|---|
 | `entity_id` | The filer |
 | `state` | Two-letter state code |
-| `entity_type` | `health_center` or `hospital` (Rhode Island); `hospital` (Vermont). Minnesota: `hospital` when the printed type (`entity_type_as_filed`) contains the word Hospital, `other` for any other printed type, and `state_total` for the statewide record. Nothing is read into an abbreviation |
-| `name_as_filed` | The covered entity name on the cover page (Vermont: the name printed as the page's heading; Minnesota: the name in the Covered Entity Name column, with a wrapped name joined by single spaces). Blank for `mn-statewide`: the report prints no name for it |
+| `entity_type` | `health_center` or `hospital` (Rhode Island); `hospital` (Vermont). Minnesota: `hospital` when the printed type (`entity_type_as_filed`) contains the word Hospital, `other` for any other printed type, and `state_total` for the statewide record. Idaho: `state_total`. Nothing is read into an abbreviation |
+| `name_as_filed` | The covered entity name on the cover page (Vermont: the name printed as the page's heading; Minnesota: the name in the Covered Entity Name column, with a wrapped name joined by single spaces). Blank for `mn-statewide` and `id-statewide`: the reports print no name for them |
 | `opais_ids_as_filed` | The 340B ID numbers on the cover page. Blank for Vermont and Minnesota: they print none |
 | `entity_type_as_filed` | Minnesota: the 340B Covered Entity Type column, as printed (for example `Disproportionate Share Hospital`, `CHD Treatment Center`). Blank for Rhode Island, Vermont and `mn-statewide` |
 | `city_as_filed` | Minnesota: the City column, as printed. Blank for Rhode Island, Vermont and `mn-statewide` |
@@ -56,23 +58,23 @@ One row per printed row of a schedule. This is the dataset.
 | Column | Meaning |
 |---|---|
 | `filing_id` | The filing |
-| `schedule` | Rhode Island: `A` to `I`. Vermont: a key assigned by this dataset, because the page prints no schedule letters: `payments`, `acquisition`, `expenses`, `result`, or `page_note` for text the page prints below the figures. Minnesota: `table_6_1` (an entity's two figures), `table_6_2` (the totals table), or `page_note` (the report's running text around the tables) |
-| `line` | Rhode Island: the printed line number. `under_5000` is the form's one row for items each below $5,000. `total` is the printed total row. `12@p9` is a line number the filing prints a second time, with the page. `u1`, `u2` are rows printed without a number. Vermont: a key assigned by this dataset, because the page prints no line numbers (see the table below). Minnesota: a key assigned by this dataset (see below). The printed label is in `label_as_filed` |
+| `schedule` | Rhode Island: `A` to `I`. Vermont: a key assigned by this dataset, because the page prints no schedule letters: `payments`, `acquisition`, `expenses`, `result`, or `page_note` for text the page prints below the figures. Minnesota: `table_6_1` (an entity's two figures), `table_6_2` (the totals table), or `page_note` (the report's running text around the tables). Idaho: `key_highlights`, `key_financial_metrics`, `submissions`, `acquisition_cost`, `payments_received`, `contract_pharmacy_payments`, `claims`, `savings_use`, or `page_note` (see below) |
+| `line` | Rhode Island: the printed line number. `under_5000` is the form's one row for items each below $5,000. `total` is the printed total row. `12@p9` is a line number the filing prints a second time, with the page. `u1`, `u2` are rows printed without a number. Vermont: a key assigned by this dataset, because the page prints no line numbers (see the table below). Minnesota and Idaho: a key assigned by this dataset (see below). The printed label is in `label_as_filed` |
 | `row_kind` | `detail`, `below_threshold` or `total` |
-| `label_as_filed` | The row's printed description (Schedules A, C, F, H, I and total rows). Vermont: the label the page prints on every row; for a `page_note` row, the text the page prints. Minnesota: the entity name as printed (`table_6_1` rows) or the Dimension as printed (`table_6_2` rows); for a `page_note` row, the text exactly as printed, a wrapped line joined with a space |
+| `label_as_filed` | The row's printed description (Schedules A, C, F, H, I and total rows). Vermont: the label the page prints on every row; for a `page_note` row, the text the page prints. Minnesota: the entity name as printed (`table_6_1` rows) or the Dimension as printed (`table_6_2` rows); for a `page_note` row, the text exactly as printed, a wrapped line joined with a space. Idaho: the row's printed label (a payer type, a savings use, a tile's caption, a bar's label), the same way for a `page_note` row |
 | `name_as_filed` | The vendor, pharmacy, category or drug named on the row (Schedules B, D, E, G) |
 | `normalized_vendor` | One spelling for the company named (Schedules B, D, E); blank when the row names several companies or none |
 | `category` | Schedule E only: `third_party_administrator`, `referral_capture`, `consulting_audit` or `other` |
-| `description_as_filed` | Schedule E's description cell; Schedule I's explanation cell. Minnesota: the column heading the figure is printed under (`Net 340B Revenue ($)`, `% of Statewide Net 340B Revenue`, `% of Total`) |
+| `description_as_filed` | Schedule E's description cell; Schedule I's explanation cell. Minnesota: the column heading the figure is printed under (`Net 340B Revenue ($)`, `% of Statewide Net 340B Revenue`, `% of Total`). Idaho: the column heading too (for example `Aggregate Payments Received`, `% of Total Payments`); blank for a tile or a chart label, which have none |
 | `ndc_as_filed` | Schedule G's National Drug Code cell, punctuation kept |
 | `amount_as_filed` | The amount as printed, without the `$` sign. `-` is a printed dash. Blank is an empty cell. Parentheses, a minus sign and a `%` sign are kept as printed. `N/R` and `N/A` are kept as printed |
 | `amount` | The amount as a number, at the scale filed. A dash is `0`. Blank when the cell is empty or prints words (`N/A`, `N/R`). A percentage is the number without its `%` sign (`-33.30%` is `-33.30`); its `unit` says it is a percentage |
-| `unit` | What the `amount` is: `usd` (dollars), `percent` (a percentage, as printed: Minnesota's `26.1%` is `26.1`), `count` (a number of items; no `amount` is in this unit today, claim counts are in `claims`; the unit appears in `discrepancies.csv`), or `none` (the row carries no figure: a Schedule I answer, or text printed on the page). The unit is fixed by the form and the row's schedule and line |
+| `unit` | What the `amount` is: `usd` (dollars), `percent` (a percentage, as printed: Minnesota's `26.1%` is `26.1`), `count` (a number of items: Idaho's claim totals, submissions, child sites and covered entities. Rhode Island's claim counts are in `claims`, beside the amount on the same row), or `none` (the row carries no figure: a Schedule I answer, or text printed on the page, which for Idaho includes a rounded tile such as `$812.9M`, kept in `answer_as_filed`). The unit is fixed by the form and the row's schedule and line |
 | `claims_as_filed` | The claim count as printed (Schedules C and G). Empty when `claims_withheld` is not empty |
 | `claims` | The claim count as a whole number. Empty when `claims_withheld` is not empty |
 | `claims_withheld` | Empty when the claim count is published. `fewer_than_6`: the count on this row is 1 to 5 and is not republished; the filing's PDF prints it on the page in `page`. `beside_small`: the count is 6 or more and is not republished, because it would let a reader work out a `fewer_than_6` count from the printed total. See METHODS.md section 9 |
 | `answer_as_filed` | Schedule I: `YES`, `NO`, `YES and NO`, or blank |
-| `page` | The PDF page the row is printed on; the first page is 1. Minnesota: 42 to 45 |
+| `page` | The PDF page the row is printed on; the first page is 1. Minnesota: 42 to 45. Idaho: 2 to 7 |
 | `verification` | `text_and_image`, `two_image_reads`, `adjudicated` or `unreadable`. See METHODS.md section 3 |
 | `note` | A note the filer printed beside the row (`Printed note: …`), or what was seen when a row was adjudicated |
 
@@ -119,6 +121,27 @@ The statewide record (`state_report_totals`) has, for each of the six rows of Ta
 
 The statewide record also has six `page_note` rows, `note_1` to `note_6`, in the order the text is printed: the paragraph above Table 6.1 (page 42), the title of Table 6.1 (42), the "Source:" line under Table 6.1 (44), the paragraph above Table 6.2 (44), the title of Table 6.2 (44) and the "Source:" line under Table 6.2 (45). The text is in `label_as_filed`. The table's printed order is not a column: nothing in the data is a rank or a place in an order.
 
+### Idaho's keys
+
+The one record (`id-2025-statewide`) has a row for every cell the report prints. None of these keys is printed by the report; `label_as_filed` is the row's printed label and `description_as_filed` the column heading.
+
+| `schedule` | What it is | `line` | `unit` |
+|---|---|---|---|
+| `key_highlights` | The four tiles under KEY HIGHLIGHTS | `total_claims`, `covered_entities` | `count` |
+| `key_highlights` | | `payments_received`, `savings_to_community`: rounded figures such as `$812.9M`, kept as text in `answer_as_filed` | `none` |
+| `key_financial_metrics` | The four labels of the chart | `contract_pharmacy_payments`, `acquisition_cost`, `savings_utilized`, `payments_received` | `usd` |
+| `submissions` | The submissions table | `received_count`, `child_sites_count`, `complete_count` | `count` |
+| `submissions` | | `complete_pct`: the percentage printed in the same cell as `complete_count` (`62 (100%)`) | `percent` |
+| `submissions` | | `received_notes`, `complete_notes`: the words in the Notes column, in `answer_as_filed` | `none` |
+| `acquisition_cost`, `payments_received`, `contract_pharmacy_payments` | The three tables of dollars by payer type | `<payer>_amount` | `usd` |
+| `claims` | Number of Claims by Payer Type | `<payer>_claims` | `count` |
+| the four tables above | Their percentage columns | `<payer>_pct` | `percent` |
+| `savings_use` | 340B Savings Utilization | `<use>_amount` | `usd` |
+| `savings_use` | | `<use>_pct` | `percent` |
+| `page_note` | A sentence that states a figure, the chart's title, or the labels of its value axis, in `label_as_filed` | `note_1`, `note_2`, ... | `none` |
+
+`<payer>` is `commercial`, `medicare`, `medicaid`, `self_pay`, `other`, `uninsured` or `total` (the TOTAL row, `row_kind` `total`). `<use>` is `under_reimbursement`, `uncompensated_care`, `patient_financial_assistance`, `prescription_assistance`, `community_health`, `subsidized_services`, `health_professional_education`, `access_barriers`, `other_uses` or `total`; the printed wording of each is in `label_as_filed`.
+
 ## discrepancies.csv
 
 One row per place where two figures in one filing differ.
@@ -126,7 +149,7 @@ One row per place where two figures in one filing differ.
 | Column | Meaning |
 |---|---|
 | `filing_id` | The filing |
-| `rule` | The rule's short name, for example `B.total=A1`. Minnesota's rules compare figures across the report's records and sit on the record they describe (METHODS.md section 4) |
+| `rule` | The rule's short name, for example `B.total=A1`. Minnesota's rules compare figures across the report's records and sit on the record they describe (METHODS.md section 4). Idaho's are all on its one record |
 | `basis` | `form` when the form itself says the two figures agree; `comparison` when it does not and the figures are only shown together |
 | `description` | The rule in words |
 | `expected` | The figure the rule is measured against |
@@ -142,7 +165,7 @@ One row per filing and measure.
 | Column | Meaning |
 |---|---|
 | `filing_id` | The filing |
-| `measure` | `gross_margin`, `external_cost`, `external_share_of_margin`, or `schedule_e_<category>` (Rhode Island only: Vermont's page has no Schedule E). Minnesota has no measures: its tables print no acquisition cost and no payments to pharmacies or vendors, so this file has no Minnesota rows |
+| `measure` | `gross_margin`, `external_cost`, `external_share_of_margin`, or `schedule_e_<category>` (Rhode Island only: Vermont's page has no Schedule E). Minnesota has no measures: its tables print no acquisition cost and no payments to pharmacies or vendors, so this file has no Minnesota rows. Idaho has none either: its record is a statewide total |
 | `formula` | The calculation in words, naming the rows of the filing's own form |
 | `value` | The result; blank when it cannot be calculated |
 

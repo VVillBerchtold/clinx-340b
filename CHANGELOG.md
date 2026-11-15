@@ -2,6 +2,23 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
+## 0.5.0 (not tagged yet)
+
+Adds Idaho. No Rhode Island, Vermont or Minnesota value, row or order changes, and no column is added.
+
+### Added (Idaho, 0.5.0)
+
+- One record, `id-2025-statewide`: the Idaho State Controller's statewide report for calendar year 2025 under Idaho Code § 41-351 (seven pages, 62 covered entities added together, none named). `record_kind` is `state_report_totals`. 105 rows in `line_items.csv`: 90 printed cells and 15 `page_note` rows.
+- Form `id-sco-340b-report` (`src/filings340b/forms.py`) and its rules (`src/filings340b/idaho.py`): 53 in all. Three differences are listed in `discrepancies.csv`, each with a note of what the report prints.
+- `amount` now appears in the unit `count` (Idaho's claim totals, submissions, child sites and covered entities). The unit already existed in `discrepancies.csv`.
+- `sources/id/2025/` (the PDF unchanged, its manifest and page text), `transcriptions/id/2025/`, `verification/id/2025/` (the second reader's cell file and the normalised copy).
+- `tools/compare_id_image_read.py`, `tests/test_idaho.py`.
+
+### Changed (0.5.0)
+
+- `tools/extract_text.py` replaces a telephone or fax number in the saved page text with a marker, as it already does an e-mail address. Idaho's report prints an office's numbers; no other state's saved text has one, and those files are byte for byte as they were.
+- `dataset_version` in the JSON file is 0.5.0.
+
 ## 0.4.0 (tagged `v0.4.0`, 12 November 2026)
 
 The first tagged release, and the one ClinX.org is built from. A claim count of 1 to 5 is no longer republished. Described first; 0.3.0 follows it.

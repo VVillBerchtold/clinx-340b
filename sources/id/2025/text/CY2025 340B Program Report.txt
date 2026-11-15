@@ -1,0 +1,288 @@
+Calendar Year 2025
+
+
+
+
+Idaho 340B Drug
+Pricing Program
+
+Pursuant to Idaho Code § 41-351
+
+
+
+
+State Controller's Office (SCO)
+     Idaho 340B Drug Pricing Program
+                    Inaugural Report | Calendar Year 2025
+
+                               Pursuant to Idaho Code § 41-351
+
+
+Section 1: Executive Summary
+This report is submitted pursuant to Idaho Code § 41-351, which requires covered entities
+participating in the federal 340B Drug Pricing Program to annually report financial and program
+data to the Department of Health and Welfare, Office of the State Controller, and Office of the
+Attorney General. The Office of the State Controller aggregates the data and prepares a report
+for the Legislative Council. The data presented herein covers the period of January 1 through
+December 31, 2025 (Calendar Year 2025).
+
+The 340B Drug Pricing Program, established under Section 340B of the Public Health Service
+Act (42 U.S.C. § 256b), requires pharmaceutical manufacturers to provide outpatient drugs to
+eligible health care organizations and covered entities at reduced prices. The program is
+designed to stretch scarce federal resources and enable eligible organizations to provide more
+comprehensive services.
+
+Total aggregate payments received ($812.9 million) exceed aggregate acquisition costs ($399.1
+million), yielding a gross program margin of approximately $413.7 million. This margin represents
+the financial benefit generated through 340B pricing, which covered entities are required to
+document, and report how they utilize gross savings from participating in the 340B program
+under Idaho Code § 41-351.
+
+For Calendar Year 2025, Idaho covered entities collectively reported nearly 1.92 million
+prescription drugs obtained under the 340B program and dispensed to patients, generating over
+$812.9 million in aggregate payments received, while directing $430.6 million in 340B savings
+toward charity care, community benefit programs, and services for indigent patients.
+
+
+
+
+                                    P.O. Box 83720, Boise, Idaho 83720-0011
+
+                Telephone: [phone number in the PDF], e-mail: [email address in the PDF], Fax: [phone number in the PDF]
+                                    Located at 700 W. State Street, 5th Floor
+
+
+
+                                                                                                    1
+KEY HIGHLIGHTS
+
+   1,916,995                 $812.9M                     $430.6M                       62
+  Total Claims Dispensed     Aggregate Payments           340B Savings to      Unique Covered Entities
+                                  Received                  Community
+
+
+
+
+              CY2025 Key Financial Metrics (All Covered Entities)
+    $900,000,000.00
+                                                                                 $812,855,945
+    $800,000,000.00
+
+    $700,000,000.00
+
+    $600,000,000.00
+
+    $500,000,000.00
+                                                                $430,646,950
+                                             $399,146,308
+    $400,000,000.00
+
+    $300,000,000.00
+
+    $200,000,000.00
+
+       $100,000,000.00      $46,157,189
+
+                   $-
+                           Payments to        Aggregate         340B Savings      Aggregate
+                            Contract        Acquisition Cost      Utilized     Payments Received
+                           Pharmacies
+
+
+
+
+Section 2: Statutory Authority & Background
+
+Idaho Code § 41-351
+Idaho Code § 41-351 establishes the reporting framework for covered entities participating in the
+340B Drug Pricing Program operating within the State of Idaho. The statute requires each
+covered entity to submit an annual report to the Department of Health and Welfare, Office of the
+State Controller, and Office of the Attorney General, containing the following mandatory data
+elements:
+
+   •     Aggregate Acquisition Cost: The aggregate acquisition cost paid by the covered entity
+         for 340B drugs, broken down by payer type.
+   •     Aggregate Payments Received: Total payments received from all payers for 340B
+         drug claims, broken down by payer type.
+
+
+
+Idaho 340B Drug Pricing Program — CY2025 Annual Report                             Idaho Code § 41-351   2
+    •   Aggregate Payments to Contract Pharmacies: Total payments made to contract
+        pharmacies for dispensing 340B drugs, broken down by payer type.
+    •   Number of Claims by Payer Type: Total number of claims dispensed under the 340B
+        program, categorized by payer type (commercial, Medicare, Medicaid, self-pay,
+        uninsured, and others)
+    •   Use of 340B Savings: How 340B savings were applied, including charity care,
+        uncompensated care offsets, patient financial assistance, prescription assistance,
+        community health programs, and other qualifying uses.
+
+340B Drug Pricing Program
+The 340B Drug Pricing Program was created by Congress in 1992 under Section 602 of the
+Veterans Health Care Act of 1992. It requires pharmaceutical manufacturers to sell outpatient
+drugs to eligible health care organizations at discounted prices in exchange for Medicaid
+coverage of their products. The program is administered by the Health Resources and Services
+Administration (HRSA) within the U.S. Department of Health and Human Services.
+
+Eligible covered entities include federally qualified health centers (FQHCs), Ryan White HIV/AIDS
+Program grantees, disproportionate share hospitals (DSH), critical access hospitals (CAH), rural
+referral centers (RRC), sole community hospitals, children's hospitals, free-standing cancer
+hospitals, and certain other safety-net providers and federal grantee organizations. Idaho's
+participating entities represent a cross-section of these categories, serving rural, underserved,
+and indigent populations across the state.
+
+
+Section 3: Submission Overview
+For Calendar Year 2025, 62 submissions from covered entities were received. Entities that were
+registered and active on HRSA at any time during CY2025 were required to report. Covered
+entities with child sites (physically separate, off-site outpatient facility, or clinic associated or
+affiliated with the covered entity) submitted their child site data in aggregate with the parent site
+data.
+
+          Submission Metric             Count                Notes
+ Total submissions received               62       All submissions complete
+ Total child sites                       689
+ Submissions with complete status     62 (100%)    Full compliance
+
+
+Entity Types Represented
+The covered entities in Idaho submitting CY2025 data represent a diverse range of eligible 340
+entities authorized under the federal 340B program:
+
+    •   Disproportionate Share Hospitals (DSH) and regional medical centers
+    •   Federally Qualified Health Centers (FQHCs) and FQHC Look-Alikes
+    •   Rural Health Clinics and Critical Access Hospitals
+
+
+
+Idaho 340B Drug Pricing Program — CY2025 Annual Report                            Idaho Code § 41-351   3
+   •     Ryan White HIV/AIDS Program grantees
+   •     Public health districts and county health departments
+   •     Community mental health and behavioral health centers
+   •     Title X family planning entities
+
+
+Section 4: CY2025 340B Program Data
+
+Aggregate Acquisition Cost
+Idaho Code § 41-351 requires covered entities to report the aggregate acquisition cost incurred
+for 340B drugs, categorized by payer type. This represents the actual cost paid by covered
+entities to acquire 340B-priced medications. For CY2025, the total aggregate acquisition cost
+across all Idaho covered entities was $399,146,308.13. The table below summarizes
+acquisition costs by payer type:
+
+ Payer Type     Aggregate Acquisition Cost     % of Total Cost
+ Commercial                 $181,432,809.78        45.5%
+ Medicare                   $123,723,651.05        31.0%
+ Medicaid                    $38,571,842.44         9.7%
+ Self-Pay                    $26,402,497.12         6.6%
+ Other                       $15,558,352.43         3.9%
+ Uninsured                    $13,457,155.31        3.4%
+ TOTAL                     $399,146,308.13        100.0%
+
+
+Aggregate Payments Received
+Idaho Code § 41-351 requires covered entities to report aggregate payments received from all
+payers for 340B drug claims, broken down by payer type. For CY2025, the total aggregate
+payments received by all Idaho 340B covered entities was $812,855,944.90. The table below
+summarizes aggregate payments received by payer type:
+
+ Payer Type     Aggregate Payments Received      % of Total Payments
+ Commercial                   $369,837,524.44            45.5%
+ Medicare                     $252,687,542.10              31.1%
+ Medicaid                      $78,847,226.49              9.7%
+ Self-Pay                      $53,848,492.82              6.6%
+ Other                         $30,834,625.73              3.8%
+ Uninsured                     $26,800,533.32              3.3%
+ TOTAL                       $812,855,944.90             100.0%
+
+
+
+
+Idaho 340B Drug Pricing Program — CY2025 Annual Report                       Idaho Code § 41-351   4
+Aggregate Payments to Contract Pharmacies
+
+Idaho Code § 41-351 requires covered entities to report payments made to contract pharmacies
+for dispensing 340B-priced medications on their behalf. Contract pharmacies are community or
+specialty pharmacies that enter contractual arrangements with covered entities to dispense 340B
+drugs to eligible patients. For CY2025, Idaho covered entities made total aggregate payments
+to contract pharmacies of $46,157,188.85. The table below summarizes aggregate payments
+made to contract pharmacies by payer type:
+
+ Payer Type    Payments to Contract Pharmacies      % of Total CP Payments
+ Commercial                      $20,983,420.92             45.5%
+ Medicare                         $14,344,528.57            31.1%
+ Medicaid                          $4,475,247.22            9.7%
+ Self-Pay                          $3,056,015.23            6.6%
+ Other                             $1,749,972.96            3.8%
+ Uninsured                         $1,548,003.95            3.4%
+ TOTAL                            $46,157,188.85           100.0%
+
+
+Number of Claims by Payer Type
+Pursuant to Idaho Code § 41-351, covered entities are required to report the total number of
+340B drug claims dispensed, broken down by payer type. For CY2025, Idaho covered entities
+collectively reported 1,916,995 total claims across all payer categories. Commercial insurance
+was the dominant payer category, accounting for 45.4% of all claims, followed by Medicare at
+31.1%. The following table summarizes the number of claims by payer type:
+
+ Payer Type     Total Claims    % of Total
+ Commercial         870,039       45.4%
+ Medicare           596,406        31.1%
+ Medicaid            185,822       9.7%
+ Self-Pay            127,335       6.6%
+ Other                75,021       3.9%
+ Uninsured            61,979       3.2%
+ TOTAL             1,916,995     100.0%
+
+
+
+
+Idaho 340B Drug Pricing Program — CY2025 Annual Report                       Idaho Code § 41-351   5
+340B Savings Utilization
+Idaho Code § 41-351 requires covered entities to document how 340B program savings are
+directed toward charity care, community benefit, and services for the indigent. For CY2025, Idaho
+covered entities directed a total of $430,646,950.35 in 340B savings. The following table
+provides a comprehensive breakdown by category:
+
+                   Savings Use Category                      Amount Applied      % of Total Savings
+ Offset financial loss due to under-reimbursement from        $179,839,482.89          41.8%
+ government programs
+ Offset financial loss due to providing uncompensated          $61,298,205.88          14.2%
+ care
+ Financial assistance for patients who cannot pay for care     $44,787,465.67          10.4%
+ or medications
+ Prescription medication assistance programs                   $16,576,436.76          3.8%
+ Community health programs and outreach/education                $9,517,162.55         2.2%
+ Subsidized health services provided below actual cost          $8,931,702.10          2.1%
+ Education of health professionals serving underserved         $4,640,886.47            1.1%
+ populations
+ Programs addressing barriers to healthcare access              $1,849,356.29          0.4%
+ Additional / Other reported uses (10 entities*)              $103,206,248.74         24.0%
+ TOTAL                                                       $430,646,950.35          100.0%
+
+*Ten entities reported Additional/Other uses of their 340B program savings. The majority of
+other uses were for capital improvement projects, pharmacy staff salary and benefits, 340B
+program administration staff necessary for program compliance, and third-party administration
+(TPA) costs related to participating in the 340B program. Some entities reported other use of
+their savings. Idaho Code § 41-351 requires this report to remain aggregated and confidential.
+Including these details may identify individual entities and compromise confidentiality.
+
+
+Section 5: Conclusion
+The CY2025 data submitted pursuant to Idaho Code § 41-351 demonstrates that Idaho's 340B
+covered entities collectively process nearly 1.92 million claims, generating $812.9 million in
+aggregate payments received for 340B drugs from payers and patients, with an acquisition cost
+of $399.1 million for the drugs, and directs $430.6 million in 340B program savings toward
+community benefit programs.
+
+This report has been prepared by the Office of the State Controller in accordance with the
+requirements of Idaho Code § 41-351.
+
+For further questions, please contact [email address in the PDF].
+
+
+
+
+Idaho 340B Drug Pricing Program — CY2025 Annual Report                            Idaho Code § 41-351   6
+

@@ -1,0 +1,19 @@
+filing_id = "id-2025-statewide"
+entity_id = "id-statewide"
+state = "ID"
+reporting_year = 2025
+entity_type = "state_total"
+record_kind = "state_report_totals"
+source_file = "CY2025 340B Program Report.pdf"
+form = "id-sco-340b-report"
+form_revision = "Idaho 340B Drug Pricing Program, Inaugural Report, Calendar Year 2025"
+
+[cover]
+name_as_filed = ""
+corporate_address_as_filed = ""
+opais_ids_as_filed = ""
+recertification_date_as_filed = ""
+reporting_basis_as_filed = ""
+
+[printed]
+period_as_filed = "January 1 through December 31, 2025 (Calendar Year 2025)"

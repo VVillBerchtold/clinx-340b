@@ -2,11 +2,15 @@
 
 from __future__ import annotations
 
+import csv
 import hashlib
+import io
 from collections.abc import Callable
 from pathlib import Path
 
 import pytest
+
+from filings340b.forms import ID_CELLS, ID_PAYER_TABLES, ID_PAYERS, ID_SAVINGS_USES
 
 HEADER = (
     "schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,"
@@ -357,6 +361,146 @@ def make_mn_repo(tmp_path: Path) -> Maker:
                 body = body.replace(old, new)
             (folder / f"zm-2024-{key}.meta.toml").write_text(meta, encoding="utf-8")
             (folder / f"zm-2024-{key}.csv").write_text(body, encoding="utf-8")
+        reference = tmp_path / "reference"
+        reference.mkdir(exist_ok=True)
+        (reference / "vendors.csv").write_text(
+            "normalized_name,vendor_type,alias_as_filed\n", encoding="utf-8"
+        )
+        (reference / "categories.csv").write_text(
+            "filing_id,schedule,line,category\n", encoding="utf-8"
+        )
+        (reference / "discrepancy_notes.csv").write_text(
+            "filing_id,rule,note\n" + notes, encoding="utf-8"
+        )
+        return tmp_path
+
+    return make
+
+
+# A made-up Idaho-style report (state ZD, not a real place): one statewide record whose
+# tables add up, whose percentages are the rows over their totals, and whose tiles and
+# chart labels are the table totals rounded. Every rule holds. Page 1 is a cover.
+ID_SHARES = (40, 30, 10, 10, 5, 5)
+ID_TABLE_TOTALS = {
+    "acquisition_cost": 10_000_000,
+    "payments_received": 20_000_000,
+    "contract_pharmacy_payments": 1_000_000,
+    "claims": 200_000,
+}
+ID_SAVINGS_SHARES = (30, 20, 10, 10, 10, 5, 5, 5, 5)
+ID_SAVINGS_TOTAL = 10_000_000
+ID_OTHER_CELLS = {
+    ("key_highlights", "total_claims"): "200,000",
+    ("key_highlights", "payments_received"): "$20.0M",
+    ("key_highlights", "savings_to_community"): "$10.0M",
+    ("key_highlights", "covered_entities"): "8",
+    ("key_financial_metrics", "contract_pharmacy_payments"): "$1,000,000",
+    ("key_financial_metrics", "acquisition_cost"): "$10,000,000",
+    ("key_financial_metrics", "savings_utilized"): "$10,000,000",
+    ("key_financial_metrics", "payments_received"): "$20,000,000",
+    ("submissions", "received_count"): "8",
+    ("submissions", "received_notes"): "All submissions complete",
+    ("submissions", "child_sites_count"): "30",
+    ("submissions", "complete_count"): "8",
+    ("submissions", "complete_pct"): "100%",
+    ("submissions", "complete_notes"): "Full compliance",
+}
+ID_NOTES = ("Made-up report of statewide totals.", "Source: Made-up analysis.")
+ID_META = (
+    'filing_id = "zd-2025-statewide"\nentity_id = "zd-statewide"\nstate = "ZD"\n'
+    'reporting_year = 2025\nentity_type = "state_total"\nrecord_kind = "state_report_totals"\n'
+    'source_file = "report.pdf"\nform = "id-sco-340b-report"\n'
+    'form_revision = "Made-up report"\n\n[cover]\n'
+    'name_as_filed = ""\ncorporate_address_as_filed = ""\nopais_ids_as_filed = ""\n'
+    'recertification_date_as_filed = ""\nreporting_basis_as_filed = ""\n\n[printed]\n'
+    'period_as_filed = "A made-up year"\n'
+)
+
+
+def _id_values() -> dict[tuple[str, str], str]:
+    """Return {(schedule, line): the cell as printed} for the made-up report."""
+    values = dict(ID_OTHER_CELLS)
+    payers = [key for key, _ in ID_PAYERS]
+    for schedule, figure, _, unit, _ in ID_PAYER_TABLES:
+        total = ID_TABLE_TOTALS[schedule]
+        for payer, share in zip(payers, (*ID_SHARES, 100), strict=True):
+            part = total * share // 100
+            values[(schedule, f"{payer}_{figure}")] = (
+                f"{part:,}" if unit == "count" else f"${part:,}.00"
+            )
+            values[(schedule, f"{payer}_pct")] = f"{share}.0%"
+    uses = [key for key, _ in ID_SAVINGS_USES]
+    for use, share in zip(uses, (*ID_SAVINGS_SHARES, 100), strict=True):
+        values[("savings_use", f"{use}_amount")] = f"${ID_SAVINGS_TOTAL * share // 100:,}.00"
+        values[("savings_use", f"{use}_pct")] = f"{share}.0%"
+    return values
+
+
+def _id_rows() -> list[dict[str, str]]:
+    values = _id_values()
+    rows = [
+        {
+            "schedule": schedule,
+            "line": line,
+            "row_kind": "total" if label == "TOTAL" else "detail",
+            "label_as_filed": label,
+            "description_as_filed": column,
+            "amount_as_filed": "" if unit == "none" else values[(schedule, line)],
+            "answer_as_filed": values[(schedule, line)] if unit == "none" else "",
+            "page": "2",
+        }
+        for schedule, line, label, column, unit in ID_CELLS
+    ]
+    rows += [
+        {"schedule": "page_note", "line": f"note_{n}", "label_as_filed": text, "page": "2"}
+        for n, text in enumerate(ID_NOTES, start=1)
+    ]
+    return rows
+
+
+@pytest.fixture
+def make_id_repo(tmp_path: Path) -> Maker:
+    """Return a function that writes a made-up Idaho-style repository.
+
+    ``edits`` is (old, new) text replaced in the record's rows; ``notes`` is the text of
+    ``discrepancy_notes.csv`` after its header. The page text is written from the clean
+    rows, so an edit is a figure the page does not print.
+    """
+
+    def make(edits: tuple[str, str] | None = None, notes: str = "") -> Path:
+        sources = tmp_path / "sources" / "zd" / "2025"
+        (sources / "text").mkdir(parents=True, exist_ok=True)
+        pdf = b"%PDF-made-up statewide report\n"
+        (sources / "report.pdf").write_bytes(pdf)
+        (sources / "manifest.csv").write_text(
+            "file_name,source_url,retrieved_at,sha256,size_bytes,page_count,scanned\n"
+            f"report.pdf,https://example.invalid/report.pdf,2026-01-01T00:00:00Z,"
+            f"{hashlib.sha256(pdf).hexdigest()},{len(pdf)},2,false\n",
+            encoding="utf-8",
+        )
+        rows = _id_rows()
+        printed = [
+            f"{r['label_as_filed']} {r.get('amount_as_filed', '')} {r.get('answer_as_filed', '')}"
+            for r in rows
+        ]
+        (sources / "text" / "report.txt").write_text(
+            "Cover\n\f" + "\n".join(printed) + "\n\f", encoding="utf-8"
+        )
+        handle = io.StringIO()
+        writer = csv.DictWriter(
+            handle, fieldnames=HEADER.split(","), restval="", lineterminator="\n"
+        )
+        writer.writeheader()
+        writer.writerows({**r, "row_kind": r.get("row_kind", "detail")} for r in rows)
+        body = handle.getvalue().replace(",2,,\n", ",2,text_and_image,\n")
+        if edits:
+            old, new = edits
+            assert old in body, old
+            body = body.replace(old, new)
+        folder = tmp_path / "transcriptions" / "zd" / "2025"
+        folder.mkdir(parents=True, exist_ok=True)
+        (folder / "zd-2025-statewide.meta.toml").write_text(ID_META, encoding="utf-8")
+        (folder / "zd-2025-statewide.csv").write_text(body, encoding="utf-8")
         reference = tmp_path / "reference"
         reference.mkdir(exist_ok=True)
         (reference / "vendors.csv").write_text(

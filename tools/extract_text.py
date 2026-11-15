@@ -7,9 +7,9 @@ Needs ``pdftotext`` from Poppler on the PATH. The text files are committed so
 the text check runs anywhere without a PDF tool; this script exists so anyone
 can regenerate them and see that they come from the archived PDFs.
 
-One thing is changed on the way: an email address is replaced with a marker.
-The filings are signed by named people, and the PDFs keep their details; the
-searchable text here does not need them.
+Two things are changed on the way: an email address is replaced with a marker,
+and so is a telephone or fax number. The filings are signed by named people, and
+the PDFs keep their details; the searchable text here does not need them.
 
 With ``--pages N-M`` only those pages keep their text; every other page is left
 empty (the form feeds that separate pages stay, so page numbers do not move).
@@ -28,6 +28,9 @@ from pathlib import Path
 
 EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 EMAIL_MARKER = "[email address in the PDF]"
+# A North American number: three digits (in brackets or not), three, then four.
+PHONE = re.compile(r"(?<![\d-])\(?\d{3}\)?[-. ]\d{3}[-. ]\d{4}(?![\d-])")
+PHONE_MARKER = "[phone number in the PDF]"
 
 
 def extract(folder: Path, pages: tuple[int, int] | None = None) -> list[str]:
@@ -63,7 +66,8 @@ def extract(folder: Path, pages: tuple[int, int] | None = None) -> list[str]:
                 page if pages[0] <= number <= pages[1] else ""
                 for number, page in enumerate(kept, start=1)
             )
-        target.write_text(EMAIL.sub(EMAIL_MARKER, text), encoding="utf-8")
+        text = PHONE.sub(PHONE_MARKER, EMAIL.sub(EMAIL_MARKER, text))
+        target.write_text(text, encoding="utf-8")
         written.append(target.name)
     return written
 

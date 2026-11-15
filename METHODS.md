@@ -26,6 +26,10 @@ Only Appendix 6 (PDF pages 42 to 45) is transcribed. The text layer of those fou
 
 The Minnesota report prints no corporate address, 340B ID numbers, recertification date, reporting basis, status or period in the tables. Those columns are blank for Minnesota.
 
+**Idaho.** Idaho is a third kind of source. Idaho Code § 41-351 has each covered entity report yearly to the State, keeps those reports confidential, and has the State Controller's Office publish a report that adds them together before November 15 of each year. What is public, and what this dataset holds, is that report: "Idaho 340B Drug Pricing Program, Inaugural Report, Calendar Year 2025", seven pages, linked as "340B Program Reporting" on the Transparent Idaho website (<https://transparent.idaho.gov/featured-resources>) and retrieved on 15 November 2026 (UTC; the time is in the manifest) from the address in `sources/id/2025/manifest.csv`. It is archived unchanged in `sources/id/2025/`. The report covers January 1 through December 31, 2025 and says it adds together 62 submissions. It names no covered entity, so the dataset has no Idaho row for any single entity.
+
+The text layer of all seven pages is saved in `sources/id/2025/text/`. The report prints the State Controller's Office telephone number, fax number and e-mail address; in the saved text each is replaced with a marker (`tools/extract_text.py`). The PDF is unchanged.
+
 ## 2. What is transcribed
 
 Every printed row of Schedules A to I, one row of data per printed row. For each row the dataset keeps:
@@ -78,6 +82,12 @@ Amounts: `334,683,472` is `334683472`; `26.1%` is `26.1` with `unit` `percent`; 
 
 Not transcribed for Minnesota: the rest of the report, including its cover letter, its main text and its other appendices. Where the report's tables print an entity's name, that is the only name the dataset holds. This dataset holds no person's name, email address or phone number.
 
+**Idaho.** The whole report is one record, `id-2025-statewide` (`record_kind` is `state_report_totals`, `entity_type` is `state_total`). Every cell the report prints in a table, a highlight tile or its chart is one row, under schedule and line keys this dataset assigns (DATA_DICTIONARY.md lists them): the four highlight tiles, the four labels of the chart, the submissions table, the four tables by payer type (acquisition cost, payments received, payments to contract pharmacies, number of claims) and the table of how savings were used. `label_as_filed` is the row's printed label and `description_as_filed` the column heading. Each printed percentage is a row of its own.
+
+Three things are kept in a particular way, each said on the row. The two money tiles print rounded figures with a letter (`$812.9M`, `$430.6M`); they are kept as text in `answer_as_filed`, with no `amount`, so the dataset never turns a rounded figure into dollars. One cell of the submissions table prints a count and a percentage together, `62 (100%)`; it is two rows, the count and the percentage, and each row's `note` gives the cell as printed. The words in the Notes column of that table are rows with no figure.
+
+Sentences of the report that state a figure, the chart's title and the labels of its value axis are `page_note` rows, exactly as printed (a wrapped line is joined with a space), so that every figure printed on a page is carried by a row. The period the report states is in `period_as_filed`. Not transcribed: the rest of the running text (the description of the federal program and of the statute, and the list of entity types).
+
 ## 3. How each figure was checked
 
 Three separate checks stand behind every published figure. A row that has not passed them cannot be published: the build refuses it.
@@ -104,6 +114,8 @@ In the Rhode Island 2025 release the two reads agreed on every one of the 2,989 
 In the Vermont 2025 release a separate reader was given only the 13 page images and wrote down every figure row it saw, in printed order, with the label and the value as printed (`tools/compare_vt_image_read.py` keeps a normalised copy in `verification/vt/2025/`). The comparison for Vermont is stricter than the shared one: it also counts a parenthesis, a minus sign and a `%` sign, so a figure read as positive where the page prints it in parentheses would be a difference. The two reads agreed on all 157 rows (13 times 12 figure rows, and the one `page_note` row, whose text was matched with the reader's notes). All 157 are marked `text_and_image`. None was adjudicated and none is unreadable.
 
 In the Minnesota 2024 release a separate reader was given only the page images of PDF pages 42 to 45, with no access to the PDF's text or to the transcription, and wrote down every cell of Table 6.1 (name, type, city, net revenue, percent) and Table 6.2 (dimension, net revenue, percent), with the running text around the tables. The image of page 45, where Table 6.2 continues, was read by a separate reader in a separate job. `tools/compare_mn_image_read.py` keeps a normalised copy of both reads in `verification/mn/2024/` and compares every name, type, city and figure with the transcription exactly as printed, apart from the `$` sign and runs of spaces (stricter than the shared comparison: a `%` sign, a comma or an apostrophe that differs is a difference). A record whose name, type or city differs from the read, or a figure the reader marked `?`, would stay `unverified` and unbuilt. The two reads agreed on all 26 Table 6.1 rows (name, type, city, both figures), on all six Table 6.2 rows (both figures; three rows on page 44 and three on page 45), and the six page notes were found word for word in the reader's notes. All 70 rows are marked `text_and_image`. None was adjudicated and none is unreadable. For Minnesota, `filings340b textcheck` pools the records that are rows of one PDF page: a figure printed on page 43 counts as carried when any record of the report carries it.
+
+In the Idaho 2025 release a separate reader was given only the pictures of the seven pages, with no access to the PDF's text or to the transcription, and wrote down every cell of every table, tile and chart, with its row label and column heading, and the running text of each page. `tools/compare_id_image_read.py` pairs each row with the reader's cell on the same page with the same label and heading, compares the two exactly as printed apart from the `$` sign and spaces, lists any cell the reader wrote that no row carries, and keeps a normalised copy in `verification/id/2025/` beside the reader's own cell file (`id-2025-statewide.second-read.csv`). A `page_note` row counts as agreeing only when its exact text is in the reader's running text, is the heading the reader gave a chart, or is the reader's axis labels in order. The two reads agreed on all 105 rows (90 cells and 15 `page_note` rows), and the reader wrote no cell that is not carried. All 105 are marked `text_and_image`. None was adjudicated and none is unreadable.
 
 Limits of these checks. Check 2 covers figures and marks: amounts, claim counts, and Schedule I answers. Names and labels come from the PDF's text, and for the scanned filing from one read of the image. Where a drug name is clipped by the form's cell, the dataset keeps the text the PDF holds.
 
@@ -166,6 +178,22 @@ When the two figures differ, nothing is changed. The difference is listed in `da
 
 The Minnesota 2024 data lists seven differences: three under a `form` rule, all on the statewide record (Table 6.1 prints 26 rows where the paragraph above it states 25; the Table 6.1 rows add up to 1,152,403,308 where Table 6.2 prints 1,152,403,307; the adjusted rows add up to 1,340,270,965 where Table 6.2 prints 1,340,270,964), and four under the entity percentage `comparison` (Abbott Northwestern Hospital, CentraCare - Rice Memorial Hospital, M Health Fairview - University of Minnesota Medical Center and Regions Hospital, each 0.1 percentage points below the comparison). The other 22 entity rows hold, and so do the unadjusted rows of Table 6.2 and all six of its percentage comparisons.
 
+**Idaho.** Every rule is on the one statewide record.
+
+| Rule | Basis | What is compared |
+|---|---|---|
+| `<table>.rows=total` | `form` | For each of the four payer tables and the savings table: the rows above the TOTAL row added together, beside the TOTAL row |
+| `<table>.<row>_pct=<row>/total` | `comparison` | Each printed percentage beside the row's figure divided by the table's TOTAL, times 100, at the printed precision |
+| `submissions.complete_pct=complete/received` | `comparison` | The percentage printed beside Submissions with complete status, beside that count divided by Total submissions received |
+| `key_highlights.total_claims=claims.total` and `key_highlights.covered_entities=submissions.received` | `comparison` | A count tile beside the table figure of the same name |
+| `key_highlights.payments_received=payments_received.total` and `key_highlights.savings_to_community=savings_use.total` | `comparison` | A money tile, a rounded figure in millions, beside the table's TOTAL rounded the same way |
+| `key_financial_metrics.<label>=<table>.total` | `comparison` | Each of the chart's four labels beside the table TOTAL of the same name, to the whole dollar |
+| `savings_use.total=payments_received.total-acquisition_cost.total` | `comparison` | The TOTAL of 340B Savings Utilization beside payments received less acquisition cost, the difference the report's summary calls the gross program margin. The report does not say the two agree |
+
+The percentage columns are not added up: each percentage is printed to one decimal.
+
+The Idaho 2025 data lists three differences. Two are under a `form` rule: the six payer rows of Number of Claims by Payer Type add up to 1,916,602 where the TOTAL row prints 1,916,995, and the nine rows of 340B Savings Utilization add up to 430,646,947.35 where the TOTAL row prints 430,646,950.35. One is under a `comparison`: the savings TOTAL, 430,646,950.35, beside payments received less acquisition cost, 413,709,636.77. The other 50 rules hold.
+
 Schedule G's amount total is not compared with Schedule A line 1. The form does not say they agree, and the filings describe Schedule G's amounts in more than one way.
 
 ## 5. Measures
@@ -189,6 +217,8 @@ Measures use the Schedule A figures as filed, including where a supporting sched
 
 **Minnesota has no measures.** Its tables print no acquisition cost and no payments to pharmacies or vendors, so `gross_margin`, `external_cost` and `external_share_of_margin` do not exist for it, and `measures.csv` has no Minnesota rows. Net revenue and its share of the statewide figure are the State's published figures, kept in `line_items.csv`, not measures calculated here.
 
+**Idaho has no measures.** Its one record is a statewide total and the measures compare covered entities, so `measures.csv` has no Idaho rows. The report's own totals, and the margin its summary describes, are in `line_items.csv` and `discrepancies.csv` as printed.
+
 Internal 340B Program Expenses is not part of `external_cost`. The Rhode Island Schedule E category measures do not exist for Vermont, which has no such schedule. One Vermont filing (Northwestern Medical Center) has a gross margin below zero, so its share is blank. The measures use the printed Total 340B Payments Received, including where a total differs from its rows. The chart in the README is Rhode Island's by design; Vermont's measures are in `data/measures.csv`; Minnesota has none.
 
 **Why two filers' shares are not directly comparable.** A filer that dispenses through its own pharmacy carries the cost of dispensing in its own staffing and expenses. A filer that relies on contract pharmacies pays for dispensing on Schedule A line 3. The same activity therefore appears inside the margin for one filer and as an external cost for another. Line 3 also counts every pharmacy a filer lists on Schedule D, whoever owns it. Filers also differ in reporting basis (cash or accrual, shown in `data/filings.csv`) and in how they describe the period their figures cover; several print notes about this, which are kept. For these reasons the dataset lists filings alphabetically within health centers and hospitals and does not rank them.
@@ -203,11 +233,11 @@ The same holds for Vermont's hospitals: the filings are made by different hospit
 
 ## 7. Rebuilding
 
-`filings340b build` writes every file in `data/` from the archived PDFs' manifest, the transcriptions and the reference files. Each filing names its form (`form` in its `.meta.toml` file), and the form decides which rows may appear, their units, and which sums and measures apply; nothing is assumed from the state. Each record also has a `record_kind` (`meta.toml`, `record_kind`): `filing` for an entity's own filing (Rhode Island, Vermont; the default), `state_report_row` for a row the State published about one entity (each Minnesota Table 6.1 row), and `state_report_totals` for the one record that holds the State's totals and running text (`mn-2024-statewide`). The form says which kinds it allows. It uses no clock and no network, so the same inputs always give the same bytes. `filings340b check` rebuilds in memory and compares; continuous integration runs it on every change.
+`filings340b build` writes every file in `data/` from the archived PDFs' manifest, the transcriptions and the reference files. Each filing names its form (`form` in its `.meta.toml` file), and the form decides which rows may appear, their units, and which sums and measures apply; nothing is assumed from the state. Each record also has a `record_kind` (`meta.toml`, `record_kind`): `filing` for an entity's own filing (Rhode Island, Vermont; the default), `state_report_row` for a row the State published about one entity (each Minnesota Table 6.1 row), and `state_report_totals` for the one record that holds the State's totals and running text (`mn-2024-statewide`, and Idaho's only record, `id-2025-statewide`). The form says which kinds it allows. It uses no clock and no network, so the same inputs always give the same bytes. `filings340b check` rebuilds in memory and compares; continuous integration runs it on every change.
 
 ## 8. Versions
 
-The dataset follows semantic versioning. A correction to a published figure is a patch release and is listed in the changelog with the filing, schedule and line. A new state or year is a minor release (0.2.0 added Vermont, 0.3.0 added Minnesota). A change to a column's meaning is a major release.
+The dataset follows semantic versioning. A correction to a published figure is a patch release and is listed in the changelog with the filing, schedule and line. A new state or year is a minor release (0.2.0 added Vermont, 0.3.0 added Minnesota, 0.5.0 added Idaho). A change to a column's meaning is a major release.
 
 ## 9. Small claim counts
 

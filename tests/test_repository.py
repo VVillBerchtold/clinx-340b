@@ -13,7 +13,7 @@ from pathlib import Path
 import pytest
 
 from filings340b.build import build_outputs, stale_outputs
-from filings340b.forms import MN_FORM, RI_FORM, UNITS, VT_FORM, VT_LINES
+from filings340b.forms import ID_FORM, MN_FORM, RI_FORM, UNITS, VT_FORM, VT_LINES
 from filings340b.imageread import compare, image_read_file, read_image_read, unsupported_marks
 from filings340b.load import load_filings
 from filings340b.model import PUBLISHABLE, Basis, Filing, Verification
@@ -444,8 +444,8 @@ def test_no_person_or_phone_number_is_in_vermonts_files() -> None:
                 assert phone.search(json.dumps(row).encode()) is None, row
 
 
-def test_all_three_forms_are_in_use(filings: tuple[Filing, ...]) -> None:
-    assert {f.meta.form for f in filings} == {RI_FORM, VT_FORM, MN_FORM}
+def test_every_form_is_in_use(filings: tuple[Filing, ...]) -> None:
+    assert {f.meta.form for f in filings} == {RI_FORM, VT_FORM, MN_FORM, ID_FORM}
 
 
 # --- Vermont does not move either -----------------------------------------------
@@ -557,7 +557,9 @@ def test_every_filing_has_a_record_kind() -> None:
         "state_report_row",
         "state_report_totals",
     }
-    assert sum(1 for k in kinds.values() if k == "state_report_totals") == 1
+    assert {k for fid, k in kinds.items() if fid.startswith("id-")} == {"state_report_totals"}
+    # One statewide record each for Minnesota and Idaho.
+    assert sum(1 for k in kinds.values() if k == "state_report_totals") == 2
 
 
 # --- Minnesota, 2024 data (the report titled 2025) -----------------------------
@@ -920,3 +922,181 @@ def test_no_person_email_or_phone_number_is_in_minnesotas_files() -> None:
         for row in _rows(name):
             if str(row.get("filing_id", row.get("entity_id", ""))).startswith("mn-"):
                 assert phone.search(json.dumps(row).encode()) is None, row
+
+
+# --- Idaho, calendar year 2025 (the State Controller's first report) -----------
+# Worked by hand from the printed pages: each table's rows in printed order, figure then
+# percentage, with the PDF page the table is on.
+IDAHO_PAYERS = ("commercial", "medicare", "medicaid", "self_pay", "other", "uninsured", "total")
+IDAHO_TABLES = {
+    "acquisition_cost": (
+        5,
+        "amount",
+        ("$181,432,809.78", "45.5%"),
+        ("$123,723,651.05", "31.0%"),
+        ("$38,571,842.44", "9.7%"),
+        ("$26,402,497.12", "6.6%"),
+        ("$15,558,352.43", "3.9%"),
+        ("$13,457,155.31", "3.4%"),
+        ("$399,146,308.13", "100.0%"),
+    ),
+    "payments_received": (
+        5,
+        "amount",
+        ("$369,837,524.44", "45.5%"),
+        ("$252,687,542.10", "31.1%"),
+        ("$78,847,226.49", "9.7%"),
+        ("$53,848,492.82", "6.6%"),
+        ("$30,834,625.73", "3.8%"),
+        ("$26,800,533.32", "3.3%"),
+        ("$812,855,944.90", "100.0%"),
+    ),
+    "contract_pharmacy_payments": (
+        6,
+        "amount",
+        ("$20,983,420.92", "45.5%"),
+        ("$14,344,528.57", "31.1%"),
+        ("$4,475,247.22", "9.7%"),
+        ("$3,056,015.23", "6.6%"),
+        ("$1,749,972.96", "3.8%"),
+        ("$1,548,003.95", "3.4%"),
+        ("$46,157,188.85", "100.0%"),
+    ),
+    "claims": (
+        6,
+        "claims",
+        ("870,039", "45.4%"),
+        ("596,406", "31.1%"),
+        ("185,822", "9.7%"),
+        ("127,335", "6.6%"),
+        ("75,021", "3.9%"),
+        ("61,979", "3.2%"),
+        ("1,916,995", "100.0%"),
+    ),
+}
+IDAHO_SAVINGS = (
+    ("under_reimbursement", "$179,839,482.89", "41.8%"),
+    ("uncompensated_care", "$61,298,205.88", "14.2%"),
+    ("patient_financial_assistance", "$44,787,465.67", "10.4%"),
+    ("prescription_assistance", "$16,576,436.76", "3.8%"),
+    ("community_health", "$9,517,162.55", "2.2%"),
+    ("subsidized_services", "$8,931,702.10", "2.1%"),
+    ("health_professional_education", "$4,640,886.47", "1.1%"),
+    ("access_barriers", "$1,849,356.29", "0.4%"),
+    ("other_uses", "$103,206,248.74", "24.0%"),
+    ("total", "$430,646,950.35", "100.0%"),
+)
+# The tiles, the chart labels and the submissions table: (schedule, line, cell, page).
+IDAHO_OTHER_CELLS = (
+    ("key_highlights", "total_claims", "1,916,995", 3),
+    ("key_highlights", "payments_received", "$812.9M", 3),
+    ("key_highlights", "savings_to_community", "$430.6M", 3),
+    ("key_highlights", "covered_entities", "62", 3),
+    ("key_financial_metrics", "contract_pharmacy_payments", "$46,157,189", 3),
+    ("key_financial_metrics", "acquisition_cost", "$399,146,308", 3),
+    ("key_financial_metrics", "savings_utilized", "$430,646,950", 3),
+    ("key_financial_metrics", "payments_received", "$812,855,945", 3),
+    ("submissions", "received_count", "62", 4),
+    ("submissions", "received_notes", "All submissions complete", 4),
+    ("submissions", "child_sites_count", "689", 4),
+    ("submissions", "complete_count", "62", 4),
+    ("submissions", "complete_pct", "100%", 4),
+    ("submissions", "complete_notes", "Full compliance", 4),
+)
+IDAHO_URL = (
+    "https://idaho-sco-central-registry-documents.s3.us-gov-west-1.amazonaws.com/"
+    "340B+Program+Reports/CY2025+340B+Program+Report.pdf"
+)
+
+
+def _idaho(filings: tuple[Filing, ...]) -> Filing:
+    (record,) = [f for f in filings if f.meta.state == "ID"]
+    return record
+
+
+def test_idaho_2025_is_one_statewide_record_of_the_whole_report(
+    filings: tuple[Filing, ...],
+) -> None:
+    f = _idaho(filings)
+    assert (f.meta.filing_id, f.meta.entity_id) == ("id-2025-statewide", "id-statewide")
+    assert (f.meta.entity_type, f.meta.record_kind) == ("state_total", "state_report_totals")
+    assert (f.meta.form, f.meta.reporting_year, f.source.page_count) == (ID_FORM, 2025, 7)
+    assert f.source.source_url == IDAHO_URL
+    assert f.meta.period_as_filed == "January 1 through December 31, 2025 (Calendar Year 2025)"
+    # The report names no covered entity, and the record has no name of its own.
+    assert f.meta.name_as_filed == ""
+    assert all(r.verification is Verification.TEXT_AND_IMAGE for r in f.rows)
+
+
+def test_idaho_2025_carries_every_printed_cell_as_printed(filings: tuple[Filing, ...]) -> None:
+    f = _idaho(filings)
+    cells = {
+        (r.schedule, r.line): (r.amount_as_filed or r.answer_as_filed, r.page)
+        for r in f.rows
+        if r.schedule != "page_note"
+    }
+    expected: dict[tuple[str, str], tuple[str, int]] = {
+        (schedule, line): (cell, page) for schedule, line, cell, page in IDAHO_OTHER_CELLS
+    }
+    for schedule, (page, figure, *printed) in IDAHO_TABLES.items():
+        for payer, (amount, pct) in zip(IDAHO_PAYERS, printed, strict=True):
+            expected[(schedule, f"{payer}_{figure}")] = (amount, page)
+            expected[(schedule, f"{payer}_pct")] = (pct, page)
+    for use, amount, pct in IDAHO_SAVINGS:
+        expected[("savings_use", f"{use}_amount")] = (amount, 7)
+        expected[("savings_use", f"{use}_pct")] = (pct, 7)
+    assert cells == expected
+    assert len(cells) == 90
+    assert sum(1 for r in f.rows if r.schedule == "page_note") == 15
+
+
+def test_idaho_has_the_differences_it_has_and_no_others() -> None:
+    found = {
+        d["rule"]: (d["expected"], d["filed"], d["difference"], d["unit"], d["basis"])
+        for d in _rows("discrepancies.csv")
+        if d["filing_id"] == "id-2025-statewide"
+    }
+    assert found == {
+        "claims.rows=total": ("1916602", "1916995", "393", "count", "form"),
+        "savings_use.rows=total": ("430646947.35", "430646950.35", "3.00", "usd", "form"),
+        "savings_use.total=payments_received.total-acquisition_cost.total": (
+            "413709636.77",
+            "430646950.35",
+            "16937313.58",
+            "usd",
+            "comparison",
+        ),
+    }
+    assert not [m for m in _rows("measures.csv") if m["filing_id"].startswith("id-")]
+
+
+def test_idaho_source_and_image_read(filings: tuple[Filing, ...]) -> None:
+    folder = ROOT / "sources" / "id" / "2025"
+    (record,) = list(csv.DictReader((folder / "manifest.csv").open(newline="", encoding="utf-8")))
+    assert (
+        hashlib.sha256((folder / record["file_name"]).read_bytes()).hexdigest() == record["sha256"]
+    )
+    assert record["sha256"] == "ec161332907f5abccbe4cc36ce2abf0bbb5c453cde87a43630288c528856b0b8"
+    f = _idaho(filings)
+    read = read_image_read(image_read_file(ROOT, f))
+    assert compare(f, read) == []
+    # The second reader's own cell file is kept beside the normalised copy, as typed.
+    second = ROOT / "verification" / "id" / "2025" / "id-2025-statewide.second-read.csv"
+    typed = list(csv.DictReader(second.open(newline="", encoding="utf-8")))
+    assert len([c for c in typed if c["row"] != "axis"]) == 89
+
+
+def test_no_email_address_or_phone_number_is_in_idahos_files() -> None:
+    # The PDF itself is archived unchanged; the text saved from it has markers instead.
+    email = re.compile(rb"[\w.+-]+@[\w-]+\.[\w.]+")
+    phone = re.compile(rb"\(?\b\d{3}\)?[-. ]\d{3}[-. ]\d{4}\b")
+    for sub in ("transcriptions/id", "verification/id", "sources/id/2025/text"):
+        for path in sorted((ROOT / sub).rglob("*")):
+            if path.is_file():
+                assert email.search(path.read_bytes()) is None, path.name
+                assert phone.search(path.read_bytes()) is None, path.name
+    text = (ROOT / "sources" / "id" / "2025" / "text" / "CY2025 340B Program Report.txt").read_text(
+        encoding="utf-8"
+    )
+    assert text.count("[phone number in the PDF]") == 2
+    assert text.count("[email address in the PDF]") == 2

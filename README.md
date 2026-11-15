@@ -24,11 +24,13 @@ This repository turns them into one open dataset that anyone can open in a sprea
 | **Rhode Island** | The 14 filings on state Form RIOAG-340B (seven health centers, seven hospital filings), under R.I. Gen. Laws § 5-19.3-6 | Calendar 2025 |
 | **Vermont** | The 13 hospital reports to the Green Mountain Care Board, each a one-page "340B Program Financial Reporting Detail" that the page itself marks as draft | Fiscal 2025 |
 | **Minnesota** | Two tables from the Department of Health's report to the legislature under Minn. Stat. 62J.461, *340B Covered Entity Report, 2025* (cover date February 27, 2026): one row for each of the 26 entities it names, and six totals | Calendar 2024 |
+| **Idaho** | The State Controller's statewide report under Idaho Code § 41-351, *Idaho 340B Drug Pricing Program, Inaugural Report, Calendar Year 2025*: every table of totals it prints, for 62 covered entities added together. It names no entity | Calendar 2025 |
 
-Two notes on reading across states:
+Three notes on reading across states:
 
 - **Minnesota's rows are the State's published figures about those entities, one figure each. They are not the entities' own filings, which are not public.** The report itself says the reported data "are not audited nor otherwise verifiable". `record_kind` in `data/filings.csv` tells an entity's own filing (Rhode Island, Vermont) from a row the State published about an entity (Minnesota).
-- The states use different forms, so each record names its own. Rhode Island's rows keep the schedule letters and line numbers the form prints. Vermont's page and Minnesota's tables print none, so their rows carry short keys assigned by this dataset, beside the label as printed. Vermont's separate narratives are listed as attachments and not transcribed.
+- **Idaho's record is statewide totals only.** Idaho's law keeps each entity's filing confidential and has the State Controller publish the figures added together. The dataset holds that report as one record (`record_kind` is `state_report_totals`), with a row for every cell the report prints. It has no row for any single covered entity.
+- The states use different forms, so each record names its own. Rhode Island's rows keep the schedule letters and line numbers the form prints. Vermont's page, Minnesota's tables and Idaho's report print none, so their rows carry short keys assigned by this dataset, beside the label as printed. Vermont's separate narratives are listed as attachments and not transcribed.
 
 ## Open the data
 
@@ -63,11 +65,11 @@ A row is published only after three separate checks. The build refuses a row tha
 
 Both reads are made by software, each as a separate job; [METHODS.md](METHODS.md) section 3 says exactly how, and what the limits are. The PDFs, both reads and the code are all here, so anyone can repeat every check.
 
-How it came out: the two reads agreed on every one of Rhode Island's 2,989 rows, Vermont's 157 and Minnesota's 70. Where a filing's own figures do not add up, that is the filing's, and it is listed in `discrepancies.csv`, not fixed.
+How it came out: the two reads agreed on every one of Rhode Island's 2,989 rows, Vermont's 157, Minnesota's 70 and Idaho's 105. Where a filing's own figures do not add up, that is the filing's, and it is listed in `discrepancies.csv`, not fixed.
 
 ## What the dataset will and will not do
 
-- A filed figure is never changed. Where a filing's, or the Minnesota report's, figures do not agree with each other, both are kept and the difference is listed.
+- A filed figure is never changed. Where a filing's, or a state report's, figures do not agree with each other, both are kept and the difference is listed.
 - Minnesota's rows are not ranked. The report prints its table in an order; nothing here treats a row as a place in an order.
 - A vendor's name is normalized in a separate column. The name as filed is always kept beside it.
 - A page that cannot be read with confidence is left blank and marked. No value is estimated.
@@ -86,7 +88,7 @@ In their 2025 filings, Rhode Island's seven health centers together reported a 3
 
 How the share is calculated: Schedule A lines 3 and 4 (payments to contract pharmacies and to outside vendors) added together, divided by line 2 minus line 1 (payments received minus acquisition cost).
 
-The finding and the chart are Rhode Island's. Vermont's measures, worked the same way on Vermont's rows, are in [`data/measures.csv`](data/measures.csv). Minnesota has no measures: its tables print no acquisition cost and no payments to pharmacies or vendors.
+The finding and the chart are Rhode Island's. Vermont's measures, worked the same way on Vermont's rows, are in [`data/measures.csv`](data/measures.csv). Minnesota has no measures: its tables print no acquisition cost and no payments to pharmacies or vendors. Idaho has none either: its one record is a statewide total, and the measures compare covered entities.
 
 Read it with care. A filer that runs its own pharmacy carries that cost in its own expenses, and a filer that relies on contract pharmacies pays it out on line 3, so two filers' shares are not directly comparable. Line 3 counts every pharmacy a filer lists on Schedule D, whoever owns it. The filings are listed alphabetically; nothing here is a ranking. See [METHODS.md](METHODS.md).
 
@@ -147,4 +149,4 @@ If a figure here does not match the filing it cites, please open an issue that n
 
 ## Licence
 
-The code is under the [MIT licence](LICENSE). The dataset in `data/`, `transcriptions/`, `verification/` and `reference/` is under [Creative Commons Attribution 4.0](LICENSE-DATA). The PDF filings in `sources/` are public records of the State of Rhode Island, of the State of Vermont (the Green Mountain Care Board) and of the State of Minnesota (the Department of Health), reproduced unchanged.
+The code is under the [MIT licence](LICENSE). The dataset in `data/`, `transcriptions/`, `verification/` and `reference/` is under [Creative Commons Attribution 4.0](LICENSE-DATA). The PDF filings in `sources/` are public records of the State of Rhode Island, of the State of Vermont (the Green Mountain Care Board) of the State of Minnesota (the Department of Health) and of the State of Idaho (the State Controller's Office), reproduced unchanged.
