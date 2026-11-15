@@ -2,7 +2,7 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
-## 0.6.0 (not yet tagged)
+## 0.6.0 (tagged `v0.6.0`, 15 November 2026)
 
 Adds a table of state laws that name the 340B program. No filing, row, figure or column of the four states' filings changes.
 
