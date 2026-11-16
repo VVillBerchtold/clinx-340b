@@ -2,9 +2,9 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
-## 0.7.0 (not tagged yet)
+## 0.7.0 (tagged `v0.7.0`, 16 November 2026)
 
-Adds Maine and Minnesota's earlier year. No Rhode Island, Vermont, Idaho or Minnesota 2024-data value, row or order changes, and no column is added. Every row of both new sources was read against the page images by a second reader, and the two reads agreed on all of them.
+Adds Maine and Minnesota's earlier year, and a daily look at each state's source page. No Rhode Island, Vermont, Idaho or Minnesota 2024-data value, row or order changes, and no column is added. Every row of both new sources was read against the page images by a second reader, and the two reads agreed on all of them.
 
 ### Added (Maine, 0.7.0)
 
@@ -18,8 +18,14 @@ Adds Maine and Minnesota's earlier year. No Rhode Island, Vermont, Idaho or Minn
 - Two new lines on the Minnesota form for the columns the 2024 report does not print (`table_5` / `scope`, `pct_mhcp`), and the Table 6 lines. Thirty-nine rules, six differences of one dollar, each with a note.
 - `sources/mn/2023/`, `transcriptions/mn/2023/`, `verification/mn/2023/` (the second reader's file and a normalised copy for each record), `tests/test_minnesota_2023.py`.
 
+### Added (the daily watch, 0.7.0)
+
+- `watch/` and `tools/watch_sources.py`: once a day a small program looks at eight source pages (Rhode Island's, Vermont's and Minnesota's lists of reports, Ohio's collection of submitted reports, the part of Indiana's page set aside for its reports, Maine's hospitals page and report file, and Idaho's report file), saves what it saw in `watch/seen/` and opens an issue when a list changed. It changes nothing in `data/`. METHODS.md, section 1, says how it reads each page and what it leaves alone.
+- `.github/workflows/watch.yml` runs it every day, and `tests/test_watch_sources.py` tests it without the network.
+
 ### Changed (0.7.0)
 
+- `dataset_version` in both JSON files is 0.7.0.
 - `entities.csv` takes an entity's name, type and city from its latest year when it has records in two years. No existing entity has records in two years before this release, so no published value changes.
 
 ## 0.6.0 (tagged `v0.6.0`, 15 November 2026)

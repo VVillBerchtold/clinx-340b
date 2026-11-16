@@ -1,6 +1,6 @@
 [project]
 name = "filings340b"
-version = "0.6.0"
+version = "0.7.0"
 description = "State 340B covered entity filings as structured, source-cited open data."
 readme = "README.md"
 requires-python = ">=3.12"

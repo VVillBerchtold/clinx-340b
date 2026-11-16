@@ -127,6 +127,7 @@ Read it with care. A filer that runs its own pharmacy carries that cost in its o
 | `laws/` | The table of state laws, kept by hand: the laws, the seven kinds, the official sites, and the laws not listed |
 | `sources/laws/` | The text of each law's official page, as saved on the day it was read |
 | `data/` | The published dataset. Rebuilt from the folders above; never edited by hand |
+| `watch/` | The daily look at each state's source page: the list of pages, and what was on each the last time it was read. A change opens an issue; nothing is entered without being read |
 | `src/`, `tests/`, `tools/` | The code that checks and builds the dataset |
 
 ## Rebuild and check it yourself

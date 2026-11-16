@@ -1,5 +1,5 @@
 {
-  "dataset_version": "0.6.0",
+  "dataset_version": "0.7.0",
   "kinds": [
     {
       "description": "Limits what a drug maker may do to hold back 340B drugs from a pharmacy that works under contract with a covered entity, or to put conditions on sending them.",
