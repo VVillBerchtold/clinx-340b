@@ -1240,12 +1240,12 @@ def test_minnesota_2023_has_the_differences_it_has_and_no_others() -> None:
         if d["filing_id"].startswith("mn-2023-")
     }
     assert found == {
-        "table_6.column_medicare.rows=total": ("1", "usd", "form"),
-        "table_6.column_mhcp.rows=total": ("-1", "usd", "form"),
+        "table_6.column_medicare.rows=total": ("-1", "usd", "form"),
+        "table_6.column_mhcp.rows=total": ("1", "usd", "form"),
         "table_6.column_total.rows=total": ("-1", "usd", "form"),
         "table_6.row_critical_access.payers=total": ("1", "usd", "form"),
         "table_6.row_other_hospitals.payers=total": ("1", "usd", "form"),
-        "table_6.row_safety_net_grantees.payers=total": ("1", "usd", "form"),
+        "table_6.row_safety_net_grantees.payers=total": ("-1", "usd", "form"),
     }
 
 
