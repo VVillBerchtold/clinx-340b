@@ -25,12 +25,15 @@ This repository turns them into one open dataset that anyone can open in a sprea
 | **Vermont** | The 13 hospital reports to the Green Mountain Care Board, each a one-page "340B Program Financial Reporting Detail" that the page itself marks as draft | Fiscal 2025 |
 | **Minnesota** | Two tables from the Department of Health's report to the legislature under Minn. Stat. 62J.461, *340B Covered Entity Report, 2025* (cover date February 27, 2026): one row for each of the 26 entities it names, and six totals | Calendar 2024 |
 | **Idaho** | The State Controller's statewide report under Idaho Code § 41-351, *Idaho 340B Drug Pricing Program, Inaugural Report, Calendar Year 2025*: every table of totals it prints, for 62 covered entities added together. It names no entity | Calendar 2025 |
+| **Maine** | The Maine Health Data Organization's first report under Title 22, § 1728 of the Maine statutes, *1st Annual 340B Drug Program Transparency Report* (2 April 2026): every total and both tables of drugs it prints, for 27 hospitals added together. It names no hospital's figures | Fiscal 2024 |
+| **Minnesota, earlier year** | The same Department's earlier report, *340B Covered Entity Report* (25 November 2024): Appendix Tables 5 and 6, one row for each of the 26 entities Table 5 names, and the Table 6 totals by grouping and payer. An entity named in both years is one entity with two records | Calendar 2023 |
 
-Three notes on reading across states:
+Four notes on reading across states:
 
 - **Minnesota's rows are the State's published figures about those entities, one figure each. They are not the entities' own filings, which are not public.** The report itself says the reported data "are not audited nor otherwise verifiable". `record_kind` in `data/filings.csv` tells an entity's own filing (Rhode Island, Vermont) from a row the State published about an entity (Minnesota).
 - **Idaho's record is statewide totals only.** Idaho's law keeps each entity's filing confidential and has the State Controller publish the figures added together. The dataset holds that report as one record (`record_kind` is `state_report_totals`), with a row for every cell the report prints. It has no row for any single covered entity.
-- The states use different forms, so each record names its own. Rhode Island's rows keep the schedule letters and line numbers the form prints. Vermont's page, Minnesota's tables and Idaho's report print none, so their rows carry short keys assigned by this dataset, beside the label as printed. Vermont's separate narratives are listed as attachments and not transcribed.
+- **Maine's record is statewide totals only.** The report gives each figure for the 27 hospitals added together and names the hospitals only in the descriptions of what their savings fund. The dataset holds it as one record (`record_kind` is `state_report_totals`). The hospital descriptions are text and are listed as an attachment, not transcribed; the 27 hospital names are kept in that attachment's note. The report prints its dollar totals rounded to a tenth of a million, so those two are kept as printed text and not as numbers.
+- The states use different forms, so each record names its own. Rhode Island's rows keep the schedule letters and line numbers the form prints. Vermont's page, Minnesota's tables, Idaho's report and Maine's report print none, so their rows carry short keys assigned by this dataset, beside the label as printed. Vermont's separate narratives are listed as attachments and not transcribed.
 
 ## State laws about 340B (new in 0.6.0)
 
@@ -109,7 +112,7 @@ In their 2025 filings, Rhode Island's seven health centers together reported a 3
 
 How the share is calculated: Schedule A lines 3 and 4 (payments to contract pharmacies and to outside vendors) added together, divided by line 2 minus line 1 (payments received minus acquisition cost).
 
-The finding and the chart are Rhode Island's. Vermont's measures, worked the same way on Vermont's rows, are in [`data/measures.csv`](data/measures.csv). Minnesota has no measures: its tables print no acquisition cost and no payments to pharmacies or vendors. Idaho has none either: its one record is a statewide total, and the measures compare covered entities.
+The finding and the chart are Rhode Island's. Vermont's measures, worked the same way on Vermont's rows, are in [`data/measures.csv`](data/measures.csv). Minnesota has no measures: its tables print no acquisition cost and no payments to pharmacies or vendors. Idaho and Maine have none either: each has one record that is a statewide total, and the measures compare covered entities.
 
 Read it with care. A filer that runs its own pharmacy carries that cost in its own expenses, and a filer that relies on contract pharmacies pays it out on line 3, so two filers' shares are not directly comparable. Line 3 counts every pharmacy a filer lists on Schedule D, whoever owns it. The filings are listed alphabetically; nothing here is a ranking. See [METHODS.md](METHODS.md).
 

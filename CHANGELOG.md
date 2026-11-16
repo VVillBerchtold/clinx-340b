@@ -2,6 +2,26 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
+## 0.7.0 (not tagged yet)
+
+Adds Maine and Minnesota's earlier year. No Rhode Island, Vermont, Idaho or Minnesota 2024-data value, row or order changes, and no column is added. The rows of the two new sources are not yet read from the page images, so the release is not ready to build.
+
+### Added (Maine, 0.7.0)
+
+- One record, `me-2024-statewide`: the Maine Health Data Organization's first 340B report (2 April 2026, 26 pages, fiscal year 2024, 27 hospitals added together). `record_kind` is `state_report_totals`. 284 rows: the summary's four totals (two dollar totals kept as printed text), the two share sentences, 37 most costly and 54 most frequently dispensed drugs with three figures each, and five `page_note` rows. The hospitals' descriptions of their programs (pages 10 to 25) are listed as an attachment, with the 27 hospital names in its note, and not transcribed.
+- Form `me-mhdo-340b-report` (`src/filings340b/forms.py`) and its four comparison rules (`src/filings340b/maine.py`).
+- `sources/me/2024/` (the PDF unchanged, its manifest and page text), `transcriptions/me/2024/`, `tests/test_maine.py`.
+
+### Added (Minnesota 2023 data, 0.7.0)
+
+- 27 records for the Department of Health's report of 25 November 2024 (49 pages, Appendix Tables 5 and 6): 26 `state_report_row` records, one per entity, with four rows each, and `mn-2023-statewide` with Table 6's 30 amounts, five major types and six `page_note` rows. 145 rows. 15 entities are the same entities as in the 2024 records; the matching and its one judgement are in METHODS.md.
+- Two new lines on the Minnesota form for the columns the 2024 report does not print (`table_5` / `scope`, `pct_mhcp`), and the Table 6 lines. Thirty-nine rules, six differences of one dollar, each with a note.
+- `sources/mn/2023/`, `transcriptions/mn/2023/`, `tests/test_minnesota_2023.py`.
+
+### Changed (0.7.0)
+
+- `entities.csv` takes an entity's name, type and city from its latest year when it has records in two years. No existing entity has records in two years before this release, so no published value changes.
+
 ## 0.6.0 (tagged `v0.6.0`, 15 November 2026)
 
 Adds a table of state laws that name the 340B program. No filing, row, figure or column of the four states' filings changes.
