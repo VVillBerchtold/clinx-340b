@@ -1,0 +1,60 @@
+# Looks every day at the states' source pages (the list is watch/sources.csv) and says when a
+# list of reports changed. It saves what it saw under watch/seen/ and opens an issue. It never
+# changes the dataset itself: a person reads and enters anything new.
+name: watch
+
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Look at the sources
+        run: python3 -I tools/watch_sources.py --report "$RUNNER_TEMP/report.txt" --summary "$RUNNER_TEMP/summary.json"
+      - name: Save what was seen
+        run: |
+          git config user.name "clinx-watch"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add watch/seen watch/unreadable-days.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            keys=$(jq -r '.changed | join(", ")' "$RUNNER_TEMP/summary.json")
+            git commit -m "Watch: saved copies updated (${keys:-days unreadable})"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Open issues
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          labels=$(gh label list --json name --jq '.[].name')
+          label_args=()
+          if printf '%s\n' "$labels" | grep -qx "watch"; then label_args=(--label watch); fi
+          count=$(jq '.issues | length' "$RUNNER_TEMP/summary.json")
+          for i in $(seq 0 $((count - 1))); do
+            jq -r ".issues[$i].body" "$RUNNER_TEMP/summary.json" > "$RUNNER_TEMP/body.md"
+            gh issue create --title "$(jq -r ".issues[$i].title" "$RUNNER_TEMP/summary.json")" \
+              --body-file "$RUNNER_TEMP/body.md" "${label_args[@]}"
+          done
+          if [ "$(jq '.unreadable_issue != null' "$RUNNER_TEMP/summary.json")" = "true" ]; then
+            jq -r '.unreadable_issue.body' "$RUNNER_TEMP/summary.json" > "$RUNNER_TEMP/body.md"
+            gh issue create --title "$(jq -r '.unreadable_issue.title' "$RUNNER_TEMP/summary.json")" \
+              --body-file "$RUNNER_TEMP/body.md" "${label_args[@]}"
+          fi
