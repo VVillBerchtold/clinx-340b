@@ -6,8 +6,10 @@ This project follows [semantic versioning](https://semver.org/). A corrected fig
 
 ### Added (state laws, 0.8.0)
 
-- Two laws, both rules for pharmacy benefits managers that refer to the 340B program only by its section of federal law, 42 U.S.C. 256b: Alabama's SB 227 of 2021 (`al-2021-sb227`, Ala. Code 27-45A-10) and Georgia's SB 313 and HB 946 of 2020 (`ga-2020-sb313`, O.C.G.A. 33-64-9.1, two acts with the same words in one row). The table now has 75 laws in 40 states. Georgia's entry leaves `state-laws-not-listed.csv`.
-- `laws/hosts.csv`: the Alabama Legislature, the Alabama Department of Insurance and the Office of the Governor of Georgia.
+- Two laws, both rules for pharmacy benefits managers that refer to the 340B program only by its section of federal law, 42 U.S.C. 256b: Alabama's SB 227 of 2021 (`al-2021-sb227`, Ala. Code 27-45A-10) and Georgia's SB 313 and HB 946 of 2020 (`ga-2020-sb313`, O.C.G.A. 33-64-9.1, two acts with the same words in one row). The table then had 75 laws in 40 states. Georgia's entry leaves `state-laws-not-listed.csv`.
+- A second search of the eleven jurisdictions with no law, on 16 November 2026, for the program's name and for its section of federal law. It added one law: Texas's SB 213 of 2013 (`tx-2013-sb213`, Tex. Gov't Code 501.147), which has the state's prison health care contract make the contracting entity take part in 340B purchasing; the act of 2001 that first wrote the rule is saved beside it. The table now has 76 laws in 41 states.
+- `state-laws-not-listed.csv` gains what the same search read and left out: Florida's 499.026 and South Carolina's 40-43-60(I), which name 340B and set no rule about it, and Alaska's HB 226 of 2024, whose enrolled text could not be read. New York's entry now says what its Medicaid section holds and that the official page answers a program with a robot check, so no copy is saved.
+- `laws/hosts.csv`: the Alabama Legislature, the Alabama Department of Insurance, the Office of the Governor of Georgia, Texas Legislature Online, and the four hosts the new not-listed entries point to.
 
 ### Changed (0.8.0)
 

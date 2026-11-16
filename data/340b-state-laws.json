@@ -1772,6 +1772,34 @@
       "title": ""
     },
     {
+      "act": "",
+      "bill": "SB 213",
+      "binds": "The Texas Department of Criminal Justice and the entities it contracts with for prison health care",
+      "citation": "Tex. Gov't Code 501.147(c)(1)",
+      "effective_date": "2013-09-01",
+      "enforcement": "The act names no penalty. The rule is carried out through the terms of the contract.",
+      "kinds": [
+        "other"
+      ],
+      "law_id": "tx-2013-sb213",
+      "limits": "The rule covers the prison health care contract and nothing else. An act of 2001, SB 347, first wrote it for The University of Texas Medical Branch at Galveston; the act of 2013 applies it to the contracting entity.",
+      "more_sha256": "90300991a1da0ce09dd3a7204e883741fcf62069b6e7f4c65915710deaefc684",
+      "more_text": "sources/laws/tx/tx-2013-sb213.more.txt",
+      "more_url": "https://capitol.texas.gov/tlodocs/77R/billtext/html/SB00347F.htm",
+      "quote": "is eligible for and makes reasonable efforts to participate in the purchase of prescription drugs under Section 340B, Public Health Service Act (42 U.S.C. Section 256b)",
+      "retrieved": "2026-11-16",
+      "session_year": "2013",
+      "signed_date": "",
+      "source_form": "web page",
+      "source_note": "The enrolled act prints no chapter number and no date of signing. The saved text keeps the words the act struck out, in square brackets. The second saved page is the act of 2001, SB 347, which first added these words. The section as it stands in the code today was not read: the state's statutes site gives no text to a program.",
+      "source_sha256": "b951fb990bfe0cc2ac274171b5e8fe88380016ae17b5ad613ffc1998d2396eb0",
+      "source_text": "sources/laws/tx/tx-2013-sb213.txt",
+      "source_url": "https://capitol.texas.gov/tlodocs/83R/billtext/html/SB00213F.htm",
+      "state": "TX",
+      "summary": "When the Texas Department of Criminal Justice contracts for the managed health care plan for people confined in its prisons, the contract must include provisions that make the contracting entity eligible for 340B drug purchasing and have it make reasonable efforts to take part.",
+      "title": ""
+    },
+    {
       "act": "Laws of Utah 2020, ch. 275",
       "bill": "SB 138",
       "binds": "Pharmacy benefit managers",
@@ -2169,6 +2197,18 @@
   "license": "CC-BY-4.0",
   "not_listed": [
     {
+      "name": "HB 226 of 2024 (Chapter 61, SLA 24)",
+      "reason": "The enrolled text was not read: the legislature's site refused the request. The Division of Insurance bulletin on the act, which was read, does not name 340B.",
+      "source_url": "https://commerce.alaska.gov/web/Portals/11/Pub/B24-12.pdf",
+      "state": "AK"
+    },
+    {
+      "name": "Fla. Stat. 499.026 (chapter 2023-29, SB 1550)",
+      "reason": "Names 340B once, among the factors a drug maker lists in its report of a price increase; it sets no rule about the program.",
+      "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/499.026",
+      "state": "FL"
+    },
+    {
       "name": "HB 1001 of 2025 (state budget)",
       "reason": "The budget's text was not read.",
       "source_url": "",
@@ -2194,9 +2234,15 @@
     },
     {
       "name": "Social Services Law 367-a (Medicaid pharmacy benefit)",
-      "reason": "Came up in the search and has not been read yet.",
-      "source_url": "",
+      "reason": "Read on November 16, 2026 through a reading tool: subdivision 9 sets what Medicaid pays for a drug bought under 340B at the amount the covered entity paid. The Senate's page answers a program with a robot check, so no word-for-word copy is saved yet.",
+      "source_url": "https://www.nysenate.gov/legislation/laws/SOS/367-A",
       "state": "NY"
+    },
+    {
+      "name": "S.C. Code 40-43-60(I)",
+      "reason": "Names section 340B as the standard for free trial supplies a practitioner may dispense to indigent patients; it sets no rule about the program.",
+      "source_url": "https://www.scstatehouse.gov/code/t40c043.php",
+      "state": "SC"
     },
     {
       "name": "Act 74 of 2021 (H.439), sections E.227.1 to E.227.3",
@@ -2218,6 +2264,11 @@
     }
   ],
   "sites": [
+    {
+      "host": "commerce.alaska.gov",
+      "owner": "Alaska Department of Commerce, Community, and Economic Development",
+      "state": "AK"
+    },
     {
       "host": "aldoi.gov",
       "owner": "Alabama Department of Insurance",
@@ -2267,6 +2318,11 @@
       "host": "legis.delaware.gov",
       "owner": "Delaware General Assembly",
       "state": "DE"
+    },
+    {
+      "host": "www.flsenate.gov",
+      "owner": "Florida Senate",
+      "state": "FL"
     },
     {
       "host": "gov.georgia.gov",
@@ -2429,6 +2485,11 @@
       "state": "NV"
     },
     {
+      "host": "www.nysenate.gov",
+      "owner": "New York State Senate",
+      "state": "NY"
+    },
+    {
       "host": "codes.ohio.gov",
       "owner": "Ohio Legislative Service Commission",
       "state": "OH"
@@ -2464,6 +2525,11 @@
       "state": "RI"
     },
     {
+      "host": "www.scstatehouse.gov",
+      "owner": "South Carolina Legislature",
+      "state": "SC"
+    },
+    {
       "host": "mylrc.sdlegislature.gov",
       "owner": "South Dakota Legislature",
       "state": "SD"
@@ -2482,6 +2548,11 @@
       "host": "wapp.capitol.tn.gov",
       "owner": "Tennessee General Assembly",
       "state": "TN"
+    },
+    {
+      "host": "capitol.texas.gov",
+      "owner": "Texas Legislature Online",
+      "state": "TX"
     },
     {
       "host": "le.utah.gov",

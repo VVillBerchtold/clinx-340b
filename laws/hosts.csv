@@ -1,4 +1,5 @@
 host,state,owner
+commerce.alaska.gov,AK,"Alaska Department of Commerce, Community, and Economic Development"
 aldoi.gov,AL,Alabama Department of Insurance
 alison.legislature.state.al.us,AL,Alabama Legislature
 arkleg.state.ar.us,AR,Arkansas General Assembly
@@ -9,6 +10,7 @@ leg.colorado.gov,CO,Colorado General Assembly
 www.cga.ct.gov,CT,Connecticut General Assembly
 delcode.delaware.gov,DE,"State of Delaware, Delaware Code Online"
 legis.delaware.gov,DE,Delaware General Assembly
+www.flsenate.gov,FL,Florida Senate
 gov.georgia.gov,GA,Office of the Governor of Georgia
 data.capitol.hawaii.gov,HI,Hawaii State Legislature
 www.legis.iowa.gov,IA,Iowa Legislature
@@ -41,6 +43,7 @@ gc.nh.gov,NH,New Hampshire General Court
 nmlegis.gov,NM,New Mexico Legislature
 www.nmlegis.gov,NM,New Mexico Legislature
 www.leg.state.nv.us,NV,Nevada Legislature
+www.nysenate.gov,NY,New York State Senate
 codes.ohio.gov,OH,Ohio Legislative Service Commission
 www.oklegislature.gov,OK,Oklahoma Legislature
 olis.oregonlegislature.gov,OR,Oregon State Legislature
@@ -48,10 +51,12 @@ www.oregonlegislature.gov,OR,Oregon State Legislature
 www.legis.state.pa.us,PA,Pennsylvania General Assembly
 www.palegis.us,PA,Pennsylvania General Assembly
 webserver.rilegislature.gov,RI,Rhode Island General Assembly
+www.scstatehouse.gov,SC,South Carolina Legislature
 mylrc.sdlegislature.gov,SD,South Dakota Legislature
 sdlegislature.gov,SD,South Dakota Legislature
 publications.tnsosfiles.com,TN,Tennessee Secretary of State
 wapp.capitol.tn.gov,TN,Tennessee General Assembly
+capitol.texas.gov,TX,Texas Legislature Online
 le.utah.gov,UT,Utah State Legislature
 law.lis.virginia.gov,VA,"Virginia General Assembly, Legislative Information System"
 legacylis.virginia.gov,VA,"Virginia General Assembly, Legislative Information System"
