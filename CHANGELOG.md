@@ -2,9 +2,9 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
-## 0.8.0 (not tagged yet)
+## 0.8.0 (tagged `v0.8.0`, 16 November 2026)
 
-Adds Ohio. No Rhode Island, Vermont, Minnesota or Idaho value, row or order changes. Four columns are added to `entities.csv`, one to `filings.csv` and one to `line_items.csv`; they are blank for the other states.
+Adds Ohio, and three state laws. No Rhode Island, Vermont, Minnesota, Idaho or Maine value, row or order changes. Four columns are added to `entities.csv`, one to `filings.csv` and one to `line_items.csv`; they are blank for the other states.
 
 ### Added (Ohio, 0.8.0)
 
@@ -14,8 +14,9 @@ Adds Ohio. No Rhode Island, Vermont, Minnesota or Idaho value, row or order chan
 - `line_items.csv`: `source_cell`, the workbook cell a row was read from.
 - A new `verification` value, `two_file_reads`: a workbook cell read by two different programs (the Python standard library and LibreOffice) that agree. 40,875 rows are `two_file_reads` and 3 are `adjudicated`.
 - A new `claims_withheld` value, `reveals_small`: an Ohio percentage that would give a withheld prescription count away. 375 Ohio cells are withheld in 59 workbooks, and the withheld counts of a sixtieth workbook are masked in its cells file.
-- Ohio's rules (`src/filings340b/ohio.py`): each total equals its payer cells, total payments equal actual plus estimated, and each percentage equals 340B prescriptions over all prescriptions. 233 do not hold; each has a neutral note in `reference/discrepancy_notes.csv`, written by `tools/oh_discrepancy_notes.py`. A rule can now carry a tolerance (`Check.tolerance`), which is zero for every other form.
+- Ohio's rules (`src/filings340b/ohio.py`): each total equals its payer cells, total payments equal actual plus estimated, and each percentage equals 340B prescriptions over all prescriptions, compared at the decimal places the cell holds. 216 do not hold; each has a neutral note in `reference/discrepancy_notes.csv`, written by `tools/oh_discrepancy_notes.py`. A rule can now carry a tolerance (`Check.tolerance`), which is zero for every other form.
 - Tools: `tools/oh_transcribe.py`, `tools/oh_second_read.py`, `tools/extract_hrsa_oh.py`, `tools/oh_discrepancy_notes.py`. Source files: `workbook.py`, `masking.py`, `ohio_template.py`, `ohio_transcribe.py`, `ohio.py`, `ohio_recovery.py`. Tests: `tests/test_ohio.py`, which includes a reader that tries to recover every withheld Ohio count from the published files.
+- One cell outside the contact rows names a member of staff (workbook CH053086, cell D59). Its text is withheld in the same way as a contact cell's (`STAFF_NAME_CELLS` in `src/filings340b/ohio_transcribe.py`).
 - `sources/oh/2025/workbook-contents.csv` and `workbook-objects.csv`: every sheet of every workbook by name and number of filled cells, and the 84 pictures, drawings and objects found inside.
 
 ### Changed (Ohio, 0.8.0)
@@ -23,6 +24,45 @@ Adds Ohio. No Rhode Island, Vermont, Minnesota or Idaho value, row or order chan
 - The small-number rule no longer stops when a total cell holds a count of 1 to 5 in a workbook form; it withholds that cell (`src/filings340b/smallcounts.py`, `sealing.py`).
 - `filings340b seal` also masks the cells files of workbook filings; `filings340b textcheck` compares a workbook filing's rows with its cells file.
 - `tests/test_small_counts.py` and `tests/test_repository.py` count Ohio's forms separately.
+
+### Added (state laws, 0.8.0)
+
+- Two laws, both rules for pharmacy benefits managers that refer to the 340B program only by its section of federal law, 42 U.S.C. 256b: Alabama's SB 227 of 2021 (`al-2021-sb227`, Ala. Code 27-45A-10) and Georgia's SB 313 and HB 946 of 2020 (`ga-2020-sb313`, O.C.G.A. 33-64-9.1, two acts with the same words in one row). The table then had 75 laws in 40 states. Georgia's entry leaves `state-laws-not-listed.csv`.
+- A second search of the eleven jurisdictions with no law, on 16 November 2026, for the program's name and for its section of federal law. It added one law: Texas's SB 213 of 2013 (`tx-2013-sb213`, Tex. Gov't Code 501.147), which has the state's prison health care contract make the contracting entity take part in 340B purchasing; the act of 2001 that first wrote the rule is saved beside it. The table now has 76 laws in 41 states.
+- `state-laws-not-listed.csv` gains what the same search read and left out: Florida's 499.026 and South Carolina's 40-43-60(I), which name 340B and set no rule about it, and Alaska's HB 226 of 2024, whose enrolled text could not be read. New York's entry now says what its Medicaid section holds and that the official page answers a program with a robot check, so no copy is saved.
+- `laws/hosts.csv`: the Alabama Legislature, the Alabama Department of Insurance, the Office of the Governor of Georgia, Texas Legislature Online, and the four hosts the new not-listed entries point to.
+
+### Changed (0.8.0)
+
+- `340b-state-filings.json` is written with one table row on each line and no indentation. It holds the same tables and values as before; with Ohio's rows an indented copy would be 32 MB, more than some hosts serve as one file. `340b-state-laws.json` is unchanged.
+- `dataset_version` in both JSON files is 0.8.0.
+- `tools/save_law_text.py` gives its own name on every request, `ClinX Open Data Reader`, with the address of the page that explains how ClinX reads public files. Until now it sent a browser's name. A test stops any tool in `tools/` from naming a browser. No saved text changes.
+
+## 0.7.0 (tagged `v0.7.0`, 16 November 2026)
+
+Adds Maine and Minnesota's earlier year, and a daily look at each state's source page. No Rhode Island, Vermont, Idaho or Minnesota 2024-data value, row or order changes, and no column is added. Every row of both new sources was read against the page images by a second reader, and the two reads agreed on all of them.
+
+### Added (Maine, 0.7.0)
+
+- One record, `me-2024-statewide`: the Maine Health Data Organization's first 340B report (2 April 2026, 26 pages, fiscal year 2024, 27 hospitals added together). `record_kind` is `state_report_totals`. 284 rows: the summary's four totals (two dollar totals kept as printed text), the two share sentences, 37 most costly and 54 most frequently dispensed drugs with three figures each, and five `page_note` rows. The hospitals' descriptions of their programs (pages 10 to 25) are listed as an attachment, with the 27 hospital names in its note, and not transcribed.
+- Form `me-mhdo-340b-report` (`src/filings340b/forms.py`) and its four comparison rules (`src/filings340b/maine.py`).
+- `sources/me/2024/` (the PDF unchanged, its manifest and page text), `transcriptions/me/2024/`, `verification/me/2024/` (the second reader's file and the normalised copy), `tests/test_maine.py`.
+
+### Added (Minnesota 2023 data, 0.7.0)
+
+- 27 records for the Department of Health's report of 25 November 2024 (49 pages, Appendix Tables 5 and 6): 26 `state_report_row` records, one per entity, with four rows each, and `mn-2023-statewide` with Table 6's 30 amounts, five major types and six `page_note` rows. 145 rows. 15 entities are the same entities as in the 2024 records; the matching and its one judgement are in METHODS.md.
+- Two new lines on the Minnesota form for the columns the 2024 report does not print (`table_5` / `scope`, `pct_mhcp`), and the Table 6 lines. Thirty-nine rules, six differences of one dollar, each with a note.
+- `sources/mn/2023/`, `transcriptions/mn/2023/`, `verification/mn/2023/` (the second reader's file and a normalised copy for each record), `tests/test_minnesota_2023.py`.
+
+### Added (the daily watch, 0.7.0)
+
+- `watch/` and `tools/watch_sources.py`: once a day a small program looks at eight source pages (Rhode Island's, Vermont's and Minnesota's lists of reports, Ohio's collection of submitted reports, the part of Indiana's page set aside for its reports, Maine's hospitals page and report file, and Idaho's report file), saves what it saw in `watch/seen/` and opens an issue when a list changed. It changes nothing in `data/`. METHODS.md, section 1, says how it reads each page and what it leaves alone.
+- `.github/workflows/watch.yml` runs it every day, and `tests/test_watch_sources.py` tests it without the network.
+
+### Changed (0.7.0)
+
+- `dataset_version` in both JSON files is 0.7.0.
+- `entities.csv` takes an entity's name, type and city from its latest year when it has records in two years. No existing entity has records in two years before this release, so no published value changes.
 
 ## 0.6.0 (tagged `v0.6.0`, 15 November 2026)
 

@@ -1,0 +1,11 @@
+{
+ "address": "https://idaho-sco-central-registry-documents.s3.us-gov-west-1.amazonaws.com/340B+Program+Reports/CY2025+340B+Program+Report.pdf",
+ "how": "file",
+ "key": "id-report-file",
+ "seen": {
+  "bytes": 1088944,
+  "sha256": "ec161332907f5abccbe4cc36ce2abf0bbb5c453cde87a43630288c528856b0b8"
+ },
+ "state": "Idaho",
+ "what": "the 2025 340B program report"
+}

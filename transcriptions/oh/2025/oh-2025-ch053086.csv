@@ -167,4 +167,4 @@ uses,other_uses_description,detail,Other uses of 340B funds not otherwise listed
 uses,other_uses_amount,detail,Other uses of 340B funds not otherwise listed above:,,,,-,,,1,two_file_reads,,D78
 uses,narrative,detail,(Narrative) Provide additional detail/context as necessary:,,,,,,-,1,two_file_reads,,C80
 uses,alternative_narrative,detail,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used.",,,,,,-,1,two_file_reads,,C82
-other_cells,cell_D59,detail,,,,,,,per D. Layne,1,two_file_reads,,D59
+other_cells,cell_D59,detail,,,,,,,[contact detail withheld],1,two_file_reads,,D59

@@ -1,5 +1,5 @@
 {
-  "dataset_version": "0.6.0",
+  "dataset_version": "0.8.0",
   "kinds": [
     {
       "description": "Limits what a drug maker may do to hold back 340B drugs from a pharmacy that works under contract with a covered entity, or to put conditions on sending them.",
@@ -38,6 +38,34 @@
     }
   ],
   "laws": [
+    {
+      "act": "Act 2021-341",
+      "bill": "SB 227",
+      "binds": "Pharmacy benefits managers",
+      "citation": "Ala. Code 27-45A-10 (8) to (10)",
+      "effective_date": "2021-07-01",
+      "enforcement": "The Commissioner of Insurance enforces the chapter and may suspend or revoke a license or impose civil penalties for a violation.",
+      "kinds": [
+        "payer-nondiscrimination"
+      ],
+      "law_id": "al-2021-sb227",
+      "limits": "The rule on payment amounts leaves out drugs paid for, directly or indirectly, by Medicaid. The act applies to pharmacy benefits manager contracts on and after October 1, 2021. It refers to the program by its section of federal law, 42 U.S.C. 256b, and does not use the name 340B.",
+      "more_sha256": "b85e88bef76d61715965b0696caa4fd2b75acf25df517403f21b8d7383680c57",
+      "more_text": "sources/laws/al/al-2021-sb227.more.txt",
+      "more_url": "https://aldoi.gov/Licensing/PharmacyBM.aspx",
+      "quote": "Require a claim for a drug to include a modifier to indicate that the drug is subject to an agreement under 42 U.S.C. § 256b.",
+      "retrieved": "2026-11-16",
+      "session_year": "2021",
+      "signed_date": "",
+      "source_form": "pdf",
+      "source_note": "The enrolled bill prints no act number and no date of approval. The act number is from the Department of Insurance page on pharmacy benefits managers, the second saved page.",
+      "source_sha256": "dcee135102dcdcb6a6ed6298da7eab143cf21cd0dac9cfd71bd87745f02dab08",
+      "source_text": "sources/laws/al/al-2021-sb227.txt",
+      "source_url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2021RS/PrintFiles/SB227-Enr.pdf",
+      "state": "AL",
+      "summary": "A pharmacy benefits manager may not pay an entity a different amount for a drug on the ground that the drug was bought under 340B or that the entity takes part in the program. Where an entity takes part, the manager may not charge it a fee, charge-back or other adjustment, limit its place in the pharmacy network, require it to contract with a named pharmacy, put a limit or an added charge on a patient who gets drugs from it, or add other requirements. A claim may not be required to carry a marker that the drug is a 340B drug.",
+      "title": ""
+    },
     {
       "act": "Act 1103 of 2021",
       "bill": "HB 1881",
@@ -322,6 +350,34 @@
       "source_url": "https://delcode.delaware.gov/title18/c033a/sc07/index.html",
       "state": "DE",
       "summary": "A pharmacy benefits manager or purchaser may not treat a 340B covered entity or its contract pharmacy less well for taking part in 340B: no payment below the national average drug acquisition cost, no added fees, clawbacks, audits or claim re-submissions, and no interference with a patient's choice.",
+      "title": ""
+    },
+    {
+      "act": "",
+      "bill": "SB 313; HB 946",
+      "binds": "Pharmacy benefits managers",
+      "citation": "O.C.G.A. 33-64-9.1",
+      "effective_date": "2021-01-01",
+      "enforcement": "The Commissioner of Insurance may assess a monetary penalty for each transaction in violation of the chapter.",
+      "kinds": [
+        "payer-nondiscrimination"
+      ],
+      "law_id": "ga-2020-sb313",
+      "limits": "The rules on filing methods and on the four-month report do not reach Medicaid where the department pays providers directly; they do reach Medicaid managed care. The acts refer to the program by its section of federal law, 42 U.S.C. 256b, and do not use the name 340B.",
+      "more_sha256": "7417e56aafc07a790e0a4fcca8209534638ff4bb21452f5a48e7d104e6672799",
+      "more_text": "sources/laws/ga/ga-2020-sb313.more.txt",
+      "more_url": "https://gov.georgia.gov/document/2020-signed-legislation/hb-946/download",
+      "quote": "Discriminate in reimbursement, assess any fees or adjustments, or exclude a pharmacy from the pharmacy benefit manager's network on the basis that the pharmacy dispenses drugs subject to an agreement under 42 U.S.C. Section 256b",
+      "retrieved": "2026-11-16",
+      "session_year": "2020",
+      "signed_date": "",
+      "source_form": "pdf",
+      "source_note": "Two acts of 2020, SB 313 and HB 946, add this section in the same words; HB 946 is the second saved page. Both are the signed copies on the Governor's site, which print no act number and no date of signing. The section takes effect on January 1, 2021, and its rule on 340B pharmacies applies on and after July 1, 2021. The saved text does not show which words of the older law are struck out.",
+      "source_sha256": "20a341c9addeaba387db4cf30345b0e0dee1948f1a1df88d252c2f6f4778b6f0",
+      "source_text": "sources/laws/ga/ga-2020-sb313.txt",
+      "source_url": "https://gov.georgia.gov/document/2020-signed-legislation/sb-313/download",
+      "state": "GA",
+      "summary": "On and after July 1, 2021, a pharmacy benefits manager may not pay a pharmacy differently, charge it fees or adjustments, or leave it out of its network on the basis that the pharmacy dispenses 340B drugs. The report a manager publishes every four months, on what it paid pharmacies against the national average drug acquisition cost, leaves out 340B drugs.",
       "title": ""
     },
     {
@@ -1716,6 +1772,34 @@
       "title": ""
     },
     {
+      "act": "",
+      "bill": "SB 213",
+      "binds": "The Texas Department of Criminal Justice and the entities it contracts with for prison health care",
+      "citation": "Tex. Gov't Code 501.147(c)(1)",
+      "effective_date": "2013-09-01",
+      "enforcement": "The act names no penalty. The rule is carried out through the terms of the contract.",
+      "kinds": [
+        "other"
+      ],
+      "law_id": "tx-2013-sb213",
+      "limits": "The rule covers the prison health care contract and nothing else. An act of 2001, SB 347, first wrote it for The University of Texas Medical Branch at Galveston; the act of 2013 applies it to the contracting entity.",
+      "more_sha256": "90300991a1da0ce09dd3a7204e883741fcf62069b6e7f4c65915710deaefc684",
+      "more_text": "sources/laws/tx/tx-2013-sb213.more.txt",
+      "more_url": "https://capitol.texas.gov/tlodocs/77R/billtext/html/SB00347F.htm",
+      "quote": "is eligible for and makes reasonable efforts to participate in the purchase of prescription drugs under Section 340B, Public Health Service Act (42 U.S.C. Section 256b)",
+      "retrieved": "2026-11-16",
+      "session_year": "2013",
+      "signed_date": "",
+      "source_form": "web page",
+      "source_note": "The enrolled act prints no chapter number and no date of signing. The saved text keeps the words the act struck out, in square brackets. The second saved page is the act of 2001, SB 347, which first added these words. The section as it stands in the code today was not read: the state's statutes site gives no text to a program.",
+      "source_sha256": "b951fb990bfe0cc2ac274171b5e8fe88380016ae17b5ad613ffc1998d2396eb0",
+      "source_text": "sources/laws/tx/tx-2013-sb213.txt",
+      "source_url": "https://capitol.texas.gov/tlodocs/83R/billtext/html/SB00213F.htm",
+      "state": "TX",
+      "summary": "When the Texas Department of Criminal Justice contracts for the managed health care plan for people confined in its prisons, the contract must include provisions that make the contracting entity eligible for 340B drug purchasing and have it make reasonable efforts to take part.",
+      "title": ""
+    },
+    {
       "act": "Laws of Utah 2020, ch. 275",
       "bill": "SB 138",
       "binds": "Pharmacy benefit managers",
@@ -2113,10 +2197,16 @@
   "license": "CC-BY-4.0",
   "not_listed": [
     {
-      "name": "O.C.G.A. 33-64-9.1 (SB 313 and HB 946 of 2020)",
-      "reason": "The official text of this section was not reached; the pages that were read did not show its 340B words.",
-      "source_url": "",
-      "state": "GA"
+      "name": "HB 226 of 2024 (Chapter 61, SLA 24)",
+      "reason": "The enrolled text was not read: the legislature's site refused the request. The Division of Insurance bulletin on the act, which was read, does not name 340B.",
+      "source_url": "https://commerce.alaska.gov/web/Portals/11/Pub/B24-12.pdf",
+      "state": "AK"
+    },
+    {
+      "name": "Fla. Stat. 499.026 (chapter 2023-29, SB 1550)",
+      "reason": "Names 340B once, among the factors a drug maker lists in its report of a price increase; it sets no rule about the program.",
+      "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/499.026",
+      "state": "FL"
     },
     {
       "name": "HB 1001 of 2025 (state budget)",
@@ -2144,9 +2234,15 @@
     },
     {
       "name": "Social Services Law 367-a (Medicaid pharmacy benefit)",
-      "reason": "Came up in the search and has not been read yet.",
-      "source_url": "",
+      "reason": "Read on November 16, 2026 through a reading tool: subdivision 9 sets what Medicaid pays for a drug bought under 340B at the amount the covered entity paid. The Senate's page answers a program with a robot check, so no word-for-word copy is saved yet.",
+      "source_url": "https://www.nysenate.gov/legislation/laws/SOS/367-A",
       "state": "NY"
+    },
+    {
+      "name": "S.C. Code 40-43-60(I)",
+      "reason": "Names section 340B as the standard for free trial supplies a practitioner may dispense to indigent patients; it sets no rule about the program.",
+      "source_url": "https://www.scstatehouse.gov/code/t40c043.php",
+      "state": "SC"
     },
     {
       "name": "Act 74 of 2021 (H.439), sections E.227.1 to E.227.3",
@@ -2168,6 +2264,21 @@
     }
   ],
   "sites": [
+    {
+      "host": "commerce.alaska.gov",
+      "owner": "Alaska Department of Commerce, Community, and Economic Development",
+      "state": "AK"
+    },
+    {
+      "host": "aldoi.gov",
+      "owner": "Alabama Department of Insurance",
+      "state": "AL"
+    },
+    {
+      "host": "alison.legislature.state.al.us",
+      "owner": "Alabama Legislature",
+      "state": "AL"
+    },
     {
       "host": "arkleg.state.ar.us",
       "owner": "Arkansas General Assembly",
@@ -2207,6 +2318,16 @@
       "host": "legis.delaware.gov",
       "owner": "Delaware General Assembly",
       "state": "DE"
+    },
+    {
+      "host": "www.flsenate.gov",
+      "owner": "Florida Senate",
+      "state": "FL"
+    },
+    {
+      "host": "gov.georgia.gov",
+      "owner": "Office of the Governor of Georgia",
+      "state": "GA"
     },
     {
       "host": "data.capitol.hawaii.gov",
@@ -2364,6 +2485,11 @@
       "state": "NV"
     },
     {
+      "host": "www.nysenate.gov",
+      "owner": "New York State Senate",
+      "state": "NY"
+    },
+    {
       "host": "codes.ohio.gov",
       "owner": "Ohio Legislative Service Commission",
       "state": "OH"
@@ -2399,6 +2525,11 @@
       "state": "RI"
     },
     {
+      "host": "www.scstatehouse.gov",
+      "owner": "South Carolina Legislature",
+      "state": "SC"
+    },
+    {
       "host": "mylrc.sdlegislature.gov",
       "owner": "South Dakota Legislature",
       "state": "SD"
@@ -2417,6 +2548,11 @@
       "host": "wapp.capitol.tn.gov",
       "owner": "Tennessee General Assembly",
       "state": "TN"
+    },
+    {
+      "host": "capitol.texas.gov",
+      "owner": "Texas Legislature Online",
+      "state": "TX"
     },
     {
       "host": "le.utah.gov",

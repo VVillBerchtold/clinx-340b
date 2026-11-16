@@ -1,0 +1,5 @@
+schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note
+table_5,scope,detail,North Memorial Health Hospital,,Scope of Reported Data,,,,Administered & Dispensed,44,text_and_image,
+table_5,net_revenue,detail,North Memorial Health Hospital,,Net 340B Revenue ($),,"80,071,766",,,44,text_and_image,
+table_5,pct_of_statewide,detail,North Memorial Health Hospital,,% of Statewide Net 340B Revenue,,13%,,,44,text_and_image,
+table_5,pct_mhcp,detail,North Memorial Health Hospital,,% of Entity’s 340B Net Revenue attributed to Minnesota Health Care Programs,,7%,,,44,text_and_image,

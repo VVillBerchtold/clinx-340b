@@ -1,0 +1,5 @@
+schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note
+table_5,scope,detail,Grand Itasca Clinic and Hospital,,Scope of Reported Data,,,,Dispensed Only,43,text_and_image,
+table_5,net_revenue,detail,Grand Itasca Clinic and Hospital,,Net 340B Revenue ($),,"10,323,143",,,43,text_and_image,
+table_5,pct_of_statewide,detail,Grand Itasca Clinic and Hospital,,% of Statewide Net 340B Revenue,,2%,,,43,text_and_image,
+table_5,pct_mhcp,detail,Grand Itasca Clinic and Hospital,,% of Entity’s 340B Net Revenue attributed to Minnesota Health Care Programs,,20%,,,43,text_and_image,

@@ -1,7 +1,8 @@
 """Tie-out rules for Rhode Island Form RIOAG-340B, and the measures derived from it.
 
 Each filing names its form, and ``checks`` and ``measures`` use that form's rules:
-Rhode Island's are here, Vermont's are in ``vermont.py``.
+Rhode Island's are here, Vermont's are in ``vermont.py``, Minnesota's in ``minnesota.py``,
+Idaho's in ``idaho.py`` and Maine's in ``maine.py``.
 
 Most rules compare two figures the form itself says agree: a schedule's rows
 and its printed total, or a total and the Schedule A line it says it supports.
@@ -16,8 +17,16 @@ from __future__ import annotations
 
 from decimal import Decimal
 
-from filings340b import idaho, minnesota, ohio, vermont
-from filings340b.forms import ID_FORM, MN_FORM, OH_FORM, RI_FORM, VT_FORM, UnknownFormError
+from filings340b import idaho, maine, minnesota, ohio, vermont
+from filings340b.forms import (
+    ID_FORM,
+    ME_FORM,
+    MN_FORM,
+    OH_FORM,
+    RI_FORM,
+    VT_FORM,
+    UnknownFormError,
+)
 from filings340b.model import Basis, Check, Filing, Row, RowKind
 
 # Schedule A line each supporting schedule says it supports.
@@ -96,6 +105,8 @@ def checks(filing: Filing, everyone: tuple[Filing, ...] = ()) -> tuple[Check, ..
         return minnesota.checks(filing, everyone)
     if filing.meta.form == ID_FORM:
         return idaho.checks(filing)
+    if filing.meta.form == ME_FORM:
+        return maine.checks(filing)
     if filing.meta.form == OH_FORM:
         return ohio.checks(filing)
     raise UnknownFormError(f"no tie-out rules for form {filing.meta.form!r}")
@@ -197,8 +208,8 @@ def measures(filing: Filing) -> tuple[tuple[str, str, Decimal | None], ...]:
     if filing.meta.form == MN_FORM:
         # Minnesota prints no acquisition cost and no payments to pharmacies or vendors.
         return ()
-    if filing.meta.form == ID_FORM:
-        # Idaho's record is a statewide total; the measures compare covered entities.
+    if filing.meta.form in (ID_FORM, ME_FORM):
+        # Idaho's and Maine's records are statewide totals; the measures compare covered entities.
         return ()
     if filing.meta.form == OH_FORM:
         # Ohio's reports are each filer's own; they carry no derived measure in this release.

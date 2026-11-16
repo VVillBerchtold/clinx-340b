@@ -9,12 +9,12 @@
 
 # clinx-340b: state 340B filings and laws as open data
 
-Some states now require hospitals and health centers in the federal 340B drug program to report, each year, what the program cost them, what it paid them, and whom they paid along the way. The reports are public, but they are PDF files, one per filer, and hard to read side by side.
+Some states now require hospitals and health centers in the federal 340B drug program to report, each year, what the program cost them, what it paid them, and whom they paid along the way. The reports are public, but they are PDF files or spreadsheets, one per filer, and hard to read side by side.
 
 This repository turns them into one open dataset that anyone can open in a spreadsheet. Three things make it worth trusting:
 
 - **Every figure is kept exactly as printed.** Nothing is corrected, rounded or estimated.
-- **Every figure names the page of the PDF it was read from**, and the PDFs are kept here too.
+- **Every figure names the page of the PDF it was read from**, and the PDFs are kept here too. Ohio's reports are spreadsheets: each figure names its cell, and a list of every filled cell is kept here in place of the file.
 - **Anyone can rebuild the published files with one command** and get the same files, byte for byte, and can repeat every check behind them.
 
 ## What is in it
@@ -25,18 +25,21 @@ This repository turns them into one open dataset that anyone can open in a sprea
 | **Vermont** | The 13 hospital reports to the Green Mountain Care Board, each a one-page "340B Program Financial Reporting Detail" that the page itself marks as draft | Fiscal 2025 |
 | **Minnesota** | Two tables from the Department of Health's report to the legislature under Minn. Stat. 62J.461, *340B Covered Entity Report, 2025* (cover date February 27, 2026): one row for each of the 26 entities it names, and six totals | Calendar 2024 |
 | **Idaho** | The State Controller's statewide report under Idaho Code § 41-351, *Idaho 340B Drug Pricing Program, Inaugural Report, Calendar Year 2025*: every table of totals it prints, for 62 covered entities added together. It names no entity | Calendar 2025 |
+| **Maine** | The Maine Health Data Organization's first report under Title 22, § 1728 of the Maine statutes, *1st Annual 340B Drug Program Transparency Report* (2 April 2026): every total and both tables of drugs it prints, for 27 hospitals added together. It names no hospital's figures | Fiscal 2024 |
+| **Minnesota, earlier year** | The same Department's earlier report, *340B Covered Entity Report* (25 November 2024): Appendix Tables 5 and 6, one row for each of the 26 entities Table 5 names, and the Table 6 totals by grouping and payer. An entity named in both years is one entity with two records | Calendar 2023 |
 | **Ohio** | The 241 covered entity reports on the Department of Health's reporting template (ORC 3701.88), each an Excel workbook, posted by the Department. They print a 340B ID and no name; names are HRSA's, kept apart. A prescription count of 1 to 5 is not republished | Calendar 2025 |
 
-Four notes on reading across states:
+Five notes on reading across states:
 
 - **Minnesota's rows are the State's published figures about those entities, one figure each. They are not the entities' own filings, which are not public.** The report itself says the reported data "are not audited nor otherwise verifiable". `record_kind` in `data/filings.csv` tells an entity's own filing (Rhode Island, Vermont) from a row the State published about an entity (Minnesota).
 - **Idaho's record is statewide totals only.** Idaho's law keeps each entity's filing confidential and has the State Controller publish the figures added together. The dataset holds that report as one record (`record_kind` is `state_report_totals`), with a row for every cell the report prints. It has no row for any single covered entity.
+- **Maine's record is statewide totals only.** The report gives each figure for the 27 hospitals added together and names the hospitals only in the descriptions of what their savings fund. The dataset holds it as one record (`record_kind` is `state_report_totals`). The hospital descriptions are text and are listed as an attachment, not transcribed; the 27 hospital names are kept in that attachment's note. The report prints its dollar totals rounded to a tenth of a million, so those two are kept as printed text and not as numbers.
 - **Ohio's reports are Excel workbooks, not PDFs, and are not in the repository.** Each workbook names a staff member and gives an e-mail address and a telephone number, so the originals stay on the maintainer's machine. What is here is a plain list of every filled cell of each template sheet (`sources/oh/2025/cells/`), with those details masked, and the address and SHA-256 of each workbook. Every figure was read twice by two different programs and the reads compared. Ohio's workbooks print no entity name; the name in `entities.csv` is HRSA's, in its own columns (`hrsa_name` and three more), and `name_as_filed` is blank. METHODS.md section 1 and section 9 say how.
-- The states use different forms, so each record names its own. Rhode Island's rows keep the schedule letters and line numbers the form prints. Vermont's page, Minnesota's tables and Idaho's report print none, so their rows carry short keys assigned by this dataset, beside the label as printed. Vermont's separate narratives are listed as attachments and not transcribed.
+- The states use different forms, so each record names its own. Rhode Island's rows keep the schedule letters and line numbers the form prints. Vermont's page, Minnesota's tables, Idaho's report and Maine's report print none, so their rows carry short keys assigned by this dataset, beside the label as printed. Ohio's rows carry keys assigned by this dataset too, and each names the workbook cell it was read from (`source_cell`). Vermont's separate narratives are listed as attachments and not transcribed.
 
 ## State laws about 340B (new in 0.6.0)
 
-Beside the filings, the dataset now lists the state laws that name the 340B program: 73 laws in 38 states, each one read on the state's own website.
+Beside the filings, the dataset now lists the state laws that name the 340B program: 76 laws in 41 states, each one read on the state's own website.
 
 | File | What it is |
 |---|---|
@@ -50,7 +53,7 @@ How to read it:
 - **Every link goes to a legislature's or a state office's own site.** [`laws/hosts.csv`](laws/hosts.csv) lists them. No row was taken from a tracker or from someone else's summary.
 - **A blank means the official page does not print it.** A signing date, an effective date, a bill number or an act number is filled only where a saved page prints it. Montana's code, for one, prints the chapter of an act and not its bill number.
 - **Each law has one or more of seven kinds**: contract pharmacy access, payer and PBM non-discrimination, reporting, Medicaid, use of savings, study, and other. [`laws/kinds.csv`](laws/kinds.csv) says what each means.
-- **No row for a state means none was found, not that none exists.** Nothing was found for Alabama, Alaska, the District of Columbia, Florida, Georgia, Kansas, Massachusetts, New Jersey, New York, South Carolina, Texas, Wisconsin or Wyoming. Georgia, Kansas and New York have entries in the not-listed file. If you know of a law that is missing, open an issue with the link to the state's page.
+- **No row for a state means none was found, not that none exists.** No law is listed for Alaska, the District of Columbia, Florida, Kansas, Massachusetts, New Jersey, New York, South Carolina, Wisconsin or Wyoming. Alaska, Florida, Kansas, New York and South Carolina have entries in the not-listed file, each with what was read and why it is not a row. If you know of a law that is missing, open an issue with the link to the state's page.
 - **It is a list of what was enacted.** It does not follow court cases about these laws, bills that have not passed, or how a law is enforced in practice. The summaries are plain-words descriptions; the law's own text is the record. None of it is legal advice.
 
 [METHODS.md](METHODS.md) section 10 says how each law was found, read and checked.
@@ -88,7 +91,7 @@ A row is published only after three separate checks. The build refuses a row tha
 
 Both reads are made by software, each as a separate job; [METHODS.md](METHODS.md) section 3 says exactly how, and what the limits are. The PDFs, both reads and the code are all here, so anyone can repeat every check.
 
-How it came out: the two reads agreed on every one of Rhode Island's 2,989 rows, Vermont's 157, Minnesota's 70 and Idaho's 105. Where a filing's own figures do not add up, that is the filing's, and it is listed in `discrepancies.csv`, not fixed.
+How it came out: the two reads agreed on every one of Rhode Island's 2,989 rows, Vermont's 157, Minnesota's 70 for 2024 data and 145 for 2023 data, Idaho's 105 and Maine's 284. Ohio's workbooks have no page to picture, so two different programs read each cell; they agreed on 40,875 of the 40,878 rows, and the other three are marked `adjudicated` with a note. Where a filing's own figures do not add up, that is the filing's, and it is listed in `discrepancies.csv`, not fixed.
 
 ## What the dataset will and will not do
 
@@ -98,7 +101,7 @@ How it came out: the two reads agreed on every one of Rhode Island's 2,989 rows,
 - A page that cannot be read with confidence is left blank and marked. No value is estimated.
 - The dataset describes what was filed and how each measure is calculated. It does not say why a filer's figures are what they are.
 - It holds no patient data. The filings are entity-level public records.
-- A claim count of 1 to 5 is not republished. The reader sees `fewer_than_6` in its place, in every table file in this repository. The filing's PDF still prints the count. See [METHODS.md](METHODS.md) section 9.
+- A claim count of 1 to 5 is not republished. The reader sees `fewer_than_6` in its place, in every table file in this repository. The filing's PDF, or Ohio's workbook, still holds the count. See [METHODS.md](METHODS.md) section 9.
 
 ## One finding (Rhode Island)
 
@@ -111,7 +114,7 @@ In their 2025 filings, Rhode Island's seven health centers together reported a 3
 
 How the share is calculated: Schedule A lines 3 and 4 (payments to contract pharmacies and to outside vendors) added together, divided by line 2 minus line 1 (payments received minus acquisition cost).
 
-The finding and the chart are Rhode Island's. Vermont's measures, worked the same way on Vermont's rows, are in [`data/measures.csv`](data/measures.csv). Minnesota has no measures: its tables print no acquisition cost and no payments to pharmacies or vendors. Idaho has none either: its one record is a statewide total, and the measures compare covered entities.
+The finding and the chart are Rhode Island's. Vermont's measures, worked the same way on Vermont's rows, are in [`data/measures.csv`](data/measures.csv). Minnesota has no measures: its tables print no acquisition cost and no payments to pharmacies or vendors. Idaho and Maine have none either: each has one record that is a statewide total, and the measures compare covered entities.
 
 Read it with care. A filer that runs its own pharmacy carries that cost in its own expenses, and a filer that relies on contract pharmacies pays it out on line 3, so two filers' shares are not directly comparable. Line 3 counts every pharmacy a filer lists on Schedule D, whoever owns it. The filings are listed alphabetically; nothing here is a ranking. See [METHODS.md](METHODS.md).
 
@@ -119,13 +122,14 @@ Read it with care. A filer that runs its own pharmacy carries that cost in its o
 
 | Folder | What it holds |
 |---|---|
-| `sources/` | The PDFs as retrieved, each with its address, the time it was retrieved and a fingerprint (SHA-256), and the text each PDF carries |
+| `sources/` | The PDFs as retrieved, each with its address, the time it was retrieved and a fingerprint (SHA-256), and the text each PDF carries. For Ohio: the address and fingerprint of each workbook and a list of its filled cells |
 | `transcriptions/` | The first read: one file per filing, every printed row with its page number and how it was checked |
 | `verification/` | The second read, made from the page pictures (Ohio: a second program's read of each workbook) |
 | `reference/` | Normalized vendor names, spending categories, a note for every difference found in a filing, and the small extract of HRSA's list that names Ohio's filers |
 | `laws/` | The table of state laws, kept by hand: the laws, the seven kinds, the official sites, and the laws not listed |
 | `sources/laws/` | The text of each law's official page, as saved on the day it was read |
 | `data/` | The published dataset. Rebuilt from the folders above; never edited by hand |
+| `watch/` | The daily look at each state's source page: the list of pages, and what was on each the last time it was read. A change opens an issue; nothing is entered without being read |
 | `src/`, `tests/`, `tools/` | The code that checks and builds the dataset |
 
 ## Rebuild and check it yourself
@@ -160,7 +164,7 @@ One thing you will see: each check prints a line saying it ran "without the priv
 
 ## Corrections
 
-If a figure here does not match the filing it cites, please open an issue that names the filing, the schedule and the line. The PDF governs.
+If a figure here does not match the filing it cites, please open an issue that names the filing, the schedule and the line. The State's file governs.
 
 [CONTRIBUTING.md](CONTRIBUTING.md) says how to report a wrong figure and how to add another state or year. [CHANGELOG.md](CHANGELOG.md) lists what changed in each version.
 

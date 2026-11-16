@@ -169,6 +169,9 @@ class Transcribed:
 
 
 WITHHELD_UNLISTED = "[withheld: beside_small]"
+# Cells outside the contact rows that name a member of staff, by workbook. Their text is
+# withheld like a contact cell's. The list names the cell and never the person.
+STAFF_NAME_CELLS: dict[str, frozenset[str]] = {"CH053086": frozenset({"D59"})}
 
 
 def _small_blocks(cells: dict[str, str], mapped: set[str]) -> set[str]:
@@ -282,7 +285,8 @@ def transcribe(stem: str, workbook: Workbook) -> Transcribed:
     sheet = workbook.sheets[position - 1]
     layout = map_sheet(sheet)
     by_ref = {cell.ref: cell.value for cell in sheet.cells}
-    contacts = _contact_values(by_ref, layout.contact_refs)
+    named = STAFF_NAME_CELLS.get(stem, frozenset())
+    contacts = _contact_values(by_ref, layout.contact_refs | named)
     rows = tuple(_row(line, contacts) for line in layout.lines)
     unlisted = _small_blocks(by_ref, {line.ref for line in layout.lines})
     cells = tuple(

@@ -1,0 +1,166 @@
+page,schedule,line,amount,claims,answer
+42,table_5,row01_name,,,M Health Fairview University of Minnesota Medical Center
+42,table_5,row01_scope,,,Dispensed Only
+42,table_5,row01_net_revenue,"129,598,482",,
+42,table_5,row01_pct_of_statewide,21%,,
+42,table_5,row01_pct_mhcp,1%,,
+42,table_5,row02_name,,,Hennepin Healthcare
+42,table_5,row02_scope,,,Dispensed Only
+42,table_5,row02_net_revenue,"70,211,917",,
+42,table_5,row02_pct_of_statewide,11%,,
+42,table_5,row02_pct_mhcp,54%,,
+42,table_5,row03_name,,,Essentia Health Duluth
+42,table_5,row03_scope,,,Dispensed Only
+42,table_5,row03_net_revenue,"53,538,103",,
+42,table_5,row03_pct_of_statewide,8%,,
+42,table_5,row03_pct_mhcp,0%,,
+42,table_5,row04_name,,,Abbott Northwestern Hospital
+42,table_5,row04_scope,,,Dispensed Only
+42,table_5,row04_net_revenue,"31,773,835",,
+42,table_5,row04_pct_of_statewide,5%,,
+42,table_5,row04_pct_mhcp,24%,,
+42,table_5,row05_name,,,CentraCare - St. Cloud Hospital
+42,table_5,row05_scope,,,Dispensed Only
+42,table_5,row05_net_revenue,"27,310,115",,
+42,table_5,row05_pct_of_statewide,4%,,
+42,table_5,row05_pct_mhcp,12%,,
+43,table_5,row06_name,,,Sanford Bemidji Medical Center
+43,table_5,row06_scope,,,Dispensed Only
+43,table_5,row06_net_revenue,"26,862,989",,
+43,table_5,row06_pct_of_statewide,4%,,
+43,table_5,row06_pct_mhcp,6%,,
+43,table_5,row07_name,,,Regions Hospital
+43,table_5,row07_scope,,,Dispensed Only
+43,table_5,row07_net_revenue,"18,123,342",,
+43,table_5,row07_pct_of_statewide,3%,,
+43,table_5,row07_pct_mhcp,17%,,
+43,table_5,row08_name,,,Children's Minnesota
+43,table_5,row08_scope,,,Dispensed Only
+43,table_5,row08_net_revenue,"13,911,529",,
+43,table_5,row08_pct_of_statewide,2%,,
+43,table_5,row08_pct_mhcp,84%,,
+43,table_5,row09_name,,,Fairview Range
+43,table_5,row09_scope,,,Dispensed Only
+43,table_5,row09_net_revenue,"12,979,661",,
+43,table_5,row09_pct_of_statewide,2%,,
+43,table_5,row09_pct_mhcp,0%,,
+43,table_5,row10_name,,,Essentia Health-St. Joseph's Medical Center
+43,table_5,row10_scope,,,Dispensed Only
+43,table_5,row10_net_revenue,"11,012,509",,
+43,table_5,row10_pct_of_statewide,2%,,
+43,table_5,row10_pct_mhcp,0%,,
+43,table_5,row11_name,,,Grand Itasca Clinic and Hospital
+43,table_5,row11_scope,,,Dispensed Only
+43,table_5,row11_net_revenue,"10,323,143",,
+43,table_5,row11_pct_of_statewide,2%,,
+43,table_5,row11_pct_mhcp,20%,,
+43,table_5,row12_name,,,United Hospital
+43,table_5,row12_scope,,,Dispensed Only
+43,table_5,row12_net_revenue,"8,586,866",,
+43,table_5,row12_pct_of_statewide,1%,,
+43,table_5,row12_pct_mhcp,0%,,
+43,table_5,row13_name,,,Children’s Minnesota
+43,table_5,row13_scope,,,Dispensed Only
+43,table_5,row13_net_revenue,"6,382,884",,
+43,table_5,row13_pct_of_statewide,1%,,
+43,table_5,row13_pct_mhcp,42%,,
+43,table_5,row14_name,,,Essentia Health Virginia
+43,table_5,row14_scope,,,Dispensed Only
+43,table_5,row14_net_revenue,"6,146,068",,
+43,table_5,row14_pct_of_statewide,1%,,
+43,table_5,row14_pct_mhcp,0%,,
+43,table_5,row15_name,,,Welia Health
+43,table_5,row15_scope,,,Dispensed Only
+43,table_5,row15_net_revenue,"5,651,223",,
+43,table_5,row15_pct_of_statewide,0.9%,,
+43,table_5,row15_pct_mhcp,0%,,
+43,table_5,row16_name,,,Sanford Thief River Falls Medical Center
+43,table_5,row16_scope,,,Dispensed Only
+43,table_5,row16_net_revenue,"5,133,589",,
+43,table_5,row16_pct_of_statewide,0.8%,,
+43,table_5,row16_pct_mhcp,0%,,
+43,table_5,row17_name,,,St. Mary's Regional Health Center
+43,table_5,row17_scope,,,Dispensed Only
+43,table_5,row17_net_revenue,"5,123,631",,
+43,table_5,row17_pct_of_statewide,0.8%,,
+43,table_5,row17_pct_mhcp,0%,,
+43,table_5,row18_name,,,Mercy Hospital
+43,table_5,row18_scope,,,Dispensed Only
+43,table_5,row18_net_revenue,"4,880,819",,
+43,table_5,row18_pct_of_statewide,0.8%,,
+43,table_5,row18_pct_mhcp,0%,,
+44,table_5,row19_name,,,M Health Fairview St. John's Hospital
+44,table_5,row19_scope,,,Dispensed Only
+44,table_5,row19_net_revenue,"4,462,704",,
+44,table_5,row19_pct_of_statewide,0.7%,,
+44,table_5,row19_pct_mhcp,0%,,
+44,table_5,row20_name,,,Ne-Ia-Shing Clinic
+44,table_5,row20_scope,,,Dispensed Only
+44,table_5,row20_net_revenue,"4,078,326",,
+44,table_5,row20_pct_of_statewide,0.6%,,
+44,table_5,row20_pct_mhcp,75%,,
+44,table_5,row21_name,,,Hutchinson Health
+44,table_5,row21_scope,,,Dispensed Only
+44,table_5,row21_net_revenue,"3,736,395",,
+44,table_5,row21_pct_of_statewide,0.6%,,
+44,table_5,row21_pct_mhcp,0%,,
+44,table_5,row22_name,,,North Memorial Health Hospital
+44,table_5,row22_scope,,,Administered & Dispensed
+44,table_5,row22_net_revenue,"80,071,766",,
+44,table_5,row22_pct_of_statewide,13%,,
+44,table_5,row22_pct_mhcp,7%,,
+44,table_5,row23_name,,,Olmsted Medical Center
+44,table_5,row23_scope,,,Administered & Dispensed
+44,table_5,row23_net_revenue,"8,632,687",,
+44,table_5,row23_pct_of_statewide,1%,,
+44,table_5,row23_pct_mhcp,5%,,
+44,table_5,row24_name,,,Maple Grove Hospital
+44,table_5,row24_scope,,,Administered & Dispensed
+44,table_5,row24_net_revenue,"7,992,600",,
+44,table_5,row24_pct_of_statewide,1%,,
+44,table_5,row24_pct_mhcp,1%,,
+44,table_5,row25_name,,,Stevens Community Medical Center
+44,table_5,row25_scope,,,Administered & Dispensed
+44,table_5,row25_net_revenue,"7,150,970",,
+44,table_5,row25_pct_of_statewide,1%,,
+44,table_5,row25_pct_mhcp,0%,,
+44,table_5,row26_name,,,Winona Health Services
+44,table_5,row26_scope,,,Administered & Dispensed
+44,table_5,row26_net_revenue,"3,578,644",,
+44,table_5,row26_pct_of_statewide,0.6%,,
+44,table_5,row26_pct_mhcp,0%,,
+45,table_6,general_acute_care_commercial,"285,731,927",,
+45,table_6,general_acute_care_medicare,"152,163,749",,
+45,table_6,general_acute_care_mhcp,"61,997,487",,
+45,table_6,general_acute_care_other,"5,851,718",,
+45,table_6,general_acute_care_total,"505,744,881",,
+45,table_6,general_acute_care_major_type,,,Hospital
+45,table_6,critical_access_commercial,"30,490,124",,
+45,table_6,critical_access_medicare,"26,820,534",,
+45,table_6,critical_access_mhcp,"1,544,339",,
+45,table_6,critical_access_other,"769,578",,
+45,table_6,critical_access_total,"59,624,576",,
+45,table_6,critical_access_major_type,,,Hospital
+45,table_6,other_hospitals_commercial,"17,908,641",,
+45,table_6,other_hospitals_medicare,"13,274,728",,
+45,table_6,other_hospitals_mhcp,"4,707,268",,
+45,table_6,other_hospitals_other,"413,286",,
+45,table_6,other_hospitals_total,"36,303,924",,
+45,table_6,other_hospitals_major_type,,,Hospital
+45,table_6,disease_specific_grantees_commercial,"6,606,228",,
+45,table_6,disease_specific_grantees_medicare,"1,191,455",,
+45,table_6,disease_specific_grantees_mhcp,"14,415,465",,
+45,table_6,disease_specific_grantees_other,"-1,481,489",,
+45,table_6,disease_specific_grantees_total,"20,731,659",,
+45,table_6,disease_specific_grantees_major_type,,,Grantee
+45,table_6,safety_net_grantees_commercial,"2,499,767",,
+45,table_6,safety_net_grantees_medicare,"3,613,733",,
+45,table_6,safety_net_grantees_mhcp,"3,922,624",,
+45,table_6,safety_net_grantees_other,"-2,178,810",,
+45,table_6,safety_net_grantees_total,"7,857,313",,
+45,table_6,safety_net_grantees_major_type,,,Grantee
+45,table_6,total_commercial,"343,236,687",,
+45,table_6,total_medicare,"197,064,198",,
+45,table_6,total_mhcp,"86,587,184",,
+45,table_6,total_other,"3,374,283",,
+45,table_6,total_total,"630,262,352",,

@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import csv
 import importlib.util
+import json
 import re
 import zipfile
 from decimal import Decimal
@@ -16,12 +17,14 @@ from pathlib import Path
 
 import pytest
 
+from filings340b.build import _json_bytes, _json_rows_bytes
 from filings340b.forms import OH_FORM, form_of, oh_unit
 from filings340b.imageread import same_cell
 from filings340b.load import ORIGINALS, load_filings
 from filings340b.masking import EMAIL, PHONE, mask
 from filings340b.model import Filing, Verification
 from filings340b.money import parse_workbook_amount, parse_workbook_count
+from filings340b.ohio import PERCENT_TOLERANCE, _percent_tolerance
 from filings340b.ohio_recovery import recover, too_few
 from filings340b.ohio_template import map_sheet, template_sheet
 from filings340b.ohio_transcribe import (
@@ -325,3 +328,32 @@ def test_ohio_notes_state_cell_values_only() -> None:
         notes = [r for r in csv.DictReader(handle) if r["filing_id"].startswith("oh-")]
     assert notes
     assert all("holds" in note["note"] for note in notes)
+
+
+def test_a_rounded_percentage_is_not_a_difference() -> None:
+    """A percentage is compared at the decimal places its cell holds."""
+    assert _percent_tolerance(Decimal("63")) == Decimal("0.5")
+    assert _percent_tolerance(Decimal("0.93")) == Decimal("0.005")
+    assert _percent_tolerance(Decimal("79.42886353")) == Decimal("0.000000005")
+    assert _percent_tolerance(Decimal("0.250000000000001")) == PERCENT_TOLERANCE
+    assert _percent_tolerance(None) == PERCENT_TOLERANCE
+    listed = [d for d in _rows("discrepancies.csv") if d["filing_id"].startswith("oh-")]
+    assert not [d for d in listed if d["unit"] == "percent"]
+
+
+def test_no_initial_and_surname_is_left_in_the_cells_files() -> None:
+    """A cell that names a member of staff is withheld like a contact cell."""
+    named = re.compile(r"\b(?:per|by|from|contact) [A-Z]\. ?[A-Z][a-z]{2,}\b")
+    for path in sorted((OHIO / "cells").glob("*.csv")):
+        with path.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                assert not named.search(row["value"]), f"{path.name} {row['cell']}"
+
+
+def test_the_filings_document_is_one_row_per_line_and_small_enough_to_serve() -> None:
+    """The combined JSON parses to the tables and stays under 25 MiB, a common host limit."""
+    sample = {"b": [{"z": "1", "a": "é"}, {"z": "2", "a": ""}], "a": "x", "c": []}
+    assert json.loads(_json_rows_bytes(sample)) == json.loads(_json_bytes(sample)) == sample
+    assert _json_rows_bytes(sample).decode("utf-8").count("\n") == 8
+    path = ROOT / "data" / "340b-state-filings.json"
+    assert path.stat().st_size < 25 * 1024 * 1024

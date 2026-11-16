@@ -1,0 +1,226 @@
+SB227 212711-4 By Senators Butler, Beasley, Allen, Scofield, Barfoot, Holley, Orr, Stutts, Livingston, Smitherman, Marsh, Roberts and Gudger RFD:
+Banking and Insurance First Read: 11-FEB-21 Page 0 SB227 SB227 ENROLLED, An Act, Relating to health care; to amend Sections 3 through 7 of Act 2019-457, 2019 Regular Session, now appearing as Sections 27-45A-3, 27-45A-4, 27-45A-5, 27-45A-6, and 27-45A-7, Code of Alabama 1975; and to add Sections 27-45A-8, 27-45A-9, 27-45A-10, 27-45A-11, and 27-45A-12 to the Code of Alabama 1975; to prohibit a pharmacy benefits manager from limiting or incentivizing a patient's choice in pharmacies; to prohibit a pharmacy benefits manager from denying a pharmacy from participating as a contract provider of pharmacy services for a health benefit plan if the pharmacy meets the terms and conditions of the pharmacy benefits manager's contract; to prohibit pharmacy benefits managers from steering an insured to use a mail-order pharmacy or a pharmacy benefits manager affiliate, with certain exceptions; to prohibit a pharmacy benefits manager from limiting certain powers of a pharmacy or pharmacist; to require certain annual reporting; to revise definitions; to provide further for the Commissioner of Insurance to administer and enforce laws relating to pharmacy benefits managers; to provide further for the licensure of pharmacy benefits managers; to require rulemaking; to provide civil penalties for certain violations; and to amend Sections Page 1 SB227 10A-20-6.16 and 27-21A-23, Code of Alabama 1975, to subject certain health insurers to the pharmacy benefits manager laws.
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Section 1.
+Sections 3 through 7 of Act 2019-457, 2019 Regular Session, now appearing as Sections 27-45A-3, 27-45A-4, 27-45A-5, 27-45A-6, and 27-45A-7, Code of Alabama 1975, are amended to read as follows:
+"§27-45A-3.
+"(a) For purposes of this chapter, the following words shall have the following meanings:
+"(1) CLAIMS PROCESSING SERVICES.
+The administrative services performed in connection with the processing and adjudicating of claims relating to pharmacist services that include any of the following:
+"a.
+Receiving payments for pharmacist services.
+"b.
+Making payments to pharmacists or pharmacies for pharmacist services.
+"c.
+Both paragraphs a. and b.
+"(2) COVERED INDIVIDUAL.
+A member, policyholder, subscriber, enrollee, beneficiary, dependent, or other individual participating in a health benefit plan.
+"(3) HEALTH BENEFIT PLAN.
+A policy, contract, certificate, or agreement entered into, offered, or issued by a health insurer to provide, deliver, arrange for, pay for, or Page 2 SB227 reimburse any of the costs of physical, mental, or behavioral health care services.
+"(4) HEALTH INSURER.
+An entity subject to the insurance laws of this state and rules of the department, or subject to the jurisdiction of the department, that contracts or offers to contract to provide, deliver, arrange for, pay for, or reimburse any of the costs of health care services, including, but not limited to, a sickness and accident insurance company, a health maintenance organization operating pursuant to Chapter 21A, a nonprofit hospital or health service corporation, a health care service plan organized pursuant to Article 6, Chapter 20 of Title 10A, or any other entity providing a plan of health insurance, health benefits, or health services.
+"(2)(5) OTHER PRESCRIPTION DRUG OR DEVICE SERVICES.
+Services, other than claims processing services, provided directly or indirectly, whether in connection with or separate from claims processing services, including without limitation, but not limited to, any of the following:
+"a.
+Negotiating rebates, discounts, or other financial incentives and arrangements with drug companies.
+"b.
+Disbursing or distributing rebates.
+"c.
+Managing or participating in incentive programs or arrangements for pharmacist services.
+Page 3 SB227 "d.
+Negotiating or entering into contractual arrangements with pharmacists or pharmacies, or both.
+"e.
+Developing formularies.
+"f.
+Designing prescription benefit programs.
+"g.
+Advertising or promoting services.
+"(3)(6) PHARMACIST.
+An individual licensed as a pharmacist by the State Board of Pharmacy As defined in Section 34-23-1.
+"(4)(7) PHARMACIST SERVICES.
+Products, goods, and services, or any combination of products, goods, and services, provided as a part of the practice of pharmacy.
+"(5)(8) PHARMACY.
+The place licensed by the State Board of Pharmacy in which drugs, chemicals, medicines, prescriptions, and poisons are compounded, dispensed, or sold at retail As defined in Section 34-23-1.
+"(6)(9) PHARMACY BENEFITS MANAGER. a.
+A person, business, or entity, including a wholly or partially owned or controlled subsidiary of a pharmacy benefits manager, that provides claims processing services or other prescription drug or device services, or both, to covered individuals who are employed in or are residents of this state, for health benefit plans.
+"b.
+Pharmacy benefits manager does not include any of the following:
+Page 4 SB227 "1.
+A healthcare facility licensed in Alabama this state.
+"2.
+A healthcare professional licensed in Alabama this state.
+"3.
+A consultant who only provides advice as to the selection or performance of a pharmacy benefits manager.
+"(10) PBM AFFILIATE.
+A pharmacy or pharmacist that, directly or indirectly, through one or more intermediaries, is owned or controlled by, or is under common control by, a pharmacy benefits manager.
+"(11) PRESCRIPTION DRUGS.
+Includes, but is not limited to, certain infusion, compounded, and long-term care prescription drugs.
+The term does not include specialty drugs.
+"(12) SPECIALTY DRUGS.
+Prescription medications that require special handling, administration, or monitoring and are used for the treatment of patients with serious health conditions requiring complex therapies, and that are eligible for specialty tier placement by the Centers for Medicare and Medicaid Services pursuant to 42 C.F.R. § 423.560.
+"§27-45A-4.
+"(a) (1) Effective January 1, 2020, to conduct business in this state, A person may not establish or operate as a pharmacy benefits manager must be licensed by in this state without first obtaining a license from the commissioner.
+To Page 5 SB227 "(b) Effective through December 31, 2021, to initially obtain a license or renew a license, a pharmacy benefits manager shall submit all of the following:
+"a.(1) A nonrefundable fee not to exceed five hundred dollars ($500).
+"b.(2) A copy of the licensee's corporate charter, articles of incorporation, or other charter document.
+"c.(3) A completed licensure form adopted by the commissioner containing:
+"1.a.
+The name and address of the licensee.
+"2.b.
+The name, address, and official position of an employee who will serve as the primary contact for the Department of Insurance.
+"3.c.
+Any additional contact information deemed appropriate by the commissioner or reasonably necessary to verify the information contained in the application.
+"(2) The licensee shall inform the commissioner by any means acceptable to the commissioner of any change in the information required by this subsection within 30 days of the change.
+Failure to timely inform the commissioner of a change shall result in a penalty against the licensee in the amount of fifty dollars ($50).
+"(c) Not later than January 1, 2022, the commissioner shall adopt rules for licensure of pharmacy Page 6 SB227 benefits managers to operate in this state.
+The rules shall establish all of the following:
+"(1) The licensing procedure and application form.
+"(2) Requirements for licensure.
+"(3) Reporting requirements.
+"(4) A fee schedule for a non-refundable application fee and a nonrefundable license renewal fee, set to allow the regulation and oversight activities of the department to be self-supporting.
+"(d) On and after January 1, 2022, a person applying for a pharmacy benefits manager license shall submit an application for licensure in the form and manner prescribed by the commissioner by rule, along with the application fee.
+"(e) The commissioner may refuse to issue or renew a license if the commissioner determines that the applicant has been found to have violated this chapter or the insurance laws of this state or any other jurisdiction, or has had an insurance or other certificate of authority or license denied or revoked for cause by any jurisdiction.
+"(3)(f) Upon receipt of a completed licensure form and the licensure fee, the commissioner shall issue a Unless denied licensure pursuant to subsection (e), a person who meets the requirements of this chapter and rules adopted by the commissioner shall be issued a pharmacy benefits manager license.
+The license may be in paper or electronic form and Page 7 SB227 shall clearly indicate the expiration date of the licensure license.
+Licenses are nontransferable.
+Notwithstanding any provision of law to the contrary, the licensure form application and license shall be public records.
+"(4) (g) The license shall be initially renewed in accordance with a schedule prescribed by the commissioner and shall thereafter be subject to renewal on a biennial an annual basis along with the nonrefundable license renewal fee.
+The commissioner shall adopt by rule an initial licensure fee not to exceed five hundred dollars ($500) and a renewal fee not to exceed five hundred dollars ($500), both of which shall be nonrefundable.
+"(h) A licensee shall inform the commissioner by any means acceptable to the commissioner of any material change in the information required by this section or rules adopted pursuant to this section within 30 days of the change.
+Failure to timely inform the commissioner of a change shall result in a penalty against the licensee in the amount of fifty dollars ($50).
+"(i) The commissioner may suspend or revoke a license or may impose civil penalties for a violation of this chapter or the insurance laws of this state or any other jurisdiction, as determined by the commissioner in accordance with rules adopted by the commissioner, provided a pharmacy benefits manager shall have the same rights as insurers to Page 8 SB227 request a hearing in accordance with Sections 27-2-28, et seq. and to appeal as provided in Section 27-2-32.
+"(j) Unless surrendered, suspended, or revoked by the commissioner, a license issued under this section shall remain valid as long as the pharmacy benefits manager continues to do business in this state and remains in compliance with this chapter and applicable rules, including the payment of an annual license renewal fee as set forth in subsection (g).
+"(5)(k) All documents, materials, or other information, and copies thereof, in the possession or control of the department that are obtained by or disclosed to the commissioner or any other person in the course of an application, examination, or investigation made pursuant to this chapter shall be confidential by law and privileged, shall not be subject to any open records, freedom of information, sunshine, or other public record disclosure laws, and shall not be subject to subpoena or discovery.
+This subdivision only applies to disclosure of confidential documents by the department and does not create any privilege in favor of any other party.
+"(l)(1) Fees collected pursuant to this section shall be deposited in the State Treasury to the credit of the Insurance Department Fund.
+Page 9 SB227 "(2) Civil penalties collected pursuant to this chapter shall be deposited in the State Treasury to the credit of the state General Fund.
+"§27-45A-5.
+"(a) A pharmacy or pharmacist may provide a covered person with information regarding the amount of the covered person's cost share for a prescription drug.
+Neither a pharmacy nor a pharmacist shall be proscribed by a pharmacy benefits manager from discussing any such information or for selling a more affordable alternative to the covered person if such an alternative is available.
+"(b) A health benefit plan that covers prescription drugs may not include a provision that requires an enrollee to make a payment for a prescription drug at the point of sale in an amount that exceeds the lessor of:
+(1) the contracted co-payment amount; or (2) the amount an individual would pay for a prescription if that individual were paying with cash.
+"(c) For purposes of this section, the following words have the following meanings:
+"(1) COVERED PERSON.
+Any individual, family, or family member on whose behalf third-party payment or prepayment of health or medical expenses is provided under a health benefit plan.
+"(2) ENROLLEE.
+A person named on a policy or certificate of coverage under a health benefit plan.
+Page 10 SB227 "(3) HEALTH BENEFIT PLAN.
+As defined in Section 27-54A-2.
+"(a) The commissioner may adopt rules necessary to implement this chapter.
+"(b) The powers and duties set forth in this chapter shall be in addition to all other authority of the commissioner.
+"(c) The commissioner shall enforce compliance with the requirements of this chapter and rules adopted thereunder.
+"(d)(1) The commissioner may examine or audit any books and records of a pharmacy benefits manager providing claims processing services or other prescription drug or device services for a health benefit plan as may be deemed relevant and necessary by the commissioner to determine compliance with this chapter.
+"(2) Examinations conducted by the commissioner shall be pursuant to the same examination authority of the commissioner relative to insurers as provided in Chapter 2, including, but not limited to, the confidentiality of documents and information submitted as provided in Section 27-2-24; examination expenses shall be processed in accordance with Section 27-2-25; and pharmacy benefits managers shall have the same rights as insurers to request a hearing in accordance with Sections 27-2-28, et seq., and to appeal as provided in Section 27-2-32.
+Page 11 SB227 "(e) The commissioner's examination expenses shall be collected from pharmacy benefits managers in the same manner as those collected from insurers.
+"§27-45A-6.
+"(a) The commissioner may adopt reasonable rules necessary to implement Sections 27-45A-4 and 27-45A-5.
+"(b) The rules adopted under this chapter shall set penalties or civil fines for violations of Sections 27-45A-4 and 27-45A-5 and the rules implementing this chapter including, without limitation, monetary fines and the suspension or revocation of a license.
+"(c) The fees collected pursuant to this chapter shall be deposited in the State Treasury to the credit of the Insurance Department Fund.
+Any civil fine or penalty collected shall be deposited in the State Treasury to the credit of the State General Fund.
+"(a) Nothing in this chapter is intended or shall be construed to do any of the following:
+"(1) Be in conflict with existing relevant federal law.
+"(2) Apply to any specialty drug.
+"(3) Impact the ability of a hospital to mandate its employees use of a hospital-owned pharmacy.
+"(b) The following provisions shall not apply to the administration by a person of any term, including prescription Page 12 SB227 drug benefits, of a self-funded health benefit plan that is governed by the federal Employee Retirement Income Security Act of 1974, 29 U.S.C. §1001 et. seq.:
+"(1) Subdivisions (1) and (5) of Sections 27-45A-8.
+"(2) Subdivisions (2), (3), (6), and (7) of Section 27-45A-10." "§27-45A-7.
+"(a) This chapter is applicable to a contract or health benefit plan issued, renewed, recredentialed, amended, or extended on and after January 1, 2020.
+(b) A contract existing on the date of licensure of the pharmacy benefits manager shall comply with the requirements of this chapter as a condition of licensure for the pharmacy benefits manager.
+"(c) Nothing in this chapter is intended or shall be construed to be in conflict with existing relevant federal law. [RESERVED] Section 2.
+Sections 27-45A-8, 27-45A-9, 27-45A-10, 27-45A-11, and 27-45A-12, are added to the Code of Alabama 1975, to read as follows: §27-45A-8.
+A pharmacy benefits manager may not do any of the following:
+Page 13 SB227 (1) Require a covered individual, as a condition of payment or reimbursement, to purchase pharmacist services, including, but not limited to, prescription drugs, exclusively through a mail-order pharmacy or pharmacy benefits manager affiliate.
+(2) Prohibit or limit any covered individual from selecting an in-network pharmacy or pharmacist of his or her choice who meets and agrees to the terms and conditions, including reimbursements, in the pharmacy benefits manager's contract.
+(3) Impose a monetary advantage or penalty under a health benefit plan that would affect a covered individual's choice of pharmacy among those pharmacies that have chosen to contract with the pharmacy benefits manager under the same terms and conditions, including reimbursements.
+For purposes of this subdivision, "monetary advantage or penalty" includes, but is not limited to, a higher copayment, a waiver of a copayment, a reduction in reimbursement services, a requirement or limit on the number of days of a drug supply for which reimbursement will be allowed, or a promotion of one participating pharmacy over another by these methods.
+(4)a.
+Use a covered individual's pharmacy services data collected pursuant to the provision of claims processing services for the purpose of soliciting, marketing, or Page 14 SB227 referring the covered individual to a mail-order pharmacy or PBM affiliate. b.
+This subdivision shall not limit a health benefit plan's use of pharmacy services data for the purpose of administering the health benefit plan. c.
+This subdivision shall not prohibit a pharmacy benefits manager from notifying a covered individual that a less costly option for a specific prescription drug is available through a mail-order pharmacy or PBM affiliate, provided the notification shall state that switching to the less costly option is not mandatory.
+The commissioner, by rule, may determine the language of the notification authorized under this paragraph made by a pharmacy benefits manager to a covered individual.
+(5) Require a covered individual to make a payment for a prescription drug at the point of sale in an amount that exceeds the lessor of the following: a.
+The contracted cost share amount. b.
+An amount an individual would pay for a prescription if that individual were paying without insurance. §27-45A-9.
+(a) For purposes of this section, client means a health insurer, payor, or health benefit plan.
+(b) If requested by a client under subsection (d), a pharmacy benefits manager shall prepare an annual report by Page 15 SB227 June 1 which discloses all of the following with respect to that client: a.
+The aggregate amount of all rebates that the pharmacy benefits manager received from pharmaceutical manufacturers on behalf of the client.
+(2) The aggregate amount of the rebates the pharmacy benefits manager received from pharmaceutical manufacturers that did not pass through to the client.
+(3) If a pharmacy benefits manager or any consultant providing pharmacy benefits management services engages in spread pricing, the aggregated amount of the difference between the amount paid by the client for prescription drugs and the actual amount paid to the pharmacy or pharmacist for pharmacist services.
+For purposes of this subdivision, "spread pricing" means the model of prescription drug reimbursement in which a pharmacy benefits manager charges a client a contracted price for prescription drugs, and the contract price for the prescription drugs differs from the amount the pharmacy benefits manager, directly or indirectly, pays the pharmacy or pharmacist for pharmacist services.
+(c) Confidentiality of a report submitted under this section shall be governed by contract between the pharmacy benefits manager and the client.
+(d) A pharmacy benefits manager shall annually notify all its clients in a timely manner that a report Page 16 SB227 described in subsection (b) will be made available to the client by the pharmacy benefits manager if requested by the client. §27-45A-10.
+A pharmacy benefits manager may not do any of the following:
+(1) Reimburse an in-network pharmacy or pharmacist in the state an amount less than the amount that the pharmacy benefits manager reimburses a similarly situated PBM affiliate for providing the same pharmacist services to covered individuals in the same health benefit plan.
+(2) Deny a pharmacy or pharmacist the right to participate as a contract provider if the pharmacy or pharmacist meets and agrees to the terms and conditions, including reimbursements, in the pharmacy benefits manager's contract.
+(3) Impose credentialing standards on a pharmacist or pharmacy beyond or more onerous than the licensing standards set by the Alabama State Board of Pharmacy or charge a pharmacy a fee in connection with network enrollment, provided this subdivision shall not prohibit a pharmacy benefits manager from setting minimum requirements for participating in a pharmacy network.
+(4) Prohibit a pharmacist or pharmacy from providing a covered individual specific information on the amount of the Page 17 SB227 covered individual's cost share for the covered individual's prescription drug and the clinical efficacy of a more affordable alternative drug if one is available, or penalize a pharmacist or pharmacy for disclosing this information to a covered individual or for selling to a covered individual a more affordable alternative if one is available.
+(5) Prohibit a pharmacist or pharmacy from offering and providing delivery services to a covered individual as an ancillary service of the pharmacy, provided all of the following requirements are met: a.
+The pharmacist or pharmacy can demonstrate quality, stability, and safety standards during delivery. b.
+The pharmacist or pharmacy does not charge any delivery or service fee to a pharmacy benefits manager or health insurer. c.
+The pharmacist or pharmacy alerts the covered individual that he or she will be responsible for any delivery service fee associated with the delivery service, and that the pharmacy benefits manager or health insurer will not reimburse the delivery service fee.
+(6) Charge or hold a pharmacist or pharmacy responsible for a fee or penalty relating to an audit conducted pursuant to The Pharmacy Audit Integrity Act, Article 8 of Chapter 23 of Title 34, provided this prohibition Page 18 SB227 does not restrict recoupments made in accordance with the Pharmacy Audit Integrity Act.
+(7) Charge a pharmacist or pharmacy a point-of-sale or retroactive fee or otherwise recoup funds from a pharmacy in connection with claims for which the pharmacy has already been paid, unless the recoupment is made pursuant to an audit conducted in accordance with the Pharmacy Audit Integrity Act.
+(8) Except for a drug reimbursed, directly or indirectly, by the Medicaid program, vary the amount a pharmacy benefits manager reimburses an entity for a drug, including each and every prescription medication that is eligible for specialty tier placement by the Centers for Medicare and Medicaid Services pursuant to 42 C.F.R. § 423.560, regardless of any provision of law to the contrary, on the basis of whether: a.
+The drug is subject to an agreement under 42 U.S.C. § 256b; or b.
+The entity participates in the program set forth in 42 U.S.C. § 256b.
+(9) If an entity participates, directly or indirectly, in the program set forth in 42 U.S.C. § 256b, do any of the following: a.
+Assess a fee, charge-back, or other adjustment on the entity.
+Page 19 SB227 b.
+Restrict access to the pharmacy benefits manager's pharmacy network. c.
+Require the entity to enter into a contract with a specific pharmacy to participate in the pharmacy benefits manager's pharmacy network. d.
+Create a restriction or an additional charge on a patient who chooses to receive drugs from the entity. e.
+Create any additional requirements or restrictions on the entity.
+(10) Require a claim for a drug to include a modifier to indicate that the drug is subject to an agreement under 42 U.S.C. § 256b.
+(11) Penalize or retaliate against a pharmacist or pharmacy for exercising rights under this chapter or the Pharmacy Audit Integrity Act. §27-45A-11.
+A pharmacy benefits manager may not knowingly make a material misrepresentation to a covered individual, pharmacist, or pharmacy. §27-45A-12.
+A pharmacist or pharmacy that participates in a health benefit plan's pharmacy network shall process a prescription drug using the pharmacy benefits of the covered individual if failure to do so will result in a higher out-of-pocket cost to the covered individual.
+Page 20 SB227 Section 3.
+Sections 10A-20-6.16 and 27-21A-23, Code of Alabama 1975, are amended to read as follows:
+"§10A-20-6.16.
+"(a) No statute of this state applying to insurance companies shall be applicable to any corporation organized under this article and amendments thereto or to any contract made by the corporation; except the corporation shall be subject to the following:
+"(1) The provisions regarding annual premium tax to be paid by insurers on insurance premiums.
+"(2) Chapter 55 of Title 27.
+"(3) Article 2 and Article 3 of Chapter 19 of Title 27.
+"(4) Section 27-1-17.
+"(5) Chapter 56 of Title 27.
+"(6) Rules promulgated by the Commissioner of Insurance pursuant to Sections 27-7-43 and 27-7-44.
+"(7) Chapter 54 of Title 27.
+"(8) Chapter 57 of Title 27.
+"(9) Chapter 58 of Title 27.
+"(10) Chapter 59 of Title 27.
+"(11) Chapter 54A of Title 27.
+"(12) Chapter 12A of Title 27.
+"(13) Chapter 2B of Title 27.
+"(14) Chapter 29 of Title 27.
+Page 21 SB227 "(15) Chapter 62 of Title 27.
+"(16) Chapter 45A of Title 27.
+"(b) The provisions in subsection (a) that require specific types of coverage to be offered or provided shall not apply when the corporation is administering a self-funded benefit plan or similar plan, fund, or program that it does not insure.
+"§27-21A-23.
+"(a) Except as otherwise provided in this chapter, provisions of the insurance law and provisions of health care service plan laws shall not be applicable to any health maintenance organization granted a certificate of authority under this chapter.
+This provision shall not apply to an insurer or health care service plan licensed and regulated pursuant to the insurance law or the health care service plan laws of this state except with respect to its health maintenance organization activities authorized and regulated pursuant to this chapter.
+"(b) Solicitation of enrollees by a health maintenance organization granted a certificate of authority shall not be construed to violate any provision of law relating to solicitation or advertising by health professionals.
+"(c) Any health maintenance organization authorized under this chapter shall not be deemed to be practicing Page 22 SB227 medicine and shall be exempt from the provisions of Section 34-24-310, et seq., relating to the practice of medicine.
+"(d) No person participating in the arrangements of a health maintenance organization other than the actual provider of health care services or supplies directly to enrollees and their families shall be liable for negligence, misfeasance, nonfeasance, or malpractice in connection with the furnishing of such services and supplies.
+"(e) Nothing in this chapter shall be construed in any way to repeal or conflict with any provision of the certificate of need law.
+"(f) Notwithstanding the provisions of subsection (a), a health maintenance organization shall be subject to all of the following:
+"(1) Section 27-1-17.
+"(2) Chapter 56.
+"(3) Chapter 54.
+"(4) Chapter 57.
+"(5) Chapter 58.
+"(6) Chapter 59.
+"(7) Rules promulgated by the Commissioner of Insurance pursuant to Sections 27-7-43 and 27-7-44.
+"(8) Chapter 12A.
+"(9) Chapter 54A.
+"(10) Chapter 2B.
+Page 23 SB227 "(11) Chapter 29.
+"(12) Chapter 62.
+"(13) Chapter 45A." Section 4.
+Commencing January 1, 2022, a pharmacy benefits manager licensed by the commissioner prior to January 1, 2022, shall submit an application for a new license in accordance with subsections (d) of Section 27-45A-4, Code of Alabama 1975.
+The pharmacy benefits manager's previous license shall expire on the date the commissioner issues a new license or April 1, 2022, whichever occurs earlier.
+Section 5.
+This act shall become effective July 1, 2021, following its passage and approval by the Governor, or its otherwise becoming law, and shall apply to pharmacy benefits manager contracts on and after October 1, 2021.
+Page 24 SB227 President and Presiding Officer of the Senate Speaker of the House of Representatives SB227 Senate 08-APR-21 I hereby certify that the within Act originated in and passed the Senate, as amended.
+Patrick Harris, Secretary.
+House of Representatives Amended and passed 29-APR-21 Senate concurred in House amendment 29-APR-21 By:
+Senator Butler Page 25

@@ -1,0 +1,25 @@
+filing_id = "me-2024-statewide"
+entity_id = "me-statewide"
+state = "ME"
+reporting_year = 2024
+entity_type = "state_total"
+record_kind = "state_report_totals"
+source_file = "340B_Annual_Report_260402.pdf"
+form = "me-mhdo-340b-report"
+form_revision = "1st Annual 340B Drug Program Transparency Report, April 2, 2026"
+
+[cover]
+name_as_filed = ""
+corporate_address_as_filed = ""
+opais_ids_as_filed = ""
+recertification_date_as_filed = ""
+reporting_basis_as_filed = ""
+
+[printed]
+period_as_filed = "fiscal year 2024"
+
+[[attachments]]
+pages = "10-25"
+kind = "narrative"
+title_as_filed = "Programs and Services Funded by 340B Drug Program Savings"
+note = "Each of the 27 hospitals describes, in its own words, the programs and services its 340B savings fund. The hospitals are listed here in the order the pages print them: Bridgton Hospital; Calais Community Hospital; Central Maine Medical Center; Down East Community Hospital; Houlton Regional Hospital; MaineGeneral Medical Center; MaineHealth Franklin Hospital; MaineHealth Lincoln Hospital; MaineHealth Maine Medical Center; MaineHealth Pen Bay Hospital; MaineHealth Stephens Hospital; MaineHealth Waldo Hospital; Millinocket Regional Hospital; Mount Desert Island Hospital; Northern Light A.R. Gould Hospital; Northern Light Blue Hill Hospital; Northern Light Charles A. Dean Hospital; Northern Light Eastern Maine Medical Center; Northern Light Maine Coast Hospital; Northern Light Mayo Hospital; Northern Light Mercy Hospital; Northern Light Sebasticook Valley Hospital; Northern Maine Medical Center; Penobscot Valley Hospital; Redington-Fairview General Hospital; Rumford Hospital; St. Mary’s Regional Medical Center. The descriptions are text. They also state figures about the hospital itself, and none is transcribed. Page 25 also prints the report's paragraphs on internal review and oversight and on reporting changes for fiscal year 2025."

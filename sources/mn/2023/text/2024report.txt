@@ -1,0 +1,159 @@
+Appendix 5: Net 340B revenue by entity by select entities
+There were 26 Covered Entities that together generated the top 90% of statewide net 340B revenue in Minnesota. However, as noted throughout this report,
+reported data are incomplete as most entities reported only pharmacy-dispensed drugs instead of both office-administered and pharmacy-dispensed drugs.
+Therefore, the list and any associated rankings presented in Appendix Table 5 do not represent full information, and entities that submitted complete data (both
+administered and dispensed drugs) are likely attributed a greater percentage of statewide net 340B revenue than if all entities had reported office-administered
+drugs.
+
+                                         Appendix Table 5: Net 340B revenue by select entities, 2023
+                                                                                                                     % of        % of Entity’s 340B Net
+  Scope of Reported                                   340B Covered Entity                        Net 340B         Statewide      Revenue attributed to
+                           Covered Entity Name                                     City
+        Data                                                 Type                               Revenue ($)       Net 340B       Minnesota Health Care
+                                                                                                                   Revenue             Programs
+                            M Health Fairview
+                                                        Disproportionate
+    Dispensed Only        University of Minnesota                             Minneapolis      $129,598,482          21%                   1%
+                                                         Share Hospital
+                              Medical Center
+                                                        Disproportionate
+    Dispensed Only          Hennepin Healthcare                               Minneapolis       $70,211,917          11%                   54%
+                                                         Share Hospital
+
+                                                        Disproportionate
+    Dispensed Only         Essentia Health Duluth                                Duluth         $53,538,103           8%                   0%
+                                                         Share Hospital
+
+                           Abbott Northwestern          Disproportionate
+    Dispensed Only                                                            Minneapolis       $31,773,835           5%                   24%
+                                 Hospital                Share Hospital
+
+                           CentraCare - St. Cloud       Disproportionate
+    Dispensed Only                                                              St. Cloud       $27,310,115           4%                   12%
+                                 Hospital                Share Hospital
+
+
+
+
+                                                                                                                                                              42
+                                                                                                        % of     % of Entity’s 340B Net
+Scope of Reported                                340B Covered Entity                    Net 340B     Statewide   Revenue attributed to
+                      Covered Entity Name                                  City
+      Data                                              Type                           Revenue ($)   Net 340B    Minnesota Health Care
+                                                                                                      Revenue          Programs
+                    Sanford Bemidji Medical       Disproportionate
+ Dispensed Only                                                          Bemidji       $26,862,989      4%                6%
+                            Center                 Share Hospital
+
+                                                  Disproportionate
+ Dispensed Only         Regions Hospital                                 St. Paul      $18,123,342      3%                17%
+                                                   Share Hospital
+                                                   Comprehensive
+ Dispensed Only       Children's Minnesota       Hemophilia Disease    Minneapolis     $13,911,529      2%                84%
+                                                  Treatment Center
+                                                  Disproportionate
+ Dispensed Only          Fairview Range                                  Hibbing       $12,979,661      2%                0%
+                                                    Share Hospital
+                        Essentia Health-St.       Sole Community
+ Dispensed Only                                                          Brainerd      $11,012,509      2%                0%
+                     Joseph's Medical Center          Hospital
+                     Grand Itasca Clinic and      Sole Community
+ Dispensed Only                                                        Grand Rapids    $10,323,143      2%                20%
+                            Hospital                  Hospital
+                                                  Disproportionate
+ Dispensed Only          United Hospital                                 St. Paul      $8,586,866       1%                0%
+                                                   Share Hospital
+ Dispensed Only       Children’s Minnesota       Children's Hospital   Minneapolis     $6,382,884       1%                42%
+                                                  Disproportionate
+ Dispensed Only      Essentia Health Virginia                            Virginia      $6,146,068       1%                0%
+                                                   Share Hospital
+                                                   Critical Access
+ Dispensed Only           Welia Health                                    Mora         $5,651,223      0.9%               0%
+                                                      Hospital
+                     Sanford Thief River Falls     Critical Access      Thief River
+ Dispensed Only                                                                        $5,133,589      0.8%               0%
+                         Medical Center               Hospital             Falls
+                    St. Mary's Regional Health    Disproportionate
+ Dispensed Only                                                        Detroit Lakes   $5,123,631      0.8%               0%
+                              Center               Share Hospital
+
+                                                  Disproportionate
+ Dispensed Only          Mercy Hospital                                Coon Rapids     $4,880,819      0.8%               0%
+                                                   Share Hospital
+
+                                                                                                                                          43
+                                                                                                                           % of         % of Entity’s 340B Net
+Scope of Reported                                     340B Covered Entity                            Net 340B           Statewide       Revenue attributed to
+                         Covered Entity Name                                         City
+      Data                                                   Type                                   Revenue ($)         Net 340B        Minnesota Health Care
+                                                                                                                         Revenue              Programs
+                         M Health Fairview St.          Disproportionate
+ Dispensed Only                                                                  Maplewood           $4,462,704            0.7%                    0%
+                           John's Hospital               Share Hospital
+
+                                                      Tribal / Urban Indian
+ Dispensed Only            Ne-Ia-Shing Clinic                                      Onamia            $4,078,326            0.6%                   75%
+                                                          Health Center
+
+                                                        Disproportionate
+ Dispensed Only            Hutchinson Health                                     Hutchinson          $3,736,395            0.6%                    0%
+                                                         Share Hospital
+
+ Administered &         North Memorial Health           Disproportionate
+                                                                                 Robbinsdale        $80,071,766            13%                     7%
+   Dispensed                   Hospital                  Share Hospital
+
+ Administered &                                         Disproportionate
+                        Olmsted Medical Center                                    Rochester          $8,632,687             1%                     5%
+   Dispensed                                             Share Hospital
+
+ Administered &                                         Disproportionate
+                         Maple Grove Hospital                                   Maple Grove          $7,992,600             1%                     1%
+   Dispensed                                             Share Hospital
+
+ Administered &           Stevens Community               Critical Access
+                                                                                    Morris           $7,150,970             1%                     0%
+   Dispensed                Medical Center                   Hospital
+
+ Administered &                                         Sole Community
+                        Winona Health Services                                     Winona            $3,578,644            0.6%                    0%
+   Dispensed                                                Hospital
+    Source: MDH, Health Economics Program analysis of 2023 data reported by Covered Entities under the Minnesota 340B Covered Entity Report.
+
+    Note: Minnesota prohibits the use of contract pharmacies for both managed care and fee for service when Covered Entities claim a 340B discount for patients
+    covered by a Minnesota Health Care Program (Medical Assistance/Medicaid and MinnesotaCare).
+
+
+
+
+                                                                                                                                                                  44
+Appendix 6: Net 340B revenue by Covered Entity grouping and payer type
+                     Appendix Table 6: Net 340B revenue by Covered Entity grouping and payer type, 2023
+
+                                                                                                          Minnesota
+   Covered Entity                                                                                         Health Care
+                             Covered Entity Grouping               Commercial           Medicare                                 Other                 Total
+    Major Type                                                                                             Programs
+                                                                                                            (MHCP)
+
+
+      Hospital         General Acute Care Hospitals (DSH)         $285,731,927        $152,163,749        $61,997,487         $5,851,718         $505,744,881
+
+      Hospital               Critical Access Hospitals             $30,490,124         $26,820,534         $1,544,339          $769,578          $59,624,576
+
+      Hospital                   Other Hospitals                   $17,908,641         $13,274,728         $4,707,268          $413,286          $36,303,924
+
+      Grantee           Disease Specific Federal Grantees           $6,606,228         $1,191,455         $14,415,465         -$1,481,489        $20,731,659
+
+      Grantee              Safety-Net Federal Grantees              $2,499,767         $3,613,733          $3,922,624         -$2,178,810         $7,857,313
+
+
+                                       Total                      $343,236,687        $197,064,198        $86,587,184         $3,374,283        $630,262,352
+
+            Source: MDH, Health Economics Program analysis of 2023 data reported by Covered Entities under the Minnesota 340B Covered Entity Report.
+
+
+
+
+                                                                                                                                                                45
+

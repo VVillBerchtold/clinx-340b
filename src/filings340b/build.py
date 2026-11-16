@@ -117,8 +117,14 @@ def _hrsa(root: Path) -> dict[str, dict[str, str]]:
 
 
 def _entities(filings: tuple[Filing, ...], hrsa: dict[str, dict[str, str]]) -> Table:
+    """List each entity once, as its most recent record prints it.
+
+    An entity that has records for two years (Minnesota's report is read for 2023 and 2024)
+    keeps the name, type and city of the later year. Each record's own printed name is in
+    its rows (``label_as_filed``). The columns from HRSA's list are filled for Ohio's entities.
+    """
     seen: dict[str, dict[str, str]] = {}
-    for filing in filings:
+    for filing in sorted(filings, key=lambda f: f.meta.reporting_year, reverse=True):
         meta = filing.meta
         for entity_id in (meta.entity_id, *meta.other_entity_ids):
             seen.setdefault(
@@ -320,6 +326,28 @@ def _json_bytes(document: Mapping[str, object]) -> bytes:
     return (text + "\n").encode("utf-8")
 
 
+def _json_rows_bytes(document: Mapping[str, object]) -> bytes:
+    """Write a document of tables with one table row on each line.
+
+    The same JSON as ``_json_bytes`` would write, with less white space: the filings document
+    holds tens of thousands of rows, and an indented copy is too large for some hosts to serve
+    as one file. A row per line keeps the file readable and a change to it easy to see.
+    """
+
+    def compact(value: object) -> str:
+        return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+
+    parts = []
+    for key in sorted(document):
+        value = document[key]
+        if isinstance(value, list):
+            body = ",\n".join(compact(row) for row in value)
+            parts.append(f"{compact(key)}:[\n{body}\n]" if value else f"{compact(key)}:[]")
+        else:
+            parts.append(f"{compact(key)}:{compact(value)}")
+    return ("{\n" + ",\n".join(parts) + "\n}\n").encode("utf-8")
+
+
 HRSA_COLUMNS = ("hrsa_name", "hrsa_id_spelling", "hrsa_list_date", "hrsa_match")
 
 COLUMNS: dict[str, list[str]] = {
@@ -438,7 +466,7 @@ def build_outputs(root: Path) -> dict[str, bytes]:
     outputs = {f"{name}.csv": _csv_bytes(tables[name], COLUMNS[name]) for name in COLUMNS}
     document = {"dataset_version": __version__, "license": "CC-BY-4.0", **tables}
     outputs.update(charts(_bars(filings)))
-    outputs["340b-state-filings.json"] = _json_bytes(document)
+    outputs["340b-state-filings.json"] = _json_rows_bytes(document)
     # The table of state laws is separate from the filings: its own three files.
     laws, kinds = load_laws(root)
     if laws:

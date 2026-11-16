@@ -1,0 +1,9 @@
+key,state,what,url,how,pattern,note
+ri-reports,Rhode Island,the attorney general's list of 340B reports,https://www.oag.ri.gov/340b/reports.html,links,\.pdf$,The PDF links on the page. Checked 16 Nov 2026.
+vt-reports,Vermont,the Green Mountain Care Board's 340B reporting page,https://gmcboard.vermont.gov/node/24841,links,/document/,The document links on the page. Checked 16 Nov 2026.
+mn-reports,Minnesota,the Department of Health's list of 340B reports,https://www.health.mn.gov/data/340b/reports/index.html,links,\.pdf$,The PDF links on the page. Checked 16 Nov 2026.
+oh-collection,Ohio,the Department of Health's collection of submitted 340B reports,https://console.cloudinary.com/console/api/v1/collections/public/stateofohio/c28ef875c34349e6d43fb68257a0d06d/search?max_results=36&expression=&sort_by=display_name+asc,ohio-collection,,Public collection list that answers JSON in pages. Each file is fingerprinted by display name and size and version and upload time.
+in-reports,Indiana,the 340B report section of the health department's facility reports page,https://www.in.gov/health/cshcr/reports-on-healthcare-facilities/,text,340B Drug Pricing Program Reports (State Form 9900387)~~Ambulatory Surgery Center (ASC) Utilization Reports (State Form 49933),On 16 Nov 2026 the section said only that the reports are coming soon.
+me-hospitals,Maine,the Health Data Organization's 340B hospitals page,https://mhdo.maine.gov/340B_hospitals.htm,links,\.(pdf|xlsx?)$,The first live look sets the saved copy. The site's certificate needs an intermediate in watch/certs/.
+me-report-file,Maine,the annual 340B report file,https://mhdo.maine.gov/_pdf/340B_Annual_Report_260402.pdf,file,,One file's size and SHA-256 for a report replaced in place.
+id-report-file,Idaho,the 2025 340B program report,https://idaho-sco-central-registry-documents.s3.us-gov-west-1.amazonaws.com/340B+Program+Reports/CY2025+340B+Program+Report.pdf,file,,The address in sources/id/2025/manifest.csv.

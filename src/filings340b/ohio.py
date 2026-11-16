@@ -15,7 +15,9 @@ A rule that would use a cell the small-number rule withholds is not applied, so 
 no published difference can give a withheld count away. Each rule is applied to a cell that
 exists in the workbook; a cell that holds words has no value and the rule does not apply.
 Workbooks store figures as binary floating-point numbers, so two figures within a tolerance
-(a thousandth of a dollar, a billionth of a percentage point) count as equal.
+(a thousandth of a dollar, a billionth of a percentage point) count as equal. A percentage a
+filer typed with fewer decimal places is compared at the places its cell holds: 63 agrees with
+62.69, and 0.93 with 0.930002. A rounded percentage is not a difference.
 """
 
 from __future__ import annotations
@@ -71,6 +73,16 @@ def _value(row: Row | None) -> Decimal | None:
     if row.claims is not None:
         return Decimal(row.claims)
     return row.amount
+
+
+def _percent_tolerance(filed: Decimal | None) -> Decimal:
+    """Return half a unit of the last decimal place the cell holds, at least a billionth."""
+    if filed is None:
+        return PERCENT_TOLERANCE
+    exponent = filed.as_tuple().exponent
+    if not isinstance(exponent, int):
+        return PERCENT_TOLERANCE
+    return max(PERCENT_TOLERANCE, Decimal(5).scaleb(min(exponent, 0) - 1))
 
 
 def _sum(rows: list[Row | None]) -> Decimal | None:
@@ -166,7 +178,7 @@ def checks(filing: Filing) -> tuple[Check, ...]:
                     expected,
                     _value(row),
                     unit=PERCENT,
-                    tolerance=PERCENT_TOLERANCE,
+                    tolerance=_percent_tolerance(_value(row)),
                 )
             )
     return tuple(out)

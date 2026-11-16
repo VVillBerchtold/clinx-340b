@@ -13,7 +13,16 @@ from pathlib import Path
 import pytest
 
 from filings340b.build import build_outputs, stale_outputs
-from filings340b.forms import ID_FORM, MN_FORM, OH_FORM, RI_FORM, UNITS, VT_FORM, VT_LINES
+from filings340b.forms import (
+    ID_FORM,
+    ME_FORM,
+    MN_FORM,
+    OH_FORM,
+    RI_FORM,
+    UNITS,
+    VT_FORM,
+    VT_LINES,
+)
 from filings340b.imageread import compare, image_read_file, read_image_read, unsupported_marks
 from filings340b.load import load_filings
 from filings340b.model import PUBLISHABLE, Basis, Filing, Verification
@@ -445,7 +454,14 @@ def test_no_person_or_phone_number_is_in_vermonts_files() -> None:
 
 
 def test_every_form_is_in_use(filings: tuple[Filing, ...]) -> None:
-    assert {f.meta.form for f in filings} == {RI_FORM, VT_FORM, MN_FORM, ID_FORM, OH_FORM}
+    assert {f.meta.form for f in filings} == {
+        RI_FORM,
+        VT_FORM,
+        MN_FORM,
+        ID_FORM,
+        ME_FORM,
+        OH_FORM,
+    }
 
 
 # --- Vermont does not move either -----------------------------------------------
@@ -557,9 +573,11 @@ def test_every_filing_has_a_record_kind() -> None:
         "state_report_row",
         "state_report_totals",
     }
-    assert {k for fid, k in kinds.items() if fid.startswith("id-")} == {"state_report_totals"}
-    # One statewide record each for Minnesota and Idaho.
-    assert sum(1 for k in kinds.values() if k == "state_report_totals") == 2
+    assert {k for fid, k in kinds.items() if fid.startswith(("id-", "me-"))} == {
+        "state_report_totals"
+    }
+    # One statewide record each for Minnesota (two years), Idaho and Maine.
+    assert sum(1 for k in kinds.values() if k == "state_report_totals") == 4
 
 
 # --- Minnesota, 2024 data (the report titled 2025) -----------------------------
@@ -739,7 +757,8 @@ MINNESOTA_NOTES = (
 
 
 def _minnesota(filings: tuple[Filing, ...]) -> list[Filing]:
-    return [f for f in filings if f.meta.state == "MN"]
+    """The records of the 2024-data report; the 2023-data report has its own tests below."""
+    return [f for f in filings if f.meta.state == "MN" and f.meta.reporting_year == 2024]
 
 
 def test_minnesota_2024_has_a_record_for_each_printed_row_and_one_statewide(
@@ -803,7 +822,7 @@ def test_minnesota_has_the_differences_it_has_and_no_others() -> None:
             d["basis"],
         )
         for d in _rows("discrepancies.csv")
-        if d["filing_id"].startswith("mn-")
+        if d["filing_id"].startswith("mn-2024-")
     }
     pct = "pct_of_statewide=net_revenue/total_unadjusted"
     assert found == {
@@ -914,7 +933,12 @@ def test_minnesota_image_reads_agree_exactly_as_printed(filings: tuple[Filing, .
 
 def test_no_person_email_or_phone_number_is_in_minnesotas_files() -> None:
     phone = re.compile(rb"\b\d{3}[-. ]\d{3}[-. ]\d{4}\b")
-    for folder in ("transcriptions/mn", "verification/mn", "sources/mn/2024/text"):
+    for folder in (
+        "transcriptions/mn",
+        "verification/mn",
+        "sources/mn/2024/text",
+        "sources/mn/2023/text",
+    ):
         for path in sorted((ROOT / folder).rglob("*")):
             if path.is_file():
                 assert phone.search(path.read_bytes()) is None, path.name
@@ -1100,3 +1124,250 @@ def test_no_email_address_or_phone_number_is_in_idahos_files() -> None:
     )
     assert text.count("[phone number in the PDF]") == 2
     assert text.count("[email address in the PDF]") == 2
+
+
+# --- Minnesota, 2023 data (the report titled 2024) -----------------------------
+# Worked by hand from the printed pages 42 to 45: scope, net revenue, share of the statewide
+# figure and share attributed to Minnesota Health Care Programs, and the page.
+MINNESOTA_2023_ROWS = (
+    ("fairview-umn-medical-center", "Dispensed Only", "129,598,482", "21%", "1%", 42),
+    ("hennepin-healthcare", "Dispensed Only", "70,211,917", "11%", "54%", 42),
+    ("essentia-duluth", "Dispensed Only", "53,538,103", "8%", "0%", 42),
+    ("abbott-northwestern", "Dispensed Only", "31,773,835", "5%", "24%", 42),
+    ("centracare-st-cloud", "Dispensed Only", "27,310,115", "4%", "12%", 42),
+    ("sanford-bemidji", "Dispensed Only", "26,862,989", "4%", "6%", 43),
+    ("regions-hospital", "Dispensed Only", "18,123,342", "3%", "17%", 43),
+    ("childrens-minnesota-chd", "Dispensed Only", "13,911,529", "2%", "84%", 43),
+    ("fairview-range", "Dispensed Only", "12,979,661", "2%", "0%", 43),
+    ("essentia-st-josephs", "Dispensed Only", "11,012,509", "2%", "0%", 43),
+    ("grand-itasca", "Dispensed Only", "10,323,143", "2%", "20%", 43),
+    ("united-hospital", "Dispensed Only", "8,586,866", "1%", "0%", 43),
+    ("childrens-minnesota", "Dispensed Only", "6,382,884", "1%", "42%", 43),
+    ("essentia-virginia", "Dispensed Only", "6,146,068", "1%", "0%", 43),
+    ("welia-health", "Dispensed Only", "5,651,223", "0.9%", "0%", 43),
+    ("sanford-thief-river-falls", "Dispensed Only", "5,133,589", "0.8%", "0%", 43),
+    ("st-marys-detroit-lakes", "Dispensed Only", "5,123,631", "0.8%", "0%", 43),
+    ("mercy-hospital", "Dispensed Only", "4,880,819", "0.8%", "0%", 43),
+    ("fairview-st-johns", "Dispensed Only", "4,462,704", "0.7%", "0%", 44),
+    ("ne-ia-shing", "Dispensed Only", "4,078,326", "0.6%", "75%", 44),
+    ("hutchinson-health", "Dispensed Only", "3,736,395", "0.6%", "0%", 44),
+    ("north-memorial", "Administered & Dispensed", "80,071,766", "13%", "7%", 44),
+    ("olmsted-medical-center", "Administered & Dispensed", "8,632,687", "1%", "5%", 44),
+    ("maple-grove-hospital", "Administered & Dispensed", "7,992,600", "1%", "1%", 44),
+    ("stevens-community", "Administered & Dispensed", "7,150,970", "1%", "0%", 44),
+    ("winona-health", "Administered & Dispensed", "3,578,644", "0.6%", "0%", 44),
+)
+# Appendix Table 6: rows in printed order; columns Commercial, Medicare, MHCP, Other, Total.
+MINNESOTA_2023_TABLE_6 = (
+    ("general_acute_care", (285731927, 152163749, 61997487, 5851718, 505744881)),
+    ("critical_access", (30490124, 26820534, 1544339, 769578, 59624576)),
+    ("other_hospitals", (17908641, 13274728, 4707268, 413286, 36303924)),
+    ("disease_specific_grantees", (6606228, 1191455, 14415465, -1481489, 20731659)),
+    ("safety_net_grantees", (2499767, 3613733, 3922624, -2178810, 7857313)),
+    ("total", (343236687, 197064198, 86587184, 3374283, 630262352)),
+)
+MINNESOTA_PAYERS = ("commercial", "medicare", "mhcp", "other", "total")
+
+
+def _minnesota_2023(filings: tuple[Filing, ...]) -> list[Filing]:
+    return [f for f in filings if f.meta.state == "MN" and f.meta.reporting_year == 2023]
+
+
+def test_minnesota_2023_has_a_record_for_each_printed_row_and_one_statewide(
+    filings: tuple[Filing, ...],
+) -> None:
+    found = {f.meta.filing_id: f for f in _minnesota_2023(filings)}
+    assert sorted(found) == sorted(
+        [f"mn-2023-{k}" for k, *_ in MINNESOTA_2023_ROWS] + ["mn-2023-statewide"]
+    )
+    assert len(MINNESOTA_2023_ROWS) == 26
+    for f in found.values():
+        assert (f.meta.form, f.source.page_count) == (MN_FORM, 49)
+        assert f.source.source_url == "https://www.health.mn.gov/data/340b/docs/2024report.pdf"
+    for key, scope, net, share, mhcp, page in MINNESOTA_2023_ROWS:
+        f = found[f"mn-2023-{key}"]
+        assert f.meta.record_kind == "state_report_row"
+        assert f.meta.entity_id == f"mn-{key}"
+        assert [(r.schedule, r.line, r.page) for r in f.rows] == [
+            ("table_5", "scope", page),
+            ("table_5", "net_revenue", page),
+            ("table_5", "pct_of_statewide", page),
+            ("table_5", "pct_mhcp", page),
+        ]
+        assert [r.answer_as_filed or r.amount_as_filed for r in f.rows] == [
+            scope,
+            net,
+            share,
+            mhcp,
+        ]
+
+
+def test_minnesota_2023_table_6_is_carried_as_printed(filings: tuple[Filing, ...]) -> None:
+    (f,) = [f for f in filings if f.meta.filing_id == "mn-2023-statewide"]
+    assert (f.meta.entity_id, f.meta.entity_type, f.meta.record_kind) == (
+        "mn-statewide",
+        "state_total",
+        "state_report_totals",
+    )
+    amounts = {
+        r.line: r.amount_as_filed
+        for r in f.rows
+        if r.schedule == "table_6" and not r.line.endswith("_major_type")
+    }
+    assert amounts == {
+        f"{group}_{payer}": (f"-{abs(v):,}" if v < 0 else f"{v:,}")
+        for group, values in MINNESOTA_2023_TABLE_6
+        for payer, v in zip(MINNESOTA_PAYERS, values, strict=True)
+    }
+    assert all(r.page == 45 for r in f.rows if r.schedule == "table_6")
+    assert sorted({r.page for r in f.rows if r.schedule == "page_note"}) == [42, 44, 45]
+
+
+def test_minnesota_2023_entities_are_the_same_entities_as_in_2024() -> None:
+    by_entity: dict[str, set[str]] = {}
+    for row in _rows("filings.csv"):
+        if row["filing_id"].startswith("mn-"):
+            by_entity.setdefault(row["entity_id"], set()).add(row["reporting_year"])
+    both = {e for e, years in by_entity.items() if years == {"2023", "2024"}}
+    assert len(by_entity) == 38
+    assert len(both) == 16  # fifteen named entities and the statewide record
+    assert "mn-statewide" in both
+    assert {e for e, years in by_entity.items() if years == {"2023"}} == {
+        "mn-childrens-minnesota-chd",
+        "mn-fairview-range",
+        "mn-hutchinson-health",
+        "mn-maple-grove-hospital",
+        "mn-ne-ia-shing",
+        "mn-olmsted-medical-center",
+        "mn-sanford-thief-river-falls",
+        "mn-st-marys-detroit-lakes",
+        "mn-stevens-community",
+        "mn-welia-health",
+        "mn-winona-health",
+    }
+    entities = [e for e in _rows("entities.csv") if e["state"] == "MN"]
+    assert len(entities) == len(by_entity)  # one row per entity, never one per year
+
+
+def test_minnesota_2023_has_the_differences_it_has_and_no_others() -> None:
+    found = {
+        d["rule"]: (d["difference"], d["unit"], d["basis"])
+        for d in _rows("discrepancies.csv")
+        if d["filing_id"].startswith("mn-2023-")
+    }
+    assert found == {
+        "table_6.column_medicare.rows=total": ("-1", "usd", "form"),
+        "table_6.column_mhcp.rows=total": ("1", "usd", "form"),
+        "table_6.column_total.rows=total": ("-1", "usd", "form"),
+        "table_6.row_critical_access.payers=total": ("1", "usd", "form"),
+        "table_6.row_other_hospitals.payers=total": ("1", "usd", "form"),
+        "table_6.row_safety_net_grantees.payers=total": ("-1", "usd", "form"),
+    }
+
+
+def test_minnesota_2023_source_and_image_reads(filings: tuple[Filing, ...]) -> None:
+    folder = ROOT / "sources" / "mn" / "2023"
+    (record,) = list(csv.DictReader((folder / "manifest.csv").open(newline="", encoding="utf-8")))
+    assert (
+        hashlib.sha256((folder / record["file_name"]).read_bytes()).hexdigest() == record["sha256"]
+    )
+    assert record["sha256"] == "1e8ef794306d7e0fe0c140948b7c95da3fa45c5016ebc41c4c33abcfce951706"
+    text = (folder / "text" / "2024report.txt").read_text(encoding="utf-8").split("\f")
+    assert [i + 1 for i, page in enumerate(text[:49]) if page.strip()] == [42, 43, 44, 45]
+    for f in _minnesota_2023(filings):
+        assert compare(f, read_image_read(image_read_file(ROOT, f))) == []
+
+
+# --- Maine, fiscal year 2024 (the first report of the Maine Health Data Organization) ----
+def _maine(filings: tuple[Filing, ...]) -> Filing:
+    (f,) = [f for f in filings if f.meta.state == "ME"]
+    return f
+
+
+def test_maine_2024_is_one_statewide_record_of_the_whole_report(
+    filings: tuple[Filing, ...],
+) -> None:
+    f = _maine(filings)
+    assert (f.meta.filing_id, f.meta.entity_id, f.meta.record_kind) == (
+        "me-2024-statewide",
+        "me-statewide",
+        "state_report_totals",
+    )
+    assert (f.meta.form, f.meta.reporting_year, f.source.page_count) == (ME_FORM, 2024, 26)
+    assert f.source.source_url == "https://mhdo.maine.gov/_pdf/340B_Annual_Report_260402.pdf"
+    assert f.meta.period_as_filed == "fiscal year 2024"
+
+
+def test_maine_2024_summary_is_what_page_3_prints(filings: tuple[Filing, ...]) -> None:
+    f = _maine(filings)
+    summary = {r.line: r for r in f.rows if r.schedule == "summary"}
+    assert [r.page for r in summary.values()] == [3, 3, 3, 3]
+    assert summary["hospitals_reporting"].amount_as_filed == "27"
+    assert summary["acquisition_cost"].answer_as_filed == "$409.9M"
+    assert summary["acquisition_cost"].amount_as_filed == ""
+    assert summary["pct_of_drug_spend"].amount_as_filed == "60.0%"
+    assert summary["estimated_savings"].answer_as_filed == "$325.8M"
+
+
+def test_maine_2024_drug_tables_have_every_drug_with_three_figures(
+    filings: tuple[Filing, ...],
+) -> None:
+    f = _maine(filings)
+    for schedule, drugs, pages, share in (
+        ("top3_costly", 37, {5, 6}, "15.6%"),
+        ("top3_frequent", 54, {7, 8, 9}, "2.4%"),
+    ):
+        rows = [r for r in f.rows if r.schedule == schedule]
+        by_figure: dict[str, list[str]] = {
+            "acquisition_cost": [],
+            "estimated_savings": [],
+            "hospitals": [],
+        }
+        for r in rows:
+            if r.line == "pct_of_acquisition_cost":
+                assert r.amount_as_filed == share
+                continue
+            ndc, figure = r.line.split("_", 1)
+            assert len(ndc) == 11 and r.ndc_as_filed == ndc
+            by_figure[figure].append(r.amount_as_filed)
+        assert {len(v) for v in by_figure.values()} == {drugs}
+        assert {r.page for r in rows} <= pages
+        # Every hospital names three drugs in each table.
+        assert sum(int(v) for v in by_figure["hospitals"]) == 81
+
+
+def test_maine_2024_hospital_descriptions_are_text_only(filings: tuple[Filing, ...]) -> None:
+    f = _maine(filings)
+    (attachment,) = [a for a in _rows("attachments.csv") if a["filing_id"] == f.meta.filing_id]
+    assert (attachment["first_page"], attachment["last_page"], attachment["kind"]) == (
+        "10",
+        "25",
+        "narrative",
+    )
+    assert attachment["note"].count(";") == 26  # 27 names, separated by semicolons
+    assert not [r for r in f.rows if 10 <= r.page <= 25]
+    assert "Millinocket Regional Hospital" in attachment["note"]
+
+
+def test_maine_2024_has_no_differences_and_no_measures() -> None:
+    assert not [d for d in _rows("discrepancies.csv") if d["filing_id"].startswith("me-")]
+    assert not [m for m in _rows("measures.csv") if m["filing_id"].startswith("me-")]
+
+
+def test_maine_2024_source_and_image_read(filings: tuple[Filing, ...]) -> None:
+    folder = ROOT / "sources" / "me" / "2024"
+    (record,) = list(csv.DictReader((folder / "manifest.csv").open(newline="", encoding="utf-8")))
+    assert (
+        hashlib.sha256((folder / record["file_name"]).read_bytes()).hexdigest() == record["sha256"]
+    )
+    assert record["sha256"] == "5129748fe1a704a2bf458c331c5ccb129306f14d90380964e0f7dfbf0fd3c442"
+    f = _maine(filings)
+    assert compare(f, read_image_read(image_read_file(ROOT, f))) == []
+
+
+def test_no_person_email_or_phone_number_is_in_maines_files() -> None:
+    phone = re.compile(rb"\b\d{3}[-. ]\d{3}[-. ]\d{4}\b")
+    for folder in ("transcriptions/me", "verification/me", "sources/me/2024/text"):
+        for path in sorted((ROOT / folder).rglob("*")):
+            if path.is_file():
+                assert phone.search(path.read_bytes()) is None, path.name
