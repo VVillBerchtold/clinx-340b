@@ -1,0 +1,19 @@
+{
+ "address": "https://www.health.mn.gov/data/340b/reports/index.html",
+ "how": "links",
+ "key": "mn-reports",
+ "seen": {
+  "links": [
+   {
+    "address": "https://www.health.mn.gov/data/340b/docs/2024report.pdf",
+    "text": "340B Covered Entity Report to the Minnesota Legislature, 2024 (PDF)"
+   },
+   {
+    "address": "https://www.health.mn.gov/data/340b/docs/2025report.pdf",
+    "text": "340B Covered Entity Report to the Minnesota Legislature, 2025 (PDF)"
+   }
+  ]
+ },
+ "state": "Minnesota",
+ "what": "the Department of Health's list of 340B reports"
+}

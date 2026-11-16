@@ -20,4 +20,10 @@ How to check one before adding it:
 5. Name the file for the site and issuer, and add a line to this README saying which site it is
    for and the day it was checked.
 
-Certificates checked and added so far: none.
+Certificates checked and added so far:
+
+- `mhdo-maine-gov-entrust-ov-tls-issuing-rsa-ca-2.pem`: for mhdo.maine.gov. Entrust OV TLS
+  Issuing RSA CA 2, taken from the address the site's own certificate names for its issuer,
+  SHA-256 `1F:92:7F:37:47:03:06:AF:C3:01:8A:B0:49:E6:BE:1D:3C:0A:3A:45:CA:20:7F:64:F5:32:51:2B:A9:69:EB:94`,
+  signed by Sectigo Public Server Authentication Root R46, valid to 10 December 2027. Checked
+  with `openssl verify` on 16 November 2026.

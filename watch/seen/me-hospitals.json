@@ -1,0 +1,15 @@
+{
+ "address": "https://mhdo.maine.gov/340B_hospitals.htm",
+ "how": "links",
+ "key": "me-hospitals",
+ "seen": {
+  "links": [
+   {
+    "address": "https://mhdo.maine.gov/_pdf\\340B_Annual_Report_260402.pdf",
+    "text": "MHDO's First Annual 340B Drug Program Transparency Report"
+   }
+  ]
+ },
+ "state": "Maine",
+ "what": "the Health Data Organization's 340B hospitals page"
+}

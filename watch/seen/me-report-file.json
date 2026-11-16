@@ -1,0 +1,11 @@
+{
+ "address": "https://mhdo.maine.gov/_pdf/340B_Annual_Report_260402.pdf",
+ "how": "file",
+ "key": "me-report-file",
+ "seen": {
+  "bytes": 756472,
+  "sha256": "5129748fe1a704a2bf458c331c5ccb129306f14d90380964e0f7dfbf0fd3c442"
+ },
+ "state": "Maine",
+ "what": "the annual 340B report file"
+}

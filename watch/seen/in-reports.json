@@ -1,0 +1,10 @@
+{
+ "address": "https://www.in.gov/health/cshcr/reports-on-healthcare-facilities/",
+ "how": "text",
+ "key": "in-reports",
+ "seen": {
+  "text": "Data reflected within each 340B Drug Pricing Program Report (State Form 9900387) file are reported by the previous calendar year. Coming soon!"
+ },
+ "state": "Indiana",
+ "what": "the 340B report section of the health department's facility reports page"
+}
