@@ -2,9 +2,11 @@
 
 Every file in `data/` is UTF-8 with a header row and `\n` line ends. `340b-state-filings.json` holds the filings tables in one document, with `dataset_version` and `license`; `340b-state-laws.json` does the same for the state laws. Columns ending `_as_filed` are copied from the filing without correction.
 
-Four states are in the dataset, and each record names the form it was made on (`filings.csv`, column `form`). Rhode Island's form prints schedule letters and line numbers. Vermont's page, Minnesota's tables and Idaho's report print none, so for those states `schedule` and `line` in `line_items.csv` hold short keys assigned by this dataset (listed under `line_items.csv` below). A column that does not apply to a form is blank for that form's records; a blank is never a zero.
+Five states are in the dataset, and each record names the form it was made on (`filings.csv`, column `form`). Rhode Island's form prints schedule letters and line numbers. Vermont's page, Minnesota's tables and Idaho's report print none, so for those states `schedule` and `line` in `line_items.csv` hold short keys assigned by this dataset (listed under `line_items.csv` below). A column that does not apply to a form is blank for that form's records; a blank is never a zero.
 
 Rhode Island and Vermont records are an entity's own filing. Minnesota's are not: they are the figures the Minnesota Department of Health printed about the covered entities it names, in its report to the legislature, one figure each (the report is titled 2025 and covers 2024 data). For Minnesota, "as filed" in a column name means as printed in the State's report, and a "filing" is one printed row of the report's Appendix Table 6.1, or the statewide record. `filings.csv` column `record_kind` tells the three kinds apart.
+
+Ohio's records are each covered entity's own report, posted by the Department of Health as an Excel workbook. For Ohio, "as filed" means as the workbook stores it, and a "page" is the template sheet (page 1).
 
 Idaho's one record is the State Controller's report of statewide totals; the entities' own filings are confidential and the report names none of them. For Idaho, "as filed" means as printed in that report.
 
@@ -29,13 +31,14 @@ One row per filing.
 | `pdf_bytes` | Size of the PDF |
 | `page_count` | Pages in the PDF |
 | `scanned` | `true` when the PDF has no text layer |
-| `form` | The form the filing was made on: `ri-oag-340b` (Rhode Island's Form RIOAG-340B), `vt-gmcb-340b-financial` (Vermont's 340B Program Financial Reporting Detail) `mn-mdh-340b-report` (Minnesota's report to the legislature, Appendix Tables 6.1 and 6.2) or `id-sco-340b-report` (the Idaho State Controller's statewide report). It decides the rows, units, sums and measures that apply |
+| `form` | The form the filing was made on: `ri-oag-340b` (Rhode Island's Form RIOAG-340B), `vt-gmcb-340b-financial` (Vermont's 340B Program Financial Reporting Detail) `mn-mdh-340b-report` (Minnesota's report to the legislature, Appendix Tables 6.1 and 6.2) `id-sco-340b-report` (the Idaho State Controller's statewide report) or `oh-odh-340b-report` (the Ohio Department of Health's covered entity reporting template, an Excel workbook). It decides the rows, units, sums and measures that apply |
 | `status_as_filed` | The status the page prints. Vermont: `draft`. Blank for Rhode Island: its form prints none |
 | `status_notice_as_filed` | The notice that carries the status, quoted exactly as printed (its line break written as a space). Blank for Rhode Island |
 | `period_as_filed` | The period the page prints. Vermont: `FY2025`. Blank for Rhode Island |
 | `submission_as_filed` | The line the page prints about its submission. Vermont: `As Submitted to the Green Mountain Care Board in 2026`. Blank for Rhode Island |
 | `cover_page_url` | The state web page that lists the document, when the manifest records one (Vermont). Blank for Rhode Island, Minnesota and Idaho |
 | `record_kind` | `filing`: an entity's own filing (Rhode Island, Vermont). `state_report_row`: one printed row of Minnesota's Table 6.1, a figure the State published about one entity. `state_report_totals`: the one record (`mn-2024-statewide`) that holds Minnesota's Table 6.2 and the report's running text around the tables; it is not an entity. Idaho's only record (`id-2025-statewide`) is of this kind: the whole statewide report |
+| `other_entity_ids` | Ohio: when a workbook names more than one 340B ID, it is one filing for all of them. `entity_id` is the first ID (the one in the file name) and this column lists the others, separated by `; `. Blank everywhere else |
 
 ## entities.csv
 
@@ -50,6 +53,11 @@ One row per filer.
 | `opais_ids_as_filed` | The 340B ID numbers on the cover page. Blank for Vermont and Minnesota: they print none |
 | `entity_type_as_filed` | Minnesota: the 340B Covered Entity Type column, as printed (for example `Disproportionate Share Hospital`, `CHD Treatment Center`). Blank for Rhode Island, Vermont and `mn-statewide` |
 | `city_as_filed` | Minnesota: the City column, as printed. Blank for Rhode Island, Vermont and `mn-statewide` |
+| `hrsa_name` | Ohio only: the name HRSA's public list of covered entities holds for the ID, with the site's subdivision name in brackets when it has one. It is HRSA's name, read on the day in `hrsa_list_date`; Ohio's workbooks print no entity name, so `name_as_filed` is blank for Ohio. Blank when HRSA's list does not hold the ID, and blank for every other state |
+| `hrsa_id_spelling` | Ohio only: the ID as HRSA writes it (`CAH361300-00`), where the workbook's file name writes `CAH36130000`. Blank when `hrsa_match` says the ID is not in the list, and for every other state |
+| `hrsa_list_date` | Ohio only: the day HRSA's list was saved (`2026-11-11`). Blank for every other state |
+| `hrsa_match` | Ohio only: how the ID was found. `exact`; `with or without the 00 ending` (HRSA's spelling ends in `-00` and the file name's does not, or the other way round); `found by the ID typed in the workbook` (the file name's ID is not in the list and the ID typed in the workbook is); `not in HRSA's list` (neither is, and the name is blank). Blank for every other state |
+| `opais_ids_as_filed` (Ohio) | The 340B ID typed in the workbook, as typed. The ID in the file name is in `entity_id` and in `filings.csv` `source_file`; the two differ in 37 workbooks and both are kept |
 
 ## line_items.csv
 
@@ -72,11 +80,13 @@ One row per printed row of a schedule. This is the dataset.
 | `unit` | What the `amount` is: `usd` (dollars), `percent` (a percentage, as printed: Minnesota's `26.1%` is `26.1`), `count` (a number of items: Idaho's claim totals, submissions, child sites and covered entities. Rhode Island's claim counts are in `claims`, beside the amount on the same row), or `none` (the row carries no figure: a Schedule I answer, or text printed on the page, which for Idaho includes a rounded tile such as `$812.9M`, kept in `answer_as_filed`). The unit is fixed by the form and the row's schedule and line |
 | `claims_as_filed` | The claim count as printed (Schedules C and G). Empty when `claims_withheld` is not empty |
 | `claims` | The claim count as a whole number. Empty when `claims_withheld` is not empty |
-| `claims_withheld` | Empty when the claim count is published. `fewer_than_6`: the count on this row is 1 to 5 and is not republished; the filing's PDF prints it on the page in `page`. `beside_small`: the count is 6 or more and is not republished, because it would let a reader work out a `fewer_than_6` count from the printed total. See METHODS.md section 9 |
+| `claims_withheld` | Empty when the figure is published. `reveals_small` is used by Ohio only (see Ohio's keys). `fewer_than_6`: the count on this row is 1 to 5 and is not republished; the filing's PDF prints it on the page in `page`. `beside_small`: the figure is 6 or more (or a printed total) and is not republished, because it would let a reader work out a `fewer_than_6` count from the printed total or the other counts. See METHODS.md section 9 |
 | `answer_as_filed` | Schedule I: `YES`, `NO`, `YES and NO`, or blank |
+
 | `page` | The PDF page the row is printed on; the first page is 1. Minnesota: 42 to 45. Idaho: 2 to 7 |
-| `verification` | `text_and_image`, `two_image_reads`, `adjudicated` or `unreadable`. See METHODS.md section 3 |
+| `verification` | `text_and_image`, `two_image_reads`, `two_file_reads` (a workbook cell read by two different programs that agree), `adjudicated` or `unreadable`. See METHODS.md section 3 |
 | `note` | A note the filer printed beside the row (`Printed note: …`), or what was seen when a row was adjudicated |
+| `source_cell` | Ohio only: the address of the workbook cell the row was read from (`I19`). Rows are found by the label printed beside them, so a workbook whose filer inserted rows names the cell it actually used. Blank for every other state |
 
 ### Vermont's keys
 
@@ -141,6 +151,32 @@ The one record (`id-2025-statewide`) has a row for every cell the report prints.
 | `page_note` | A sentence that states a figure, the chart's title, or the labels of its value axis, in `label_as_filed` | `note_1`, `note_2`, ... | `none` |
 
 `<payer>` is `commercial`, `medicare`, `medicaid`, `self_pay`, `other`, `uninsured` or `total` (the TOTAL row, `row_kind` `total`). `<use>` is `under_reimbursement`, `uncompensated_care`, `patient_financial_assistance`, `prescription_assistance`, `community_health`, `subsidized_services`, `health_professional_education`, `access_barriers`, `other_uses` or `total`; the printed wording of each is in `label_as_filed`.
+
+### Ohio's keys
+
+Each of the 241 workbooks is one filing on the form `oh-odh-340b-report` (the Ohio Department of Health's ORC 3701.88 covered entity reporting template). The workbook has no pages: the template sheet is page 1 and every row says `page` 1. Every key is assigned by this dataset. `label_as_filed` is the label the workbook prints beside the row and `description_as_filed` is the heading of the column; `source_cell` is the cell. A prescription count is kept in the claim columns (`claims_as_filed`, `claims`) so that the small-number rule can apply to it; every other figure is in `amount_as_filed` and `amount`, exactly as the workbook stores it (`602.56000000000006` is kept as stored). A cell that holds words or an error where a figure belongs (`N/A`, `#DIV/0!`) keeps the words and has no amount. A formula cell is read as its stored result; when the file stores none, the row's `note` says so. A percentage row whose cell is formatted as a percentage stores a fraction of one, and its `note` says so.
+
+| `schedule` | What it is | `line` | `unit` |
+|---|---|---|---|
+| `in_house_acquisition_cost`, `in_house_payments_received` | Drugs dispensed in house: aggregate acquisition cost and payments received | `<payer>` | `usd` |
+| `in_house_rx_all`, `in_house_rx_340b` | Total prescriptions, and 340B prescriptions | `<payer>` | `count` |
+| `in_house_rx_pct` | Percentage of prescriptions that were 340B | `<payer>` | `percent` |
+| `contract_acquisition_cost`, `contract_payments_received` | Contract pharmacies: the same, in dollars | `<payer>`, `indeterminate` | `usd` |
+| `contract_rx_all`, `contract_rx_340b`, `contract_rx_pct` | Contract pharmacies: counts and the percentage | `<payer>`, `indeterminate` | `count`, `percent` |
+| `administered_acquisition_cost`, `administered_payments_actual`, `administered_payments_estimated`, `administered_payments_total` | Administered drugs: dollars | `<payer>` | `usd` |
+| `administered_rx_all`, `administered_rx_340b`, `administered_rx_pct` | Administered drugs: counts and the percentage | `<payer>` | `count`, `percent` |
+| `costs` | Payments to outside parties and the entity's own 340B costs | `contract_pharmacies`, `third_party_administrators`, `consultants`, `software_it`, `other_external`, `staffing`, `internal_it`, `other_internal` | `usd` |
+| `contract_pharmacies` | The entity's number of contract pharmacies | `count`: a number of pharmacies, not of prescriptions, so it is in `amount` | `count` |
+| `contract_pharmacy_notes` | The explanation asked for when "Indeterminate" is used | `indeterminate_explanation` | `none` |
+| `identity` | The reporting period, the HRSA ID as typed (`hrsa_id`, or `id_prefix` and `id_number` when the workbook splits it) and the NPIs | `reporting_period`, `hrsa_id`, `id_prefix`, `id_number`, `npi_1`, `npi_2`, ... | `none` |
+| `uses` | How the entity used 340B income | `program_1_description`, `program_1_amount`, ..., `equipment_1_description`, `equipment_1_amount`, ..., `other_uses_description`, `other_uses_amount`, `narrative`, `alternative_narrative` | `usd` for amounts, otherwise `none` |
+| `other_cells` | A cell a filer typed outside the template's cells, kept as text in `answer_as_filed` | `cell_<address>` | `none` |
+
+`<payer>` is `commercial`, `medicare`, `medicaid`, `other_third_party`, `uninsured` or `total` (the TOTAL cell, `row_kind` `total`). In the contract pharmacy tables the template's total leaves out `indeterminate`. A cell a filer typed beside the template's columns in one of these rows is the line `cell_<column letter>` of the row's schedule.
+
+The three contact cells (name, e-mail address, telephone number) are never copied into any file; the cells files show `[contact detail withheld]` in their place, and any e-mail address or telephone number anywhere is replaced by a marker.
+
+A withheld Ohio cell has an empty `amount_as_filed`, `amount`, `claims_as_filed` and `claims` and a `claims_withheld` reason: `fewer_than_6` (the count is 1 to 5), `beside_small` (a count or total withheld so that a small count cannot be worked out from the printed sums) or `reveals_small` (a percentage that would give a withheld count away; its figure is the percentage, in `amount`, and is empty). Rows that print words keep them.
 
 ## discrepancies.csv
 
@@ -245,6 +281,9 @@ Laws that came up and are not in the table. Kept by hand in `laws/not-listed.csv
 These are not part of the published data, but they are in the repository.
 
 - `transcriptions/<state>/<year>/<filing_id>.csv`: the columns are those of the transcription, in the order the file has them. A file that leaves out any claim count has a last column, `claims_withheld`, with the same values as in `line_items.csv`. On such a row `claims_as_filed` is empty. A file with no left-out count has no such column.
+- `verification/oh/2025/<filing_id>.file-read.csv`: for an Ohio workbook, the second read (made by a different program) in the layout of an image read: `page`, `schedule`, `line`, `amount`, `claims`, `answer`, and the same last column when a cell is withheld.
+- `sources/oh/2025/manifest.csv`, `cells/<name>.csv` (`sheet`, `cell`, `value`: every filled cell of the template sheet, contact cells masked and withheld cells marked), `workbook-contents.csv` (every sheet of every workbook by name, state and number of filled cells) and `workbook-objects.csv` (every picture, drawing, embedded object, macro or link found inside a workbook). The workbooks themselves are not committed.
+- `reference/hrsa-oh-extract.csv` and `.source.toml`: what HRSA's list holds for each Ohio ID, with the day of the list and the size and SHA-256 of the export it was made from.
 - `verification/<state>/<year>/<filing_id>.image-read.csv`: `page`, `schedule`, `line`, `amount`, `claims`, `answer`, and the same last column `claims_withheld` when a row is left out. On such a row `claims` is empty.
 - `verification/<state>/<year>/claim-sums.csv`: `filing_id`, `schedule`, and `claim_sum`, the sum of the claim counts of the schedule's rows, not counting the printed total. It has a row for each filing and schedule that has a left-out count.
 - `laws/laws.csv`, `laws/not-listed.csv`: the two published laws tables, as kept by hand. `laws/kinds.csv`: `kind`, `label`, `description`. `laws/hosts.csv`: `host`, `state`, `owner`, one row for each official site a law links to.

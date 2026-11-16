@@ -2,6 +2,28 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
+## 0.8.0 (not tagged yet)
+
+Adds Ohio. No Rhode Island, Vermont, Minnesota or Idaho value, row or order changes. Four columns are added to `entities.csv`, one to `filings.csv` and one to `line_items.csv`; they are blank for the other states.
+
+### Added (Ohio, 0.8.0)
+
+- 241 filings, one for each of the 241 covered entity workbooks the Ohio Department of Health posts for calendar year 2025 under ORC 3701.88, on the new form `oh-odh-340b-report`: 40,878 line items, 242 entities. The workbooks themselves are not committed (they name a staff member and give an e-mail address and a telephone number); `sources/oh/2025/manifest.csv` records each one's address, time, size and SHA-256, and `sources/oh/2025/cells/` holds a plain list of the template sheet's cells with contact details masked.
+- `entities.csv`: `hrsa_name`, `hrsa_id_spelling`, `hrsa_list_date` and `hrsa_match`, filled for Ohio from HRSA's public list read on 11 November 2026 (`reference/hrsa-oh-extract.csv` and its source file). `name_as_filed` is blank for Ohio. Four IDs are not in HRSA's list and keep an empty name.
+- `filings.csv`: `other_entity_ids`. A workbook that names more than one 340B ID is one filing for all of them.
+- `line_items.csv`: `source_cell`, the workbook cell a row was read from.
+- A new `verification` value, `two_file_reads`: a workbook cell read by two different programs (the Python standard library and LibreOffice) that agree. 40,875 rows are `two_file_reads` and 3 are `adjudicated`.
+- A new `claims_withheld` value, `reveals_small`: an Ohio percentage that would give a withheld prescription count away. 375 Ohio cells are withheld in 59 workbooks, and the withheld counts of a sixtieth workbook are masked in its cells file.
+- Ohio's rules (`src/filings340b/ohio.py`): each total equals its payer cells, total payments equal actual plus estimated, and each percentage equals 340B prescriptions over all prescriptions. 233 do not hold; each has a neutral note in `reference/discrepancy_notes.csv`, written by `tools/oh_discrepancy_notes.py`. A rule can now carry a tolerance (`Check.tolerance`), which is zero for every other form.
+- Tools: `tools/oh_transcribe.py`, `tools/oh_second_read.py`, `tools/extract_hrsa_oh.py`, `tools/oh_discrepancy_notes.py`. Source files: `workbook.py`, `masking.py`, `ohio_template.py`, `ohio_transcribe.py`, `ohio.py`, `ohio_recovery.py`. Tests: `tests/test_ohio.py`, which includes a reader that tries to recover every withheld Ohio count from the published files.
+- `sources/oh/2025/workbook-contents.csv` and `workbook-objects.csv`: every sheet of every workbook by name and number of filled cells, and the 84 pictures, drawings and objects found inside.
+
+### Changed (Ohio, 0.8.0)
+
+- The small-number rule no longer stops when a total cell holds a count of 1 to 5 in a workbook form; it withholds that cell (`src/filings340b/smallcounts.py`, `sealing.py`).
+- `filings340b seal` also masks the cells files of workbook filings; `filings340b textcheck` compares a workbook filing's rows with its cells file.
+- `tests/test_small_counts.py` and `tests/test_repository.py` count Ohio's forms separately.
+
 ## 0.6.0 (tagged `v0.6.0`, 15 November 2026)
 
 Adds a table of state laws that name the 340B program. No filing, row, figure or column of the four states' filings changes.

@@ -25,11 +25,13 @@ This repository turns them into one open dataset that anyone can open in a sprea
 | **Vermont** | The 13 hospital reports to the Green Mountain Care Board, each a one-page "340B Program Financial Reporting Detail" that the page itself marks as draft | Fiscal 2025 |
 | **Minnesota** | Two tables from the Department of Health's report to the legislature under Minn. Stat. 62J.461, *340B Covered Entity Report, 2025* (cover date February 27, 2026): one row for each of the 26 entities it names, and six totals | Calendar 2024 |
 | **Idaho** | The State Controller's statewide report under Idaho Code § 41-351, *Idaho 340B Drug Pricing Program, Inaugural Report, Calendar Year 2025*: every table of totals it prints, for 62 covered entities added together. It names no entity | Calendar 2025 |
+| **Ohio** | The 241 covered entity reports on the Department of Health's reporting template (ORC 3701.88), each an Excel workbook, posted by the Department. They print a 340B ID and no name; names are HRSA's, kept apart. A prescription count of 1 to 5 is not republished | Calendar 2025 |
 
-Three notes on reading across states:
+Four notes on reading across states:
 
 - **Minnesota's rows are the State's published figures about those entities, one figure each. They are not the entities' own filings, which are not public.** The report itself says the reported data "are not audited nor otherwise verifiable". `record_kind` in `data/filings.csv` tells an entity's own filing (Rhode Island, Vermont) from a row the State published about an entity (Minnesota).
 - **Idaho's record is statewide totals only.** Idaho's law keeps each entity's filing confidential and has the State Controller publish the figures added together. The dataset holds that report as one record (`record_kind` is `state_report_totals`), with a row for every cell the report prints. It has no row for any single covered entity.
+- **Ohio's reports are Excel workbooks, not PDFs, and are not in the repository.** Each workbook names a staff member and gives an e-mail address and a telephone number, so the originals stay on the maintainer's machine. What is here is a plain list of every filled cell of each template sheet (`sources/oh/2025/cells/`), with those details masked, and the address and SHA-256 of each workbook. Every figure was read twice by two different programs and the reads compared. Ohio's workbooks print no entity name; the name in `entities.csv` is HRSA's, in its own columns (`hrsa_name` and three more), and `name_as_filed` is blank. METHODS.md section 1 and section 9 say how.
 - The states use different forms, so each record names its own. Rhode Island's rows keep the schedule letters and line numbers the form prints. Vermont's page, Minnesota's tables and Idaho's report print none, so their rows carry short keys assigned by this dataset, beside the label as printed. Vermont's separate narratives are listed as attachments and not transcribed.
 
 ## State laws about 340B (new in 0.6.0)
@@ -119,8 +121,8 @@ Read it with care. A filer that runs its own pharmacy carries that cost in its o
 |---|---|
 | `sources/` | The PDFs as retrieved, each with its address, the time it was retrieved and a fingerprint (SHA-256), and the text each PDF carries |
 | `transcriptions/` | The first read: one file per filing, every printed row with its page number and how it was checked |
-| `verification/` | The second read, made from the page pictures |
-| `reference/` | Normalized vendor names, spending categories, and a note for every difference found in a filing |
+| `verification/` | The second read, made from the page pictures (Ohio: a second program's read of each workbook) |
+| `reference/` | Normalized vendor names, spending categories, a note for every difference found in a filing, and the small extract of HRSA's list that names Ohio's filers |
 | `laws/` | The table of state laws, kept by hand: the laws, the seven kinds, the official sites, and the laws not listed |
 | `sources/laws/` | The text of each law's official page, as saved on the day it was read |
 | `data/` | The published dataset. Rebuilt from the folders above; never edited by hand |
