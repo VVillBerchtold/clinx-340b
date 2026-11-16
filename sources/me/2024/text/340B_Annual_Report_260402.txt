@@ -1,0 +1,1039 @@
+1st Annual 340B Drug Program Transparency Report
+Submitted to:
+
+The Joint Standing Committee on Health Coverage, Insurance
+and Financial Services
+The Office of Affordable Health Care
+The Maine Prescription Drug Affordability Board
+Submitted by:
+
+The Maine Health Data Organization
+April 2, 2026
+Table of Contents
+340B Drug Program Transparency Report ................................................................................................. 3
+Introduction ........................................................................................................................................... 3
+340B Drug Acquisition Costs and Estimated Savings ................................................................................ 3
+Top 3 Most Costly 340B Prescription Drugs .............................................................................................. 5
+Top 3 Most Frequently Dispensed 340B Prescription Drugs ....................................................................... 7
+Programs and Services Funded by 340B Drug Program Savings ............................................................... 10
+340B Drug Program Internal Review and Oversight ................................................................................. 25
+340B Drug Program Transparency Reporting Changes for Fisal Year 2025 ................................................ 25
+Conclusion ........................................................................................................................................... 26
+
+
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                                                                                  2
+340B Drug Program Transparency Report
+Title 22, §1728, requires the MHDO to produce and post on its publicly accessible website a report
+that includes a summary of the aggregate information received from hospitals participating in the
+federal drug pricing program under Section 340B of the federal Public Health Service Act, 42
+United States Code, Section 256b, referred to in this section as “the 340B program”.
+The reporting requirements are deﬁned in 90-590 Chapter 340, Uniform Reporting System for
+Reporting 340B Drug Program Data Sets. This is MHDO’s ﬁrst annual report.
+Under contract with MHDO, Ten2Eleven Business Solutions provided MHDO technical support in
+the preparation of this report.
+
+Introduction
+The 340B Drug Program is codiﬁed in Section 340B of the federal Public Health Service Act and
+requires pharmaceutical manufacturers participating in Medicaid to sell outpatient drugs at
+discounted prices to health care organizations that care for many uninsured and low-income
+patients. These organizations include federal grantee organizations and several types of hospitals,
+including critical access hospitals (CAHs), sole community hospitals (SCHs), rural referral centers
+(RRCs), and public and nonproﬁt disproportionate share hospitals (DSHs) that serve low-income
+and indigent populations.
+Title 22, §1728 requires hospitals operating in the State that participate in the 340B Drug Program
+to provide summary information regarding the annual cost to acquire prescription drugs under the
+340B Drug Program and the estimated amount of savings realized by the hospital that result from
+the discounted 340B drug prices. In addition, hospitals must describe how they use savings
+generated from participation in the 340B Drug Program to provide programs and services that
+beneﬁt their community, including services that support community access to care that the
+hospital could not continue without such savings. Finally, hospitals must describe internal review
+and oversight processes used to meet the federal Department of Health and Human Services,
+Health Resources and Services Administration (HRSA) program rules and guidance for
+compliance.
+
+340B Drug Acquisition Costs and Estimated Savings
+A total of 27 hospitals submitted 340B Drug Program data sets to the MHDO for ﬁscal year 2024
+per the requirements in 90-590 Chapter 340, Uniform Reporting System for Reporting 340B Drug
+Program Data Sets. In total, these hospitals reported spending $409.9M to acquire prescription
+drugs under the 340B Drug Program, representing 60.0% of the total amount spent for all drugs by
+the hospitals (included those purchased under 340B). The hospitals also reported an estimated
+savings of $325.8M resulting from 340B discounted drug acquisition costs.
+As reported, 340B estimated savings represents the cost that would have otherwise been paid to
+acquire drugs purchased under the 340B Drug Program had a 340B discount not been applied
+(based on the average acquisition cost paid for the same drugs outside the 340B program on a per
+unit basis), reduced by:
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                             3
+  1. the 340B Acquisition Cost; and
+  2. the total amount of payments made to Contract Pharmacies, including any share of 340B
+     savings retained by Contract Pharmacies, for dispensing drugs obtained under the 340B
+     program; and
+  3. the total amount of payments made to 340B Third Party Administrators, including any share
+     of 340B savings retained by 340B Third Party Administrators, for 340B program
+     administration tasks; and
+  4. any additional administrative costs associated with the 340B program.
+
+
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                        4
+Top 3 Most Costly 340B Prescription Drugs
+The total amount spent across each of the 27 hospitals’ top 3 most costly prescription drugs purchased under the 340B Drug
+Program represented 15.6% of the total 340B hospital drug acquisition costs. A list of drugs reported as being the costliest
+prescription drugs purchased under the 340B Drug Program is provided below:
+                                                                                                                                   Values Reported for
+                                                                                                                                 Top 3 Most Costly Drugs
+                                                                                                                       Acquired Under Hospitals’ 340B Drug Program
+   NDC                      Item Description                                   Therapeutic Class                         Total          Total        # of Hospitals
+                                                                                                                       Acquisition    Estimated           with
+                                                                                                                          Cost         Savings       NDC in Top 3
+ 00006302604   Pembrolizumab 100 MG/4ML Solution 4.000 ML UD                Antineoplastics and Adjunctive Therapies   $28,553,467   $10,750,171           9
+               Elexacaftor-Tezacaftor-Ivacaftor 100-50-75 & 150 MG Tablet   Antihistamines/Nasal Agents/Cough and
+ 51167033101   Therapy Pack 84.000 EA UU                                    Cold/Respiratory/Misc - Misc               $11,958,418    $3,759,963           1
+                                                                            Psychotherapeutic and Neurological
+               Ocrelizumab 300 MG/10ML Solution 10.000 ML UD
+ 50242015001                                                                Agents - Miscellaneous - Misc              $8,831,914     $4,425,309          13
+               Daratumumab-Hyaluronidase-ﬁhj 1800-30000 MG-
+                                                                            Antineoplastics and Adjunctive Therapies
+ 57894050301   UT/15ML Solution 15.000 ML UD                                                                           $3,932,906     $2,280,530           4
+ 64764030020   Vedolizumab 300 MG Solution Reconstituted 1.000 EA UD        Gastrointestinal Agents - Misc             $2,931,924     $3,083,251           5
+ 00006302602   Pembrolizumab 100 MG/4ML Solution 4.000 ML UD                Antineoplastics and Adjunctive Therapies   $1,573,278      $526,113            2
+ 00003373413   Nivolumab 240 MG/24ML Solution 24.000 ML UD                  Antineoplastics and Adjunctive Therapies   $1,554,330      $667,700            2
+               Immune Globulin (Human) IV 20 GM/200ML Solution              Passive Immunizing and Treatment
+ 44206043820   200.000 ML UD                                                Agents                                      $775,958       $209,014            5
+ 00003232822   Ipilimumab 200 MG/40ML Solution 40.000 ML UD                 Antineoplastics and Adjunctive Therapies    $666,307       $288,976            2
+ 68135010001   Elosulfase Alfa 5 MG/5ML Solution 5.000 ML UD                Endocrine and Metabolic Agents - Misc       $629,595       $221,425            1
+ 00003089421   Apixaban 5 MG Tablet 60.000 EA                               Hematological Agents - Anticoagulants       $484,490       $327,943            1
+               Aﬂibercept 2 MG/0.05ML Solution Preﬁlled Syringe 0.050
+                                                                            Ophthalmic Agents
+ 61755000501   ML UD                                                                                                    $286,791       $138,709            1
+               Immune Globulin (Human) IV 40 GM/400ML Solution              Passive Immunizing and Treatment
+ 44206043940   400.000 ML UD                                                Agents                                      $283,016       $77,351             3
+               Denosumab 60 MG/ML Solution Preﬁlled Syringe 1.000 ML
+                                                                            Endocrine and Metabolic Agents - Misc
+ 55513071001   UD                                                                                                       $238,338       $299,569            2
+ 75987015003   Inebilizumab-cdon 100 MG/10ML Solution 10.000 ML UD          Miscellaneous Therapeutic Classes           $206,112       $64,996             1
+
+
+
+       340B DRUG PROGRAM TRANSPARENCY REPORT                                                                                                                5
+                                                                          Antihistamines/Nasal Agents/Cough and
+              Omalizumab 150 MG/ML Solution Preﬁlled Syringe 1.000
+                                                                          Cold/Respiratory/Misc - Antiasthmatic
+              ML UD
+50242021501                                                               and Bronchodilator Agents                  $195,514   $133,201   3
+              Somatropin 15 MG/1.5ML Solution Pen-injector 1.500 ML
+                                                                          Endocrine and Metabolic Agents - Misc
+00169770821   UU                                                                                                     $172,662   $12,487    1
+50242009601   Faricimab-svoa 6 MG/0.05ML Solution 0.050 ML UD             Ophthalmic Agents                          $123,307   $50,754    1
+                                                                          Endocrine and Metabolic Agents -
+              Semaglutide 2 MG/3ML Solution Pen-injector 3.000 ML UU
+00169418113                                                               Antidiabetics                              $107,969   $51,424    1
+                                                                          Endocrine and Metabolic Agents -
+              Semaglutide 4 MG/3ML Solution Pen-injector 3.000 ML UU
+00169413013                                                               Antidiabetics                              $96,431    $42,145    1
+                                                                          Psychotherapeutic and Neurological
+              Ublituximab-xiiy 150 MG/6ML Solution 6.000 ML UD
+73150015006                                                               Agents - Miscellaneous - Misc              $81,289    $39,792    1
+              Risankizumab-rzaa (Crohn's) 600 MG/10ML Solution 10.000
+                                                                          Gastrointestinal Agents - Misc
+00074501501   ML UD                                                                                                  $62,516    $61,509    1
+61958290102   Remdesivir 100 MG Solution Reconstituted 1.000 EA UD        Anti-Infective Agents - Antivirals         $59,249    $22,876    1
+00310453530   Tremelimumab-actl 300 MG/15ML Solution 15.000 ML UD         Antineoplastics and Adjunctive Therapies   $58,883    $21,975    2
+              Cladribine (Multiple Sclerosis) 10 MG Tablet Therapy Pack   Psychotherapeutic and Neurological
+44087400000   10.000 EA UU                                                Agents - Miscellaneous - Misc              $56,054    $48,003    1
+00074262528   Glecaprevir-Pibrentasvir 100-40 MG Tablet 84.000 EA UU      Anti-Infective Agents - Antivirals         $35,785    $15,694    2
+50242012047   Tenecteplase 50 MG Kit 1.000 EA UU                          Hematological Agents - Misc                $30,478    $93,878    2
+                                                                          Endocrine and Metabolic Agents -
+              Semaglutide 8 MG/3ML Solution Pen-injector 3.000 ML UU
+00169477212                                                               Antidiabetics                              $29,405    $20,213    1
+00310067912   Olaparib 150 MG Tablet 120.000 EA                           Antineoplastics and Adjunctive Therapies   $24,346    $10,249    2
+              Prothrombin Complex Concentrate Human 500 UNIT Kit
+                                                                          Hematological Agents - Misc
+63833038602   1.000 EA UU                                                                                            $19,281     $9,744    1
+50242008527   Alteplase 100 MG Solution Reconstituted 1.000 EA UD         Hematological Agents - Misc                $16,176     $1,174    2
+00002702660   Pirtobrutinib 100 MG Tablet 60.000 EA                       Antineoplastics and Adjunctive Therapies   $16,090     $6,868    1
+49401010201   Belimumab 400 MG Solution Reconstituted 1.000 EA UD         Miscellaneous Therapeutic Classes          $15,420     $5,660    1
+              Lenvatinib Mesylate 2 x 10 MG Capsule Therapy Pack
+                                                                          Antineoplastics and Adjunctive Therapies
+62856072030   60.000 EA UU                                                                                           $12,779    $12,113    1
+72579001102   Zanubrutinib 80 MG Capsule 120.000 EA                       Antineoplastics and Adjunctive Therapies   $11,080    $32,246    1
+              Risankizumab-rzaa 150 MG/ML Solution Auto-injector 1.000
+                                                                          Dermatologicals
+00074210001   ML UD                                                                                                  $10,170    $10,771    1
+              Imetelstat Sodium 188 MG Solution Reconstituted 1.000 EA
+                                                                          Antineoplastics and Adjunctive Therapies
+82959011101   UD                                                                                                      $7,788    $14,131    1
+
+
+
+
+      340B DRUG PROGRAM TRANSPARENCY REPORT                                                                                                6
+Top 3 Most Frequently Dispensed 340B Prescription Drugs
+The total amount spent across each of the 27 hospitals’ top 3 most frequently dispensed prescription drugs purchased under the
+340B Drug Program represented 2.4% of the total 340B drug acquisition cost. This list is limited to prescription drugs dispensed by
+hospitals and may not include prescription drugs that were most administered by the hospital. Beginning in 2026, hospitals will
+provide information about prescription drugs that were most frequently dispensed and that were most frequently administered. A
+list of drugs reported as being the most frequently dispensed prescription drugs purchased under the 340B Drug Program is
+provided below:
+                                                                                                                                 Values Reported for
+                                                                                                                       Top 3 Most Frequently Dispensed Drugs
+                                                                                                                      Acquired under the Hospitals' 340B Drug
+   NDC                   Item Description                                  Therapeutic Class                            Total
+                                                                                                                                      Program
+                                                                                                                                       Total       # of Reporting
+                                                                                                                     Acquisition     Estimated     Hospitals with
+                                                                                                                        Cost          Savings       NDC in Top 3
+ 00006302602   Pembrolizumab 100 MG/4ML Solution 4.000 ML UD        Antineoplastics and Adjunctive Therapies         $4,156,458     $1,737,661           1
+               OnabotulinumtoxinA 100 UNIT Solution Reconstituted   Neuromuscular Agents - Neuromuscular
+ 00023114501   1.000 EA UD                                          Agents                                           $2,194,370      $900,606            2
+               Inﬂiximab-abda 100 MG Solution Reconstituted 1.000
+                                                                    Gastrointestinal Agents - Misc
+ 78206016201   EA UD                                                                                                  $777,210       $573,252            3
+ 68135010001   Elosulfase Alfa 5 MG/5ML Solution 5.000 ML UD        Endocrine and Metabolic Agents - Misc             $629,595       $221,425            1
+               Inﬂiximab 100 MG Solution Reconstituted 1.000 EA
+                                                                    Gastrointestinal Agents - Misc
+ 57894003001   UD                                                                                                     $578,646      $2,081,635           4
+ 00003089421   Apixaban 5 MG Tablet 60.000 EA                       Hematological Agents - Anticoagulants             $524,336      $1,240,088           6
+               Inﬂiximab 100 MG Solution Reconstituted 1.000 EA
+                                                                    Gastrointestinal Agents - Misc
+ 57894016001   UD                                                                                                     $452,722       $233,583            4
+               Semaglutide 2 MG/3ML Solution Pen-injector 3.000
+                                                                    Endocrine and Metabolic Agents - Antidiabetics
+ 00169418113   ML UU                                                                                                  $107,969        $51,424            1
+               Semaglutide 4 MG/3ML Solution Pen-injector 3.000
+                                                                    Endocrine and Metabolic Agents - Antidiabetics
+ 00169413013   ML UU                                                                                                  $96,431         $42,145            1
+ 00781315401   Ferumoxytol 510 MG/17ML Solution 17.000 ML UD        Hematological Agents - Hematopoietic Agents       $87,851         $8,285             1
+               Denosumab 60 MG/ML Solution Preﬁlled Syringe
+                                                                    Endocrine and Metabolic Agents - Misc
+ 55513071001   1.000 ML UD                                                                                            $59,621        $170,690            1
+               Remdesivir 100 MG Solution Reconstituted 1.000 EA
+                                                                    Anti-Infective Agents - Antivirals
+ 61958290102   UD                                                                                                     $59,249         $37,329            1
+               Ferric Carboxymaltose 750 MG/15ML Solution 15.000
+                                                                    Hematological Agents - Hematopoietic Agents
+ 00517065001   ML UD                                                                                                  $47,308         $28,201            1
+
+
+      340B DRUG PROGRAM TRANSPARENCY REPORT                                                                                                                  7
+25021060820   Propofol 200 MG/20ML Emulsion 20.000 ML UD          General Anesthetics                                $29,311   $11,006    1
+                                                                  Antihistamines/Nasal Agents/Cough and
+              Albuterol Sulfate 108 (90 Base) MCG/ACT Aerosol
+                                                                  Cold/Respiratory/Misc - Antiasthmatic and
+              Solution 18.000 GM UU
+66993001968                                                       Bronchodilator Agents                              $19,264   $20,517    3
+00407141363   Iohexol 300 MG/ML Solution 100.000 ML UD            Diagnostic Products                                $17,022   $42,685    1
+00264775000   Lactated Ringer's Solution 1000.000 ML UD           Nutritional Products - Minerals & Electrolytes     $14,323   $12,207    1
+                                                                  Antihistamines/Nasal Agents/Cough and
+              Albuterol Sulfate 108 (90 Base) MCG/ACT Aerosol
+                                                                  Cold/Respiratory/Misc - Antiasthmatic and
+              Solution 8.500 GM UU
+68180096301                                                       Bronchodilator Agents                              $11,894   $19,725    5
+              Amphotericin B Liposome 50 MG Suspension
+                                                                  Anti-Infective Agents - Antifungals
+62756023301   Reconstituted 1.000 EA UD                                                                              $8,525    $24,242    1
+              Pantoprazole Sodium 40 MG Tablet Delayed Release    Gastrointestinal Agents - Ulcer
+65862056090   90.000 EA                                           Drugs/Antispasmodics/Anticholinergics              $7,169    $160,459   1
+00406055201   Oxycodone HCl 5 MG Tablet 100.000 EA                Analgesics - Opioid                                $6,069    $15,533    1
+60505619301   Palonosetron HCl 0.25 MG/5ML Solution 5.000 ML UD   Gastrointestinal Agents - Antiemetics              $5,706    $73,515    2
+00990798309   Sodium Chloride 0.9 % Solution 1000.000 ML UD       Nutritional Products - Minerals and Electrolytes   $5,505     $1,812    1
+63323026929   Propofol 200 MG/20ML Emulsion 20.000 ML UD          General Anesthetics                                $5,448    $25,027    2
+00003089321   Apixaban 2.5 MG Tablet 60.000 EA                    Hematological Agents - Anticoagulants              $5,428    $108,904   3
+              Triamcinolone Acetonide 40 MG/ML Suspension 1.000   Endocrine and Metabolic Agents -
+00703024101   ML UD                                               Corticosteroids                                    $3,548     $132      2
+              Omeprazole 20 MG Capsule Delayed Release 100.000    Gastrointestinal Agents - Ulcer
+55111015801   EA                                                  Drugs/Antispasmodics/Anticholinergics              $3,525    $131,515   1
+              Methylprednisolone Acetate 40 MG/ML Suspension      Endocrine and Metabolic Agents -
+70121157301   1.000 ML UD                                         Corticosteroids                                    $2,621     $2,931    1
+              Pantoprazole Sodium 40 MG Tablet Delayed Release    Gastrointestinal Agents - Ulcer
+65862056099   1000.000 EA                                         Drugs/Antispasmodics/Anticholinergics              $1,943     $746      1
+              Triamcinolone Acetonide 40 MG/ML Suspension 1.000   Endocrine and Metabolic Agents -
+00003029305   ML UD                                               Corticosteroids                                    $1,832     $2,657    1
+00904677361   Acetaminophen 325 MG Tablet 100.000 EA UD           Analgesics - Nonnarcotic                           $1,531     $1,621    1
+70377007813   Atorvastatin Calcium 20 MG Tablet 1000.000 EA       Cardiovascular Agents - Antihyperlipidemics        $1,089     $8,913    1
+              Amoxicillin & Pot Clavulanate 875-125 MG Tablet
+                                                                  Anti-Infective Agents - Penicillins
+65862050320   20.000 EA                                                                                               $983      $2,555    1
+50228018010   Gabapentin 300 MG Capsule 1000.000 EA               Neuromuscular Agents - Anticonvulsants              $945      $4,927    1
+              Pantoprazole Sodium 40 MG Tablet Delayed Release    Gastrointestinal Agents - Ulcer
+00378668910   1000.000 EA                                         Drugs/Antispasmodics/Anticholinergics               $732      $5,857    1
+
+
+
+
+     340B DRUG PROGRAM TRANSPARENCY REPORT                                                                                                    8
+              Pancrelipase (Lipase-Protease-Amylase) 36000-
+              114000 UNIT Capsule Delayed Release Particles      Gastrointestinal Agents - Digestive Aids
+00032301613   100.000 EA UU                                                                                       $725   $933,096   1
+              Metformin HCl 500 MG Tablet Extended Release 24
+                                                                 Endocrine and Metabolic Agents - Antidiabetics
+67877015905   Hour 500.000 EA                                                                                     $594    $620      1
+65862001001   Metformin HCl 1000 MG Tablet 100.000 EA            Endocrine and Metabolic Agents - Antidiabetics   $569    $850      2
+61314001601   Proparacaine HCl 0.5 % Solution 15.000 ML UU       Ophthalmic Agents                                $469    $1,153    1
+                                                                 Antihistamines/Nasal Agents/Cough and
+              Albuterol Sulfate 108 (90 Base) MCG/ACT Aerosol
+                                                                 Cold/Respiratory/Misc - Antiasthmatic and
+              Solution 8.000 GM UU
+00173068224                                                      Bronchodilator Agents                            $373    $997      1
+              Bacitracin (Topical) 500 UNIT/GM Ointment 30.000
+                                                                 Dermatologicals
+00536125628   GM UU                                                                                               $360    $170      1
+              Metformin HCl 500 MG Tablet Extended Release 24
+                                                                 Endocrine and Metabolic Agents - Antidiabetics
+70010049105   Hour 500.000 EA                                                                                     $330    $718      1
+              Methylprednisolone Acetate 40 MG/ML Suspension     Endocrine and Metabolic Agents -
+00009307301   1.000 ML UD                                        Corticosteroids                                  $329    $103      1
+65862000801   Metformin HCl 500 MG Tablet 100.000 EA             Endocrine and Metabolic Agents - Antidiabetics   $271    $329      1
+67877022205   Gabapentin 100 MG Capsule 500.000 EA               Neuromuscular Agents - Anticonvulsants           $217    $318      1
+72205002490   Atorvastatin Calcium 40 MG Tablet 90.000 EA        Cardiovascular Agents - Antihyperlipidemics      $162    $648      2
+              Omeprazole 40 MG Capsule Delayed Release           Gastrointestinal Agents - Ulcer
+68462039710   1000.000 EA                                        Drugs/Antispasmodics/Anticholinergics            $150    $7,112    1
+72205002590   Atorvastatin Calcium 80 MG Tablet 90.000 EA        Cardiovascular Agents - Antihyperlipidemics      $121    $425      1
+                                                                 Central Nervous System Agents -
+              Sertraline HCl 100 MG Tablet 30.000 EA
+65862001330                                                      Antidepressants                                  $115    $291      1
+              Omeprazole 20 MG Capsule Delayed Release           Gastrointestinal Agents - Ulcer
+68462039610   1000.000 EA                                        Drugs/Antispasmodics/Anticholinergics            $112    $4,035    1
+                                                                 Central Nervous System Agents -
+              Sertraline HCl 50 MG Tablet 500.000 EA
+70010020405                                                      Antidepressants                                  $67     $337      1
+00378395105   Atorvastatin Calcium 20 MG Tablet 500.000 EA       Cardiovascular Agents - Antihyperlipidemics      $56     $4,755    1
+50458057930   Rivaroxaban 20 MG Tablet 30.000 EA                 Hematological Agents - Anticoagulants            $31    $46,579    1
+00169750111   Insulin Aspart 100 UNIT/ML Solution 10.000 ML UU   Endocrine and Metabolic Agents - Antidiabetics   $16    $12,099    1
+
+
+
+
+     340B DRUG PROGRAM TRANSPARENCY REPORT                                                                                              9
+Programs and Services Funded by 340B Drug Program Savings
+A list of programs and services reported as funded (fully or partially) by 340B Drug Program
+Savings is provided below for each of the 27 hospitals.
+
+Bridgton Hospital
+  Behavioral Health Services
+    Bridgton Hospital serves rural populations with behavioral health needs. Our hospital is able
+    to access behavioral health medical and consultative services in the inpatient and
+    emergency department settings and integrated licensed clinical social workers in primary
+    care practices to help support the behavioral health needs of our patients and community.
+    As many nearby organizations discontinue these services, our commitment to meeting this
+    health care need is even more vital.
+  Financial Assistance/Advocacy
+     Our mission is to provide access to medically necessary health care to all patients,
+     regardless of their ability to pay. Bridgton Hospital offers free care to Maine residents who
+     are at or below the Maine Free Care income levels. In addition, our financial advocates will
+     help patients identify pathways for coverage of their healthcare services.
+  Health Prevention and Community Education Programs
+    Nurse-led diabetes education programing; Community level trainings on overdose
+    prevention, stigma, harm reduction and related topics; Emergency food bags and food
+    pantry support for patients who experiencing food insecurity.
+
+
+Calais Community Hospital
+  Health and Wellness Community Access
+    The 340b program allows our CAHs to provide free care for uninsured patients and helps
+    offset the significant cost of patient responsibility bad debts. The program generates
+    valuable resources for our hospitals to maintain, improve and expand access to programs
+    that improve the health and well-being of patients and communities.
+
+
+Central Maine Medical Center
+  Behavioral Health Services
+    CMMC is able to access behavioral health medical and consultative services in the inpatient
+    and emergency department settings and integrated licensed clinical social workers in
+    primary care practices to help support the behavioral health needs of our patients and
+    community. As many nearby organizations discontinue these services, our commitment to
+    meeting this health care need is even more vital.
+  Financial Assistance/Advocacy
+     Our mission is to provide access to medically necessary health care to all patients,
+     regardless of their ability to pay. CMMC offers free care to Maine residents who are at or
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                                10
+    below the Maine Free Care income levels. In addition, our financial advocates will help
+    patients identify pathways for coverage of their healthcare services.
+  Health Prevention and Community Education Programs
+    Community level trainings on overdose prevention, stigma, harm reduction and related
+    topics; Emergency food bags and food pantry support for patients who experiencing food
+    insecurity.
+  Language Line and Interpretive Services
+    Live and telephonic interpretation services are provided for patients who do not speak
+    English or are hearing or sight impaired.
+  Preventative Care
+    CMMC has 7 primary care clinics in the region to keep care closer to our patients and
+    remove common barriers to access. Care managers help to support patients needing
+    coordination of care between primary care, specialists, hospitals and other services and
+    support in management of their chronic conditions and assistance with lodging, medicine,
+    transportation and medical equipment.
+
+
+Down East Community Hospital
+  Health and Wellness Community Access
+    The 340B program allows our CAHs to provide free care for uninsured patients and helps
+    offset the significant cost of patient responsibility bad debts. The program generates
+    valuable resources for our hospitals to maintain, improve and expand access to programs
+    that improve the health and well-being of patients and communities.
+
+
+Houlton Regional Hospital
+  Charity/Free Care
+    Offset cost of free or discounted necessary medical care provided by the hospital to those
+    who cannot afford to pay for provided services.
+  Outpatient Infusion Center
+    Administration of intravenous therapies ordered by local or distant providers and
+    specialists, allowing patients to receive treatment closer to home.
+
+
+MaineGeneral Medical Center
+  Behavioral Health
+    This service line encompasses a wide range of mental health and substance use services,
+    including treatment for mood disorders, anxiety, developmental conditions, trauma,
+    psychosis, and addiction. These services are critical to addressing rising mental health
+    needs in our region, reducing emergency care utilization, and providing care continuity for
+    individuals and families facing complex behavioral health challenges.
+  Charity Care Program
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                             11
+   Medical Center provided a total of $442,052 in free care. 286 individuals below 150% of
+   Federal Poverty guidelines - $419,633. 41 individuals from 151% to 200% Federal Poverty
+   guidelines - $22,419. MGH accepts patients regardless of their ability to pay. A patient is
+   classified as a charity patient by reference to certain established policies, which define
+   charity services as those services for which no payment is anticipated. In assessing a
+   patient's eligibility for charity care, the Medical Center and MGRLTC use federally
+   established poverty guidelines. Free care eligibility has been established at 150% of federal
+   poverty levels with a sliding scale up to 225%. MGCC provides certain community alcohol
+   rehabilitation services under sliding fee arrangements. In addition, the Medical Center,
+   MGRLTC and MGCC will, at times, accept reduced payments when management identifies
+   cases of financial hardship which do not conform to MGH's formal guidelines.
+  Community Health Coalition
+   Prevention and Support of Chronic Disease/Food and Nutrition: This workgroup identified
+   diabetes and chronic pain as its focus areas with two main goals: integrating registered
+   dietitians and hands-on skill development for patients with the practices; and engaging
+   medical staff in learning experiences on nutrition, food preparation and motivational
+   interviewing. Examples of some strategies to achieve these goals: developing a teaching
+   kitchen curriculum and related engagement strategies focused on diabetes and chronic
+   pain; and delivering CME nutrition education to MGH medical staff. Behavioral
+   Health/Substance Use Disorder: This workgroup identified the following goals: keeping
+   people in treatment to improve outcomes; reducing stigma; working with external partners
+   to optimize resources; and ensuring treatment is available to those with SUD/OUD and
+   alcohol use disorder. Examples of strategies to achieve goals include developing a
+   transportation system to help people keep appointments and maintain treatment.
+  Community Health Events and Outreach
+   The Company provided 405 community health events and outreach, including free
+   education sessions, support meetings and training, to 32,996 participants.
+  Diabetes Programs and Education
+   These programs support patients in managing their condition and preventing complications,
+   particularly for those with limited access to specialty care or support resources.
+  Flu Vaccination Clinics
+    The Company held 53 flu vaccination clinics, vaccinating a total of 2,284 children and
+    adults.
+  Health and Wellness Classes
+   For adults and seniors, the Company provides classes and support groups aimed at health
+   and wellness, including cancer prevention and screening and diabetes care, along with
+   support groups for area individuals and families with a variety of health needs, including
+   diabetes, bariatric surgery and hospice.
+  Kennebec Valley Access to Care
+   The program served 16 uninsured individuals in the region, providing primary care,
+   preventive services, hospital services, pharmaceuticals, care management and specialty
+   care by participating providers, totaling $55,627.
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                          12
+  Neurosciences
+   Including specialized services for neurological conditions that require ongoing management,
+   diagnostics, and multidisciplinary support.
+  Nutrition Education and Parenting Education
+   For children and families, even during the pandemic, the Company offers several health
+   promotion programs throughout the year.
+  Physician Hospital Organization
+   The Medical Center's Physician Hospital Organization is part of an employer healthcare
+   collaborative designed to help improve employees' health, concentrating on high-risk
+   behaviors and chronic disease. Overall, the goals are to help stabilize rising healthcare costs
+   and enhance individuals' quality of life.
+  Prevention and Wellness
+   Including screenings, immunizations, and other proactive services that help our community
+   stay healthier and avoid preventable illness.
+  Pulmonology
+   Supporting care for patients with chronic respiratory conditions such as COPD, asthma, and
+   pulmonary fibrosis, which are prevalent in our rural service area.
+  Rheumatology
+   Providing access to complex autoimmune and inflammatory disease care that is often
+   difficult to obtain in rural settings.
+
+
+MaineHealth Franklin Hospital
+  Health Care Services
+   Behavioral health services for children, adolescents and adults, including: Medically
+   supervised induction and ongoing medication-assisted substance use treatment, Intensive
+   outpatient programming (IOP), counseling, including individual and group therapy, and case
+   management services for those with behavioral health needs.
+  Medication Access and Care Services
+   Free and reduced cost medications to qualifying patients (determined by factors such as
+   income and insurance coverage status). Medication Reconciliation is performed by a team
+   of pharmacists and pharmacy technicians who contact patients and external pharmacies
+   upon admission to reconcile prescriptions to support safe and appropriate medication use
+   while in the hospital.
+  Workforce Training
+    Community paramedicine, including back country search and rescue training.
+
+
+MaineHealth Lincoln Hospital
+  Health Care Services
+
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                          13
+    CarePartners: Provides: Affordable health coverage and high-quality health care. Free and
+    low-cost prescription medications. Assistance with transportation, housing, food and
+    health care system navigation.
+  Prevention and Education Programs
+   Programs/education on substance and tobacco use, healthy eating, mental health for youth,
+   provided to the community through business, schools, childcare and various other avenues.
+   Healthy food pantry for patients and environmental change work to improve access to
+   healthy food options making "healthy" the easy choice. Substance use disorder (SUD)
+   navigator to assist with increasing access to SUD treatment and recovery initiatives. Harm
+   reduction kits & free naloxone for patients.
+  Workforce Training
+   Nursing school partnership with Central Maine Community College. Certified surgical tech
+   program. Medical assistant certification program. Medical student/residents, nursing and
+   other health care programs clinical placements. American Heart Association CPR and First
+   Aid programs. Pharmacy technicians support with materials for the pharmacy certification
+   exam. Pharmacist support with materials for studying for board certification. Pharmacist
+   support with materials studying for oncology certification. Certified nurse assistant (CNA)
+   classes.
+
+
+MaineHealth Maine Medical Center
+  CNA Training Program
+   The CNA course is a state-approved, 190-hour course which is free of charge to students
+   accepted to the program. It includes classroom work, skills labs and clinical experiences.
+   The 11-week program is offered through the Center for Clinical & Professional Development
+   with support and ongoing interaction from Human Resources. Upon course completion,
+   students sit for the state certification exam. This initiative is a service to our community
+   offering unique opportunities for diverse populations who otherwise might not be able to
+   afford the education. Many CNA graduates are ultimately employed by MHMMC Portland
+   however, the program also provides graduates for other agencies or settings within the area.
+   CNAs are a valued part of the nursing team at MHMMC Portland.
+  Health Care Services: CarePartners
+   CarePartners is a safety net program designed to provide care for those who cannot afford
+   commercial insurance but are not eligible for government programs. CarePartners provides
+   administrative support to help serve the target population, including comprehensive
+   eligibility assessment, care management, and access to low cost or free pharmaceuticals.
+   MHMMC Portland plays two roles in this MaineHealth-sponsored program: funding and
+   providing free care. In addition to the free care that MMC gives as a provider in the program,
+   we make a financial contribution to CarePartners program operations.
+  Health Care Services: Outpatient Clinics
+   Many MHMMC Portland outpatient clinics serve specific patient populations with services
+   that would otherwise not be available in the community, including a virology clinic that is a
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                              14
+    statewide resource to physicians caring for patients with HIV/AIDS. It also provides
+    education and conducts clinical trials including many that otherwise would not be available
+    in the State. In addition, one afternoon a week, the international clinic provides services to
+    immigrants and refugees from around the world who have settled in Portland.
+  Health Care Services: Palliative Care Education and Research
+   MHMMC Portland is a medical education site for medical students, residents, fellows and
+   other learners. Several academic papers have been published on the health issues of
+   vulnerable populations and investment in the program has increased multifold in FY 2022.
+  Health Care Services: School-Based Health Clinics
+   MHMMC Portland provides staff and support for clinics in several Portland Public Schools
+   allowing students to access care without missing school or parents having to miss work.
+  Health Care Services: Adverse Childhood Experiences (ACEs) Program
+   An interdisciplinary team of leaders develop and implement best practice models for
+   education, prevention, screening and treatment of ACEs and trauma.
+  Student Nursing Precepting
+   In FY23, 232 senior nursing students were placed with MHMMC Portland-employed RN staff
+   as one-on-one preceptors. These placements culminated in 34,522 clinical hours of RN staff
+   oversight of students in patient care settings throughout the organization. Oversight occurs
+   during MHMMC Portland RN employee work time with full patient assignments.
+  Workforce Training
+   MHMMC Portland provides a clinical setting for medical students from a number of medical
+   schools as they rotate through the clinical services; post-graduate training in a number of
+   specialties, in both residencies and fellowships; rural practice settings as part of resident
+   education and as a service to the practices; and numerous sessions in which practicing
+   physicians can keep their knowledge current.
+
+
+MaineHealth Pen Bay Hospital
+  Health Care Services
+   Financial assistance for prescription coverage for patients discharged from MaineHealth
+   Pen Bay Hospital through our retail pharmacy. Assisted in providing indigent and charity
+   care. Access to substance use disorder treatment and recovery initiatives. Depression
+   screening workflow for adult and pediatric patients in primary & specialty care practice
+   locations.
+  Medication Access and Care Services
+   Free and reduced cost medications to qualifying patients (determined by factors such as
+   income and insurance coverage status). Medication Reconciliation is performed by a team
+   of pharmacists and pharmacy technicians who contact patients and external pharmacies
+   upon admission to reconcile prescriptions to support safe and appropriate medication use
+   while in the hospital.
+  Prevention and Education
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                           15
+    Complimentary wheelchair van transportation for patients living within the service area.
+    Complimentary taxi voucher program to support patients with transportation challenges
+    post discharge. Programs/education on substance and tobacco prevention/use, healthy
+    eating, physical activity, mental health for elderly, adult, youth, schools and youth serving
+    organizations. Tai Chi for arthritis and fall prevention. Monthly hikes in conjunction with
+    Coastal Mountain Land Trust.
+    National Diabetes Prevention Program. Living Well with Diabetes program. Living Well for
+    Better Health program. Matter of Balance program (reduce falls with aging). Fit and Strong
+    program. Increasing access to services such as substance use disorder/opioid use disorder
+    treatment. Syringe drop boxes at various practice locations.
+    School programs include Let's Go - 5210 (healthy lifestyle) promotion & immunizations for
+    flu support. Practice Programs include Let's Go 5210 (healthy lifestyle) for pediatric patients.
+    Practice-based food pantries for patients/families/community members & food bags and
+    community garden settings at various practice locations for patients experiencing food
+    insecurity. Harm reduction kits. Training on overdose prevention, stigma, harm reduction,
+    and related topics, including Naloxone education for community members, community-
+    based organizations and hospital staff. Certified infant car seat installation team members.
+    Advance care planning education. Community health worker program to assist individuals
+    on meeting their health (physical/mental) goals. Health coaching.
+  Workforce Training
+   Free certified nursing assistant (CNA) program to help bolster our health care workforce.
+   Student clinical placements for med students/residents, nursing students, CNA course
+   students, radiology, PT/OT, NP/PA and other student clinical placements.
+
+
+MaineHealth Stephens Hospital
+  Health Care Services
+   Specialty clinic which provides local services including audiology, otolaryngology,
+   cardiology, cancer care, urology and pulmonology. Comprehensive addiction medicine
+   program for the community. School-based health clinics with providers and staff providing
+   students with access to health care without missing school. Assistance in providing indigent
+   and charity care. Mobile health services.
+  Medication Access and Care Services
+   Free and reduced cost medications to qualifying patients (determined by factors such as
+   income and insurance coverage status). Medication Reconciliation is performed by a team
+   of pharmacists and pharmacy technicians who contact patients and external pharmacies
+   upon admission to reconcile prescriptions to support safe and appropriate medication use
+   while in the hospital.
+  Prevention and Education Programs
+   Worksite wellness/health partnerships with employers and community-based
+   organizations. Restorative practices policies an alternative to suspension from school for
+   youth. Community level training on overdose prevention, stigma, harm reduction and related
+   topics. Food as Medicine program for patients who are food insecure and have prediabetes.
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                            16
+    Emergency food bags for patients. Diabetes prevention program. Support for the Cancer
+    Resource Center of Western Maine that offers hope and caring through support, education
+    and concepts in healthy living.
+
+
+MaineHealth Waldo Hospital
+  Health Care Services
+   Assistance in providing indigent and charity care. Access to substance abuse disorder
+   treatment and recovery initiatives. Behavioral health screening and treatment (SBIRT)
+   program in primary care practice locations. Depression screening workflow for adult and
+   pediatric patients in primary & specialty care practice locations.
+  Medication Access and Care Services
+   Free and reduced cost medications to qualifying patients (determined by factors such as
+   income and insurance coverage status). Medication Reconciliation is performed by a team
+   of pharmacists and pharmacy technicians who contact patients and external pharmacies
+   upon admission to reconcile prescriptions to support safe and appropriate medication use
+   while in the hospital.
+  Prevention and Education
+   Complimentary wheelchair van transportation for patients living within the service area.
+   Complimentary taxi voucher program to support patients with transportation challenges
+   post discharge. Programs/education on substance and tobacco prevention/use, healthy
+   eating, physical activity, mental health for elderly, adult, youth, schools and youth serving
+   organizations. Tai Chi for arthritis and fall prevention. Monthly hikes in conjunction with
+   Coastal Mountain Land Trust. Smoking cessation counselors embedded in various practice
+   locations.
+   Living Well with Diabetes program. Living Well for Better Health program. Matter of Balance
+   program. Fit and Strong program. Living with Loss support group. Syringe drop boxes at
+   various practice locations.
+   School programs include Let's Go - 5210 (healthy lifestyle) promotion & immunizations for
+   flu support. Practice programs include Let's Go - 5210 (healthy lifestyle) for pediatric
+   patients. Practice based food pantries for patients/families/community members & food
+   bags at various practice locations for patients experiencing food insecurity. Harm reduction
+   kits. Training on overdose prevention, stigma, harm reduction, and related topics, including
+   Naloxone education for community members, community-based organizations and hospital
+   staff. Certified infant car seat installation team members. Advance care planning education.
+   Community health worker program to assist individuals on meeting their health
+   (physical/mental) goals. Dental care programs. Health coaching. Food as Medicine program
+   for patients who are food insecure and have a chronic disease. Cooking Matters program.
+   National Diabetes Prevention Program. Living Well with Diabetes program.
+  Workforce Training
+   Free certified nursing assistant (CNA) program to bolster our health care workforce. Student
+   clinical placements for med students/residents, nursing students, CNA course students,
+   radiology, PT/OT, NP/PA and other student clinical placements.
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                         17
+Millinocket Regional Hospital
+   Oncology
+    Provide oncology drugs for un/underinsured patients.
+
+
+Mount Desert Island Hospital
+   Behavioral Health Services
+    Mental and behavioral health services, substance abuse disorder treatment.
+   Cancer Navigator
+    Patient navigator program for those newly diagnosed or at high risk for cancer.
+   Integrated Care Services
+    Transitions of care, Care Management, diabetes educator.
+   Specialist Care and Imaging Services
+    Specialists and specialty services such as 3D mammography, Nuclear Medicine, and MRI.
+   Women's Health and Obstetrical Services
+    Subsidized MDIH women's health and obstetrical services.
+
+
+Northern Light A.R. Gould Hospital
+   Primary and Pediatric Care
+    Having access to a primary care provider is important in a patient's overall health. A PCP
+    gains valuable insight from tracking a patient's health over time and can make treatment
+    decisions accordingly. A PCP keeps patients on track with vaccinations and provides
+    information unique to each patient regarding their health and prevention of chronic illnesses
+    down the road. We offer primary care clinics in Presque Isle, Caribou, Fort Fairfield and Mars
+    Hill to ensure convenient, accessible family care for our patients. We have now added a
+    primary care pharmacist to our team to provide one-on-one patient education and
+    medication management as an extension of a patient's primary care provider.
+   Specialty Care
+    Knowing that many of our patients experience transportation challenges, we offer a number
+    of specialty services and providers that are not typically found in rural regions, including:
+    medical and radiation oncology (we are the only providers of radiation therapy north of
+    Bangor); cardiology; pulmonary care; general and vascular surgery; ear, nose and throat
+    services; OB/GYN, ophthalmology and optometry services; orthopedics and pain
+    management; sleep medicine; urology; endocrinology; dermatology, rheumatology and
+    more. Not only are we able to bring these services to the area, but we are often able to
+    collaborate to bring some of these specialty services to the other hospitals in Aroostook
+    County.
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                           18
+Northern Light Blue Hill Hospital
+   Behavioral Health
+    Results of the Community Health Needs Assessment show that behavioral health is a
+    growing need in Hancock County, and Blue Hill Hospital is working to remove the stigma of
+    mental health and improve access to these services. The hospital has Licensed Clinical
+    Social Workers embedded in all of its primary care practices and access to Northern Light
+    Health Tele-Psych services. Having behavioral health services in the same space allows for
+    convenient, warm hand-offs between primary care providers and counseling services. Blue
+    Hill Hospital has also arranged for on-site counseling in the services area's largest high
+    school to reach young adults in a convenient, low-pressure setting.
+   Collaborations with Community Partners
+    340B funds are also helping to fund vital community partnerships and collaborations.
+    Working together with local organizations with health and wellness related missions, such
+    as Healthy Peninsula, Health Acadia, and At Home Downeast, the hospital can participate in
+    and support more community education and outreach programming, community health
+    services, and public health initiatives. Specifically, this past year, support and funding for
+    the Downeast Treatment Center has been a critical focus as the hospital strives to play an
+    active role in combating the opioid crisis and substance use disorders.
+   Rural Access
+    As a critical access hospital, Northern Light Blue Hill Hospital, strives to meet the needs of
+    the communities it serves. The geography of the service area is widely spread, including
+    remote peninsulas and islands with pockets of the population struggling with poverty,
+    transportation challenges, chronic disease, and healthcare literacy barriers. The hospital
+    operates small primary care clinics in Stonington and Castine to keep care Closer to home
+    and remove common barriers to access in remote areas. A full-time financial counselor is
+    onsite at the hospital to ensure our patients have easy access to help with financial
+    assistance applications, enrolling in the insurance exchange, filling out Medicaid
+    applications, and questions with billing.
+
+
+Northern Light Charles A. Dean Hospital
+   Community Paramedicine
+    With the referral from a primary care provider, paramedics can make home visits for patients
+    who may need some extra assistance whether it be to check on the patient's well-being,
+    medication questions or assistance, or caring for a wound, community paramedicine is an
+    asset that is needed in our area where home health is not as available as other locations.
+    Savings from the 340B program help to offset the costs of this service where it is not
+    reimbursable.
+   Nursing Level of Care
+    Piscataquis County is the oldest, poorest, and sickest county in Maine. Isolation,
+    depression, and access to resources have also been identified as the top health risks for
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                                19
+    older adults in this region, according the 2019 Maine Shared Community Health Needs
+    Assessment. With support of 340B, CA Dean can provide the only long-term care unit in the
+    area, allowing for the ability to keep many older residents closer to their families and near
+    necessary healthcare resources.
+   Primary Care Clinical Pharmacy Services
+    Northern Light Primary Care has implemented a pharmacist into the practices. The
+    pharmacist provides medication management for patients and helps to make sure that
+    medications are taken properly and that the patients' medication lists are current.
+   Specialist Care
+    We understand the challenge that patients and families experience when they travel long
+    distances to access specialty care. Savings from the 340B program helps support Northern
+    Light CA Dean Hospital specialists to care for patients in our local community as the cost of
+    providing these services exceeds the reimbursement we receive.
+   Transportation Support
+     Northern Light CA Dean Hospital has transportation services available to patients in our
+     service area who have trouble getting to and from their appointments. Our demographics
+     and the unpredictable weather in our area makes it challenging for patients to sometimes
+     get to their appointments.
+
+
+Northern Light Eastern Maine Medical Center
+   Diabetes/Endocrine Specialists
+    Our Diabetes, Endocrine, and Nutrition specialists are committed to providing the highest
+    quality of healthcare services to patients with diabetes, endocrine, and nutrition related
+    disorders. Offering state-of-the-art medical management and education of these health
+    conditions is our top priority. Many adults and children living with diabetes in our region are
+    challenged to maintain healthy nutritious diets to successfully manage their disease. One
+    third of food insecure Mainers reside in just two counties: Cumberland County is home to
+    20.1% and Penobscot County is home to 12.6%. The Northern Light diabetes and endocrine
+    specialists work closely with our food insecure patients to implement affordable dietary
+    changes. Patients and families are also connected with resources in the City of Bangor. The
+    Bangor food resource guide lists community meals, soup kitchens, farmers markets, food
+    pantries and programs that provide financial support to access nutritious food.
+   Pediatric Specialty Care, including Neonatal Intensive Care Unit and Pediatric Intensive
+   Care Unit, Orthopedics, Oncology, and Surgical Services
+    Access to specialty care for children is better than ever for families in central, eastern and
+    northern Maine. Northern Light Eastern Maine Medical Center and our pediatric specialists
+    offer services ranging from primary care to tertiary level intensive care for critically ill and
+    injured children, neonates, and adolescents. The Northern Light EMMC neonatal clinical
+    team cares for mothers and babies affected by Maine's opioid addiction crisis. In 2018, 131
+    opiate exposed babies were born at the medical center. Opiate exposed babies often
+    experience neonatal abstinence syndrome (NAS), a group of conditions that occur when a
+    baby withdraws from drugs they were exposed to in the womb. Recognizing there is
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                             20
+    significant hardship on families when neonatal abstinence syndrome babies receive their
+    entire treatment in the hospital, Northern Light EMMC partnered with Penobscot Community
+    Health Center to launch the Collaborative Home Alternative Medication Program.
+   The Oral Oncology Program at Cancer Care
+    At Northern Light Cancer Care, we combine the expertise of hematology, medical and
+    radiation oncology, pediatric oncology and breast surgical oncology. We work closely with
+    fellowship trained oncology surgeons, colorectal surgeons, thoracic surgeons, head and
+    neck surgeons and neurosurgeons. Together with other specialized staff, to deliver
+    coordinated, compassionate care, all under one roof. The Oral Oncology Program is a
+    unique program that assists patients with the management of their prescriptions as well as
+    helping with the coordination of patient care. This program operates at a loss and is not
+    reimbursable by Medicare. The funding provided by 340B allows us to continue this essential
+    support for our cancer patients when they need it most.
+
+
+Northern Light Maine Coast Hospital
+   Collaborations with Community Partners
+    340B funds are also helping to fund vital community partnerships and collaborations.
+    Working together with local organizations with health and wellness related missions, such
+    as Health Acadia, Hospice Organizations, Downeast Treatment Center, Good Shepherd
+    Food Bank, Restored Hope, the hospital can participate in and support more community
+    education and outreach programming, community health services, and public health
+    initiatives. Specifically, support and funding for the Downeast Treatment Center has been a
+    critical focus as the hospital strives to play an active role in combating the opioid crisis and
+    substance use disorders.
+   Rural Access
+    The geography of the service area is widely spread, including remote peninsulas and islands
+    with pockets of the population struggling with poverty, transportation challenges, chronic
+    disease, and healthcare literacy barriers. The hospital operates small primary care clinics in
+    Southwest Harbor and Gouldsboro to keep care closer to home and remove common
+    barriers to access in remote areas. A full-time financial counselor is onsite at the hospital to
+    ensure our patients have easy access to help with financial assistance applications,
+    enrolling in the insurance exchange, filling out Medicaid applications, and questions with
+    billing.
+
+
+Northern Light Mayo Hospital
+   Primary Care
+    Northern Light Mayo Hospital maintains a network of four primary care health centers in
+    rural communities in Penobscot and Piscataquis Counties. Locally available primary care is
+    important because transportation is a barrier to accessing care for many in our region.
+    Additionally, our patient population struggles with high rates of poverty, chronic disease,
+    food insecurity, behavioral health issues, and substance use disorder. Our primary care
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                              21
+    health centers provide individualized care to help patients address their health challenges.
+    We also connect patients with community resources, such as food banks, behavioral health
+    providers, and home health and hospice providers.
+   Specialty Care
+    Piscataquis County is the oldest county in the oldest state in the nation, and we know that
+    traveling long distances to access care is challenging and inconvenient for many of our
+    patients. That’s why we provide access to a range of specialty services and providers, some
+    of which are not typically available in rural regions. Current specialty services offered at
+    Northern Light Mayo Hospital include general surgery, orthopedics, cancer care, podiatry,
+    and urology.
+   Women’s Care
+    Northern Light Mayo Hospital is the only provider of birthing care, OB/GYN outpatient care,
+    OB/GYN surgery, and 3D mammography in Piscataquis County. If not for the services
+    provided by Mayo Hospital, women would need to drive nearly an hour, and in some cases
+    much farther, to access care. Mayo Hospital is committed to helping women stay healthy in
+    every aspect of their lives, close to home.
+
+
+Northern Light Mercy Hospital
+   Behavioral Health
+    An integrated behavioral health team is embedded in all primary care practices, allowing for
+    convenient, warm hand-offs between primary care providers and counseling services.
+   Cumberland County Jail
+    Through a partnership with the Cumberland County Jail, the hospital accepts referrals for
+    people who are leaving jail with substance use disorder.
+   Emergency Care
+    Mercy's emergency department delivers expert care while keeping close to the community
+    and its needs. It runs a rapid access treatment program to provide patients with immediate
+    relief from opioid withdrawal symptoms while also initiating ongoing support in the
+    community that increases a patient's chances for recovery.
+   Full-Time Financial Counselors
+    Staff are onsite to ensure patients have easy access to help with financial assistance
+    applications, enrolling in the insurance exchange, filling out Medicaid applications, and
+    questions with billing.
+   Greater Portland Addiction Collaborative (GPAC)
+    Mercy Hospital is an active convener and participant in GPAC, which develops and
+    implements comprehensive approaches for treatment of uninsured persons with substance
+    use disorder. GPAC brings together many community partners to implement solutions to
+    address this ongoing community need.
+   Health Outreach Work
+
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                           22
+    Clinicians and their teams host health education in the community and virtually. These
+    sessions are offered free of charge and allow members of the community to interact with
+    clinicians on health topics, such as providing education on the most common health issues
+    facing the community or on the importance of health screenings to prevent cancer. Mercy
+    also has clinical teams who respond to community needs outside of the hospital and
+    medical practices, such as providing primary care to asylum seekers in shelters.
+   Perinatal Patients with Opioid Use Disorder
+    A partnership with the state of Maine on the MaineMOM program, which aims to improve
+    care for pregnant and postpartum people with opioid use disorder and their infants by
+    integrating maternal and substance use treatment services.
+   Preventative Care
+    Mercy has six primary care clinics in the region to keep care closer to our patients and
+    remove common barriers to access.
+   Specialty Care
+    From diabetes and endocrinology care to cancer care services, our specialty practices
+    maintain an array of services that are critical to the community. Mercy's specialty care
+    practices, in addition to its primary care practices, use screening tools to directly connect
+    patients to area resources. An example of this is the distribution of bags of food to patients
+    who identify as food insecure.
+
+
+Northern Light Sebasticook Valley Hospital
+   Patient Support to Navigate Health Care Services
+    Some of our most vulnerable patients have difficulty accessing and navigating the complex
+    healthcare delivery system. Sebasticook Valley Hospital has a Patient Navigator Program,
+    available for any patient who needs assistance. With 340B savings, Sebasticook Valley
+    Hospital can continue to provide this valuable service to our community.
+   Primary Care Clinical Pharmacy Services
+    Understanding, accessing and monitoring prescription medications can be a significant
+    burden for many patients. This is especially true in an aging population with many chronic
+    conditions. Sebasticook Valley Hospital supports our patients' medication needs through
+    the placement of an integrated clinical pharmacist in its primary care practices. The
+    pharmacist works with patients, providers and care team members through consults for
+    polypharmacy, diabetic care, hypertension, hyperlipidemia and other chronic condition
+    management. The pharmacist's role is essential in effectively and safely navigating the
+    complex pharmaceutical care of the Sebasticook Valley Hospital patient population.
+   Specialist Care
+    We understand the challenge that patients and families experience when they travel long
+    distances to access specialty care. Savings from the 340B program helps support
+    Sebasticook Valley Hospital specialists to care for patients in our local community as the
+    cost of providing these services exceeds the reimbursement we receive.
+   Transportation Support
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                            23
+    The 2019 Community Health Needs Assessment report documents that access to
+    affordable and reliable transportation in Somerset County was problematic resulting in
+    difficulty accessing health services. Transportation is further complicated for older adults
+    with mobility impairments. Sebasticook Valley Hospital provides transportation to any of our
+    patients living in the communities that we serve.
+
+
+Northern Maine Medical Center
+   Hospital
+    The 340B program supports the entire hospital because without the program the hospital
+    would be bankrupt.
+
+
+Penobscot Valley Hospital
+   Penobscot Valley Infusion Clinic
+    Outpatient infusion clinic.
+
+
+Redington-Fairview General Hospital
+   Charity Care for Uninsured or Low-Income Patients
+    Provide 100% free care for patients who meet the States free care income thresholds.
+   Community Health Education
+    Community Health Education provided at no fee.
+   Financial Assistance Beyond the State's Required Free Care Guidelines
+     Provides 25% up to 100% discounted care according to the hospital's financial assistance
+     policy.
+   Obstetrics - Labor and Delivery Services
+    Supports ongoing Obstetrics - Labor & Delivery services.
+   Prescription Assistance Program
+    Provides free prescriptions to uninsured patients needing financial assistance.
+   Specialty Services
+    Supports specialty services not necessarily available at small rural hospitals (Cardiology,
+    Neurology, Podiatry, Chemotherapy and Ambulance).
+
+
+Rumford Hospital
+   Behavioral Health Services
+    Rumford Hospital serves rural populations with behavioral health needs. Our hospital is able
+    to access behavioral health medical and consultative services in the inpatient and
+    emergency department settings and integrated licensed clinical social workers in primary
+    care practices to help support the behavioral health needs of our patients and community.
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                             24
+     As many nearby organizations discontinue these services, our commitment to meeting this
+     health care need is even more vital.
+   Financial Assistance/Advocacy
+     Our mission is to provide access to medically necessary health care to all patients,
+     regardless of their ability to pay. Rumford Hospital offers free care to Maine residents who
+     are at or below the Maine Free Care income levels. In addition, our financial advocates will
+     help patients identify pathways for coverage of their healthcare services.
+   Health Prevention and Community Education Programs
+    Nurse-led diabetes education programing; Community level trainings on overdose
+    prevention, stigma, harm reduction and related topics; Emergency food bags and food
+    pantry support for patients who experiencing food insecurity
+   Rural Access to Specialist Care
+    Access to care of all types but especially specialty care is a challenge in the rural parts of
+    central and western Maine. Rumford hospital is able to support specialty clinics onsite for
+    cardiology, endocrinology, gastroenterology, orthopedics and other services.
+
+
+St. Mary’s Regional Medical Center
+   Behavioral Services
+    St. Mary's uses its 340B savings to subsidize the loss it incurs providing behavioral services
+    to residents of central Maine and beyond. In 2024 St. Mary's had 1,632 patients admitted to
+    its inpatient behavioral unit from across 15 of the 16 Maine counties. In addition, there were
+    4,238 visits to its emergency department designed specifically for behavioral patients. The
+    payor mix associated with this service line is 84% governmental of which 54% is covered by
+    MaineCare, 3% uninsured and 13% commercial. St. Mary's is privileged to be able to care for
+    this vulnerable population but without the benefits derived from the 340B program the level
+    of service that could be provided would be impacted.
+
+
+340B Drug Program Internal Review and Oversight
+Each of the 27 hospitals provided MHDO with a description of their internal review and oversight
+processes. These policies must align with the federal requirements that include 340B Covered
+Entities maintain internal oversight to prevent drug diversion and duplicate discounts, including
+annual independent audits of contract pharmacies, quarterly self-audits, and implementing
+written policies to ensure compliance with HRSA's program integrity rules.
+A description of each hospital’s internal review and oversight processes can be made available
+upon request to the Maine Health Data Organization.
+
+340B Drug Program Transparency Reporting Changes for Fisal Year 2025
+Title 22, §1728 was amended in 2025 to require hospitals to report additional data elements
+beginning with ﬁscal year 2025 reports. The new data will provide insight into the amount of 340B
+savings that are used to pay 340B contract pharmacies, third party administrators, and other
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                                25
+administrative costs. Hospitals will additionally provide information regarding the number of units
+dispensed and administered and the amount of payment received for drugs dispensed or
+administered under the 340B drug program by payer type. Finally, hospitals will begin reporting
+drug level information for the top 50 drugs most frequently dispensed or administered under the
+340B drug program.
+
+Conclusion
+This ﬁrst annual 340B Drug Program Transparency Report provides baseline information regarding
+hospitals in Maine that participate in the 340B Drug Program, the amount of savings recognized by
+the hospitals that result from participation, and the types of programs and services each hospital
+offers that are funded in part by 340B Drug Program savings.
+The MHDO’s second report will be published following implementation of expanded reporting
+requirements in 2026 and include additional detail the costs associated with administering the
+program, payments received from payers for drugs dispensed or administered under the program,
+and insights into the drugs that are most frequently dispensed and administered drugs by
+hospitals under the 340B Drug Program in the state of Maine.
+
+
+
+
+340B DRUG PROGRAM TRANSPARENCY REPORT                                                           26
+

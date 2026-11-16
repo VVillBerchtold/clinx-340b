@@ -19,16 +19,29 @@ Idaho is a third kind. The State Controller publishes one report of statewide to
 and names no covered entity; the entities' filings are confidential. The whole report
 is one record. Every printed cell of its tables, its highlight tiles and its chart is a
 row, under schedule and line keys assigned by this dataset.
+
+Maine is a fourth kind, and like Idaho's its one record is a statewide report of totals. The
+Maine Health Data Organization publishes one report that adds its hospitals together and names
+no figure for any single hospital. Its totals, its two tables of drugs (each row a drug, with
+figures added across the hospitals) and its sentences that state a figure are rows. Each
+hospital's own description of how it uses the program is text, listed as an attachment.
+
+Minnesota's earlier report (2023 data) prints different tables from the later one: Appendix
+Table 5 (one row per named entity, with three figures and a text cell) and Appendix Table 6
+(five groupings by five payer columns). They are added to the Minnesota form beside Tables 6.1
+and 6.2; a record uses the tables of the report it comes from.
 """
 
 from __future__ import annotations
 
+import re
 from dataclasses import dataclass
 
 RI_FORM = "ri-oag-340b"
 VT_FORM = "vt-gmcb-340b-financial"
 MN_FORM = "mn-mdh-340b-report"
 ID_FORM = "id-sco-340b-report"
+ME_FORM = "me-mhdo-340b-report"
 
 # What a record is. A filing is an entity's own report; the others are rows the
 # State published about entities.
@@ -89,6 +102,42 @@ MN_TOTAL_COLUMNS: tuple[tuple[str, str, str], ...] = (
     ("pct_of_total", "% of Total", PERCENT),
 )
 MN_NOTE_SCHEDULE = "page_note"
+
+# The report with 2023 data, Appendix Table 5: the figures and the text cell printed on each
+# entity's row, (line key, column heading the table prints, unit), in printed order. The
+# entity's name, type and city are the record's own (``meta.toml``), as in Table 6.1.
+MN_TABLE5_SCHEDULE = "table_5"
+MN_TABLE5_LINES: tuple[tuple[str, str, str], ...] = (
+    ("scope", "Scope of Reported Data", NO_FIGURE),
+    ("net_revenue", "Net 340B Revenue ($)", USD),
+    ("pct_of_statewide", "% of Statewide Net 340B Revenue", PERCENT),
+    (
+        "pct_mhcp",
+        "% of Entity\u2019s 340B Net Revenue attributed to Minnesota Health Care Programs",
+        PERCENT,
+    ),
+)
+# Appendix Table 6: (row key, label the table prints, printed Covered Entity Major Type), in
+# printed order. The Total row prints no major type.
+MN_TABLE6_SCHEDULE = "table_6"
+MN_TABLE6_GROUPS: tuple[tuple[str, str, str], ...] = (
+    ("general_acute_care", "General Acute Care Hospitals (DSH)", "Hospital"),
+    ("critical_access", "Critical Access Hospitals", "Hospital"),
+    ("other_hospitals", "Other Hospitals", "Hospital"),
+    ("disease_specific_grantees", "Disease Specific Federal Grantees", "Grantee"),
+    ("safety_net_grantees", "Safety-Net Federal Grantees", "Grantee"),
+    ("total", "Total", ""),
+)
+# The five payer columns, (column key, heading the table prints), in printed order.
+MN_TABLE6_PAYERS: tuple[tuple[str, str], ...] = (
+    ("commercial", "Commercial"),
+    ("medicare", "Medicare"),
+    ("mhcp", "Minnesota Health Care Programs (MHCP)"),
+    ("other", "Other"),
+    ("total", "Total"),
+)
+MN_TABLE6_MAJOR_HEADING = "Covered Entity Major Type"
+MN_TABLE6_GROUPING_HEADING = "Covered Entity Grouping"
 MN_LINES: dict[tuple[str, str], str] = {
     **{(MN_ENTITY_SCHEDULE, line): unit for line, _, unit in MN_ENTITY_LINES},
     **{
@@ -96,8 +145,27 @@ MN_LINES: dict[tuple[str, str], str] = {
         for dimension, _ in MN_TOTAL_DIMENSIONS
         for column, _, unit in MN_TOTAL_COLUMNS
     },
+    **{(MN_TABLE5_SCHEDULE, line): unit for line, _, unit in MN_TABLE5_LINES},
+    **{
+        (MN_TABLE6_SCHEDULE, f"{group}_{payer}"): USD
+        for group, _, _ in MN_TABLE6_GROUPS
+        for payer, _ in MN_TABLE6_PAYERS
+    },
+    **{
+        (MN_TABLE6_SCHEDULE, f"{group}_major_type"): NO_FIGURE
+        for group, _, major in MN_TABLE6_GROUPS
+        if major
+    },
 }
-MN_SCHEDULES = frozenset({MN_ENTITY_SCHEDULE, MN_TOTALS_SCHEDULE, MN_NOTE_SCHEDULE})
+MN_SCHEDULES = frozenset(
+    {
+        MN_ENTITY_SCHEDULE,
+        MN_TOTALS_SCHEDULE,
+        MN_TABLE5_SCHEDULE,
+        MN_TABLE6_SCHEDULE,
+        MN_NOTE_SCHEDULE,
+    }
+)
 
 
 # Idaho: the payer rows every payer table prints, in printed order (line key, printed label).
@@ -201,6 +269,48 @@ ID_LINES: dict[tuple[str, str], str] = {
 ID_SCHEDULES = frozenset({schedule for schedule, _ in ID_LINES} | {ID_NOTE_SCHEDULE})
 
 
+# Maine: the report's totals, printed in sentences, (line key, unit), in printed order. The
+# two money figures print rounded with a letter ("$409.9M") and are kept as text.
+ME_SUMMARY_SCHEDULE = "summary"
+ME_SUMMARY_LINES: tuple[tuple[str, str], ...] = (
+    ("hospitals_reporting", COUNT),
+    ("acquisition_cost", NO_FIGURE),
+    ("pct_of_drug_spend", PERCENT),
+    ("estimated_savings", NO_FIGURE),
+)
+# The two tables of drugs. Each prints, for a drug (an NDC), its total acquisition cost, its
+# total estimated savings and the number of hospitals that listed it; a sentence above each
+# prints that table's share of the total acquisition cost.
+ME_COSTLY_SCHEDULE = "top3_costly"
+ME_FREQUENT_SCHEDULE = "top3_frequent"
+ME_DRUG_SCHEDULES = (ME_COSTLY_SCHEDULE, ME_FREQUENT_SCHEDULE)
+ME_SHARE_LINE = "pct_of_acquisition_cost"
+# (figure key, unit). The heading each table prints is the row's ``description_as_filed``.
+ME_DRUG_FIGURES: tuple[tuple[str, str], ...] = (
+    ("acquisition_cost", USD),
+    ("estimated_savings", USD),
+    ("hospitals", COUNT),
+)
+ME_NOTE_SCHEDULE = "page_note"
+ME_SCHEDULES = frozenset({ME_SUMMARY_SCHEDULE, *ME_DRUG_SCHEDULES, ME_NOTE_SCHEDULE})
+# A drug row's line key is its 11-digit NDC and a figure key, joined by an underscore.
+_ME_DRUG_LINE = re.compile(r"^(\d{11})_(acquisition_cost|estimated_savings|hospitals)$")
+ME_SUMMARY_UNITS = dict(ME_SUMMARY_LINES)
+
+
+def me_unit(schedule: str, line: str) -> str | None:
+    """Return the unit of a Maine row, or ``None`` when the form has no such row."""
+    if schedule == ME_SUMMARY_SCHEDULE:
+        return ME_SUMMARY_UNITS.get(line)
+    if schedule in ME_DRUG_SCHEDULES:
+        if line == ME_SHARE_LINE:
+            return PERCENT
+        found = _ME_DRUG_LINE.match(line)
+        if found:
+            return dict(ME_DRUG_FIGURES)[found.group(2)]
+    return None
+
+
 def mn_entity_type(printed_type: str, record_kind: str) -> str:
     """Return the ``entity_type`` of a Minnesota record from the type its row prints.
 
@@ -235,6 +345,8 @@ class Form:
             return MN_LINES.get((schedule, line), NO_FIGURE)
         if self.key == ID_FORM:
             return ID_LINES.get((schedule, line), NO_FIGURE)
+        if self.key == ME_FORM:
+            return me_unit(schedule, line) or NO_FIGURE
         for s, k, _, unit in VT_LINES:
             if (s, k) == (schedule, line):
                 return unit
@@ -244,12 +356,14 @@ class Form:
         """Say whether a schedule and line key can appear in a transcription on this form."""
         if self.key == RI_FORM:
             return schedule in self.schedules
-        if schedule in (VT_NOTE_SCHEDULE, MN_NOTE_SCHEDULE, ID_NOTE_SCHEDULE):
+        if schedule in (VT_NOTE_SCHEDULE, MN_NOTE_SCHEDULE, ID_NOTE_SCHEDULE, ME_NOTE_SCHEDULE):
             return line.startswith("note_")
         if self.key == MN_FORM:
             return (schedule, line) in MN_LINES
         if self.key == ID_FORM:
             return (schedule, line) in ID_LINES
+        if self.key == ME_FORM:
+            return me_unit(schedule, line) is not None
         return any((s, k) == (schedule, line) for s, k, _, _ in VT_LINES)
 
 
@@ -265,6 +379,12 @@ FORMS: dict[str, Form] = {
     ID_FORM: Form(
         ID_FORM,
         ID_SCHEDULES,
+        has_spending_categories=False,
+        record_kinds=(KIND_STATE_TOTALS,),
+    ),
+    ME_FORM: Form(
+        ME_FORM,
+        ME_SCHEDULES,
         has_spending_categories=False,
         record_kinds=(KIND_STATE_TOTALS,),
     ),
