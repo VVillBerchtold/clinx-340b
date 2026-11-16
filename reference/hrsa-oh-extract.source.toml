@@ -1,0 +1,7 @@
+# HRSA's public list of covered entities, as used for the names of Ohio's filers.
+# It was saved on the day below from the export with the size and SHA-256 given.
+source = "HRSA Office of Pharmacy Affairs Information System (OPAIS) entity list"
+list_date = "2026-11-11"
+export_bytes = 277984741
+export_sha256 = "aae0e746f6a4ab89d828fa171e0cf8c8cab46776cf69e6d704219e058259ba59"
+ohio_entities_in_list = 5343

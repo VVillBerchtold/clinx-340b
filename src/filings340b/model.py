@@ -24,6 +24,8 @@ class Verification(StrEnum):
     TEXT_AND_IMAGE = "text_and_image"
     # Scanned page: two independent reads of the page image agree.
     TWO_IMAGE_READS = "two_image_reads"
+    # A workbook: the cell was read twice by two different programs and the two reads agree.
+    TWO_FILE_READS = "two_file_reads"
     # The reads disagreed and a third look at the page image settled it.
     ADJUDICATED = "adjudicated"
     # The page cannot be read with confidence; the value is left blank.
@@ -36,6 +38,7 @@ PUBLISHABLE = frozenset(
     {
         Verification.TEXT_AND_IMAGE,
         Verification.TWO_IMAGE_READS,
+        Verification.TWO_FILE_READS,
         Verification.ADJUDICATED,
         Verification.UNREADABLE,
     }
@@ -111,6 +114,9 @@ class FilingMeta:
     # Minnesota's table prints each entity's type and city; kept exactly as printed.
     entity_type_as_filed: str = ""
     city_as_filed: str = ""
+    # A workbook that names more than one 340B ID is one filing for all of them: the first is
+    # ``entity_id``, the others are listed here.
+    other_entity_ids: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True, slots=True)
@@ -135,6 +141,8 @@ class Row:
     note: str
     # Why the claim count is not kept in the working files; empty when it is kept.
     claims_withheld: str = ""
+    # A workbook's rows name the cell they were read from (``C17``); blank for a PDF's rows.
+    source_cell: str = ""
 
 
 class Basis(StrEnum):
@@ -158,6 +166,10 @@ class Check:
     filed: Decimal | None
     # The unit both figures are in: "usd", "percent" or "count".
     unit: str = "usd"
+    # How far apart the two figures may be and still be the same: zero for every form that
+    # prints its figures, a few thousandths for a workbook, whose figures are stored as
+    # binary floating-point numbers (``602.56000000000006``).
+    tolerance: Decimal = Decimal(0)
 
     @property
     def applicable(self) -> bool:
@@ -173,8 +185,9 @@ class Check:
 
     @property
     def passed(self) -> bool:
-        """True when both sides are printed and equal."""
-        return self.applicable and self.difference == 0
+        """True when both sides are printed and equal (within the rule's tolerance)."""
+        difference = self.difference
+        return difference is not None and abs(difference) <= self.tolerance
 
 
 @dataclass(frozen=True, slots=True)

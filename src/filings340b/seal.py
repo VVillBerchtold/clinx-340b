@@ -13,10 +13,12 @@ import io
 from pathlib import Path
 
 from filings340b.errors import DataError
+from filings340b.forms import form_of
 from filings340b.imageread import image_read_file, read_image_read
 from filings340b.load import load_filings
 from filings340b.model import Filing
 from filings340b.sealing import (
+    COUNT_REASONS,
     MARKER,
     Held,
     claim_sums,
@@ -26,13 +28,51 @@ from filings340b.sealing import (
     write_private,
     write_sums,
 )
-from filings340b.smallcounts import RowKey
+from filings340b.smallcounts import REVEALS_SMALL, RowKey
 
 LineKey = tuple[str, str]
 
 
-def _mask(path: Path, marked: dict[LineKey, str], claims_column: str) -> int:
-    """Empty the claim cell of the marked rows of one file; return how many held a value."""
+def cells_file(root: Path, filing: Filing) -> Path:
+    """Return where a workbook filing's copy of its template sheet's cells is kept."""
+    folder = root / "sources" / filing.meta.state.lower() / str(filing.meta.reporting_year)
+    return folder / "cells" / f"{Path(filing.source.file_name).stem}.csv"
+
+
+def withheld_marker(reason: str) -> str:
+    """Return the text that stands in a cells file where a cell is withheld."""
+    return f"[withheld: {reason}]"
+
+
+def _mask_cells(path: Path, refs: dict[str, str]) -> int:
+    """Put the marker in place of each named cell of a cells file; return how many changed."""
+    with path.open(newline="", encoding="utf-8") as handle:
+        old = handle.read()
+    rows = list(csv.reader(io.StringIO(old, newline="")))
+    header = rows[0]
+    at = {name: header.index(name) for name in ("cell", "value")}
+    changed = 0
+    for record in rows[1:]:
+        reason = refs.get(record[at["cell"]])
+        if reason and record[at["value"]] != withheld_marker(reason):
+            record[at["value"]] = withheld_marker(reason)
+            changed += 1
+    buffer = io.StringIO(newline="")
+    csv.writer(buffer, lineterminator="\n").writerows(rows)
+    if buffer.getvalue() != old:
+        with path.open("w", newline="", encoding="utf-8") as handle:
+            handle.write(buffer.getvalue())
+    return changed
+
+
+def _mask(
+    path: Path, marked: dict[LineKey, str], claims_column: str, amount_column: str = "amount"
+) -> int:
+    """Empty the withheld cell of the marked rows of one file; return how many held a value.
+
+    A withheld claim count empties the claims column; a withheld percentage (Ohio's) empties
+    the amount column.
+    """
     with path.open(newline="", encoding="utf-8") as handle:
         old = handle.read()
     rows = list(csv.reader(io.StringIO(old, newline="")))
@@ -41,13 +81,17 @@ def _mask(path: Path, marked: dict[LineKey, str], claims_column: str) -> int:
         header.append(MARKER)
         for record in rows[1:]:
             record.append("")
-    at = {name: header.index(name) for name in ("schedule", "line", claims_column, MARKER)}
+    at = {
+        name: header.index(name)
+        for name in ("schedule", "line", claims_column, amount_column, MARKER)
+    }
     cleared = 0
     for record in rows[1:]:
         reason = marked.get((record[at["schedule"]], record[at["line"]]))
         if reason:
-            cleared += 1 if record[at[claims_column]] else 0
-            record[at[claims_column]] = ""
+            column = at[amount_column] if reason == REVEALS_SMALL else at[claims_column]
+            cleared += 1 if record[column] else 0
+            record[column] = ""
             record[at[MARKER]] = reason
     buffer = io.StringIO(newline="")
     csv.writer(buffer, lineterminator="\n").writerows(rows)
@@ -82,26 +126,39 @@ def seal(root: Path) -> str:
         for row in filing.rows:
             key = (row.schedule, row.line)
             if key in marked:
+                revealed = marked[key] == REVEALS_SMALL
                 seen = filing.held_reads.get(key)
                 if seen is None:
-                    seen = read.get(key, {}).get("claims", "")
-                held[(fid, *key)] = Held(row.claims_as_filed, seen)
-        sums.setdefault(sums_path(root, filing), {}).update(
-            claim_sums(filing, {s for s, _ in marked})
-        )
+                    seen = read.get(key, {}).get("amount" if revealed else "claims", "")
+                held[(fid, *key)] = Held(
+                    row.amount_as_filed if revealed else row.claims_as_filed, seen
+                )
+        counted = {s for (s, _), why in marked.items() if why in COUNT_REASONS}
+        if counted and not form_of(filing.meta.form).workbook:
+            sums.setdefault(sums_path(root, filing), {}).update(claim_sums(filing, counted))
     write_private(root, held)
     cleared = [0, 0]
+    in_cells = 0
     for filing in filings:
         marked = marks.get(filing.meta.filing_id, {})
         if not marked:
             continue
-        cleared[0] += _mask(_transcription_file(root, filing), marked, "claims_as_filed")
+        cleared[0] += _mask(
+            _transcription_file(root, filing), marked, "claims_as_filed", "amount_as_filed"
+        )
         read_path = image_read_file(root, filing)
         if read_path.exists():
             cleared[1] += _mask(read_path, marked, "claims")
+        if form_of(filing.meta.form).workbook:
+            by_cell = {
+                row.source_cell: marked[(row.schedule, row.line)]
+                for row in filing.rows
+                if (row.schedule, row.line) in marked
+            }
+            in_cells += _mask_cells(cells_file(root, filing), by_cell)
     for path, entries in sums.items():
         write_sums(path, entries)
     return (
-        f"sealed {len(held)} withheld counts: {cleared[0]} emptied in transcriptions, "
-        f"{cleared[1]} in image-read files"
+        f"sealed {len(held)} withheld cells: {cleared[0]} emptied in transcriptions, "
+        f"{cleared[1]} in image-read files, {in_cells} in cells files"
     )

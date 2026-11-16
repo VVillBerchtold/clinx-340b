@@ -7,3 +7,7 @@ __pycache__/
 dist/
 .DS_Store
 private/
+
+# Ohio: the Department of Health's workbooks carry a staff member's name and contact details,
+# so the originals stay on the machine that downloaded them and are never committed.
+sources/oh/*/originals/

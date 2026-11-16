@@ -43,6 +43,43 @@ def parse_amount(as_filed: str) -> Decimal | None:
     return -value if negative else value
 
 
+_PLAIN = re.compile(r"^[+-]?(?:\d+\.?\d*|\.\d+)(?:[eE][+-]?\d+)?$")
+
+
+def parse_workbook_amount(as_filed: str) -> Decimal | None:
+    """Return the value of a workbook cell that should hold a figure, or None.
+
+    A workbook cell holds a number as stored (``1408968.8300000001``, ``1.5E-05``) or text a
+    person typed. A number or an amount typed as text (``$1,234.50``) has a value. Words
+    (``N/A``, ``carved out``), an error (``#DIV/0!``), a lone dash and a blank have none: the
+    text is kept as filed beside it. The template's own placeholder is a dash, so a dash is
+    not read as zero here.
+    """
+    text = as_filed.replace("\xa0", "").strip()
+    if text.replace(" ", "") in _DASHES:
+        return None
+    try:
+        value = parse_amount(text)
+    except ValueError:
+        compact = text.replace(" ", "")
+        if _PLAIN.match(compact):
+            return Decimal(compact)
+        return None
+    return value
+
+
+def parse_workbook_count(as_filed: str) -> int | None:
+    """Return a prescription count stored in a workbook cell, or None when it holds no count.
+
+    A count is a whole number, stored as digits or typed as text. Anything else (words, an
+    error, a fraction, a dash) has no count; the text is kept as filed.
+    """
+    value = parse_workbook_amount(as_filed)
+    if value is None or value != value.to_integral_value():
+        return None
+    return int(value)
+
+
 def parse_count(as_filed: str) -> int | None:
     """Return a claim count as printed, or None when the cell is blank."""
     text = as_filed.replace(" ", "").strip()

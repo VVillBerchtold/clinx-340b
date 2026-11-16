@@ -21,11 +21,13 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from filings340b.errors import DataError
+from filings340b.forms import OH_EXTRA_PREFIX, OH_INDETERMINATE, OH_PERCENT_OF, form_of
 from filings340b.model import Filing, Row, RowKind
-from filings340b.money import parse_count
+from filings340b.money import parse_count, parse_workbook_amount
 from filings340b.smallcounts import (
     BESIDE_SMALL,
     FEWER_THAN,
+    REVEALS_SMALL,
     SMALL_HIGHEST,
     RowKey,
     is_small,
@@ -34,7 +36,9 @@ from filings340b.smallcounts import (
 
 # The column that holds the reason, last in a file that withholds anything.
 MARKER = "claims_withheld"
-REASONS = frozenset({FEWER_THAN, BESIDE_SMALL})
+REASONS = frozenset({FEWER_THAN, BESIDE_SMALL, REVEALS_SMALL})
+# The reasons that apply to a claim count; the other one applies to a percentage.
+COUNT_REASONS = frozenset({FEWER_THAN, BESIDE_SMALL})
 
 PRIVATE_FILE = Path("private") / "small-counts.csv"
 PRIVATE_COLUMNS = ("filing_id", "schedule", "line", "claims_as_filed", "image_read_claims")
@@ -118,7 +122,9 @@ def claim_sums(filing: Filing, schedules: Iterable[str]) -> dict[SumKey, int]:
 
 
 def is_unknown(row: Row) -> bool:
-    """Say whether a row's count is withheld and not put back."""
+    """Say whether a row's withheld figure (a count, or a percentage) is not put back."""
+    if row.claims_withheld == REVEALS_SMALL:
+        return not row.amount_as_filed.strip()
     return bool(row.claims_withheld) and row.claims is None
 
 
@@ -149,19 +155,30 @@ def _restored(filing: Filing, held: Mapping[RowKey, Held]) -> Filing:
                     "but the private file has no count for it"
                 )
             reads[(row.schedule, row.line)] = held[key].image_read_claims
-            row = dataclasses.replace(  # noqa: PLW2901
-                row,
-                claims_as_filed=held[key].claims_as_filed,
-                claims=_count_of(key[0], row, held[key]),
-            )
+            if row.claims_withheld == REVEALS_SMALL:
+                # A withheld percentage: the private file holds the cell's text in its first column.
+                text = held[key].claims_as_filed
+                row = dataclasses.replace(  # noqa: PLW2901
+                    row,
+                    amount_as_filed=text,
+                    amount=parse_workbook_amount(text.strip().removesuffix("%")),
+                )
+            else:
+                row = dataclasses.replace(  # noqa: PLW2901
+                    row,
+                    claims_as_filed=held[key].claims_as_filed,
+                    claims=_count_of(key[0], row, held[key]),
+                )
         rows.append(row)
     return dataclasses.replace(filing, rows=tuple(rows), held_reads=reads)
 
 
 def _with_sums(root: Path, filing: Filing) -> Filing:
     """Without the private file: take the claim sums from the committed results file."""
-    marked = [r for r in filing.rows if r.claims_withheld]
-    if not marked:
+    marked = [r for r in filing.rows if r.claims_withheld in COUNT_REASONS]
+    if not marked or form_of(filing.meta.form).workbook:
+        # A workbook state's rules never use a cell the small-number rule withholds, so it
+        # keeps no claim sums.
         return filing
     path = sums_path(root, filing)
     sums = read_sums(path)
@@ -189,6 +206,7 @@ def _check_sum_range(key: SumKey, rows: Iterable[Row], total: int) -> None:
 
 def _check_sums(root: Path, filings: tuple[Filing, ...]) -> None:
     """With the private file: the committed claim sums must be the ones the counts give."""
+    filings = tuple(f for f in filings if not form_of(f.meta.form).workbook)
     paths = {sums_path(root, f) for f in filings}
     for path in sorted(paths):
         here = [f for f in filings if sums_path(root, f) == path]
@@ -247,8 +265,34 @@ def describe_run(root: Path, filings: Iterable[Filing]) -> str:
     )
 
 
+def _apart(line: str) -> bool:
+    """Say whether an Ohio line is outside its schedule's printed total."""
+    return line == OH_INDETERMINATE or line.startswith(OH_EXTRA_PREFIX)
+
+
+def derived_percentages(rows: Iterable[Row], counts: dict[RowKey, str]) -> dict[RowKey, str]:
+    """Return the percentage rows that a withheld count would be worked out from.
+
+    A percentage is 340B prescriptions over all prescriptions. With one of the two counts
+    withheld and the other printed, the percentage gives the withheld one away, so the
+    percentage is withheld too.
+    """
+    out: dict[RowKey, str] = {}
+    for row in rows:
+        if row.schedule not in OH_PERCENT_OF or not row.amount_as_filed.strip():
+            continue
+        numerator, denominator = OH_PERCENT_OF[row.schedule]
+        if (row.filing_id, numerator, row.line) in counts or (
+            row.filing_id,
+            denominator,
+            row.line,
+        ) in counts:
+            out[(row.filing_id, row.schedule, row.line)] = REVEALS_SMALL
+    return out
+
+
 def withheld_for(filings: Iterable[Filing]) -> dict[RowKey, str]:
-    """Return (filing, schedule, line) -> reason for every row whose count is not published.
+    """Return (filing, schedule, line) -> reason for every row whose figure is not published.
 
     A filing whose counts are all known gets the rule applied to them, and its markers must
     agree with the result. A filing with withheld counts that were not put back keeps its markers.
@@ -263,7 +307,11 @@ def withheld_for(filings: Iterable[Filing]) -> dict[RowKey, str]:
         if any(is_unknown(r) for r in filing.rows):
             out.update(marks)
             continue
-        computed = withheld_rows(filing.rows)
+        if form_of(filing.meta.form).workbook:
+            computed = withheld_rows(filing.rows, lenient=True, apart=_apart)
+            computed.update(derived_percentages(filing.rows, computed))
+        else:
+            computed = withheld_rows(filing.rows)
         for key, reason in marks.items():
             if computed.get(key) != reason:
                 raise DataError(

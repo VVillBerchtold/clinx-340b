@@ -26,8 +26,9 @@ from filings340b.model import (
     SourceFile,
     Verification,
 )
-from filings340b.money import parse_amount, parse_count
+from filings340b.money import parse_amount, parse_count, parse_workbook_amount, parse_workbook_count
 from filings340b.sealing import MARKER, REASONS, restore
+from filings340b.smallcounts import REVEALS_SMALL
 
 ATTACHMENT_KINDS = frozenset(
     {
@@ -58,6 +59,11 @@ ROW_COLUMNS = (
 )
 # A file that withholds a claim count has this column after the others.
 SEALED_COLUMNS = (*ROW_COLUMNS, MARKER)
+# A workbook's rows also say which cell each was read from.
+WORKBOOK_COLUMNS = (*ROW_COLUMNS, "source_cell")
+SEALED_WORKBOOK_COLUMNS = (*WORKBOOK_COLUMNS, MARKER)
+# Where the workbooks themselves are kept when they are on the machine. Never committed.
+ORIGINALS = "originals"
 
 
 def sha256_of(path: Path) -> str:
@@ -88,9 +94,17 @@ def read_manifest(folder: Path) -> dict[str, SourceFile]:
         }
 
 
-def verify_source(folder: Path, source: SourceFile) -> None:
-    """Fail unless the archived PDF is byte-for-byte the file that was retrieved."""
-    actual = sha256_of(folder / source.file_name)
+def verify_source(folder: Path, source: SourceFile, *, workbook: bool = False) -> None:
+    """Fail unless the archived file is byte-for-byte the file that was retrieved.
+
+    The Excel workbooks of a state are not committed (they carry a staff member's name and
+    contact details). They are checked against the manifest when the ``originals`` folder
+    is on the machine; where it is not, the committed cells files stand in for them.
+    """
+    path = folder / ORIGINALS / source.file_name if workbook else folder / source.file_name
+    if workbook and not path.exists():
+        return
+    actual = sha256_of(path)
     if actual != source.sha256:
         raise DataError(f"{source.file_name}: archived file hash {actual} is not the recorded hash")
 
@@ -183,6 +197,7 @@ def read_meta(path: Path, manifest: dict[str, SourceFile] | None = None) -> Fili
         record_kind=record_kind,
         entity_type_as_filed=printed.get("entity_type_as_filed", ""),
         city_as_filed=printed.get("city_as_filed", ""),
+        other_entity_ids=tuple(str(one) for one in doc.get("other_entity_ids", [])),
     )
 
 
@@ -198,8 +213,13 @@ def _row(filing_id: str, number: int, record: dict[str, str], page_count: int, f
         # A percentage is printed with its sign; the number is read without it.
         printed = printed.strip().removesuffix("%")
     try:
-        amount = parse_amount(printed)
-        claims = parse_count(record["claims_as_filed"])
+        if form.workbook:
+            # A cell may hold words where a figure belongs; the words are kept, with no value.
+            amount = parse_workbook_amount(printed)
+            claims = parse_workbook_count(record["claims_as_filed"])
+        else:
+            amount = parse_amount(printed)
+            claims = parse_count(record["claims_as_filed"])
         page = int(record["page"])
         kind = RowKind(record["row_kind"])
         verification = Verification(record["verification"])
@@ -212,6 +232,8 @@ def _row(filing_id: str, number: int, record: dict[str, str], page_count: int, f
         raise DataError(f"{where}: {MARKER} must be one of {', '.join(sorted(REASONS))}")
     if withheld and record["claims_as_filed"].strip():
         raise DataError(f"{where}: a withheld claim count must leave claims_as_filed empty")
+    if withheld == REVEALS_SMALL and record["amount_as_filed"].strip():
+        raise DataError(f"{where}: a withheld percentage must leave amount_as_filed empty")
     needs_note = verification in {Verification.ADJUDICATED, Verification.UNREADABLE}
     if needs_note and not record["note"].strip():
         raise DataError(f"{where}: a row marked {verification.value} must say why in its note")
@@ -233,6 +255,7 @@ def _row(filing_id: str, number: int, record: dict[str, str], page_count: int, f
         verification=verification,
         note=record["note"],
         claims_withheld=withheld,
+        source_cell=record.get("source_cell", ""),
     )
 
 
@@ -240,9 +263,14 @@ def read_rows(path: Path, filing_id: str, page_count: int, form: Form) -> tuple[
     """Read one filing's transcription, checking every row's form."""
     with path.open(newline="", encoding="utf-8") as handle:
         reader = csv.DictReader(handle)
-        if tuple(reader.fieldnames or ()) not in (ROW_COLUMNS, SEALED_COLUMNS):
+        allowed = (
+            (WORKBOOK_COLUMNS, SEALED_WORKBOOK_COLUMNS)
+            if form.workbook
+            else (ROW_COLUMNS, SEALED_COLUMNS)
+        )
+        if tuple(reader.fieldnames or ()) not in allowed:
             raise DataError(
-                f"{path.name}: columns must be exactly {', '.join(ROW_COLUMNS)}, "
+                f"{path.name}: columns must be exactly {', '.join(allowed[0])}, "
                 f"with or without a last column {MARKER}"
             )
         rows = tuple(
@@ -279,7 +307,7 @@ def load_filings(
         if meta.source_file not in manifest:
             raise DataError(f"{meta.filing_id}: {meta.source_file} is not in the source manifest")
         source = manifest[meta.source_file]
-        verify_source(sources, source)
+        verify_source(sources, source, workbook=form_of(meta.form).workbook)
         for attachment in meta.attachments:
             if attachment.document is not None:
                 verify_source(sources, attachment.document)

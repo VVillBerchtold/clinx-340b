@@ -19,16 +19,25 @@ Idaho is a third kind. The State Controller publishes one report of statewide to
 and names no covered entity; the entities' filings are confidential. The whole report
 is one record. Every printed cell of its tables, its highlight tiles and its chart is a
 row, under schedule and line keys assigned by this dataset.
+
+Ohio is a fourth kind. Each covered entity files its own report with the Department of
+Health as an Excel workbook on the Department's template, so the source of a filing is the
+cells of one sheet, not a printed page. Every cell of the template that holds a figure or an
+answer is a row, under schedule and line keys assigned by this dataset: a schedule is one
+row of the template's tables (for example ``in_house_acquisition_cost``) and a line is the
+payer column (``commercial``, ``medicare``, ``total``).
 """
 
 from __future__ import annotations
 
+import re
 from dataclasses import dataclass
 
 RI_FORM = "ri-oag-340b"
 VT_FORM = "vt-gmcb-340b-financial"
 MN_FORM = "mn-mdh-340b-report"
 ID_FORM = "id-sco-340b-report"
+OH_FORM = "oh-odh-340b-report"
 
 # What a record is. A filing is an entity's own report; the others are rows the
 # State published about entities.
@@ -201,6 +210,134 @@ ID_LINES: dict[tuple[str, str], str] = {
 ID_SCHEDULES = frozenset({schedule for schedule, _ in ID_LINES} | {ID_NOTE_SCHEDULE})
 
 
+# Ohio: the payer columns of the template's tables, in template order (line key, heading).
+OH_PAYERS: tuple[tuple[str, str], ...] = (
+    ("commercial", "Commercial Insurance/Private Insurance"),
+    ("medicare", "Medicare"),
+    ("medicaid", "Medicaid (all states)"),
+    ("other_third_party", "Other Third-Party Payor"),
+    ("uninsured", "Uninsured/Self-Pay"),
+)
+# The note of a percentage row whose cell is formatted as a percentage: the number the workbook
+# stores is then a fraction of one (0.25 shows as 25%), not the percentage points (25).
+OH_FRACTION_NOTE = (
+    "The cell is formatted as a percentage, so the stored number is a fraction of one "
+    "(0.25 shows as 25%)."
+)
+OH_TOTAL = "total"
+OH_INDETERMINATE = "indeterminate"
+# The template's tables: (schedule, line keys of the columns, template row, unit). The figures of a
+# count row are kept in the claim fields, a percentage is kept as the number the workbook stores.
+OH_IN_HOUSE_ROWS: tuple[tuple[str, int, str], ...] = (
+    ("in_house_acquisition_cost", 17, USD),
+    ("in_house_payments_received", 18, USD),
+    ("in_house_rx_all", 19, COUNT),
+    ("in_house_rx_340b", 20, COUNT),
+    ("in_house_rx_pct", 21, PERCENT),
+)
+OH_CONTRACT_ROWS: tuple[tuple[str, int, str], ...] = (
+    ("contract_acquisition_cost", 26, USD),
+    ("contract_payments_received", 27, USD),
+    ("contract_rx_all", 28, COUNT),
+    ("contract_rx_340b", 29, COUNT),
+    ("contract_rx_pct", 30, PERCENT),
+)
+OH_ADMINISTERED_ROWS: tuple[tuple[str, int, str], ...] = (
+    ("administered_acquisition_cost", 35, USD),
+    ("administered_payments_actual", 36, USD),
+    ("administered_payments_estimated", 37, USD),
+    ("administered_payments_total", 38, USD),
+    ("administered_rx_all", 39, COUNT),
+    ("administered_rx_340b", 40, COUNT),
+    ("administered_rx_pct", 41, PERCENT),
+)
+# Section 4 and 5: schedule ``costs`` (template row, line key, unit).
+OH_COSTS_SCHEDULE = "costs"
+OH_COSTS: tuple[tuple[int, str], ...] = (
+    (46, "contract_pharmacies"),
+    (47, "third_party_administrators"),
+    (48, "consultants"),
+    (49, "software_it"),
+    (50, "other_external"),
+    (53, "staffing"),
+    (54, "internal_it"),
+    (55, "other_internal"),
+)
+OH_PHARMACY_SCHEDULE = "contract_pharmacies"
+OH_PHARMACY_COUNT = "count"
+OH_IDENTITY_SCHEDULE = "identity"
+OH_EXPLANATION_SCHEDULE = "contract_pharmacy_notes"
+OH_EXPLANATION_LINE = "indeterminate_explanation"
+OH_USES_SCHEDULE = "uses"
+# Rows whose figure is a prescription count: the figure is kept in the claim fields.
+OH_COUNT_SCHEDULES = frozenset(
+    schedule
+    for rows in (OH_IN_HOUSE_ROWS, OH_CONTRACT_ROWS, OH_ADMINISTERED_ROWS)
+    for schedule, _, unit in rows
+    if unit == COUNT
+)
+OH_PERCENT_SCHEDULES = frozenset(
+    schedule
+    for rows in (OH_IN_HOUSE_ROWS, OH_CONTRACT_ROWS, OH_ADMINISTERED_ROWS)
+    for schedule, _, unit in rows
+    if unit == PERCENT
+)
+# For a percentage row: the two count schedules it divides (numerator, denominator).
+OH_PERCENT_OF: dict[str, tuple[str, str]] = {
+    "in_house_rx_pct": ("in_house_rx_340b", "in_house_rx_all"),
+    "contract_rx_pct": ("contract_rx_340b", "contract_rx_all"),
+    "administered_rx_pct": ("administered_rx_340b", "administered_rx_all"),
+}
+# The unit of each table schedule: a cell a filer typed in a table row, beside the template's
+# columns, is a line ``cell_<column letter>`` of the row's own schedule.
+OH_TABLE_UNITS: dict[str, str] = {
+    schedule: unit
+    for rows in (OH_IN_HOUSE_ROWS, OH_CONTRACT_ROWS, OH_ADMINISTERED_ROWS)
+    for schedule, _, unit in rows
+}
+OH_EXTRA_PREFIX = "cell_"
+_OH_FIXED: dict[tuple[str, str], str] = {}
+for _rows, _lines in (
+    (OH_IN_HOUSE_ROWS, (*(k for k, _ in OH_PAYERS), OH_TOTAL)),
+    (OH_CONTRACT_ROWS, (*(k for k, _ in OH_PAYERS), OH_INDETERMINATE, OH_TOTAL)),
+    (OH_ADMINISTERED_ROWS, (*(k for k, _ in OH_PAYERS), OH_TOTAL)),
+):
+    for _schedule, _, _unit in _rows:
+        for _line in _lines:
+            _OH_FIXED[(_schedule, _line)] = _unit
+for _, _line in OH_COSTS:
+    _OH_FIXED[(OH_COSTS_SCHEDULE, _line)] = USD
+_OH_FIXED[(OH_PHARMACY_SCHEDULE, OH_PHARMACY_COUNT)] = COUNT
+_OH_FIXED[(OH_EXPLANATION_SCHEDULE, OH_EXPLANATION_LINE)] = NO_FIGURE
+for _line in ("reporting_period", "hrsa_id", "id_prefix", "id_number"):
+    _OH_FIXED[(OH_IDENTITY_SCHEDULE, _line)] = NO_FIGURE
+for _line in ("other_uses_description", "narrative", "alternative_narrative"):
+    _OH_FIXED[(OH_USES_SCHEDULE, _line)] = NO_FIGURE
+_OH_FIXED[(OH_USES_SCHEDULE, "other_uses_amount")] = USD
+OH_LINES: dict[tuple[str, str], str] = dict(_OH_FIXED)
+OH_OTHER_SCHEDULE = "other_cells"
+_OH_EXTRA = re.compile(r"^cell_[A-Z]{1,3}$")
+_OH_OTHER_CELL = re.compile(r"^cell_[A-Z]{1,3}[1-9][0-9]*$")
+_OH_NPI = re.compile(r"^npi_[1-9][0-9]{0,2}$")
+_OH_LISTED_USE = re.compile(r"^(program|equipment)_[1-9][0-9]{0,2}_(description|amount)$")
+OH_SCHEDULES = frozenset({schedule for schedule, _ in OH_LINES} | {OH_OTHER_SCHEDULE})
+
+
+def oh_unit(schedule: str, line: str) -> str | None:
+    """Return the unit of an Ohio line key, or None when the form has no such line."""
+    if (schedule, line) in OH_LINES:
+        return OH_LINES[(schedule, line)]
+    if schedule in OH_TABLE_UNITS and _OH_EXTRA.match(line):
+        return OH_TABLE_UNITS[schedule]
+    if schedule == OH_OTHER_SCHEDULE and _OH_OTHER_CELL.match(line):
+        return NO_FIGURE
+    if schedule == OH_IDENTITY_SCHEDULE and _OH_NPI.match(line):
+        return NO_FIGURE
+    if schedule == OH_USES_SCHEDULE and _OH_LISTED_USE.match(line):
+        return USD if line.endswith("_amount") else NO_FIGURE
+    return None
+
+
 def mn_entity_type(printed_type: str, record_kind: str) -> str:
     """Return the ``entity_type`` of a Minnesota record from the type its row prints.
 
@@ -226,6 +363,10 @@ class Form:
     has_spending_categories: bool
     # The kinds of record a filing on this form may be.
     record_kinds: tuple[str, ...] = (KIND_FILING,)
+    # True when the source is a workbook of cells, not a PDF: a filing's "pages" are its sheets,
+    # a row names the cell it was read from, and a cell that holds words where a figure belongs is
+    # kept as the words, with no amount.
+    workbook: bool = False
 
     def unit_of(self, schedule: str, line: str) -> str:
         """Return the unit of the amount a row carries."""
@@ -235,6 +376,8 @@ class Form:
             return MN_LINES.get((schedule, line), NO_FIGURE)
         if self.key == ID_FORM:
             return ID_LINES.get((schedule, line), NO_FIGURE)
+        if self.key == OH_FORM:
+            return oh_unit(schedule, line) or NO_FIGURE
         for s, k, _, unit in VT_LINES:
             if (s, k) == (schedule, line):
                 return unit
@@ -250,6 +393,8 @@ class Form:
             return (schedule, line) in MN_LINES
         if self.key == ID_FORM:
             return (schedule, line) in ID_LINES
+        if self.key == OH_FORM:
+            return oh_unit(schedule, line) is not None
         return any((s, k) == (schedule, line) for s, k, _, _ in VT_LINES)
 
 
@@ -268,6 +413,7 @@ FORMS: dict[str, Form] = {
         has_spending_categories=False,
         record_kinds=(KIND_STATE_TOTALS,),
     ),
+    OH_FORM: Form(OH_FORM, OH_SCHEDULES, has_spending_categories=False, workbook=True),
 }
 
 

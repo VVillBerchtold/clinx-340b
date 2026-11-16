@@ -16,8 +16,8 @@ from __future__ import annotations
 
 from decimal import Decimal
 
-from filings340b import idaho, minnesota, vermont
-from filings340b.forms import ID_FORM, MN_FORM, RI_FORM, VT_FORM, UnknownFormError
+from filings340b import idaho, minnesota, ohio, vermont
+from filings340b.forms import ID_FORM, MN_FORM, OH_FORM, RI_FORM, VT_FORM, UnknownFormError
 from filings340b.model import Basis, Check, Filing, Row, RowKind
 
 # Schedule A line each supporting schedule says it supports.
@@ -96,6 +96,8 @@ def checks(filing: Filing, everyone: tuple[Filing, ...] = ()) -> tuple[Check, ..
         return minnesota.checks(filing, everyone)
     if filing.meta.form == ID_FORM:
         return idaho.checks(filing)
+    if filing.meta.form == OH_FORM:
+        return ohio.checks(filing)
     raise UnknownFormError(f"no tie-out rules for form {filing.meta.form!r}")
 
 
@@ -197,6 +199,9 @@ def measures(filing: Filing) -> tuple[tuple[str, str, Decimal | None], ...]:
         return ()
     if filing.meta.form == ID_FORM:
         # Idaho's record is a statewide total; the measures compare covered entities.
+        return ()
+    if filing.meta.form == OH_FORM:
+        # Ohio's reports are each filer's own; they carry no derived measure in this release.
         return ()
     if filing.meta.form != RI_FORM:
         raise UnknownFormError(f"no measures for form {filing.meta.form!r}")
