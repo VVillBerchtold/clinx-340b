@@ -1,5 +1,5 @@
 schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note
-table_5,scope,detail,Hennepin Healthcare,,Scope of Reported Data,,,,Dispensed Only,42,unverified,
-table_5,net_revenue,detail,Hennepin Healthcare,,Net 340B Revenue ($),,"70,211,917",,,42,unverified,
-table_5,pct_of_statewide,detail,Hennepin Healthcare,,% of Statewide Net 340B Revenue,,11%,,,42,unverified,
-table_5,pct_mhcp,detail,Hennepin Healthcare,,% of Entity’s 340B Net Revenue attributed to Minnesota Health Care Programs,,54%,,,42,unverified,
+table_5,scope,detail,Hennepin Healthcare,,Scope of Reported Data,,,,Dispensed Only,42,text_and_image,
+table_5,net_revenue,detail,Hennepin Healthcare,,Net 340B Revenue ($),,"70,211,917",,,42,text_and_image,
+table_5,pct_of_statewide,detail,Hennepin Healthcare,,% of Statewide Net 340B Revenue,,11%,,,42,text_and_image,
+table_5,pct_mhcp,detail,Hennepin Healthcare,,% of Entity’s 340B Net Revenue attributed to Minnesota Health Care Programs,,54%,,,42,text_and_image,

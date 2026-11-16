@@ -1,5 +1,5 @@
 schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note
-table_5,scope,detail,Abbott Northwestern Hospital,,Scope of Reported Data,,,,Dispensed Only,42,unverified,
-table_5,net_revenue,detail,Abbott Northwestern Hospital,,Net 340B Revenue ($),,"31,773,835",,,42,unverified,
-table_5,pct_of_statewide,detail,Abbott Northwestern Hospital,,% of Statewide Net 340B Revenue,,5%,,,42,unverified,
-table_5,pct_mhcp,detail,Abbott Northwestern Hospital,,% of Entity’s 340B Net Revenue attributed to Minnesota Health Care Programs,,24%,,,42,unverified,
+table_5,scope,detail,Abbott Northwestern Hospital,,Scope of Reported Data,,,,Dispensed Only,42,text_and_image,
+table_5,net_revenue,detail,Abbott Northwestern Hospital,,Net 340B Revenue ($),,"31,773,835",,,42,text_and_image,
+table_5,pct_of_statewide,detail,Abbott Northwestern Hospital,,% of Statewide Net 340B Revenue,,5%,,,42,text_and_image,
+table_5,pct_mhcp,detail,Abbott Northwestern Hospital,,% of Entity’s 340B Net Revenue attributed to Minnesota Health Care Programs,,24%,,,42,text_and_image,

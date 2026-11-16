@@ -1,32 +1,44 @@
 entity_id,state,entity_type,name_as_filed,opais_ids_as_filed,entity_type_as_filed,city_as_filed
 id-statewide,ID,state_total,,,,
+me-statewide,ME,state_total,,,,
 mn-abbott-northwestern,MN,hospital,Abbott Northwestern Hospital,,Disproportionate Share Hospital,Minneapolis
 mn-cambridge,MN,hospital,Cambridge Medical Center,,Disproportionate Share Hospital,Cambridge
 mn-ccm-health,MN,hospital,CCM Health,,Critical Access Hospital,Montevideo
 mn-centracare-rice-memorial,MN,hospital,CentraCare - Rice Memorial Hospital,,Disproportionate Share Hospital,Willmar
 mn-centracare-st-cloud,MN,hospital,CentraCare - St. Cloud Hospital,,Disproportionate Share Hospital,St. Cloud
 mn-childrens-minnesota,MN,hospital,Children’s Minnesota,,Children's Hospital,Minneapolis
+mn-childrens-minnesota-chd,MN,other,Children's Minnesota,,Comprehensive Hemophilia Disease Treatment Center,Minneapolis
 mn-cuyuna,MN,hospital,Cuyuna Regional Medical Center,,Critical Access Hospital,Crosby
 mn-essentia-duluth,MN,hospital,Essentia Health Duluth,,Disproportionate Share Hospital,Duluth
 mn-essentia-st-josephs,MN,hospital,Essentia Health - St. Joseph's Medical Center,,Sole Community Hospital,Brainerd
 mn-essentia-virginia,MN,hospital,Essentia Health Virginia,,Disproportionate Share Hospital,Virginia
 mn-fairview-blood-clotting,MN,other,M Health Fairview - Center for Blood and Clotting Disorders,,CHD Treatment Center,Minneapolis
+mn-fairview-range,MN,hospital,Fairview Range,,Disproportionate Share Hospital,Hibbing
 mn-fairview-st-johns,MN,hospital,M Health Fairview - St. John's Hospital,,Disproportionate Share Hospital,Maplewood
 mn-fairview-umn-medical-center,MN,hospital,M Health Fairview - University of Minnesota Medical Center,,Disproportionate Share Hospital,Minneapolis
 mn-faribault,MN,hospital,Faribault Medical Center,,Disproportionate Share Hospital,Faribault
 mn-gillette-childrens,MN,hospital,Gillette Children's Specialty Healthcare,,Children's Hospital,St. Paul
 mn-grand-itasca,MN,hospital,Grand Itasca Clinic and Hospital,,Sole Community Hospital,Grand Rapids
 mn-hennepin-healthcare,MN,hospital,Hennepin Healthcare,,Disproportionate Share Hospital,Minneapolis
+mn-hutchinson-health,MN,hospital,Hutchinson Health,,Disproportionate Share Hospital,Hutchinson
+mn-maple-grove-hospital,MN,hospital,Maple Grove Hospital,,Disproportionate Share Hospital,Maple Grove
 mn-mayo-albert-lea,MN,hospital,Mayo Clinic Health System in Albert Lea,,Sole Community Hospital,Albert Lea
 mn-mercy-hospital,MN,hospital,Mercy Hospital,,Disproportionate Share Hospital,Coon Rapids
+mn-ne-ia-shing,MN,other,Ne-Ia-Shing Clinic,,Tribal / Urban Indian Health Center,Onamia
 mn-new-ulm,MN,hospital,New Ulm Medical Center,,Critical Access Hospital,New Ulm
 mn-north-memorial,MN,hospital,North Memorial Health,,Disproportionate Share Hospital,Robbinsdale
+mn-olmsted-medical-center,MN,hospital,Olmsted Medical Center,,Disproportionate Share Hospital,Rochester
 mn-range-regional,MN,hospital,Range Regional Health Services,,Disproportionate Share Hospital,Hibbing
 mn-regions-hospital,MN,hospital,Regions Hospital,,Disproportionate Share Hospital,St. Paul
 mn-sanford-bemidji,MN,hospital,Sanford Bemidji Medical Center,,Disproportionate Share Hospital,Bemidji
+mn-sanford-thief-river-falls,MN,hospital,Sanford Thief River Falls Medical Center,,Critical Access Hospital,Thief River Falls
 mn-st-lukes-duluth,MN,hospital,St. Luke's Hospital of Duluth,,Disproportionate Share Hospital,Duluth
+mn-st-marys-detroit-lakes,MN,hospital,St. Mary's Regional Health Center,,Disproportionate Share Hospital,Detroit Lakes
 mn-statewide,MN,state_total,,,,
+mn-stevens-community,MN,hospital,Stevens Community Medical Center,,Critical Access Hospital,Morris
 mn-united-hospital,MN,hospital,United Hospital,,Disproportionate Share Hospital,St. Paul
+mn-welia-health,MN,hospital,Welia Health,,Critical Access Hospital,Mora
+mn-winona-health,MN,hospital,Winona Health Services,,Sole Community Hospital,Winona
 ri-blackstone-valley,RI,health_center,Blackstone Valley Community Health Care,"CH011990, CH01199A, CH01199B, CH01199C, CH01199D, CH01199E, CH01199F",,
 ri-comprehensive-community-action,RI,health_center,"Comprehensive Community Action, Inc.","CHC06666-00, CHC06666-01, CHC06666-02, CHC066666-04",,
 ri-east-bay-cap,RI,health_center,East Bay Community Action Program,CH015160,,

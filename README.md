@@ -89,7 +89,7 @@ A row is published only after three separate checks. The build refuses a row tha
 
 Both reads are made by software, each as a separate job; [METHODS.md](METHODS.md) section 3 says exactly how, and what the limits are. The PDFs, both reads and the code are all here, so anyone can repeat every check.
 
-How it came out: the two reads agreed on every one of Rhode Island's 2,989 rows, Vermont's 157, Minnesota's 70 and Idaho's 105. Where a filing's own figures do not add up, that is the filing's, and it is listed in `discrepancies.csv`, not fixed.
+How it came out: the two reads agreed on every one of Rhode Island's 2,989 rows, Vermont's 157, Minnesota's 70 for 2024 data and 145 for 2023 data, Idaho's 105 and Maine's 284. Where a filing's own figures do not add up, that is the filing's, and it is listed in `discrepancies.csv`, not fixed.
 
 ## What the dataset will and will not do
 

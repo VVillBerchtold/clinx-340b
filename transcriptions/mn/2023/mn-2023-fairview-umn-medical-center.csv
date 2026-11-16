@@ -1,5 +1,5 @@
 schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note
-table_5,scope,detail,M Health Fairview University of Minnesota Medical Center,,Scope of Reported Data,,,,Dispensed Only,42,unverified,
-table_5,net_revenue,detail,M Health Fairview University of Minnesota Medical Center,,Net 340B Revenue ($),,"129,598,482",,,42,unverified,
-table_5,pct_of_statewide,detail,M Health Fairview University of Minnesota Medical Center,,% of Statewide Net 340B Revenue,,21%,,,42,unverified,
-table_5,pct_mhcp,detail,M Health Fairview University of Minnesota Medical Center,,% of Entity’s 340B Net Revenue attributed to Minnesota Health Care Programs,,1%,,,42,unverified,
+table_5,scope,detail,M Health Fairview University of Minnesota Medical Center,,Scope of Reported Data,,,,Dispensed Only,42,text_and_image,
+table_5,net_revenue,detail,M Health Fairview University of Minnesota Medical Center,,Net 340B Revenue ($),,"129,598,482",,,42,text_and_image,
+table_5,pct_of_statewide,detail,M Health Fairview University of Minnesota Medical Center,,% of Statewide Net 340B Revenue,,21%,,,42,text_and_image,
+table_5,pct_mhcp,detail,M Health Fairview University of Minnesota Medical Center,,% of Entity’s 340B Net Revenue attributed to Minnesota Health Care Programs,,1%,,,42,text_and_image,
