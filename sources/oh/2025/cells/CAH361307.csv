@@ -1,0 +1,308 @@
+sheet,cell,value
+GEN,B1,Ohio Department of Health
+GEN,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+GEN,B4,Reporting Period:
+GEN,C4,"January 1, 2025 - December 31, 2025"
+GEN,B5,Primary Contact Name:
+GEN,C5,[contact detail withheld]
+GEN,B6,Email:
+GEN,C6,[contact detail withheld]
+GEN,B7,Phone Number:
+GEN,C7,[contact detail withheld]
+GEN,A8,Data Element
+GEN,B8,HRSA 340B ID:
+GEN,C8,CAH361307-00
+GEN,D9,Lettered Prefix:
+GEN,E9,Number:
+GEN,A10,1
+GEN,D10,CAH
+GEN,E10,361307
+GEN,C12,NPI1
+GEN,D12,NPI2
+GEN,E12,NPI3
+GEN,F12,NPI4
+GEN,G12,NPI5
+GEN,H12,NPI6
+GEN,I12,NPI7
+GEN,J12,NPI8
+GEN,K12,NPI9
+GEN,L12,NPI10
+GEN,M12,NPI11
+GEN,N12,NPI12
+GEN,O12,NPI13
+GEN,P12,NPI14
+GEN,Q12,NPI15
+GEN,R12,NPI16
+GEN,S12,NPI17
+GEN,T12,NPI18
+GEN,U12,NPI19
+GEN,V12,NPI20
+GEN,A13,2
+GEN,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+GEN,C13,1225128432
+GEN,D13,-
+GEN,E13,-
+GEN,F13,-
+GEN,G13,-
+GEN,H13,-
+GEN,I13,-
+GEN,J13,-
+GEN,K13,-
+GEN,L13,-
+GEN,M13,-
+GEN,N13,-
+GEN,O13,-
+GEN,P13,-
+GEN,Q13,-
+GEN,R13,-
+GEN,S13,-
+GEN,T13,-
+GEN,U13,-
+GEN,V13,-
+GEN,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+GEN,C16,Commercial Insurance/Private Insurance:
+GEN,D16,Medicare:
+GEN,E16,Medicaid (all states):
+GEN,F16,Other Third-Party Payor:
+GEN,G16,Uninsured/Self-Pay:
+GEN,H16,TOTAL:
+GEN,A17,3
+GEN,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+GEN,C17,245804.504738155
+GEN,D17,52375.372768079797
+GEN,E17,0
+GEN,F17,16058.680498753116
+GEN,G17,3529.0797007481292
+GEN,H17,317767.63770573604
+GEN,A18,4
+GEN,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+GEN,C18,1171418.6294049358
+GEN,D18,249602.77863057872
+GEN,E18,0
+GEN,F18,76530.076289448785
+GEN,G18,16818.36429529624
+GEN,H18,1514369.8486202594
+GEN,A19,5
+GEN,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+GEN,C19,11440
+GEN,D19,11440
+GEN,E19,4275
+GEN,F19,455
+GEN,G19,1801
+GEN,H19,29411
+GEN,A20,6
+GEN,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+GEN,C20,953
+GEN,D20,1218
+GEN,E20,0
+GEN,F20,230
+GEN,G20,15
+GEN,H20,2416
+GEN,A21,7
+GEN,B21,Percentage of total prescriptions that were 340B
+GEN,C21,8.33041958041958
+GEN,D21,10.646853146853147
+GEN,E21,0
+GEN,F21,50.549450549450547
+GEN,G21,0.83287062742920592
+GEN,H21,8.2146135799530775
+GEN,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+GEN,A25,8
+GEN,C25,Commercial Insurance/Private Insurance:
+GEN,D25,Medicare:
+GEN,E25,Medicaid (all states):
+GEN,F25,Other Third-Party Payor:
+GEN,G25,Uninsured/Self-Pay:
+GEN,H25,Indeterminate (Explain)
+GEN,I25,TOTAL:
+GEN,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+GEN,C26,435788.60948920797
+GEN,D26,92856.682567288677
+GEN,E26,0
+GEN,F26,28470.552450769628
+GEN,G26,6256.7312881589123
+GEN,H26,0
+GEN,I26,563372.5757954251
+GEN,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+GEN,C27,363647.07946513029
+GEN,D27,77484.956442514405
+GEN,E27,0
+GEN,F27,23757.466404677962
+GEN,G27,5220.9764330552935
+GEN,H27,0
+GEN,I27,470110.47874537791
+GEN,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+GEN,C28,58
+GEN,D28,10
+GEN,E28,10
+GEN,F28,[withheld: beside_small]
+GEN,G28,[withheld: fewer_than_6]
+GEN,H28,0
+GEN,I28,88
+GEN,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+GEN,C29,39
+GEN,D29,8
+GEN,E29,0
+GEN,F29,[withheld: fewer_than_6]
+GEN,G29,[withheld: fewer_than_6]
+GEN,H29,0
+GEN,I29,51
+GEN,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+GEN,C30,67.241379310344826
+GEN,D30,80
+GEN,E30,0
+GEN,F30,[withheld: reveals_small]
+GEN,G30,[withheld: reveals_small]
+GEN,H30,#DIV/0!
+GEN,I30,57.95454545454546
+GEN,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+GEN,I32,-
+GEN,B33,Section 3: Administered Drugs
+GEN,D34,Commercial Insurance/Private Insurance:
+GEN,E34,Medicare:
+GEN,F34,Medicaid (all states):
+GEN,G34,Other Third-Party Payor:
+GEN,H34,Uninsured/Self-Pay:
+GEN,I34,TOTAL:
+GEN,A35,9
+GEN,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+GEN,D35,1695398.2645119915
+GEN,E35,2083378.1518119425
+GEN,F35,562168.5724886189
+GEN,G35,60424.866866264078
+GEN,H35,289.7835116256926
+GEN,I35,4401659.6391904429
+GEN,A36,10
+GEN,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+GEN,C36,Actual Payments
+GEN,D36,6125136
+GEN,E36,7526830
+GEN,F36,2031003
+GEN,G36,218303
+GEN,H36,1046.9300673584557
+GEN,I36,15902318.930067359
+GEN,C37,Estimated Payments*
+GEN,D37,0
+GEN,E37,0
+GEN,F37,0
+GEN,G37,0
+GEN,H37,0
+GEN,I37,0
+GEN,C38,TOTAL
+GEN,D38,6125136
+GEN,E38,7526830
+GEN,F38,2031003
+GEN,G38,218303
+GEN,H38,1046.9300673584557
+GEN,I38,15902318.930067359
+GEN,A39,11
+GEN,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+GEN,D39,88908
+GEN,E39,109254
+GEN,F39,29480
+GEN,G39,3169
+GEN,H39,15
+GEN,I39,230826
+GEN,A40,12
+GEN,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+GEN,D40,40385
+GEN,E40,49627
+GEN,F40,13391
+GEN,G40,1439
+GEN,H40,7
+GEN,I40,104849
+GEN,A41,13
+GEN,B41,Percentage of total prescriptions that were 340B
+GEN,D41,45.423358977819767
+GEN,E41,45.423508521427131
+GEN,F41,45.424016282225239
+GEN,G41,45.408646260650052
+GEN,H41,46.666666666666664
+GEN,I41,45.423392512108691
+GEN,B43,Section 4: Administrative Costs of the 340B Program
+GEN,B45,Payments to External Entities:
+GEN,A46,14
+GEN,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+GEN,C46,0
+GEN,A47,15
+GEN,B47,Total Payments to 340B Third Party Administrators:
+GEN,C47,69397.967368421057
+GEN,A48,16
+GEN,B48,Total Payments to 340B Consulting Entities (including audit support):
+GEN,C48,1059.0097919999998
+GEN,A49,17
+GEN,B49,340B Software and Information Technology Costs:
+GEN,C49,0
+GEN,A50,18
+GEN,B50,Other Payments to External Entities:
+GEN,C50,1012.9936
+GEN,B52,Internal Costs to Administer the 340B Program
+GEN,A53,19
+GEN,B53,Staffing Costs (340B dedicated):
+GEN,C53,20701.8308
+GEN,A54,20
+GEN,B54,Information Technology Costs:
+GEN,C54,0
+GEN,A55,21
+GEN,B55,Other internal costs:
+GEN,C55,0
+GEN,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+GEN,A59,22
+GEN,B59,Covered Entity's total number of Contract Pharmacies:
+GEN,C59,2
+GEN,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+GEN,C63,Detailed Description of Item:
+GEN,D63,Expenditures from 340B funds:
+GEN,A64,23
+GEN,B64,Programs or Services funded/purchased with 340B funds:
+GEN,B65,Program/Service 1:
+GEN,C65,-
+GEN,D65,-
+GEN,B66,Program/Service 2:
+GEN,C66,-
+GEN,D66,-
+GEN,B67,Program/Service 3:
+GEN,C67,-
+GEN,D67,-
+GEN,B68,Program/Service 4:
+GEN,C68,-
+GEN,D68,-
+GEN,B69,Program/Service 5:
+GEN,C69,-
+GEN,D69,-
+GEN,B71,Equipment purchased with 340B Funds:
+GEN,B72,Item 1:
+GEN,C72,-
+GEN,D72,-
+GEN,B73,Item 2:
+GEN,C73,-
+GEN,D73,-
+GEN,B74,Item 3:
+GEN,C74,-
+GEN,D74,-
+GEN,B75,Item 4:
+GEN,C75,-
+GEN,D75,-
+GEN,B76,Item 5:
+GEN,C76,-
+GEN,D76,-
+GEN,B78,Other uses of 340B funds not otherwise listed above:
+GEN,C78,-
+GEN,D78,-
+GEN,B80,(Narrative) Provide additional detail/context as necessary:
+GEN,C80,-
+GEN,A82,24
+GEN,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+GEN,C82,"340B savings help support University Hospitals’ overall capacity to provide community benefit, which totaled $511 million in 2024. These resources play an important role in sustaining a wide range of programs and services that benefit our patients and community. These supports include:
+
+Financial assistance for patients who are unable to afford hospital care, physician care and/or medications
+Medication access services to help patients navigate insurance requirements and reduce financial barriers
+Patient engagement programs focused on refill management and improving adherence to therapy
+Clinical services, including pharmacists embedded in provider offices and ongoing care management
+Education and training by preparing future generations of caregivers
+Transportation assistance
+Home health services
+Community outreach initiatives
+Medicaid shortfall and other uncompensated care
+Support for medical research
+In-kind contributions to community organizations"

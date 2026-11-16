@@ -1,0 +1,144 @@
+sheet,cell,value
+Sheet1,B1,Ohio Department of Health
+Sheet1,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Sheet1,A3,Data Element
+Sheet1,B4,Reporting Period:
+Sheet1,C4,"January 1, 2025 - December 31, 2025"
+Sheet1,B5,Primary Contact:
+Sheet1,D5,[contact detail withheld]
+Sheet1,C6,Lettered Prefix
+Sheet1,D6,Number
+Sheet1,A7,1
+Sheet1,B7,HRSA 340B ID:
+Sheet1,C7,DSH|360059
+Sheet1,D7,FQHCLA|415
+Sheet1,C9,NPI1
+Sheet1,D9,NPI2
+Sheet1,E9,NPI3
+Sheet1,F9,NPI4
+Sheet1,G9,NPI5
+Sheet1,H9,NPI6
+Sheet1,I9,NPI7
+Sheet1,J9,NPI8
+Sheet1,K9,NPI9
+Sheet1,L9,NPI10
+Sheet1,M9,NPI11
+Sheet1,N9,NPI12
+Sheet1,O9,NPI13
+Sheet1,P9,NPI14
+Sheet1,Q9,NPI15
+Sheet1,R9,NPI16
+Sheet1,S9,NPI17
+Sheet1,T9,NPI18
+Sheet1,U9,NPI19
+Sheet1,V9,NPI20
+Sheet1,A10,2
+Sheet1,B10,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Sheet1,C10,1700828852
+Sheet1,D10,1609818681
+Sheet1,E10,1750329264
+Sheet1,F10,1942493663
+Sheet1,G10,1427478858
+Sheet1,H10,1821497306
+Sheet1,I10,1043619604
+Sheet1,J10,1225499775
+Sheet1,K10,1063873297
+Sheet1,L10,1053772715
+Sheet1,M10,1518410869
+Sheet1,N10,1871180026
+Sheet1,O10,1770164592
+Sheet1,P10,1992529911
+Sheet1,B12,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Sheet1,C13,Commerical Insurance/Private Insurance
+Sheet1,D13,Medicare
+Sheet1,E13,Medicaid (all states)
+Sheet1,F13,Other Third-Party Payor
+Sheet1,G13,Uninsured/Self-Pay
+Sheet1,H13,TOTAL
+Sheet1,A14,3
+Sheet1,B14,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Sheet1,A15,4
+Sheet1,B15,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Sheet1,A16,5
+Sheet1,B16,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Sheet1,A17,6
+Sheet1,B17,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Sheet1,A18,7
+Sheet1,B18,Percentage of total prescriptions that were 340B
+Sheet1,B20,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Sheet1,A22,8
+Sheet1,B22,NPI of Contract Pharmacy
+Sheet1,D23,Commerical Insurance/Private Insurance
+Sheet1,E23,Medicare
+Sheet1,F23,Medicaid (all states)
+Sheet1,G23,Other Third-Party Payor
+Sheet1,H23,Uninsured/Self-Pay
+Sheet1,I23,TOTAL
+Sheet1,B24,NPI1
+Sheet1,C24,Aggregate Acquisition Cost for all 340B drugs dispensed by the Contract Pharmacy on behalf of the Covered Entity above
+Sheet1,C25,Aggregate Payments Received for all 340B drugs dispensed by the Contract Pharmacy on behalf of the Covered Entity above
+Sheet1,C26,Total number of Prescriptions filled by the Contract Pharmacy on behalf of the Covered Entity (340B and non-340B)
+Sheet1,C27,Total number of 340B Prescriptions filled by the Contract Pharmacy on behalf of the Covered Entity
+Sheet1,C28,Percentage of total Covered-Entity associated prescriptions that were 340B
+Sheet1,B29,"NOTE: Repeat for top 10 Contract Pharmacy NPIs, by aggregate acquisition cost of 340B drugs. After the top 10 NPIs, list 1 ""all others"" field to capture all remaining contract pharmacies. If provider has less than 10 contract pharmacies, they should report for as many as applicable."
+Sheet1,B31,Section 3: Administered Drugs
+Sheet1,D32,Commerical Insurance/Private Insurance
+Sheet1,E32,Medicare
+Sheet1,F32,Medicaid (all states)
+Sheet1,G32,Other Third-Party Payor
+Sheet1,H32,Uninsured/Self-Pay
+Sheet1,I32,TOTAL
+Sheet1,A33,9
+Sheet1,B33,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Sheet1,B34,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Sheet1,C34,Actual Payments
+Sheet1,A35,10
+Sheet1,C35,Estimated Payments*
+Sheet1,C36,TOTAL
+Sheet1,A37,11
+Sheet1,B37,Total number of Prescriptions adminsitered by the Covered Entity (340B and non-340B)
+Sheet1,A38,12
+Sheet1,B38,Total number of Prescriptions administered by the Covered Entity (340B)
+Sheet1,A39,13
+Sheet1,B39,Percentage of total prescriptions that were 340B
+Sheet1,B41,Section 4: Administrative Costs of the 340B Program
+Sheet1,B43,Payments to External Entities:
+Sheet1,A44,14
+Sheet1,B44,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements)
+Sheet1,A45,15
+Sheet1,B45,Total Payments to 340B Third Party Administrators
+Sheet1,A46,16
+Sheet1,B46,Total Payments to 340B Consulting Entities (including audit support)
+Sheet1,A47,17
+Sheet1,B47,340B Software and Information Technology Costs
+Sheet1,A48,18
+Sheet1,B48,Other Payments to External Entities (note general category and amount):
+Sheet1,B50,Internal Costs to Administer the 340B Program
+Sheet1,A51,19
+Sheet1,B51,Staffing Costs (340B dedicated)
+Sheet1,A52,20
+Sheet1,B52,Information Technology Costs
+Sheet1,A53,21
+Sheet1,B53,Other internal costs (note cateogry and amount)
+Sheet1,B55,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Sheet1,A57,22
+Sheet1,B57,Covered Entity's total number of Contract Pharmacies
+Sheet1,B59,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Sheet1,C61,Detailed Description of Item
+Sheet1,D61,Expenditures from 340B funds
+Sheet1,A62,23
+Sheet1,B62,Programs or Services funded/purchased with 340B funds
+Sheet1,B63,Program/Service 1:
+Sheet1,B64,Program/Service 2:
+Sheet1,B65,Program/Service 3:
+Sheet1,B66,Program/Service 4:
+Sheet1,B67,Program/Service 5:
+Sheet1,B69,Equipment purchased with 340B Funds:
+Sheet1,B70,Item 1:
+Sheet1,B71,Item 2:
+Sheet1,B72,Item 3:
+Sheet1,B73,Item 4:
+Sheet1,B74,Item 5:
+Sheet1,B76,Other uses of 340B funds not otherwise listed above:
+Sheet1,A79,24
+Sheet1,B79,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."

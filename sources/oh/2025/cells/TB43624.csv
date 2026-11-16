@@ -1,0 +1,296 @@
+sheet,cell,value
+TB,B1,Ohio Department of Health
+TB,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+TB,B4,Reporting Period:
+TB,C4,"January 1, 2025 - December 31, 2025"
+TB,B5,Primary Contact Name:
+TB,C5,[contact detail withheld]
+TB,B6,Email:
+TB,C6,[contact detail withheld]
+TB,B7,Phone Number:
+TB,C7,[contact detail withheld]
+TB,A8,Data Element
+TB,B8,HRSA 340B ID:
+TB,C8,-
+TB,D9,Lettered Prefix:
+TB,E9,Number:
+TB,A10,1
+TB,D10,TB
+TB,E10,43624
+TB,C12,NPI1
+TB,D12,NPI2
+TB,E12,NPI3
+TB,F12,NPI4
+TB,G12,NPI5
+TB,H12,NPI6
+TB,I12,NPI7
+TB,J12,NPI8
+TB,K12,NPI9
+TB,L12,NPI10
+TB,M12,NPI11
+TB,N12,NPI12
+TB,O12,NPI13
+TB,P12,NPI14
+TB,Q12,NPI15
+TB,R12,NPI16
+TB,S12,NPI17
+TB,T12,NPI18
+TB,U12,NPI19
+TB,V12,NPI20
+TB,A13,2
+TB,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+TB,C13,1902898810
+TB,D13,-
+TB,E13,-
+TB,F13,-
+TB,G13,-
+TB,H13,-
+TB,I13,-
+TB,J13,-
+TB,K13,-
+TB,L13,-
+TB,M13,-
+TB,N13,-
+TB,O13,-
+TB,P13,-
+TB,Q13,-
+TB,R13,-
+TB,S13,-
+TB,T13,-
+TB,U13,-
+TB,V13,-
+TB,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+TB,C16,Commercial Insurance/Private Insurance:
+TB,D16,Medicare:
+TB,E16,Medicaid (all states):
+TB,F16,Other Third-Party Payor:
+TB,G16,Uninsured/Self-Pay:
+TB,H16,TOTAL:
+TB,A17,3
+TB,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+TB,C17,0
+TB,D17,0
+TB,E17,0
+TB,F17,0
+TB,G17,0
+TB,H17,0
+TB,A18,4
+TB,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+TB,C18,0
+TB,D18,0
+TB,E18,0
+TB,F18,0
+TB,G18,0
+TB,H18,0
+TB,A19,5
+TB,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+TB,C19,0
+TB,D19,0
+TB,E19,0
+TB,F19,0
+TB,G19,0
+TB,H19,0
+TB,A20,6
+TB,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+TB,C20,0
+TB,D20,0
+TB,E20,0
+TB,F20,0
+TB,G20,0
+TB,H20,0
+TB,A21,7
+TB,B21,Percentage of total prescriptions that were 340B
+TB,C21,#DIV/0!
+TB,D21,#DIV/0!
+TB,E21,#DIV/0!
+TB,F21,#DIV/0!
+TB,G21,#DIV/0!
+TB,H21,#DIV/0!
+TB,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+TB,A25,8
+TB,C25,Commercial Insurance/Private Insurance:
+TB,D25,Medicare:
+TB,E25,Medicaid (all states):
+TB,F25,Other Third-Party Payor:
+TB,G25,Uninsured/Self-Pay:
+TB,H25,Indeterminate (Explain)
+TB,I25,TOTAL:
+TB,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+TB,C26,0
+TB,D26,0
+TB,E26,0
+TB,F26,0
+TB,G26,0
+TB,H26,0
+TB,I26,0
+TB,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+TB,C27,0
+TB,D27,0
+TB,E27,0
+TB,F27,0
+TB,G27,0
+TB,H27,0
+TB,I27,0
+TB,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+TB,C28,0
+TB,D28,0
+TB,E28,0
+TB,F28,0
+TB,G28,0
+TB,H28,0
+TB,I28,0
+TB,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+TB,C29,0
+TB,D29,0
+TB,E29,0
+TB,F29,0
+TB,G29,0
+TB,H29,0
+TB,I29,0
+TB,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+TB,C30,#DIV/0!
+TB,D30,#DIV/0!
+TB,E30,#DIV/0!
+TB,F30,#DIV/0!
+TB,G30,#DIV/0!
+TB,H30,#DIV/0!
+TB,I30,#DIV/0!
+TB,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+TB,I32,-
+TB,B33,Section 3: Administered Drugs
+TB,D34,Commercial Insurance/Private Insurance:
+TB,E34,Medicare:
+TB,F34,Medicaid (all states):
+TB,G34,Other Third-Party Payor:
+TB,H34,Uninsured/Self-Pay:
+TB,I34,TOTAL:
+TB,A35,9
+TB,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+TB,D35,0
+TB,E35,0
+TB,F35,0
+TB,G35,0
+TB,H35,469.77
+TB,I35,469.77
+TB,A36,10
+TB,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+TB,C36,Actual Payments
+TB,D36,0
+TB,E36,0
+TB,F36,0
+TB,G36,0
+TB,H36,0
+TB,I36,0
+TB,C37,Estimated Payments*
+TB,D37,0
+TB,E37,0
+TB,F37,0
+TB,G37,0
+TB,H37,0
+TB,I37,0
+TB,C38,TOTAL
+TB,D38,0
+TB,E38,0
+TB,F38,0
+TB,G38,0
+TB,H38,0
+TB,I38,0
+TB,A39,11
+TB,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+TB,D39,0
+TB,E39,0
+TB,F39,0
+TB,G39,0
+TB,H39,6
+TB,I39,6
+TB,A40,12
+TB,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+TB,D40,0
+TB,E40,0
+TB,F40,0
+TB,G40,0
+TB,H40,6
+TB,I40,6
+TB,A41,13
+TB,B41,Percentage of total prescriptions that were 340B
+TB,D41,#DIV/0!
+TB,E41,#DIV/0!
+TB,F41,#DIV/0!
+TB,G41,#DIV/0!
+TB,H41,100
+TB,I41,100
+TB,B43,Section 4: Administrative Costs of the 340B Program
+TB,B45,Payments to External Entities:
+TB,A46,14
+TB,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+TB,C46,-
+TB,A47,15
+TB,B47,Total Payments to 340B Third Party Administrators:
+TB,C47,-
+TB,A48,16
+TB,B48,Total Payments to 340B Consulting Entities (including audit support):
+TB,C48,-
+TB,A49,17
+TB,B49,340B Software and Information Technology Costs:
+TB,C49,-
+TB,A50,18
+TB,B50,Other Payments to External Entities:
+TB,C50,-
+TB,B52,Internal Costs to Administer the 340B Program
+TB,A53,19
+TB,B53,Staffing Costs (340B dedicated):
+TB,C53,-
+TB,A54,20
+TB,B54,Information Technology Costs:
+TB,C54,-
+TB,A55,21
+TB,B55,Other internal costs:
+TB,C55,-
+TB,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+TB,A59,22
+TB,B59,Covered Entity's total number of Contract Pharmacies:
+TB,C59,-
+TB,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+TB,C63,Detailed Description of Item:
+TB,D63,Expenditures from 340B funds:
+TB,A64,23
+TB,B64,Programs or Services funded/purchased with 340B funds:
+TB,B65,Program/Service 1:
+TB,C65,Tuberculosis control unit for Lucas County
+TB,D65,"Medications for uninsured, no charge"
+TB,B66,Program/Service 2:
+TB,C66,-
+TB,D66,-
+TB,B67,Program/Service 3:
+TB,C67,-
+TB,D67,-
+TB,B68,Program/Service 4:
+TB,C68,-
+TB,D68,-
+TB,B69,Program/Service 5:
+TB,C69,-
+TB,D69,-
+TB,B71,Equipment purchased with 340B Funds:
+TB,B72,Item 1:
+TB,C72,-
+TB,D72,-
+TB,B73,Item 2:
+TB,C73,-
+TB,D73,-
+TB,B74,Item 3:
+TB,C74,-
+TB,D74,-
+TB,B75,Item 4:
+TB,C75,-
+TB,D75,-
+TB,B76,Item 5:
+TB,C76,-
+TB,D76,-
+TB,B78,Other uses of 340B funds not otherwise listed above:
+TB,C78,-
+TB,D78,-
+TB,B80,(Narrative) Provide additional detail/context as necessary:
+TB,C80,-
+TB,A82,24
+TB,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+TB,C82,-

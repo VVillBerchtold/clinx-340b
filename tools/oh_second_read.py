@@ -40,6 +40,7 @@ from filings340b.imageread import READ_COLUMNS, same_cell
 from filings340b.load import ORIGINALS
 from filings340b.ohio_transcribe import (
     ROW_FIELDS,
+    WITHHELD_UNLISTED,
     Transcribed,
     column_of,
     filing_id_of,
@@ -138,7 +139,7 @@ def _compare_cells(
     formulas = {line.ref for line in one.layout.lines if line.cell.formula}
     problems = []
     for cell, value in first_read.items():
-        if cell in one.layout.contact_refs:
+        if cell in one.layout.contact_refs or value == WITHHELD_UNLISTED:
             continue
         totals.cells += 1
         seen = scrub(_as_stored(value, grid.get(cell, "")), contacts)

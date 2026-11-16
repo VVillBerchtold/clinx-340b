@@ -1,0 +1,288 @@
+sheet,cell,value
+STD44118,B1,Ohio Department of Health
+STD44118,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+STD44118,B4,Reporting Period:
+STD44118,C4,"January 1, 2025 - December 31, 2025"
+STD44118,B5,Primary Contact Name:
+STD44118,C5,[contact detail withheld]
+STD44118,B6,Email:
+STD44118,C6,[contact detail withheld]
+STD44118,B7,Phone Number:
+STD44118,C7,[contact detail withheld]
+STD44118,A8,Data Element
+STD44118,B8,HRSA 340B ID:
+STD44118,C8,STD44118
+STD44118,D9,Lettered Prefix:
+STD44118,E9,Number:
+STD44118,A10,1
+STD44118,D10,-
+STD44118,E10,-
+STD44118,C12,NPI1
+STD44118,D12,NPI2
+STD44118,E12,NPI3
+STD44118,F12,NPI4
+STD44118,G12,NPI5
+STD44118,H12,NPI6
+STD44118,I12,NPI7
+STD44118,J12,NPI8
+STD44118,K12,NPI9
+STD44118,L12,NPI10
+STD44118,M12,NPI11
+STD44118,N12,NPI12
+STD44118,O12,NPI13
+STD44118,P12,NPI14
+STD44118,Q12,NPI15
+STD44118,R12,NPI16
+STD44118,S12,NPI17
+STD44118,T12,NPI18
+STD44118,U12,NPI19
+STD44118,V12,NPI20
+STD44118,A13,2
+STD44118,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+STD44118,C13,1417136805
+STD44118,D13,1154757052
+STD44118,E13,1497841035
+STD44118,F13,1285522284
+STD44118,G13,1700381993
+STD44118,H13,1417531856
+STD44118,I13,1942891825
+STD44118,J13,1124398185
+STD44118,K13,1083089783
+STD44118,L13,1073103453
+STD44118,M13,-
+STD44118,N13,-
+STD44118,O13,-
+STD44118,P13,-
+STD44118,Q13,-
+STD44118,R13,-
+STD44118,S13,-
+STD44118,T13,-
+STD44118,U13,-
+STD44118,V13,-
+STD44118,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+STD44118,C16,Commercial Insurance/Private Insurance:
+STD44118,D16,Medicare:
+STD44118,E16,Medicaid (all states):
+STD44118,F16,Other Third-Party Payor:
+STD44118,G16,Uninsured/Self-Pay:
+STD44118,H16,TOTAL:
+STD44118,A17,3
+STD44118,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+STD44118,C17,0
+STD44118,D17,0
+STD44118,E17,0
+STD44118,F17,0
+STD44118,G17,0
+STD44118,H17,0
+STD44118,A18,4
+STD44118,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+STD44118,C18,0
+STD44118,D18,0
+STD44118,E18,0
+STD44118,F18,0
+STD44118,G18,0
+STD44118,H18,0
+STD44118,A19,5
+STD44118,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+STD44118,C19,0
+STD44118,D19,0
+STD44118,E19,0
+STD44118,F19,0
+STD44118,G19,0
+STD44118,H19,0
+STD44118,A20,6
+STD44118,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+STD44118,C20,0
+STD44118,D20,0
+STD44118,E20,0
+STD44118,F20,0
+STD44118,G20,0
+STD44118,H20,0
+STD44118,A21,7
+STD44118,B21,Percentage of total prescriptions that were 340B
+STD44118,C21,#DIV/0!
+STD44118,D21,#DIV/0!
+STD44118,E21,#DIV/0!
+STD44118,F21,#DIV/0!
+STD44118,G21,#DIV/0!
+STD44118,H21,#DIV/0!
+STD44118,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+STD44118,A25,8
+STD44118,C25,Commercial Insurance/Private Insurance:
+STD44118,D25,Medicare:
+STD44118,E25,Medicaid (all states):
+STD44118,F25,Other Third-Party Payor:
+STD44118,G25,Uninsured/Self-Pay:
+STD44118,H25,Indeterminate (Explain)
+STD44118,I25,TOTAL:
+STD44118,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+STD44118,C26,4965935.9000680009
+STD44118,D26,0
+STD44118,E26,29306394.162760038
+STD44118,F26,0
+STD44118,G26,125447.73999999939
+STD44118,H26,0
+STD44118,I26,34397777.802828044
+STD44118,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+STD44118,C27,9341021.5299999397
+STD44118,D27,0
+STD44118,E27,42849126.430001013
+STD44118,F27,0
+STD44118,G27,8726.6299999999792
+STD44118,H27,0
+STD44118,I27,52198874.590000957
+STD44118,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+STD44118,C28,6122
+STD44118,D28,0
+STD44118,E28,9475
+STD44118,F28,0
+STD44118,G28,3407
+STD44118,H28,0
+STD44118,I28,19004
+STD44118,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+STD44118,C29,4568
+STD44118,D29,0
+STD44118,E29,7009
+STD44118,F29,0
+STD44118,G29,1323
+STD44118,H29,0
+STD44118,I29,12900
+STD44118,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+STD44118,C30,74.616138516824577
+STD44118,D30,#DIV/0!
+STD44118,E30,73.973614775725594
+STD44118,F30,#DIV/0!
+STD44118,G30,38.831816847666566
+STD44118,H30,#DIV/0!
+STD44118,I30,67.880446221848032
+STD44118,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+STD44118,I32,-
+STD44118,B33,Section 3: Administered Drugs
+STD44118,D34,Commercial Insurance/Private Insurance:
+STD44118,E34,Medicare:
+STD44118,F34,Medicaid (all states):
+STD44118,G34,Other Third-Party Payor:
+STD44118,H34,Uninsured/Self-Pay:
+STD44118,I34,TOTAL:
+STD44118,A35,9
+STD44118,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+STD44118,D35,0
+STD44118,E35,0
+STD44118,F35,0
+STD44118,G35,0
+STD44118,H35,0
+STD44118,I35,0
+STD44118,A36,10
+STD44118,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+STD44118,C36,Actual Payments
+STD44118,D36,0
+STD44118,E36,0
+STD44118,F36,0
+STD44118,G36,0
+STD44118,H36,0
+STD44118,I36,0
+STD44118,C37,Estimated Payments*
+STD44118,D37,0
+STD44118,E37,0
+STD44118,F37,0
+STD44118,G37,0
+STD44118,H37,0
+STD44118,I37,0
+STD44118,C38,TOTAL
+STD44118,D38,0
+STD44118,E38,0
+STD44118,F38,0
+STD44118,G38,0
+STD44118,H38,0
+STD44118,I38,0
+STD44118,A39,11
+STD44118,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+STD44118,D39,253
+STD44118,E39,0
+STD44118,F39,208
+STD44118,G39,0
+STD44118,H39,294
+STD44118,I39,755
+STD44118,A40,12
+STD44118,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+STD44118,D40,69
+STD44118,E40,0
+STD44118,F40,56
+STD44118,G40,0
+STD44118,H40,80
+STD44118,I40,205
+STD44118,A41,13
+STD44118,B41,Percentage of total prescriptions that were 340B
+STD44118,D41,27.27272727272727
+STD44118,E41,#DIV/0!
+STD44118,F41,26.923076923076923
+STD44118,G41,#DIV/0!
+STD44118,H41,27.210884353741498
+STD44118,I41,27.152317880794701
+STD44118,B43,Section 4: Administrative Costs of the 340B Program
+STD44118,B45,Payments to External Entities:
+STD44118,A46,14
+STD44118,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+STD44118,C46,3142364.8713100101
+STD44118,A47,15
+STD44118,B47,Total Payments to 340B Third Party Administrators:
+STD44118,A48,16
+STD44118,B48,Total Payments to 340B Consulting Entities (including audit support):
+STD44118,C48,52946.307119999998
+STD44118,A49,17
+STD44118,B49,340B Software and Information Technology Costs:
+STD44118,A50,18
+STD44118,B50,Other Payments to External Entities:
+STD44118,B52,Internal Costs to Administer the 340B Program
+STD44118,A53,19
+STD44118,B53,Staffing Costs (340B dedicated):
+STD44118,C53,54144
+STD44118,A54,20
+STD44118,B54,Information Technology Costs:
+STD44118,C54,15000
+STD44118,A55,21
+STD44118,B55,Other internal costs:
+STD44118,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+STD44118,A59,22
+STD44118,B59,Covered Entity's total number of Contract Pharmacies:
+STD44118,C59,43
+STD44118,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+STD44118,C63,Detailed Description of Item:
+STD44118,D63,Expenditures from 340B funds:
+STD44118,A64,23
+STD44118,B64,Programs or Services funded/purchased with 340B funds:
+STD44118,B65,Program/Service 1:
+STD44118,C65,"Have a team of 5 clinicians, 8 adminidstrative support staff including Lost to Care coordinators, case managers, and schedulers, 5 medical assistants, 2 registered nurses and 5 outreach workers in the clinic.  Also have 5 dedicated NP's for Hep C Outreach, 6 medical assistants, 1 RN and 1 admin dedicated to the Hep C Program"
+STD44118,D65,5351952.9041843694
+STD44118,B66,Program/Service 2:
+STD44118,C66,HIV Treatment
+STD44118,B67,Program/Service 3:
+STD44118,C67,HIV Prevention
+STD44118,B68,Program/Service 4:
+STD44118,C68,STI Treatment & Testing
+STD44118,B69,Program/Service 5:
+STD44118,C69,Hep C Testing and Treatment
+STD44118,B71,Equipment purchased with 340B Funds:
+STD44118,B72,Item 1:
+STD44118,C72,Office & Testing Supplies
+STD44118,D72,291559
+STD44118,B73,Item 2:
+STD44118,C73,Building Rent / Maintenance Costs
+STD44118,D73,592283.6
+STD44118,B74,Item 3:
+STD44118,C74,Marketing and Advertising Expenses
+STD44118,D74,186102.61
+STD44118,B75,Item 4:
+STD44118,C75,    Taxes and Insurance
+STD44118,D75,199462.19
+STD44118,B76,Item 5:
+STD44118,C76,"    General and Administrative Expenses, RV & Mobile Equipment"
+STD44118,D76,920265.24
+STD44118,B78,Other uses of 340B funds not otherwise listed above:
+STD44118,C78,"See attached supplemental information for programs, services, mission and expansion goals for our program.  Not all costs / inititives listed above"
+STD44118,D78,-
+STD44118,B80,(Narrative) Provide additional detail/context as necessary:
+STD44118,C80,"See attached supplemental information for programs, services, mission and expansion goals for our program.  Not all costs / inititives listed above"
+STD44118,A82,24
+STD44118,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+STD44118,C82,-

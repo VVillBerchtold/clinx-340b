@@ -1,0 +1,174 @@
+page,schedule,line,amount,claims,answer
+1,in_house_acquisition_cost,commercial,0,,
+1,in_house_acquisition_cost,medicare,0,,
+1,in_house_acquisition_cost,medicaid,0,,
+1,in_house_acquisition_cost,other_third_party,0,,
+1,in_house_acquisition_cost,uninsured,0,,
+1,in_house_acquisition_cost,total,0,,
+1,in_house_payments_received,commercial,0,,
+1,in_house_payments_received,medicare,0,,
+1,in_house_payments_received,medicaid,0,,
+1,in_house_payments_received,other_third_party,0,,
+1,in_house_payments_received,uninsured,0,,
+1,in_house_payments_received,total,0,,
+1,in_house_rx_all,commercial,,0,
+1,in_house_rx_all,medicare,,0,
+1,in_house_rx_all,medicaid,,0,
+1,in_house_rx_all,other_third_party,,0,
+1,in_house_rx_all,uninsured,,0,
+1,in_house_rx_all,total,,0,
+1,in_house_rx_340b,commercial,,0,
+1,in_house_rx_340b,medicare,,0,
+1,in_house_rx_340b,medicaid,,0,
+1,in_house_rx_340b,other_third_party,,0,
+1,in_house_rx_340b,uninsured,,0,
+1,in_house_rx_340b,total,,0,
+1,in_house_rx_pct,commercial,0,,
+1,in_house_rx_pct,medicare,0,,
+1,in_house_rx_pct,medicaid,0,,
+1,in_house_rx_pct,other_third_party,0,,
+1,in_house_rx_pct,uninsured,0,,
+1,in_house_rx_pct,total,0,,
+1,contract_acquisition_cost,commercial,25197003,,
+1,contract_acquisition_cost,medicare,32449664,,
+1,contract_acquisition_cost,medicaid,0,,
+1,contract_acquisition_cost,other_third_party,1072063,,
+1,contract_acquisition_cost,uninsured,32024,,
+1,contract_acquisition_cost,indeterminate,0,,
+1,contract_acquisition_cost,total,58750754,,
+1,contract_payments_received,commercial,46570920,,
+1,contract_payments_received,medicare,69215897,,
+1,contract_payments_received,medicaid,0,,
+1,contract_payments_received,other_third_party,2238433,,
+1,contract_payments_received,uninsured,44326,,
+1,contract_payments_received,indeterminate,0,,
+1,contract_payments_received,total,118069576,,
+1,contract_rx_all,commercial,,22939,
+1,contract_rx_all,medicare,,11815,
+1,contract_rx_all,medicaid,,0,
+1,contract_rx_all,other_third_party,,527,
+1,contract_rx_all,uninsured,,35,
+1,contract_rx_all,indeterminate,,0,
+1,contract_rx_all,total,,35316,
+1,contract_rx_340b,commercial,,22939,
+1,contract_rx_340b,medicare,,11815,
+1,contract_rx_340b,medicaid,,0,
+1,contract_rx_340b,other_third_party,,527,
+1,contract_rx_340b,uninsured,,35,
+1,contract_rx_340b,indeterminate,,0,
+1,contract_rx_340b,total,,35316,
+1,contract_rx_pct,commercial,100,,
+1,contract_rx_pct,medicare,100,,
+1,contract_rx_pct,medicaid,0,,
+1,contract_rx_pct,other_third_party,100,,
+1,contract_rx_pct,uninsured,100,,
+1,contract_rx_pct,indeterminate,0,,
+1,contract_rx_pct,total,100,,
+1,administered_acquisition_cost,commercial,84318802.93,,
+1,administered_acquisition_cost,medicare,78849866.25,,
+1,administered_acquisition_cost,medicaid,17459009.08,,
+1,administered_acquisition_cost,other_third_party,0,,
+1,administered_acquisition_cost,uninsured,5666728.24,,
+1,administered_acquisition_cost,total,186294406.5,,
+1,administered_payments_actual,commercial,81391372,,
+1,administered_payments_actual,medicare,80073901,,
+1,administered_payments_actual,medicaid,10327513,,
+1,administered_payments_actual,other_third_party,0,,
+1,administered_payments_actual,uninsured,304761,,
+1,administered_payments_actual,total,172097547,,
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,commercial,42046675,,
+1,administered_payments_estimated,medicare,62878554,,
+1,administered_payments_estimated,medicaid,7154182,,
+1,administered_payments_estimated,other_third_party,0,,
+1,administered_payments_estimated,uninsured,249955,,
+1,administered_payments_estimated,total,112329366,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,commercial,123438047,,
+1,administered_payments_total,medicare,142952455,,
+1,administered_payments_total,medicaid,17481695,,
+1,administered_payments_total,other_third_party,0,,
+1,administered_payments_total,uninsured,554716,,
+1,administered_payments_total,total,284426913,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,administered_rx_all,commercial,,0,
+1,administered_rx_all,medicare,,0,
+1,administered_rx_all,medicaid,,0,
+1,administered_rx_all,other_third_party,,0,
+1,administered_rx_all,uninsured,,0,
+1,administered_rx_all,total,,0,
+1,administered_rx_340b,commercial,,323989,
+1,administered_rx_340b,medicare,,302975,
+1,administered_rx_340b,medicaid,,67085,
+1,administered_rx_340b,other_third_party,,0,
+1,administered_rx_340b,uninsured,,21774,
+1,administered_rx_340b,total,,715823,
+1,administered_rx_pct,commercial,#DIV/0!,,
+1,administered_rx_pct,medicare,#DIV/0!,,
+1,administered_rx_pct,medicaid,#DIV/0!,,
+1,administered_rx_pct,other_third_party,#DIV/0!,,
+1,administered_rx_pct,uninsured,#DIV/0!,,
+1,administered_rx_pct,total,#DIV/0!,,
+1,costs,contract_pharmacies,2261477.76,,
+1,costs,third_party_administrators,876988.05,,
+1,costs,consultants,28650.4,,
+1,costs,software_it,-,,
+1,costs,other_external,13400,,
+1,costs,staffing,249489,,
+1,costs,internal_it,-,,
+1,costs,other_internal,-,,
+1,contract_pharmacies,count,167,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,DSH 360134
+1,identity,id_prefix,,,DSH
+1,identity,id_number,,,360134
+1,identity,npi_1,,,1508835828
+1,identity,npi_2,,,-
+1,identity,npi_3,,,-
+1,identity,npi_4,,,-
+1,identity,npi_5,,,-
+1,identity,npi_6,,,-
+1,identity,npi_7,,,-
+1,identity,npi_8,,,-
+1,identity,npi_9,,,-
+1,identity,npi_10,,,-
+1,identity,npi_11,,,-
+1,identity,npi_12,,,-
+1,identity,npi_13,,,-
+1,identity,npi_14,,,-
+1,identity,npi_15,,,-
+1,identity,npi_16,,,-
+1,identity,npi_17,,,-
+1,identity,npi_18,,,-
+1,identity,npi_19,,,-
+1,identity,npi_20,,,-
+1,contract_pharmacy_notes,indeterminate_explanation,,,N/A
+1,uses,program_1_description,,,"Perinatal Programs 
+(provides social work/services, bereavement, childbirth classes, breastfeeding, diabetes education, lactation support)"
+1,uses,program_1_amount,-,,
+1,uses,program_2_description,,,"Faculty Medical Center  
+(OB/GYN and Internal Med services. Providing medical care for low income/unisured population in the community)"
+1,uses,program_2_amount,-,,
+1,uses,program_3_description,,,Level 3 NICU (All patient populations/communities benefit)
+1,uses,program_3_amount,-,,
+1,uses,program_4_amount,-,,
+1,uses,program_5_description,,,-
+1,uses,program_5_amount,-,,
+1,uses,equipment_1_description,,,Equipment - Medical
+1,uses,equipment_1_amount,-,,
+1,uses,equipment_2_description,,,Equipment - Non-Medical
+1,uses,equipment_2_amount,-,,
+1,uses,equipment_3_description,,,Facilities - Infrastructure
+1,uses,equipment_3_amount,-,,
+1,uses,equipment_4_description,,,Facilities - Construction
+1,uses,equipment_4_amount,-,,
+1,uses,equipment_5_description,,,IS Equipment
+1,uses,equipment_5_amount,-,,
+1,uses,equipment_6_description,,,Software
+1,uses,equipment_6_amount,-,,
+1,uses,other_uses_description,,,-
+1,uses,other_uses_amount,-,,
+1,uses,alternative_narrative,,,"Good Samaritan Hospital uses savings associated with participation in the 340B Drug Pricing Program to support patient care, community benefit activities, and services for vulnerable populations. These savings allow the hospital to stretch limited healthcare resources and reinvest in programs and services that improve access to care for uninsured, underinsured, low-income, and medically vulnerable patients.
+Through this reinvestment, Good Samaritan Hospital is able to sustain charity care and uncompensated care provided throughout the hospital, while also supporting programs that address barriers to healthcare access and improve health outcomes. These resources help support Free Medical Clinic services, behavioral health services, maternal and perinatal care programs, OB/GYN and primary care services for at-risk populations, community outreach and screening programs, care management and patient navigation, medication assistance for financially vulnerable patients, transportation or social services support, and other community-focused initiatives that serve patients who may otherwise face significant financial, social, or clinical barriers to care.
+The 340B program is vital to Good Samaritan Hospital’s ability to meet the needs of the community it serves. Savings generated through the program help preserve access to essential services that may be financially difficult to sustain but are necessary to support vulnerable patients and advance community health. These services include care provided to patients regardless of ability to pay, programs that improve access to preventive, primary, maternal, behavioral health, and specialty care, and support for patients with complex medical, financial, and social needs.
+By reinvesting 340B savings into patient care and community health priorities, Good Samaritan Hospital is able to extend the impact of limited healthcare dollars, reduce barriers to care, and support services that improve access, continuity of care, and health outcomes for the community. The program remains an important tool that helps the hospital fulfill its mission and continue serving patients and populations with significant healthcare needs."

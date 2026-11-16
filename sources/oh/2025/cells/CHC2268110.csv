@@ -1,0 +1,282 @@
+sheet,cell,value
+Totals,B1,Ohio Department of Health
+Totals,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Totals,B4,Reporting Period:
+Totals,C4,"January 1, 2025 - December 31, 2025"
+Totals,B5,Primary Contact Name:
+Totals,C5,[contact detail withheld]
+Totals,B6,Email:
+Totals,C6,[contact detail withheld]
+Totals,B7,Phone Number:
+Totals,C7,[contact detail withheld]
+Totals,A8,Data Element
+Totals,B8,HRSA 340B ID:
+Totals,C8,CHC-22681-10
+Totals,D9,Lettered Prefix:
+Totals,E9,Number:
+Totals,A10,1
+Totals,D10,-
+Totals,E10,-
+Totals,C12,NPI1
+Totals,D12,NPI2
+Totals,E12,NPI3
+Totals,F12,NPI4
+Totals,G12,NPI5
+Totals,H12,NPI6
+Totals,I12,NPI7
+Totals,J12,NPI8
+Totals,K12,NPI9
+Totals,L12,NPI10
+Totals,M12,NPI11
+Totals,N12,NPI12
+Totals,O12,NPI13
+Totals,A13,2
+Totals,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Totals,C13,-
+Totals,D13,-
+Totals,E13,-
+Totals,F13,-
+Totals,G13,-
+Totals,H13,-
+Totals,I13,-
+Totals,J13,-
+Totals,K13,-
+Totals,L13,-
+Totals,M13,-
+Totals,N13,-
+Totals,O13,-
+Totals,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Totals,C16,Commercial Insurance/Private Insurance:
+Totals,D16,Medicare:
+Totals,E16,Medicaid (all states):
+Totals,F16,Other Third-Party Payor:
+Totals,G16,Uninsured/Self-Pay:
+Totals,H16,TOTAL:
+Totals,A17,3
+Totals,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Totals,C17,1577317.68
+Totals,D17,3871019.77
+Totals,E17,6295362.3799999999
+Totals,F17,N/A
+Totals,G17,39945.199999999997
+Totals,H17,11783645.029999999
+Totals,A18,4
+Totals,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Totals,C18,2721046.63
+Totals,D18,8316521.6299999999
+Totals,E18,12171678.66
+Totals,F18,N/A
+Totals,G18,74216.03
+Totals,H18,23283462.950000003
+Totals,A19,5
+Totals,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Totals,C19,21690
+Totals,D19,38906
+Totals,E19,75091
+Totals,F19,N/A
+Totals,G19,13328
+Totals,H19,149015
+Totals,A20,6
+Totals,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Totals,C20,14308
+Totals,D20,23331
+Totals,E20,52494
+Totals,F20,N/A
+Totals,G20,8856
+Totals,H20,98989
+Totals,A21,7
+Totals,B21,Percentage of total prescriptions that were 340B
+Totals,C21,65.965882895343469
+Totals,D21,59.967614249730119
+Totals,E21,69.907179289129189
+Totals,F21,#VALUE!
+Totals,G21,66.446578631452581
+Totals,H21,66.42888299835586
+Totals,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Totals,A25,8
+Totals,C25,Commercial Insurance/Private Insurance:
+Totals,D25,Medicare:
+Totals,E25,Medicaid (all states):
+Totals,F25,Other Third-Party Payor:
+Totals,G25,Uninsured/Self-Pay:
+Totals,H25,Indeterminate (Explain)
+Totals,I25,TOTAL:
+Totals,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Totals,C26,N/A
+Totals,D26,N/A
+Totals,E26,N/A
+Totals,F26,N/A
+Totals,G26,N/A
+Totals,H26,N/A
+Totals,I26,0
+Totals,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Totals,C27,N/A
+Totals,D27,N/A
+Totals,E27,N/A
+Totals,F27,N/A
+Totals,G27,N/A
+Totals,H27,N/A
+Totals,I27,0
+Totals,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Totals,C28,N/A
+Totals,D28,N/A
+Totals,E28,N/A
+Totals,F28,N/A
+Totals,G28,N/A
+Totals,H28,N/A
+Totals,I28,0
+Totals,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Totals,C29,N/A
+Totals,D29,N/A
+Totals,E29,N/A
+Totals,F29,N/A
+Totals,G29,N/A
+Totals,H29,N/A
+Totals,I29,0
+Totals,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Totals,C30,#VALUE!
+Totals,D30,#VALUE!
+Totals,E30,#VALUE!
+Totals,F30,#VALUE!
+Totals,G30,#VALUE!
+Totals,H30,#VALUE!
+Totals,I30,#DIV/0!
+Totals,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Totals,I32,3rd party payers like coupon cards not used as primary insurance; no contract pharmacies on file
+Totals,B33,Section 3: Administered Drugs
+Totals,D34,Commercial Insurance/Private Insurance:
+Totals,E34,Medicare:
+Totals,F34,Medicaid (all states):
+Totals,G34,Other Third-Party Payor:
+Totals,H34,Uninsured/Self-Pay:
+Totals,I34,TOTAL:
+Totals,A35,9
+Totals,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Totals,D35,861125.1
+Totals,E35,2237894.3199999998
+Totals,F35,3397515.17
+Totals,G35,N/A
+Totals,H35,4774.3900000000003
+Totals,I35,6501308.9799999995
+Totals,A36,10
+Totals,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Totals,C36,Actual Payments
+Totals,D36,559927.4
+Totals,E36,4859366.62
+Totals,F36,6842706.8799999999
+Totals,G36,N/A
+Totals,H36,12068.83
+Totals,I36,12274069.73
+Totals,C37,Estimated Payments*
+Totals,D37,0
+Totals,E37,0
+Totals,F37,0
+Totals,G37,0
+Totals,H37,0
+Totals,I37,0
+Totals,C38,TOTAL
+Totals,D38,0
+Totals,E38,0
+Totals,F38,0
+Totals,G38,0
+Totals,H38,0
+Totals,I38,0
+Totals,A39,11
+Totals,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Totals,D39,872
+Totals,E39,2146
+Totals,F39,2928
+Totals,G39,N/A
+Totals,H39,39
+Totals,I39,5985
+Totals,A40,12
+Totals,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Totals,D40,769
+Totals,E40,1792
+Totals,F40,2263
+Totals,G40,N/A
+Totals,H40,27
+Totals,I40,4851
+Totals,A41,13
+Totals,B41,Percentage of total prescriptions that were 340B
+Totals,D41,88.188073394495419
+Totals,E41,83.504193849021433
+Totals,F41,77.288251366120221
+Totals,G41,#VALUE!
+Totals,H41,69.230769230769226
+Totals,I41,81.05263157894737
+Totals,B43,Section 4: Administrative Costs of the 340B Program
+Totals,B45,Payments to External Entities:
+Totals,A46,14
+Totals,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Totals,C46,-
+Totals,A47,15
+Totals,B47,Total Payments to 340B Third Party Administrators:
+Totals,C47,-
+Totals,A48,16
+Totals,B48,Total Payments to 340B Consulting Entities (including audit support):
+Totals,C48,-
+Totals,A49,17
+Totals,B49,340B Software and Information Technology Costs:
+Totals,C49,-
+Totals,A50,18
+Totals,B50,Other Payments to External Entities:
+Totals,C50,-
+Totals,B52,Internal Costs to Administer the 340B Program
+Totals,A53,19
+Totals,B53,Staffing Costs (340B dedicated):
+Totals,C53,1928624
+Totals,A54,20
+Totals,B54,Information Technology Costs:
+Totals,C54,20730
+Totals,A55,21
+Totals,B55,Other internal costs:
+Totals,C55,868568
+Totals,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Totals,A59,22
+Totals,B59,Covered Entity's total number of Contract Pharmacies:
+Totals,C59,0
+Totals,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Totals,C63,Detailed Description of Item:
+Totals,D63,Expenditures from 340B funds:
+Totals,A64,23
+Totals,B64,Programs or Services funded/purchased with 340B funds:
+Totals,B65,Program/Service 1:
+Totals,C65,FQHC Services
+Totals,D65,3564068
+Totals,B66,Program/Service 2:
+Totals,C66,BH Services
+Totals,D66,5868832
+Totals,B67,Program/Service 3:
+Totals,C67,-
+Totals,D67,-
+Totals,B68,Program/Service 4:
+Totals,C68,-
+Totals,D68,-
+Totals,B69,Program/Service 5:
+Totals,C69,-
+Totals,D69,-
+Totals,B71,Equipment purchased with 340B Funds:
+Totals,B72,Item 1:
+Totals,C72,-
+Totals,D72,-
+Totals,B73,Item 2:
+Totals,C73,-
+Totals,D73,-
+Totals,B74,Item 3:
+Totals,C74,-
+Totals,D74,-
+Totals,B75,Item 4:
+Totals,C75,-
+Totals,D75,-
+Totals,B76,Item 5:
+Totals,C76,-
+Totals,D76,-
+Totals,B78,Other uses of 340B funds not otherwise listed above:
+Totals,C78,-
+Totals,D78,-
+Totals,B80,(Narrative) Provide additional detail/context as necessary:
+Totals,C80,-
+Totals,A82,24
+Totals,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Totals,C82,-

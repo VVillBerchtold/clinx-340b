@@ -51,7 +51,10 @@ _MEASURES = {
     "rx_all": "total prescriptions",
     "rx_340b": "340B prescriptions",
 }
-_PLACES = {"in_house": "in-house pharmacies", "contract": "contract pharmacies"}
+_PLACES = {
+    "in_house": "dispensed in house",
+    "contract": "dispensed through contract pharmacies",
+}
 
 
 def _place(schedule: str) -> tuple[str, str]:
@@ -167,3 +170,47 @@ def checks(filing: Filing) -> tuple[Check, ...]:
                 )
             )
     return tuple(out)
+
+
+def _figure(value: Decimal, unit: str) -> str:
+    """Write a figure for a note: dollars to the cent, counts whole, percentages trimmed."""
+    if unit == USD:
+        return f"{value:.2f}"
+    if unit == COUNT:
+        return f"{value:.0f}"
+    text = f"{value:.6f}".rstrip("0").rstrip(".")
+    return text or "0"
+
+
+def note_text(check: Check) -> str:
+    """Say in plain words what the cells of a failed rule hold, and nothing about why.
+
+    The sentence names the table and the column and gives the two numbers the rule compares.
+    It does not say which of the two is right.
+    """
+    if check.expected is None or check.filed is None:
+        raise ValueError("a rule that does not apply has no note")
+    schedule, _, rest = check.rule.partition(".")
+    key = rest.split("=")[0]
+    column = key.replace("_", " ")
+    expected = _figure(check.expected, check.unit)
+    filed = _figure(check.filed, check.unit)
+    if rest.endswith("=total"):
+        place, measure = _place(schedule)
+        where = f"{_MEASURES[measure].capitalize()}, {_PLACES.get(place, 'administered drugs')}"
+        leaving = " The Indeterminate cell is not part of the total." if place == "contract" else ""
+        return (
+            f"{where}. The total cell holds {filed}. The five payer cells add to "
+            f"{expected}.{leaving}"
+        )
+    if rest.endswith("=actual+estimated"):
+        return (
+            f"Administered drugs, {column} column. The total payments cell holds {filed}. "
+            f"The actual payments cell and the estimated payments cell add to {expected}."
+        )
+    place = _place(schedule)[0].replace("_", "-")
+    return (
+        f"The {place} percentage cell, {column} column, holds {filed}. "
+        f"The 340B prescriptions divided by all prescriptions in the same column give {expected}"
+        " when the percentage is written the way the cell is."
+    )

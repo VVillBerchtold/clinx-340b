@@ -1,0 +1,296 @@
+sheet,cell,value
+Nueva Luz Part B,B1,Ohio Department of Health
+Nueva Luz Part B,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Nueva Luz Part B,B4,Reporting Period:
+Nueva Luz Part B,C4,"January 1, 2025 - December 31, 2025"
+Nueva Luz Part B,B5,Primary Contact Name:
+Nueva Luz Part B,C5,[contact detail withheld]
+Nueva Luz Part B,B6,Email:
+Nueva Luz Part B,C6,[contact detail withheld]
+Nueva Luz Part B,B7,Phone Number:
+Nueva Luz Part B,C7,[contact detail withheld]
+Nueva Luz Part B,A8,Data Element
+Nueva Luz Part B,B8,HRSA 340B ID:
+Nueva Luz Part B,C8,RWII44102
+Nueva Luz Part B,D9,Lettered Prefix:
+Nueva Luz Part B,E9,Number:
+Nueva Luz Part B,A10,1
+Nueva Luz Part B,D10,RWII
+Nueva Luz Part B,E10,44102
+Nueva Luz Part B,C12,NPI1
+Nueva Luz Part B,D12,NPI2
+Nueva Luz Part B,E12,NPI3
+Nueva Luz Part B,F12,NPI4
+Nueva Luz Part B,G12,NPI5
+Nueva Luz Part B,H12,NPI6
+Nueva Luz Part B,I12,NPI7
+Nueva Luz Part B,J12,NPI8
+Nueva Luz Part B,K12,NPI9
+Nueva Luz Part B,L12,NPI10
+Nueva Luz Part B,M12,NPI11
+Nueva Luz Part B,N12,NPI12
+Nueva Luz Part B,O12,NPI13
+Nueva Luz Part B,P12,NPI14
+Nueva Luz Part B,Q12,NPI15
+Nueva Luz Part B,R12,NPI16
+Nueva Luz Part B,S12,NPI17
+Nueva Luz Part B,T12,NPI18
+Nueva Luz Part B,U12,NPI19
+Nueva Luz Part B,V12,NPI20
+Nueva Luz Part B,A13,2
+Nueva Luz Part B,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Nueva Luz Part B,C13,-
+Nueva Luz Part B,D13,-
+Nueva Luz Part B,E13,-
+Nueva Luz Part B,F13,-
+Nueva Luz Part B,G13,-
+Nueva Luz Part B,H13,-
+Nueva Luz Part B,I13,-
+Nueva Luz Part B,J13,-
+Nueva Luz Part B,K13,-
+Nueva Luz Part B,L13,-
+Nueva Luz Part B,M13,-
+Nueva Luz Part B,N13,-
+Nueva Luz Part B,O13,-
+Nueva Luz Part B,P13,-
+Nueva Luz Part B,Q13,-
+Nueva Luz Part B,R13,-
+Nueva Luz Part B,S13,-
+Nueva Luz Part B,T13,-
+Nueva Luz Part B,U13,-
+Nueva Luz Part B,V13,-
+Nueva Luz Part B,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Nueva Luz Part B,C16,Commercial Insurance/Private Insurance:
+Nueva Luz Part B,D16,Medicare:
+Nueva Luz Part B,E16,Medicaid (all states):
+Nueva Luz Part B,F16,Other Third-Party Payor:
+Nueva Luz Part B,G16,Uninsured/Self-Pay:
+Nueva Luz Part B,H16,TOTAL:
+Nueva Luz Part B,A17,3
+Nueva Luz Part B,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Nueva Luz Part B,C17,0
+Nueva Luz Part B,D17,0
+Nueva Luz Part B,E17,0
+Nueva Luz Part B,F17,0
+Nueva Luz Part B,G17,0
+Nueva Luz Part B,H17,0
+Nueva Luz Part B,A18,4
+Nueva Luz Part B,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Nueva Luz Part B,C18,0
+Nueva Luz Part B,D18,0
+Nueva Luz Part B,E18,0
+Nueva Luz Part B,F18,0
+Nueva Luz Part B,G18,0
+Nueva Luz Part B,H18,0
+Nueva Luz Part B,A19,5
+Nueva Luz Part B,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Nueva Luz Part B,C19,0
+Nueva Luz Part B,D19,0
+Nueva Luz Part B,E19,0
+Nueva Luz Part B,F19,0
+Nueva Luz Part B,G19,0
+Nueva Luz Part B,H19,0
+Nueva Luz Part B,A20,6
+Nueva Luz Part B,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Nueva Luz Part B,C20,0
+Nueva Luz Part B,D20,0
+Nueva Luz Part B,E20,0
+Nueva Luz Part B,F20,0
+Nueva Luz Part B,G20,0
+Nueva Luz Part B,H20,0
+Nueva Luz Part B,A21,7
+Nueva Luz Part B,B21,Percentage of total prescriptions that were 340B
+Nueva Luz Part B,C21,#DIV/0!
+Nueva Luz Part B,D21,#DIV/0!
+Nueva Luz Part B,E21,#DIV/0!
+Nueva Luz Part B,F21,#DIV/0!
+Nueva Luz Part B,G21,#DIV/0!
+Nueva Luz Part B,H21,#DIV/0!
+Nueva Luz Part B,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Nueva Luz Part B,A25,8
+Nueva Luz Part B,C25,Commercial Insurance/Private Insurance:
+Nueva Luz Part B,D25,Medicare:
+Nueva Luz Part B,E25,Medicaid (all states):
+Nueva Luz Part B,F25,Other Third-Party Payor:
+Nueva Luz Part B,G25,Uninsured/Self-Pay:
+Nueva Luz Part B,H25,Indeterminate (Explain)
+Nueva Luz Part B,I25,TOTAL:
+Nueva Luz Part B,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Nueva Luz Part B,C26,128444.53
+Nueva Luz Part B,D26,528583.81999999995
+Nueva Luz Part B,E26,382043.5
+Nueva Luz Part B,F26,0
+Nueva Luz Part B,G26,1751.5
+Nueva Luz Part B,H26,0
+Nueva Luz Part B,I26,1040823.35
+Nueva Luz Part B,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Nueva Luz Part B,C27,187772.08
+Nueva Luz Part B,D27,876251.96
+Nueva Luz Part B,E27,656267.52000000002
+Nueva Luz Part B,F27,0
+Nueva Luz Part B,G27,49.7
+Nueva Luz Part B,H27,0
+Nueva Luz Part B,I27,1720341.26
+Nueva Luz Part B,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Nueva Luz Part B,C28,146
+Nueva Luz Part B,D28,891
+Nueva Luz Part B,E28,1035
+Nueva Luz Part B,F28,0
+Nueva Luz Part B,G28,273
+Nueva Luz Part B,H28,0
+Nueva Luz Part B,I28,2345
+Nueva Luz Part B,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Nueva Luz Part B,C29,139
+Nueva Luz Part B,D29,870
+Nueva Luz Part B,E29,1011
+Nueva Luz Part B,F29,0
+Nueva Luz Part B,G29,268
+Nueva Luz Part B,H29,0
+Nueva Luz Part B,I29,2288
+Nueva Luz Part B,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Nueva Luz Part B,C30,95.205479452054803
+Nueva Luz Part B,D30,97.643097643097647
+Nueva Luz Part B,E30,97.681159420289859
+Nueva Luz Part B,F30,#DIV/0!
+Nueva Luz Part B,G30,98.168498168498161
+Nueva Luz Part B,H30,#DIV/0!
+Nueva Luz Part B,I30,97.569296375266518
+Nueva Luz Part B,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Nueva Luz Part B,I32,-
+Nueva Luz Part B,B33,Section 3: Administered Drugs
+Nueva Luz Part B,D34,Commercial Insurance/Private Insurance:
+Nueva Luz Part B,E34,Medicare:
+Nueva Luz Part B,F34,Medicaid (all states):
+Nueva Luz Part B,G34,Other Third-Party Payor:
+Nueva Luz Part B,H34,Uninsured/Self-Pay:
+Nueva Luz Part B,I34,TOTAL:
+Nueva Luz Part B,A35,9
+Nueva Luz Part B,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Nueva Luz Part B,D35,0
+Nueva Luz Part B,E35,0
+Nueva Luz Part B,F35,0
+Nueva Luz Part B,G35,0
+Nueva Luz Part B,H35,0
+Nueva Luz Part B,I35,0
+Nueva Luz Part B,A36,10
+Nueva Luz Part B,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Nueva Luz Part B,C36,Actual Payments
+Nueva Luz Part B,D36,0
+Nueva Luz Part B,E36,0
+Nueva Luz Part B,F36,0
+Nueva Luz Part B,G36,0
+Nueva Luz Part B,H36,0
+Nueva Luz Part B,I36,0
+Nueva Luz Part B,C37,Estimated Payments*
+Nueva Luz Part B,D37,0
+Nueva Luz Part B,E37,0
+Nueva Luz Part B,F37,0
+Nueva Luz Part B,G37,0
+Nueva Luz Part B,H37,0
+Nueva Luz Part B,I37,0
+Nueva Luz Part B,C38,TOTAL
+Nueva Luz Part B,D38,0
+Nueva Luz Part B,E38,0
+Nueva Luz Part B,F38,0
+Nueva Luz Part B,G38,0
+Nueva Luz Part B,H38,0
+Nueva Luz Part B,I38,0
+Nueva Luz Part B,A39,11
+Nueva Luz Part B,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Nueva Luz Part B,D39,0
+Nueva Luz Part B,E39,0
+Nueva Luz Part B,F39,0
+Nueva Luz Part B,G39,0
+Nueva Luz Part B,H39,0
+Nueva Luz Part B,I39,0
+Nueva Luz Part B,A40,12
+Nueva Luz Part B,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Nueva Luz Part B,D40,0
+Nueva Luz Part B,E40,0
+Nueva Luz Part B,F40,0
+Nueva Luz Part B,G40,0
+Nueva Luz Part B,H40,0
+Nueva Luz Part B,I40,0
+Nueva Luz Part B,A41,13
+Nueva Luz Part B,B41,Percentage of total prescriptions that were 340B
+Nueva Luz Part B,D41,#DIV/0!
+Nueva Luz Part B,E41,#DIV/0!
+Nueva Luz Part B,F41,#DIV/0!
+Nueva Luz Part B,G41,#DIV/0!
+Nueva Luz Part B,H41,#DIV/0!
+Nueva Luz Part B,I41,#DIV/0!
+Nueva Luz Part B,B43,Section 4: Administrative Costs of the 340B Program
+Nueva Luz Part B,B45,Payments to External Entities:
+Nueva Luz Part B,A46,14
+Nueva Luz Part B,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Nueva Luz Part B,C46,292719.35999999999
+Nueva Luz Part B,A47,15
+Nueva Luz Part B,B47,Total Payments to 340B Third Party Administrators:
+Nueva Luz Part B,C47,-
+Nueva Luz Part B,A48,16
+Nueva Luz Part B,B48,Total Payments to 340B Consulting Entities (including audit support):
+Nueva Luz Part B,C48,-
+Nueva Luz Part B,A49,17
+Nueva Luz Part B,B49,340B Software and Information Technology Costs:
+Nueva Luz Part B,C49,-
+Nueva Luz Part B,A50,18
+Nueva Luz Part B,B50,Other Payments to External Entities:
+Nueva Luz Part B,C50,-
+Nueva Luz Part B,B52,Internal Costs to Administer the 340B Program
+Nueva Luz Part B,A53,19
+Nueva Luz Part B,B53,Staffing Costs (340B dedicated):
+Nueva Luz Part B,C53,228460.5
+Nueva Luz Part B,A54,20
+Nueva Luz Part B,B54,Information Technology Costs:
+Nueva Luz Part B,C54,7442.34
+Nueva Luz Part B,A55,21
+Nueva Luz Part B,B55,Other internal costs:
+Nueva Luz Part B,C55,41826.769999999997
+Nueva Luz Part B,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Nueva Luz Part B,A59,22
+Nueva Luz Part B,B59,Covered Entity's total number of Contract Pharmacies:
+Nueva Luz Part B,C59,-
+Nueva Luz Part B,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Nueva Luz Part B,C63,Detailed Description of Item:
+Nueva Luz Part B,D63,Expenditures from 340B funds:
+Nueva Luz Part B,A64,23
+Nueva Luz Part B,B64,Programs or Services funded/purchased with 340B funds:
+Nueva Luz Part B,B65,Program/Service 1:
+Nueva Luz Part B,C65,Medication Assistance
+Nueva Luz Part B,D65,2124.0100000000002
+Nueva Luz Part B,B66,Program/Service 2:
+Nueva Luz Part B,C66,-
+Nueva Luz Part B,D66,-
+Nueva Luz Part B,B67,Program/Service 3:
+Nueva Luz Part B,C67,-
+Nueva Luz Part B,D67,-
+Nueva Luz Part B,B68,Program/Service 4:
+Nueva Luz Part B,C68,-
+Nueva Luz Part B,D68,-
+Nueva Luz Part B,B69,Program/Service 5:
+Nueva Luz Part B,C69,-
+Nueva Luz Part B,D69,-
+Nueva Luz Part B,B71,Equipment purchased with 340B Funds:
+Nueva Luz Part B,B72,Item 1:
+Nueva Luz Part B,C72,-
+Nueva Luz Part B,D72,-
+Nueva Luz Part B,B73,Item 2:
+Nueva Luz Part B,C73,-
+Nueva Luz Part B,D73,-
+Nueva Luz Part B,B74,Item 3:
+Nueva Luz Part B,C74,-
+Nueva Luz Part B,D74,-
+Nueva Luz Part B,B75,Item 4:
+Nueva Luz Part B,C75,-
+Nueva Luz Part B,D75,-
+Nueva Luz Part B,B76,Item 5:
+Nueva Luz Part B,C76,-
+Nueva Luz Part B,D76,-
+Nueva Luz Part B,B78,Other uses of 340B funds not otherwise listed above:
+Nueva Luz Part B,C78,-
+Nueva Luz Part B,D78,-
+Nueva Luz Part B,B80,(Narrative) Provide additional detail/context as necessary:
+Nueva Luz Part B,C80,-
+Nueva Luz Part B,A82,24
+Nueva Luz Part B,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Nueva Luz Part B,C82,-

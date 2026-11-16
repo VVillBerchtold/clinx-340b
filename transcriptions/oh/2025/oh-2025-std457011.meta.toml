@@ -1,0 +1,19 @@
+filing_id = "oh-2025-std457011"
+entity_id = "oh-std457011"
+state = "OH"
+reporting_year = 2025
+entity_type = "not_stated"
+source_file = "STD457011.xlsx"
+other_entity_ids = []
+form = "oh-odh-340b-report"
+form_revision = "Ohio Department of Health, ORC 3701.88 340B Covered Entity Reporting Template, calendar year 2025"
+
+[cover]
+name_as_filed = ""
+corporate_address_as_filed = ""
+opais_ids_as_filed = "STD457011"
+recertification_date_as_filed = ""
+reporting_basis_as_filed = ""
+
+[printed]
+period_as_filed = "January 1, 2025 - December 31, 2025"

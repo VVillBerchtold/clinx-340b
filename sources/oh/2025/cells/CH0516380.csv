@@ -1,0 +1,324 @@
+sheet,cell,value
+Sheet 1,B1,Ohio Department of Health
+Sheet 1,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Sheet 1,B4,Reporting Period:
+Sheet 1,C4,"January 1, 2025 - December 31, 2025"
+Sheet 1,B5,Primary Contact Name:
+Sheet 1,C5,[contact detail withheld]
+Sheet 1,B6,Email:
+Sheet 1,C6,[contact detail withheld]
+Sheet 1,B7,Phone Number:
+Sheet 1,C7,[contact detail withheld]
+Sheet 1,A8,Data Element
+Sheet 1,B8,HRSA 340B ID:
+Sheet 1,C8,CH0516380
+Sheet 1,D9,Lettered Prefix:
+Sheet 1,E9,Number:
+Sheet 1,A10,1
+Sheet 1,D10,CH
+Sheet 1,E10,516380
+Sheet 1,C12,NPI1
+Sheet 1,D12,NPI2
+Sheet 1,E12,NPI3
+Sheet 1,F12,NPI4
+Sheet 1,G12,NPI5
+Sheet 1,H12,NPI6
+Sheet 1,I12,NPI7
+Sheet 1,J12,NPI8
+Sheet 1,K12,NPI9
+Sheet 1,L12,NPI10
+Sheet 1,M12,NPI11
+Sheet 1,N12,NPI12
+Sheet 1,O12,NPI13
+Sheet 1,P12,NPI14
+Sheet 1,Q12,NPI15
+Sheet 1,R12,NPI16
+Sheet 1,S12,NPI17
+Sheet 1,T12,NPI18
+Sheet 1,U12,NPI19
+Sheet 1,V12,NPI20
+Sheet 1,W12,NPI21
+Sheet 1,X12,NPI22
+Sheet 1,Y12,NPI23
+Sheet 1,Z12,NPI24
+Sheet 1,AA12,NPI25
+Sheet 1,AB12,NPI26
+Sheet 1,AC12,NPI27
+Sheet 1,AD12,NPI28
+Sheet 1,AE12,NPI29
+Sheet 1,AF12,NPI30
+Sheet 1,AG12,NPI31
+Sheet 1,A13,2
+Sheet 1,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Sheet 1,C13,1770213662
+Sheet 1,D13,1790020733
+Sheet 1,E13,1932679933
+Sheet 1,F13,1780929729
+Sheet 1,G13,1811932288
+Sheet 1,H13,1902228844
+Sheet 1,I13,1346588597
+Sheet 1,J13,1124857131
+Sheet 1,K13,1760640817
+Sheet 1,L13,1104756956
+Sheet 1,M13,1760952741
+Sheet 1,N13,1538899422
+Sheet 1,O13,1144790122
+Sheet 1,P13,1770053647
+Sheet 1,Q13,1740694462
+Sheet 1,R13,1396605481
+Sheet 1,S13,1114657020
+Sheet 1,T13,1518333749
+Sheet 1,U13,1306509757
+Sheet 1,V13,1912689076
+Sheet 1,W13,1598118937
+Sheet 1,X13,1952754392
+Sheet 1,Y13,1043982473
+Sheet 1,Z13,1093813768
+Sheet 1,AA13,1689925356
+Sheet 1,AB13,1578802211
+Sheet 1,AC13,1518392414
+Sheet 1,AD13,1790234433
+Sheet 1,AE13,1730748708
+Sheet 1,AF13,1093337024
+Sheet 1,AG13,1801567839
+Sheet 1,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Sheet 1,C16,Commercial Insurance/Private Insurance:
+Sheet 1,D16,Medicare:
+Sheet 1,E16,Medicaid (all states):
+Sheet 1,F16,Other Third-Party Payor:
+Sheet 1,G16,Uninsured/Self-Pay:
+Sheet 1,H16,TOTAL:
+Sheet 1,A17,3
+Sheet 1,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Sheet 1,C17,2417029.13
+Sheet 1,D17,3612159.7700000005
+Sheet 1,E17,7603370.709999999
+Sheet 1,F17,0
+Sheet 1,G17,280305.75
+Sheet 1,H17,13912865.359999999
+Sheet 1,A18,4
+Sheet 1,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Sheet 1,C18,5813006.4099999992
+Sheet 1,D18,10326689.51
+Sheet 1,E18,19329205.210000001
+Sheet 1,F18,0
+Sheet 1,G18,693911.21000000008
+Sheet 1,H18,36162812.339999996
+Sheet 1,A19,5
+Sheet 1,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Sheet 1,C19,74211
+Sheet 1,D19,96555
+Sheet 1,E19,186730
+Sheet 1,F19,0
+Sheet 1,G19,66903
+Sheet 1,H19,424399
+Sheet 1,A20,6
+Sheet 1,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Sheet 1,C20,74211
+Sheet 1,D20,96555
+Sheet 1,E20,186730
+Sheet 1,F20,0
+Sheet 1,G20,66903
+Sheet 1,H20,424399
+Sheet 1,A21,7
+Sheet 1,B21,Percentage of total prescriptions that were 340B
+Sheet 1,C21,100
+Sheet 1,D21,100
+Sheet 1,E21,100
+Sheet 1,F21,0
+Sheet 1,G21,100
+Sheet 1,H21,100
+Sheet 1,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Sheet 1,A25,8
+Sheet 1,C25,Commercial Insurance/Private Insurance:
+Sheet 1,D25,Medicare:
+Sheet 1,E25,Medicaid (all states):
+Sheet 1,F25,Other Third-Party Payor:
+Sheet 1,G25,Uninsured/Self-Pay:
+Sheet 1,H25,Indeterminate (Explain)
+Sheet 1,I25,TOTAL:
+Sheet 1,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Sheet 1,C26,0
+Sheet 1,D26,0
+Sheet 1,E26,0
+Sheet 1,F26,555228.84
+Sheet 1,G26,0
+Sheet 1,H26,17860.12
+Sheet 1,I26,573088.96
+Sheet 1,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Sheet 1,C27,0
+Sheet 1,D27,0
+Sheet 1,E27,0
+Sheet 1,F27,1174225.5900000001
+Sheet 1,G27,0
+Sheet 1,H27,36784.44
+Sheet 1,I27,1211010.03
+Sheet 1,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Sheet 1,C28,34
+Sheet 1,D28,8
+Sheet 1,E28,0
+Sheet 1,F28,156
+Sheet 1,G28,0
+Sheet 1,H28,0
+Sheet 1,I28,198
+Sheet 1,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Sheet 1,C29,34
+Sheet 1,D29,8
+Sheet 1,E29,0
+Sheet 1,F29,156
+Sheet 1,G29,0
+Sheet 1,H29,0
+Sheet 1,I29,198
+Sheet 1,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Sheet 1,C30,100
+Sheet 1,D30,100
+Sheet 1,E30,0
+Sheet 1,F30,100
+Sheet 1,G30,#DIV/0!
+Sheet 1,H30,#DIV/0!
+Sheet 1,I30,100
+Sheet 1,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Sheet 1,I32,Unable to breakdown Medicare and Commercial claims individually regarding invoice cost and reimbursement at this time due to TPA limitations
+Sheet 1,B33,Section 3: Administered Drugs
+Sheet 1,D34,Commercial Insurance/Private Insurance:
+Sheet 1,E34,Medicare:
+Sheet 1,F34,Medicaid (all states):
+Sheet 1,G34,Other Third-Party Payor:
+Sheet 1,H34,Uninsured/Self-Pay:
+Sheet 1,I34,TOTAL:
+Sheet 1,A35,9
+Sheet 1,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Sheet 1,D35,0
+Sheet 1,E35,0
+Sheet 1,F35,0
+Sheet 1,G35,0
+Sheet 1,H35,0
+Sheet 1,I35,187833.94
+Sheet 1,A36,10
+Sheet 1,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Sheet 1,C36,Actual Payments
+Sheet 1,D36,126193.86
+Sheet 1,E36,2126.16
+Sheet 1,F36,267453.12
+Sheet 1,G36,0
+Sheet 1,H36,1136.76
+Sheet 1,I36,396909.9
+Sheet 1,C37,Estimated Payments*
+Sheet 1,D37,1414.32
+Sheet 1,E37,6324.7
+Sheet 1,F37,3677.17
+Sheet 1,G37,0
+Sheet 1,H37,0
+Sheet 1,I37,11416.189999999999
+Sheet 1,C38,TOTAL
+Sheet 1,D38,127608.18000000001
+Sheet 1,E38,8450.86
+Sheet 1,F38,271130.28999999998
+Sheet 1,G38,0
+Sheet 1,H38,1136.76
+Sheet 1,I38,408326.08999999997
+Sheet 1,A39,11
+Sheet 1,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Sheet 1,D39,1332
+Sheet 1,E39,[withheld: beside_small]
+Sheet 1,F39,2368
+Sheet 1,G39,[withheld: fewer_than_6]
+Sheet 1,H39,1265
+Sheet 1,I39,5398
+Sheet 1,A40,12
+Sheet 1,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Sheet 1,D40,1332
+Sheet 1,E40,[withheld: beside_small]
+Sheet 1,F40,2368
+Sheet 1,G40,[withheld: fewer_than_6]
+Sheet 1,H40,1265
+Sheet 1,I40,5398
+Sheet 1,A41,13
+Sheet 1,B41,Percentage of total prescriptions that were 340B
+Sheet 1,D41,100
+Sheet 1,E41,[withheld: reveals_small]
+Sheet 1,F41,100
+Sheet 1,G41,[withheld: reveals_small]
+Sheet 1,H41,100
+Sheet 1,I41,100
+Sheet 1,B43,Section 4: Administrative Costs of the 340B Program
+Sheet 1,B45,Payments to External Entities:
+Sheet 1,A46,14
+Sheet 1,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Sheet 1,C46,106136.26000000001
+Sheet 1,A47,15
+Sheet 1,B47,Total Payments to 340B Third Party Administrators:
+Sheet 1,C47,847.47
+Sheet 1,A48,16
+Sheet 1,B48,Total Payments to 340B Consulting Entities (including audit support):
+Sheet 1,C48,241029.02
+Sheet 1,A49,17
+Sheet 1,B49,340B Software and Information Technology Costs:
+Sheet 1,A50,18
+Sheet 1,B50,Other Payments to External Entities:
+Sheet 1,C50,2192.38
+Sheet 1,B52,Internal Costs to Administer the 340B Program
+Sheet 1,A53,19
+Sheet 1,B53,Staffing Costs (340B dedicated):
+Sheet 1,C53,4653946
+Sheet 1,A54,20
+Sheet 1,B54,Information Technology Costs:
+Sheet 1,C54,155378
+Sheet 1,A55,21
+Sheet 1,B55,Other internal costs:
+Sheet 1,C55,4470218
+Sheet 1,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Sheet 1,A59,22
+Sheet 1,B59,Covered Entity's total number of Contract Pharmacies:
+Sheet 1,C59,19
+Sheet 1,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Sheet 1,C63,Detailed Description of Item:
+Sheet 1,D63,Expenditures from 340B funds:
+Sheet 1,A64,23
+Sheet 1,B64,Programs or Services funded/purchased with 340B funds:
+Sheet 1,B65,Program/Service 1:
+Sheet 1,C65,Eyeglasses for Uninsured Patients
+Sheet 1,D65,45732
+Sheet 1,B66,Program/Service 2:
+Sheet 1,C66,"Enabling Services (Interpretation, Transportation, etc.)"
+Sheet 1,D66,223064
+Sheet 1,B67,Program/Service 3:
+Sheet 1,C67,Community Benefit for Uninsured Patients
+Sheet 1,D67,634285
+Sheet 1,B68,Program/Service 4:
+Sheet 1,C68,Dental and Medical Lab costs for Uninsured
+Sheet 1,D68,139978
+Sheet 1,B69,Program/Service 5:
+Sheet 1,C69,School-Based Health Center Capital and Equipment
+Sheet 1,D69,1003412
+Sheet 1,B71,Equipment purchased with 340B Funds:
+Sheet 1,B72,Item 1:
+Sheet 1,C72,Pharmacy Equipment and Vehicles
+Sheet 1,D72,169888
+Sheet 1,B73,Item 2:
+Sheet 1,C73,Clincal Equipment (Health Centers)
+Sheet 1,D73,144742
+Sheet 1,B74,Item 3:
+Sheet 1,C74,Capital Investments for Health Center Construction Projects
+Sheet 1,D74,9632631
+Sheet 1,B75,Item 4:
+Sheet 1,C75,Capital Reserves
+Sheet 1,D75,1484725
+Sheet 1,B76,Item 5:
+Sheet 1,C76,-
+Sheet 1,D76,-
+Sheet 1,B78,Other uses of 340B funds not otherwise listed above:
+Sheet 1,C78,-
+Sheet 1,D78,-
+Sheet 1,B80,(Narrative) Provide additional detail/context as necessary:
+Sheet 1,C80,"Health Partners of Western Ohio takes seriously its responsibility to use 340B savings to benefit patients and strengthen access to care in the communities we serve. These savings help bridge medication access gaps for uninsured patients, underinsured patients, and patients facing financial hardship.
+
+As a safety net provider, HPWO also uses 340B savings to expand the range and reach of services available to our patients. Since opening our first pharmacy in 2006, HPWO has grown to include 25 additional sites, including locations in both urban and rural communities, 8 pharmacies, and 13 school-based health centers, and 8 dental operatories. All of which include behavioral health and substance abuse services . HPWO is also currently working on 4 separate building projects that will expand access to these services for even more patients.
+
+Within our pharmacies, 340B savings have helped support adherence packaging services for patients across all 9 of our community health centers. More than 200 patients now receive this additional level of pharmacy support, which would not be possible at the same scale without 340B savings. HPWO plans to expand this service to eventually reach 1,000 patients.
+
+340B savings also allow HPWO to offer free medication delivery 5 days per week at all pharmacy locations. This service is especially important as many of our communities have become pharmacy deserts due to widespread retail-chain pharmacy closures.
+
+Overall, 340B savings allow HPWO to continue growing, serving more patients, expanding needed services, and improving the quality of care we provide. Most importantly, these savings help ensure that individual patients can access needed medications without financial barriers."
+Sheet 1,A82,24
+Sheet 1,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."

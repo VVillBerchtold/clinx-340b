@@ -1,0 +1,308 @@
+sheet,cell,value
+CON,B1,Ohio Department of Health
+CON,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+CON,B4,Reporting Period:
+CON,C4,"January 1, 2025 - December 31, 2025"
+CON,B5,Primary Contact Name:
+CON,C5,[contact detail withheld]
+CON,B6,Email:
+CON,C6,[contact detail withheld]
+CON,B7,Phone Number:
+CON,C7,[contact detail withheld]
+CON,A8,Data Element
+CON,B8,HRSA 340B ID:
+CON,C8,CAH361308-00
+CON,D9,Lettered Prefix:
+CON,E9,Number:
+CON,A10,1
+CON,D10,CAH
+CON,E10,361308
+CON,C12,NPI1
+CON,D12,NPI2
+CON,E12,NPI3
+CON,F12,NPI4
+CON,G12,NPI5
+CON,H12,NPI6
+CON,I12,NPI7
+CON,J12,NPI8
+CON,K12,NPI9
+CON,L12,NPI10
+CON,M12,NPI11
+CON,N12,NPI12
+CON,O12,NPI13
+CON,P12,NPI14
+CON,Q12,NPI15
+CON,R12,NPI16
+CON,S12,NPI17
+CON,T12,NPI18
+CON,U12,NPI19
+CON,V12,NPI20
+CON,A13,2
+CON,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+CON,C13,1902996119
+CON,D13,-
+CON,E13,-
+CON,F13,-
+CON,G13,-
+CON,H13,-
+CON,I13,-
+CON,J13,-
+CON,K13,-
+CON,L13,-
+CON,M13,-
+CON,N13,-
+CON,O13,-
+CON,P13,-
+CON,Q13,-
+CON,R13,-
+CON,S13,-
+CON,T13,-
+CON,U13,-
+CON,V13,-
+CON,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+CON,C16,Commercial Insurance/Private Insurance:
+CON,D16,Medicare:
+CON,E16,Medicaid (all states):
+CON,F16,Other Third-Party Payor:
+CON,G16,Uninsured/Self-Pay:
+CON,H16,TOTAL:
+CON,A17,3
+CON,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+CON,C17,0
+CON,D17,0
+CON,E17,0
+CON,F17,0
+CON,G17,0
+CON,H17,0
+CON,A18,4
+CON,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+CON,C18,0
+CON,D18,0
+CON,E18,0
+CON,F18,0
+CON,G18,0
+CON,H18,0
+CON,A19,5
+CON,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+CON,C19,0
+CON,D19,0
+CON,E19,0
+CON,F19,0
+CON,G19,0
+CON,H19,0
+CON,A20,6
+CON,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+CON,C20,0
+CON,D20,0
+CON,E20,0
+CON,F20,0
+CON,G20,0
+CON,H20,0
+CON,A21,7
+CON,B21,Percentage of total prescriptions that were 340B
+CON,C21,#DIV/0!
+CON,D21,#DIV/0!
+CON,E21,#DIV/0!
+CON,F21,#DIV/0!
+CON,G21,#DIV/0!
+CON,H21,#DIV/0!
+CON,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+CON,A25,8
+CON,C25,Commercial Insurance/Private Insurance:
+CON,D25,Medicare:
+CON,E25,Medicaid (all states):
+CON,F25,Other Third-Party Payor:
+CON,G25,Uninsured/Self-Pay:
+CON,H25,Indeterminate (Explain)
+CON,I25,TOTAL:
+CON,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+CON,C26,0
+CON,D26,0
+CON,E26,0
+CON,F26,0
+CON,G26,0
+CON,H26,0
+CON,I26,0
+CON,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+CON,C27,0
+CON,D27,0
+CON,E27,0
+CON,F27,0
+CON,G27,0
+CON,H27,0
+CON,I27,0
+CON,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+CON,C28,0
+CON,D28,0
+CON,E28,0
+CON,F28,0
+CON,G28,0
+CON,H28,0
+CON,I28,0
+CON,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+CON,C29,0
+CON,D29,0
+CON,E29,0
+CON,F29,0
+CON,G29,0
+CON,H29,0
+CON,I29,0
+CON,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+CON,C30,#DIV/0!
+CON,D30,#DIV/0!
+CON,E30,#DIV/0!
+CON,F30,#DIV/0!
+CON,G30,#DIV/0!
+CON,H30,#DIV/0!
+CON,I30,#DIV/0!
+CON,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+CON,I32,-
+CON,B33,Section 3: Administered Drugs
+CON,D34,Commercial Insurance/Private Insurance:
+CON,E34,Medicare:
+CON,F34,Medicaid (all states):
+CON,G34,Other Third-Party Payor:
+CON,H34,Uninsured/Self-Pay:
+CON,I34,TOTAL:
+CON,A35,9
+CON,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+CON,D35,191029.30795615981
+CON,E35,714301.9038632306
+CON,F35,74650.825567436739
+CON,G35,45083.393778466409
+CON,H35,240.49808524077068
+CON,I35,1025305.9292505343
+CON,A36,10
+CON,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+CON,C36,Actual Payments
+CON,D36,893107.54
+CON,E36,3339531.63
+CON,F36,349010.4
+CON,G36,210775.61
+CON,H36,1124.3858629974636
+CON,I36,4793549.5658629984
+CON,C37,Estimated Payments*
+CON,D37,0
+CON,E37,0
+CON,F37,0
+CON,G37,0
+CON,H37,0
+CON,I37,0
+CON,C38,TOTAL
+CON,D38,893107.54
+CON,E38,3339531.63
+CON,F38,349010.4
+CON,G38,210775.61
+CON,H38,1124.3858629974636
+CON,I38,4793549.5658629984
+CON,A39,11
+CON,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+CON,D39,22965
+CON,E39,85872
+CON,F39,8974
+CON,G39,5420
+CON,H39,29
+CON,I39,123260
+CON,A40,12
+CON,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+CON,D40,9050
+CON,E40,33839
+CON,F40,3536
+CON,G40,2136
+CON,H40,11
+CON,I40,48572
+CON,A41,13
+CON,B41,Percentage of total prescriptions that were 340B
+CON,D41,39.40779446984542
+CON,E41,39.406325694056271
+CON,F41,39.402718965901492
+CON,G41,39.40959409594096
+CON,H41,37.931034482758619
+CON,I41,39.406133376602305
+CON,B43,Section 4: Administrative Costs of the 340B Program
+CON,B45,Payments to External Entities:
+CON,A46,14
+CON,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+CON,C46,0
+CON,A47,15
+CON,B47,Total Payments to 340B Third Party Administrators:
+CON,C47,20721.38
+CON,A48,16
+CON,B48,Total Payments to 340B Consulting Entities (including audit support):
+CON,C48,230.21951999999999
+CON,A49,17
+CON,B49,340B Software and Information Technology Costs:
+CON,C49,0
+CON,A50,18
+CON,B50,Other Payments to External Entities:
+CON,C50,220.22
+CON,B52,Internal Costs to Administer the 340B Program
+CON,A53,19
+CON,B53,Staffing Costs (340B dedicated):
+CON,C53,4500.3980000000001
+CON,A54,20
+CON,B54,Information Technology Costs:
+CON,C54,0
+CON,A55,21
+CON,B55,Other internal costs:
+CON,C55,0
+CON,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+CON,A59,22
+CON,B59,Covered Entity's total number of Contract Pharmacies:
+CON,C59,2
+CON,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+CON,C63,Detailed Description of Item:
+CON,D63,Expenditures from 340B funds:
+CON,A64,23
+CON,B64,Programs or Services funded/purchased with 340B funds:
+CON,B65,Program/Service 1:
+CON,C65,-
+CON,D65,-
+CON,B66,Program/Service 2:
+CON,C66,-
+CON,D66,-
+CON,B67,Program/Service 3:
+CON,C67,-
+CON,D67,-
+CON,B68,Program/Service 4:
+CON,C68,-
+CON,D68,-
+CON,B69,Program/Service 5:
+CON,C69,-
+CON,D69,-
+CON,B71,Equipment purchased with 340B Funds:
+CON,B72,Item 1:
+CON,C72,-
+CON,D72,-
+CON,B73,Item 2:
+CON,C73,-
+CON,D73,-
+CON,B74,Item 3:
+CON,C74,-
+CON,D74,-
+CON,B75,Item 4:
+CON,C75,-
+CON,D75,-
+CON,B76,Item 5:
+CON,C76,-
+CON,D76,-
+CON,B78,Other uses of 340B funds not otherwise listed above:
+CON,C78,-
+CON,D78,-
+CON,B80,(Narrative) Provide additional detail/context as necessary:
+CON,C80,-
+CON,A82,24
+CON,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+CON,C82,"340B savings help support University Hospitals’ overall capacity to provide community benefit, which totaled $511 million in 2024. These resources play an important role in sustaining a wide range of programs and services that benefit our patients and community. These supports include:
+
+Financial assistance for patients who are unable to afford hospital care, physician care and/or medications
+Medication access services to help patients navigate insurance requirements and reduce financial barriers
+Patient engagement programs focused on refill management and improving adherence to therapy
+Clinical services, including pharmacists embedded in provider offices and ongoing care management
+Education and training by preparing future generations of caregivers
+Transportation assistance
+Home health services
+Community outreach initiatives
+Medicaid shortfall and other uncompensated care
+Support for medical research
+In-kind contributions to community organizations"

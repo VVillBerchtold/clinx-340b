@@ -1,0 +1,200 @@
+page,schedule,line,amount,claims,answer
+1,in_house_acquisition_cost,commercial,498023,,
+1,in_house_acquisition_cost,medicare,822619,,
+1,in_house_acquisition_cost,medicaid,3605151,,
+1,in_house_acquisition_cost,other_third_party,0,,
+1,in_house_acquisition_cost,uninsured,23473,,
+1,in_house_acquisition_cost,total,4949266,,
+1,in_house_payments_received,commercial,1076068,,
+1,in_house_payments_received,medicare,1923184,,
+1,in_house_payments_received,medicaid,7372851,,
+1,in_house_payments_received,other_third_party,0,,
+1,in_house_payments_received,uninsured,155661,,
+1,in_house_payments_received,total,10527764,,
+1,in_house_rx_all,commercial,,8835,
+1,in_house_rx_all,medicare,,11999,
+1,in_house_rx_all,medicaid,,49433,
+1,in_house_rx_all,other_third_party,,0,
+1,in_house_rx_all,uninsured,,9524,
+1,in_house_rx_all,total,,79791,
+1,in_house_rx_340b,commercial,,8804,
+1,in_house_rx_340b,medicare,,11966,
+1,in_house_rx_340b,medicaid,,49393,
+1,in_house_rx_340b,other_third_party,,0,
+1,in_house_rx_340b,uninsured,,9524,
+1,in_house_rx_340b,total,,79687,
+1,in_house_rx_pct,commercial,99.6491228070176,,
+1,in_house_rx_pct,medicare,99.7249770814235,,
+1,in_house_rx_pct,medicaid,99.919082394352,,
+1,in_house_rx_pct,other_third_party,#DIV/0!,,
+1,in_house_rx_pct,uninsured,100,,
+1,in_house_rx_pct,total,99.8696594854056,,
+1,contract_acquisition_cost,commercial,428206,,
+1,contract_acquisition_cost,medicare,251905,,
+1,contract_acquisition_cost,medicaid,0,,
+1,contract_acquisition_cost,other_third_party,47286,,
+1,contract_acquisition_cost,uninsured,0,,
+1,contract_acquisition_cost,indeterminate,0,,
+1,contract_acquisition_cost,total,727397,,
+1,contract_payments_received,commercial,860469,,
+1,contract_payments_received,medicare,586160,,
+1,contract_payments_received,medicaid,0,,
+1,contract_payments_received,other_third_party,68648,,
+1,contract_payments_received,uninsured,0,,
+1,contract_payments_received,indeterminate,0,,
+1,contract_payments_received,total,1515277,,
+1,contract_rx_all,commercial,,1932,
+1,contract_rx_all,medicare,,1105,
+1,contract_rx_all,medicaid,,0,
+1,contract_rx_all,other_third_party,,53,
+1,contract_rx_all,uninsured,,0,
+1,contract_rx_all,indeterminate,,0,
+1,contract_rx_all,total,,3090,
+1,contract_rx_340b,commercial,,1932,
+1,contract_rx_340b,medicare,,1105,
+1,contract_rx_340b,medicaid,,0,
+1,contract_rx_340b,other_third_party,,53,
+1,contract_rx_340b,uninsured,,0,
+1,contract_rx_340b,indeterminate,,0,
+1,contract_rx_340b,total,,3090,
+1,contract_rx_pct,commercial,100,,
+1,contract_rx_pct,medicare,100,,
+1,contract_rx_pct,medicaid,#DIV/0!,,
+1,contract_rx_pct,other_third_party,100,,
+1,contract_rx_pct,uninsured,#DIV/0!,,
+1,contract_rx_pct,indeterminate,#DIV/0!,,
+1,contract_rx_pct,total,100,,
+1,administered_acquisition_cost,commercial,88977,,
+1,administered_acquisition_cost,medicare,2341,,
+1,administered_acquisition_cost,medicaid,81442,,
+1,administered_acquisition_cost,other_third_party,0,,
+1,administered_acquisition_cost,uninsured,7888,,
+1,administered_acquisition_cost,total,180648,,
+1,administered_payments_actual,commercial,161321,,
+1,administered_payments_actual,medicare,6212,,
+1,administered_payments_actual,medicaid,280051,,
+1,administered_payments_actual,other_third_party,0,,
+1,administered_payments_actual,uninsured,5006,,
+1,administered_payments_actual,total,452590,,
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,commercial,0,,
+1,administered_payments_estimated,medicare,0,,
+1,administered_payments_estimated,medicaid,0,,
+1,administered_payments_estimated,other_third_party,0,,
+1,administered_payments_estimated,uninsured,0,,
+1,administered_payments_estimated,total,0,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,commercial,0,,
+1,administered_payments_total,medicare,0,,
+1,administered_payments_total,medicaid,0,,
+1,administered_payments_total,other_third_party,0,,
+1,administered_payments_total,uninsured,0,,
+1,administered_payments_total,total,0,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,administered_rx_all,commercial,,6032,
+1,administered_rx_all,medicare,,2443,
+1,administered_rx_all,medicaid,,18424,
+1,administered_rx_all,other_third_party,,0,
+1,administered_rx_all,uninsured,,1909,
+1,administered_rx_all,total,,28808,
+1,administered_rx_340b,commercial,,634,
+1,administered_rx_340b,medicare,,337,
+1,administered_rx_340b,medicaid,,1418,
+1,administered_rx_340b,other_third_party,,0,
+1,administered_rx_340b,uninsured,,163,
+1,administered_rx_340b,total,,2552,
+1,administered_rx_pct,commercial,10.5106100795756,,
+1,administered_rx_pct,medicare,13.7945149406467,,
+1,administered_rx_pct,medicaid,7.69648284845853,,
+1,administered_rx_pct,other_third_party,#DIV/0!,,
+1,administered_rx_pct,uninsured,8.53850183342064,,
+1,administered_rx_pct,total,8.85865037489586,,
+1,costs,contract_pharmacies,229588,,
+1,costs,third_party_administrators,11022,,
+1,costs,consultants,14400,,
+1,costs,software_it,0,,
+1,costs,other_external,27548,,
+1,costs,staffing,1026543,,
+1,costs,internal_it,86800,,
+1,costs,other_internal,105549,,
+1,contract_pharmacies,count,19,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,CH050920
+1,identity,id_prefix,,,CH
+1,identity,id_number,,,050920
+1,identity,npi_1,,,1205327095
+1,identity,npi_2,,,1306268677
+1,identity,npi_3,,,1326462219
+1,identity,npi_4,,,1568014173
+1,identity,npi_5,,,1619506110
+1,identity,npi_6,,,1295786267
+1,identity,npi_7,,,1720135304
+1,identity,npi_8,,,1316148745
+1,identity,npi_9,,,1952568586
+1,identity,npi_10,,,1265702351
+1,identity,npi_11,,,1477823565
+1,identity,npi_12,,,1437539517
+1,identity,npi_13,,,1730563891
+1,identity,npi_14,,,1265902324
+1,identity,npi_15,,,1831666965
+1,identity,npi_16,,,1326690934
+1,identity,npi_18,,,-
+1,identity,npi_19,,,-
+1,identity,npi_20,,,-
+1,contract_pharmacy_notes,indeterminate_explanation,,,-
+1,uses,program_1_description,,,Dental Services
+1,uses,program_1_amount,199576,,
+1,uses,program_2_description,,,EMR System
+1,uses,program_2_amount,746606,,
+1,uses,program_3_description,,,Sliding Fee Discount
+1,uses,program_3_amount,543604,,
+1,uses,program_4_description,,,Midwifery Services
+1,uses,program_4_amount,204533,,
+1,uses,program_5_description,,,Clinic Non 340B Drugs and Supplies
+1,uses,program_5_amount,1618311,,
+1,uses,equipment_1_description,,,-
+1,uses,equipment_1_amount,-,,
+1,uses,equipment_2_description,,,-
+1,uses,equipment_2_amount,-,,
+1,uses,equipment_3_description,,,-
+1,uses,equipment_3_amount,-,,
+1,uses,equipment_4_description,,,-
+1,uses,equipment_4_amount,-,,
+1,uses,equipment_5_description,,,-
+1,uses,equipment_5_amount,-,,
+1,uses,other_uses_description,,,"Lease, IT support & Interpretation Cost"
+1,uses,other_uses_amount,2023395,,
+1,uses,narrative,,,"Overview
+
+NFP is a Federally Qualified Health Center (FQHC) and part of the Health Resources and Services Administration’s (HRSA) Bureau of Primary Health Care Health Center Program. NFP has seven (7) registered associated sites located in the cities of Cleveland and Lakewood, Ohio. NFP provides integrated primary care, behavioral health, midwifery and breastfeeding, dental, refugee health, pharmacy, HIV prevention and treatment including Ryan White HIV/AIDS Program (RWHAP) Part A and Part C, and specialty services to people of all ages, regardless of their ability to pay. Last year, 72% of our 23,450 patients had incomes at or below 200% of the federal poverty level.
+
+NFP began participation in the 340B Program in 2000. Our 340B ID is CH050920. NFP has mechanisms in place to reasonably ensure compliance with all 340B program requirements, including mechanisms to prevent diversion and duplicate discount. NFP uses its 340B savings to stretch scarce Federal resources to help assist with many services such as interpretation, transportation, financial assistance, medication adherence assistance, patient education programs, pharmacy delivery services, food as medicine program and staff education.
+
+340B Universe Program Details
+
+Provider Administered Drugs (PADs)
+
+Inclusive of the following associated site(s): Ridge Community Health Center (CHC), Tremont CHC, Ann B Reichsman CHC, Detroit Shoreway CHC, Puritas CHC, W 130th CHC, and North Coast CHC.
+
+NFP has mechanisms in place to ensure 340B purchased drugs are utilized on qualifying patients by use of a physical inventory system. Administrations are documented in the electronic health record (EHR), EPIC OCHIN, from which patient specific auditable records are produced. NFP maintains both 340B and non-340B purchased drugs as inventory at the clinic(s). Primary purchasing accounts are established with the wholesaler(s) McKesson.
+
+NFP has elected to carve-in Medicaid. Therefore, all National Provider Identifiers (NPIs) and 
+
+Medicaid Provider Numbers (MPNs) used to bill Medicaid are listed on OPAIS and subsequently, the Medicaid Exclusion File (MEF). NFP monitors each state to which it bills Medicaid regularly to ensure compliance with state requirements to prevent duplicate discounts. State requirements to prevent duplicate discounts are met by including modifiers TB or SE on the prescription claims to identify them.
+
+Entity Owned Retail Pharmacy
+
+NFP operates three entity owned pharmacies at 3569 Ridge Road Cleveland, Ohio, 44102; 14625 Puritas Avenue Cleveland, Ohio, 44135; and 13027 Lorain Avenue Cleveland, Ohio, 44111. The pharmacies are open-door. The pharmacies utilize PioneerRx to process prescriptions. The pharmacies maintain a physical inventory system. Drug purchases are through McKesson. The in-house pharmacies have elected to carve-in Medicaid. Duplicate discounts are prevented by including the pharmacies NPIs on OPAIS and subsequently the MEF. State requirements to prevent duplicate discount are met by including modifiers 08 and 20 on the prescription claims to identify them.
+
+Contract Pharmacy
+ 
+NFP has Pharmacy Service Agreements with 19 contracted pharmacies to provide medications on behalf of NFP. WellPartner, 340B Complete, and 340B Direct Plus  are utilized to process and adjudicate prescriptions for 340B eligible patients. Patient specific encounter data is obtained from EPIC OCHIN and is sent to Wellpartner and 340B Direct Plus weekly and 340B Complete daily. An eligible provider list is updated at least quarterly. In addition, CVS WellPartner, 340B Direct Plus, and 340B Complete utilize the following qualification parameters in the table below to qualify prescriptions as 340B.
+
+ All contract pharmacies carve-out Medicaid. A list of Medicaid payers for exclusion is updated regularly.
+
+Program Monitoring 
+
+Self-audits are completed regularly as outlined in NFP 340B Policies and Procedures to ensure program integrity and oversight. Any concerns are investigated and addressed according to policy and procedure.  Results of the self-audits are reviewed and discussed during 340B Oversight Team meetings. Independent external audits are performed annually.  
+
+"
+1,uses,alternative_narrative,,,-

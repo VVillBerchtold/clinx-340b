@@ -37,7 +37,7 @@ from filings340b.forms import (
 from filings340b.masking import mask
 from filings340b.model import Verification
 from filings340b.ohio_template import CONTACT_MARKER, Layout, OhioLine, map_sheet, template_sheet
-from filings340b.workbook import Workbook, read_workbook
+from filings340b.workbook import Workbook, read_workbook, row_number
 
 FORM_REVISION = (
     "Ohio Department of Health, ORC 3701.88 340B Covered Entity Reporting Template, "
@@ -168,6 +168,58 @@ class Transcribed:
     contacts: tuple[str, ...]
 
 
+WITHHELD_UNLISTED = "[withheld: beside_small]"
+
+
+def _small_blocks(cells: dict[str, str], mapped: set[str]) -> set[str]:
+    """Find cells outside the form's lines that a small prescription count would give away.
+
+    The earlier layout of the template lists each contract pharmacy in a block of rows (a name,
+    then acquisition cost, payments, prescriptions, 340B prescriptions and a percentage). Those
+    cells are not lines of the form. When a block holds a prescription count of 1 to 5, every
+    count and percentage cell of the block is returned so the cells file can withhold them.
+    """
+    blocks: dict[int, list[int]] = {}
+    current = 0
+    labels: dict[int, str] = {}
+    for ref, value in cells.items():
+        row = row_number(ref)
+        if ref.startswith("B") and ref[1:].isdigit() and value.strip():
+            current = row
+            blocks.setdefault(current, [])
+        if ref.startswith("C") and ref[1:].isdigit():
+            labels[row] = " ".join(value.lower().split())
+    rows_of: dict[int, list[int]] = {}
+    for row, label in labels.items():
+        if label.startswith(("total number of", "percentage of total")):
+            owner = max((b for b in blocks if b <= row), default=0)
+            rows_of.setdefault(owner, []).append(row)
+    out: set[str] = set()
+    for rows in rows_of.values():
+        found = [
+            ref
+            for ref in cells
+            if ref not in mapped
+            and row_number(ref) in rows
+            and not ref.startswith(("A", "B", "C"))
+            and _is_number(cells[ref])
+        ]
+        counts = [
+            cells[ref] for ref in found if labels[row_number(ref)].startswith("total number of")
+        ]
+        if any(_is_small(value) for value in counts):
+            out.update(found)
+    return out
+
+
+def _is_number(text: str) -> bool:
+    return re.fullmatch(r"-?\d+(\.\d+)?(E-?\d+)?", text.strip()) is not None
+
+
+def _is_small(text: str) -> bool:
+    return re.fullmatch(r"[1-5](\.0+)?", text.strip()) is not None
+
+
 def _contact_values(workbook_cells: dict[str, str], refs: frozenset[str]) -> list[str]:
     values = []
     for ref in sorted(refs):
@@ -232,11 +284,16 @@ def transcribe(stem: str, workbook: Workbook) -> Transcribed:
     by_ref = {cell.ref: cell.value for cell in sheet.cells}
     contacts = _contact_values(by_ref, layout.contact_refs)
     rows = tuple(_row(line, contacts) for line in layout.lines)
+    unlisted = _small_blocks(by_ref, {line.ref for line in layout.lines})
     cells = tuple(
         (
             sheet.name,
             cell.ref,
-            CONTACT_MARKER if cell.ref in layout.contact_refs else scrub(cell.value, contacts),
+            CONTACT_MARKER
+            if cell.ref in layout.contact_refs
+            else WITHHELD_UNLISTED
+            if cell.ref in unlisted
+            else scrub(cell.value, contacts),
         )
         for cell in sheet.cells
     )

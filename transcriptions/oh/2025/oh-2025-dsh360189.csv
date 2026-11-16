@@ -1,0 +1,202 @@
+schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note,source_cell
+in_house_acquisition_cost,commercial,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,Commercial Insurance/Private Insurance:,,0,,,1,two_file_reads,,C17
+in_house_acquisition_cost,medicare,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,Medicare:,,0,,,1,two_file_reads,,D17
+in_house_acquisition_cost,medicaid,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,Medicaid (all states):,,0,,,1,two_file_reads,,E17
+in_house_acquisition_cost,other_third_party,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,Other Third-Party Payor:,,0,,,1,two_file_reads,,F17
+in_house_acquisition_cost,uninsured,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,Uninsured/Self-Pay:,,0,,,1,two_file_reads,,G17
+in_house_acquisition_cost,total,total,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,TOTAL:,,0,,,1,two_file_reads,,H17
+in_house_payments_received,commercial,detail,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,Commercial Insurance/Private Insurance:,,0,,,1,two_file_reads,,C18
+in_house_payments_received,medicare,detail,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,Medicare:,,0,,,1,two_file_reads,,D18
+in_house_payments_received,medicaid,detail,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,Medicaid (all states):,,0,,,1,two_file_reads,,E18
+in_house_payments_received,other_third_party,detail,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,Other Third-Party Payor:,,0,,,1,two_file_reads,,F18
+in_house_payments_received,uninsured,detail,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,Uninsured/Self-Pay:,,0,,,1,two_file_reads,,G18
+in_house_payments_received,total,total,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,TOTAL:,,0,,,1,two_file_reads,,H18
+in_house_rx_all,commercial,detail,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,Commercial Insurance/Private Insurance:,,,0,,1,two_file_reads,,C19
+in_house_rx_all,medicare,detail,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,Medicare:,,,0,,1,two_file_reads,,D19
+in_house_rx_all,medicaid,detail,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,Medicaid (all states):,,,0,,1,two_file_reads,,E19
+in_house_rx_all,other_third_party,detail,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,Other Third-Party Payor:,,,0,,1,two_file_reads,,F19
+in_house_rx_all,uninsured,detail,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,Uninsured/Self-Pay:,,,0,,1,two_file_reads,,G19
+in_house_rx_all,total,total,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,TOTAL:,,,0,,1,two_file_reads,,H19
+in_house_rx_340b,commercial,detail,Total number of Prescriptions dispensed by the Covered Entity (340B),,Commercial Insurance/Private Insurance:,,,0,,1,two_file_reads,,C20
+in_house_rx_340b,medicare,detail,Total number of Prescriptions dispensed by the Covered Entity (340B),,Medicare:,,,0,,1,two_file_reads,,D20
+in_house_rx_340b,medicaid,detail,Total number of Prescriptions dispensed by the Covered Entity (340B),,Medicaid (all states):,,,0,,1,two_file_reads,,E20
+in_house_rx_340b,other_third_party,detail,Total number of Prescriptions dispensed by the Covered Entity (340B),,Other Third-Party Payor:,,,0,,1,two_file_reads,,F20
+in_house_rx_340b,uninsured,detail,Total number of Prescriptions dispensed by the Covered Entity (340B),,Uninsured/Self-Pay:,,,0,,1,two_file_reads,,G20
+in_house_rx_340b,total,total,Total number of Prescriptions dispensed by the Covered Entity (340B),,TOTAL:,,,0,,1,two_file_reads,,H20
+in_house_rx_pct,commercial,detail,Percentage of total prescriptions that were 340B,,Commercial Insurance/Private Insurance:,,#DIV/0!,,,1,two_file_reads,,C21
+in_house_rx_pct,medicare,detail,Percentage of total prescriptions that were 340B,,Medicare:,,#DIV/0!,,,1,two_file_reads,,D21
+in_house_rx_pct,medicaid,detail,Percentage of total prescriptions that were 340B,,Medicaid (all states):,,#DIV/0!,,,1,two_file_reads,,E21
+in_house_rx_pct,other_third_party,detail,Percentage of total prescriptions that were 340B,,Other Third-Party Payor:,,#DIV/0!,,,1,two_file_reads,,F21
+in_house_rx_pct,uninsured,detail,Percentage of total prescriptions that were 340B,,Uninsured/Self-Pay:,,#DIV/0!,,,1,two_file_reads,,G21
+in_house_rx_pct,total,total,Percentage of total prescriptions that were 340B,,TOTAL:,,#DIV/0!,,,1,two_file_reads,,H21
+contract_acquisition_cost,commercial,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Commercial Insurance/Private Insurance:,,0,,,1,two_file_reads,,C26
+contract_acquisition_cost,medicare,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Medicare:,,81527.34,,,1,two_file_reads,,D26
+contract_acquisition_cost,medicaid,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Medicaid (all states):,,0,,,1,two_file_reads,,E26
+contract_acquisition_cost,other_third_party,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Other Third-Party Payor:,,0,,,1,two_file_reads,,F26
+contract_acquisition_cost,uninsured,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Uninsured/Self-Pay:,,0,,,1,two_file_reads,,G26
+contract_acquisition_cost,indeterminate,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Indeterminate (Explain),,0,,,1,two_file_reads,,H26
+contract_acquisition_cost,total,total,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,TOTAL:,,81527.34,,,1,two_file_reads,,I26
+contract_payments_received,commercial,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Commercial Insurance/Private Insurance:,,0,,,1,two_file_reads,,C27
+contract_payments_received,medicare,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Medicare:,,180577.78,,,1,two_file_reads,,D27
+contract_payments_received,medicaid,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Medicaid (all states):,,0,,,1,two_file_reads,,E27
+contract_payments_received,other_third_party,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Other Third-Party Payor:,,0,,,1,two_file_reads,,F27
+contract_payments_received,uninsured,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Uninsured/Self-Pay:,,0,,,1,two_file_reads,,G27
+contract_payments_received,indeterminate,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Indeterminate (Explain),,0,,,1,two_file_reads,,H27
+contract_payments_received,total,total,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,TOTAL:,,180577.78,,,1,two_file_reads,,I27
+contract_rx_all,commercial,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Commercial Insurance/Private Insurance:,,,0,,1,two_file_reads,,C28
+contract_rx_all,medicare,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Medicare:,,,12,,1,two_file_reads,,D28
+contract_rx_all,medicaid,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Medicaid (all states):,,,0,,1,two_file_reads,,E28
+contract_rx_all,other_third_party,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Other Third-Party Payor:,,,0,,1,two_file_reads,,F28
+contract_rx_all,uninsured,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Uninsured/Self-Pay:,,,0,,1,two_file_reads,,G28
+contract_rx_all,indeterminate,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Indeterminate (Explain),,,0,,1,two_file_reads,,H28
+contract_rx_all,total,total,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,TOTAL:,,,12,,1,two_file_reads,,I28
+contract_rx_340b,commercial,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Commercial Insurance/Private Insurance:,,,0,,1,two_file_reads,,C29
+contract_rx_340b,medicare,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Medicare:,,,12,,1,two_file_reads,,D29
+contract_rx_340b,medicaid,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Medicaid (all states):,,,0,,1,two_file_reads,,E29
+contract_rx_340b,other_third_party,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Other Third-Party Payor:,,,0,,1,two_file_reads,,F29
+contract_rx_340b,uninsured,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Uninsured/Self-Pay:,,,0,,1,two_file_reads,,G29
+contract_rx_340b,indeterminate,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Indeterminate (Explain),,,0,,1,two_file_reads,,H29
+contract_rx_340b,total,total,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,TOTAL:,,,12,,1,two_file_reads,,I29
+contract_rx_pct,commercial,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Commercial Insurance/Private Insurance:,,#DIV/0!,,,1,two_file_reads,,C30
+contract_rx_pct,medicare,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Medicare:,,100,,,1,two_file_reads,,D30
+contract_rx_pct,medicaid,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Medicaid (all states):,,#DIV/0!,,,1,two_file_reads,,E30
+contract_rx_pct,other_third_party,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Other Third-Party Payor:,,#DIV/0!,,,1,two_file_reads,,F30
+contract_rx_pct,uninsured,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Uninsured/Self-Pay:,,#DIV/0!,,,1,two_file_reads,,G30
+contract_rx_pct,indeterminate,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Indeterminate (Explain),,#DIV/0!,,,1,two_file_reads,,H30
+contract_rx_pct,total,total,Percentage of total Covered-Entity associated prescriptions that were 340B:,,TOTAL:,,100,,,1,two_file_reads,,I30
+administered_acquisition_cost,commercial,detail,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,Commercial Insurance/Private Insurance:,,1537875.54,,,1,two_file_reads,,D35
+administered_acquisition_cost,medicare,detail,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,Medicare:,,3001720.62,,,1,two_file_reads,,E35
+administered_acquisition_cost,medicaid,detail,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,Medicaid (all states):,,1202208.95,,,1,two_file_reads,,F35
+administered_acquisition_cost,other_third_party,detail,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,Other Third-Party Payor:,,273564.40999999997,,,1,two_file_reads,,G35
+administered_acquisition_cost,uninsured,detail,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,Uninsured/Self-Pay:,,163879.47,,,1,two_file_reads,,H35
+administered_acquisition_cost,total,total,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,TOTAL:,,6179248.9900000002,,,1,two_file_reads,,I35
+administered_payments_actual,commercial,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,Commercial Insurance/Private Insurance:,,5254261.51,,,1,two_file_reads,,D36
+administered_payments_actual,medicare,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,Medicare:,,7640042.5800000001,,,1,two_file_reads,,E36
+administered_payments_actual,medicaid,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,Medicaid (all states):,,636820.76,,,1,two_file_reads,,F36
+administered_payments_actual,other_third_party,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,Other Third-Party Payor:,,3800474,,,1,two_file_reads,,G36
+administered_payments_actual,uninsured,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,Uninsured/Self-Pay:,,60392.95,,,1,two_file_reads,,H36
+administered_payments_actual,total,total,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,TOTAL:,,17391991.800000001,,,1,two_file_reads,,I36
+administered_payments_actual,cell_C,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,,,Actual Payments,,,1,two_file_reads,,C36
+administered_payments_estimated,commercial,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,Commercial Insurance/Private Insurance:,,0,,,1,two_file_reads,,D37
+administered_payments_estimated,medicare,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,Medicare:,,0,,,1,two_file_reads,,E37
+administered_payments_estimated,medicaid,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,Medicaid (all states):,,0,,,1,two_file_reads,,F37
+administered_payments_estimated,other_third_party,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,Other Third-Party Payor:,,0,,,1,two_file_reads,,G37
+administered_payments_estimated,uninsured,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,Uninsured/Self-Pay:,,0,,,1,two_file_reads,,H37
+administered_payments_estimated,total,total,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,TOTAL:,,0,,,1,two_file_reads,,I37
+administered_payments_estimated,cell_C,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,,,Estimated Payments*,,,1,two_file_reads,,C37
+administered_payments_total,commercial,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,Commercial Insurance/Private Insurance:,,5254261.51,,,1,two_file_reads,,D38
+administered_payments_total,medicare,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,Medicare:,,7640042.5800000001,,,1,two_file_reads,,E38
+administered_payments_total,medicaid,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,Medicaid (all states):,,636820.76,,,1,two_file_reads,,F38
+administered_payments_total,other_third_party,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,Other Third-Party Payor:,,3800474,,,1,two_file_reads,,G38
+administered_payments_total,uninsured,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,Uninsured/Self-Pay:,,60392.95,,,1,two_file_reads,,H38
+administered_payments_total,total,total,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,TOTAL:,,17391991.800000001,,,1,two_file_reads,,I38
+administered_payments_total,cell_C,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,,,TOTAL,,,1,two_file_reads,,C38
+administered_rx_all,commercial,detail,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,Commercial Insurance/Private Insurance:,,,48588,,1,two_file_reads,,D39
+administered_rx_all,medicare,detail,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,Medicare:,,,94836,,1,two_file_reads,,E39
+administered_rx_all,medicaid,detail,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,Medicaid (all states):,,,37983,,1,two_file_reads,,F39
+administered_rx_all,other_third_party,detail,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,Other Third-Party Payor:,,,8643,,1,two_file_reads,,G39
+administered_rx_all,uninsured,detail,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,Uninsured/Self-Pay:,,,5179,,1,two_file_reads,,H39
+administered_rx_all,total,total,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,TOTAL:,,,195229,,1,two_file_reads,,I39
+administered_rx_340b,commercial,detail,Total number of Prescriptions administered by the Covered Entity (340B),,Commercial Insurance/Private Insurance:,,,17478,,1,two_file_reads,,D40
+administered_rx_340b,medicare,detail,Total number of Prescriptions administered by the Covered Entity (340B),,Medicare:,,,34114,,1,two_file_reads,,E40
+administered_rx_340b,medicaid,detail,Total number of Prescriptions administered by the Covered Entity (340B),,Medicaid (all states):,,,13663,,1,two_file_reads,,F40
+administered_rx_340b,other_third_party,detail,Total number of Prescriptions administered by the Covered Entity (340B),,Other Third-Party Payor:,,,3109,,1,two_file_reads,,G40
+administered_rx_340b,uninsured,detail,Total number of Prescriptions administered by the Covered Entity (340B),,Uninsured/Self-Pay:,,,1863,,1,two_file_reads,,H40
+administered_rx_340b,total,total,Total number of Prescriptions administered by the Covered Entity (340B),,TOTAL:,,,70227,,1,two_file_reads,,I40
+administered_rx_pct,commercial,detail,Percentage of total prescriptions that were 340B,,Commercial Insurance/Private Insurance:,,35.971844899975302,,,1,two_file_reads,,D41
+administered_rx_pct,medicare,detail,Percentage of total prescriptions that were 340B,,Medicare:,,35.971571976886416,,,1,two_file_reads,,E41
+administered_rx_pct,medicaid,detail,Percentage of total prescriptions that were 340B,,Medicaid (all states):,,35.971355606455518,,,1,two_file_reads,,F41
+administered_rx_pct,other_third_party,detail,Percentage of total prescriptions that were 340B,,Other Third-Party Payor:,,35.97130625940067,,,1,two_file_reads,,G41
+administered_rx_pct,uninsured,detail,Percentage of total prescriptions that were 340B,,Uninsured/Self-Pay:,,35.972195404518246,,,1,two_file_reads,,H41
+administered_rx_pct,total,total,Percentage of total prescriptions that were 340B,,TOTAL:,,35.971602579534803,,,1,two_file_reads,,I41
+costs,contract_pharmacies,detail,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):,,,,7800,,,1,two_file_reads,,C46
+costs,third_party_administrators,detail,Total Payments to 340B Third Party Administrators:,,,,0,,,1,two_file_reads,,C47
+costs,consultants,detail,Total Payments to 340B Consulting Entities (including audit support):,,,,0,,,1,two_file_reads,,C48
+costs,software_it,detail,340B Software and Information Technology Costs:,,,,21218,,,1,two_file_reads,,C49
+costs,other_external,detail,Other Payments to External Entities:,,,,0,,,1,two_file_reads,,C50
+costs,staffing,detail,Staffing Costs (340B dedicated):,,,,69023.48,,,1,two_file_reads,,C53
+costs,internal_it,detail,Information Technology Costs:,,,,0,,,1,two_file_reads,,C54
+costs,other_internal,detail,Other internal costs:,,,,0,,,1,two_file_reads,,C55
+contract_pharmacies,count,detail,Covered Entity's total number of Contract Pharmacies:,,,,2,,,1,two_file_reads,,C59
+identity,reporting_period,detail,Reporting Period:,,,,,,"January 1, 2025 - December 31, 2025",1,two_file_reads,,C4
+identity,hrsa_id,detail,HRSA 340B ID:,,,,,,DSH360189,1,two_file_reads,,C8
+identity,id_prefix,detail,HRSA 340B ID:,,Lettered Prefix:,,,,DSH,1,two_file_reads,,D10
+identity,id_number,detail,HRSA 340B ID:,,Number:,,,,360189,1,two_file_reads,,E10
+identity,npi_1,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI1,,,,1245442318,1,two_file_reads,,C13
+identity,npi_2,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI2,,,,-,1,two_file_reads,,D13
+identity,npi_3,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI3,,,,-,1,two_file_reads,,E13
+identity,npi_4,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI4,,,,-,1,two_file_reads,,F13
+identity,npi_5,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI5,,,,-,1,two_file_reads,,G13
+identity,npi_6,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI6,,,,-,1,two_file_reads,,H13
+identity,npi_7,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI7,,,,-,1,two_file_reads,,I13
+identity,npi_8,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI8,,,,-,1,two_file_reads,,J13
+identity,npi_9,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI9,,,,-,1,two_file_reads,,K13
+identity,npi_10,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI10,,,,-,1,two_file_reads,,L13
+identity,npi_11,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI11,,,,-,1,two_file_reads,,M13
+identity,npi_12,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI12,,,,-,1,two_file_reads,,N13
+identity,npi_13,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI13,,,,-,1,two_file_reads,,O13
+identity,npi_14,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI14,,,,-,1,two_file_reads,,P13
+identity,npi_15,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI15,,,,-,1,two_file_reads,,Q13
+identity,npi_16,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI16,,,,-,1,two_file_reads,,R13
+identity,npi_17,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI17,,,,-,1,two_file_reads,,S13
+identity,npi_18,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI18,,,,-,1,two_file_reads,,T13
+identity,npi_19,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI19,,,,-,1,two_file_reads,,U13
+identity,npi_20,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NPI20,,,,-,1,two_file_reads,,V13
+contract_pharmacy_notes,indeterminate_explanation,detail,"(Required if ""Indeterminate"" used above) Explanation:",,,,,,-,1,two_file_reads,,I32
+uses,program_1_description,detail,Program/Service 1:,,,,,,0,1,two_file_reads,,C65
+uses,program_1_amount,detail,Program/Service 1:,,,,-,,,1,two_file_reads,,D65
+uses,program_2_description,detail,Program/Service 2:,,,,,,-,1,two_file_reads,,C66
+uses,program_2_amount,detail,Program/Service 2:,,,,-,,,1,two_file_reads,,D66
+uses,program_3_description,detail,Program/Service 3:,,,,,,-,1,two_file_reads,,C67
+uses,program_3_amount,detail,Program/Service 3:,,,,-,,,1,two_file_reads,,D67
+uses,program_4_description,detail,Program/Service 4:,,,,,,-,1,two_file_reads,,C68
+uses,program_4_amount,detail,Program/Service 4:,,,,-,,,1,two_file_reads,,D68
+uses,program_5_description,detail,Program/Service 5:,,,,,,-,1,two_file_reads,,C69
+uses,program_5_amount,detail,Program/Service 5:,,,,-,,,1,two_file_reads,,D69
+uses,equipment_1_description,detail,Item 1:,,,,,,0,1,two_file_reads,,C72
+uses,equipment_1_amount,detail,Item 1:,,,,-,,,1,two_file_reads,,D72
+uses,equipment_2_description,detail,Item 2:,,,,,,-,1,two_file_reads,,C73
+uses,equipment_2_amount,detail,Item 2:,,,,-,,,1,two_file_reads,,D73
+uses,equipment_3_description,detail,Item 3:,,,,,,-,1,two_file_reads,,C74
+uses,equipment_3_amount,detail,Item 3:,,,,-,,,1,two_file_reads,,D74
+uses,equipment_4_description,detail,Item 4:,,,,,,-,1,two_file_reads,,C75
+uses,equipment_4_amount,detail,Item 4:,,,,-,,,1,two_file_reads,,D75
+uses,equipment_5_description,detail,Item 5:,,,,,,-,1,two_file_reads,,C76
+uses,equipment_5_amount,detail,Item 5:,,,,-,,,1,two_file_reads,,D76
+uses,other_uses_description,detail,Other uses of 340B funds not otherwise listed above:,,,,,,-,1,two_file_reads,,C78
+uses,other_uses_amount,detail,Other uses of 340B funds not otherwise listed above:,,,,-,,,1,two_file_reads,,D78
+uses,narrative,detail,(Narrative) Provide additional detail/context as necessary:,,,,,,-,1,two_file_reads,,C80
+uses,alternative_narrative,detail,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used.",,,,,,"The Value of the 340B Program to Our Rural Hospital and Community 
+
+ 
+
+Executive Summary 
+The 340B Drug Pricing Program is a critical source of financial support that enables our hospital to continue fulfilling its mission of providing high-quality healthcare services to all patients regardless of their ability to pay. The savings generated through participation in the 340B program are not retained as profit; rather, they are reinvested directly into patient care, community health programs, capital improvements, and services that would otherwise be financially unsustainable in a rural healthcare environment. 
+
+Supporting Oncology Services 
+
+Cancer care requires significant investments in specialized staff, medications, equipment, and patient support services. 340B savings help offset the increasing costs associated with providing oncology services, allowing patients in our community to receive treatment closer to home rather than traveling to larger metropolitan areas. These savings support access to life-saving therapies, patient navigation, and comprehensive care for vulnerable populations. 
+
+Funding Withdrawal Management Services 
+
+Our Withdrawal Management program serves a disproportionately high Medicaid population and operates at a financial loss. Despite the negative margin, the service was identified as a critical need through our Community Health Needs Assessment. 340B savings help support the continuation of this essential program, ensuring individuals struggling with substance use disorders have access to treatment, recovery support, and care coordination within our community. 
+
+Supporting Charity Care and Uncompensated Care 
+
+Many patients do not qualify for Medicaid or formal charity care programs yet still lack the financial resources to pay for needed medical services. 340B savings help offset uncompensated and undercompensated care, allowing our hospital to continue serving patients regardless of financial circumstance while reducing barriers to care. 
+
+Offsetting Declining Reimbursement 
+
+Hospitals continue to face increasing financial pressure from reductions and inadequacies in reimbursement from Medicare, Medicaid, and commercial managed care organizations. Reimbursement rates often fail to cover the actual cost of delivering care, particularly for rural providers. The 340B program helps bridge a portion of this gap, supporting the financial stability necessary to maintain access to essential services. 
+
+Reinvestment in Hospital Infrastructure and Technology 
+
+340B savings allow the hospital to reinvest in critical infrastructure and patient care improvements. These investments include new medical equipment, modernization projects, facility repairs, technology upgrades, cybersecurity initiatives, and other improvements that enhance quality, safety, and patient experience. Without these savings, many capital projects would be delayed or eliminated. 
+
+Protecting Access to Care in a Rural Community 
+
+As a rural healthcare provider, we operate in an environment with unique challenges, including lower patient volumes, workforce shortages, transportation barriers, and limited access to specialty care. Compared with the neighboring Columbus metropolitan area, our community has fewer healthcare resources readily available. The 340B program helps ensure local residents maintain access to services close to home and supports the development of future programs identified as community needs. 
+
+Conclusion 
+
+The 340B Program is an essential tool that enables our hospital to fulfill its obligation to serve the healthcare needs of our community. Program savings strengthen access to oncology care, sustain withdrawal management services, support charity and uncompensated care, mitigate reimbursement challenges, fund necessary capital investments, and preserve access to healthcare in our rural region. Continued participation in the 340B program directly benefits patients and helps ensure the long-term viability of services that our community depends upon every day. ",1,two_file_reads,,C82

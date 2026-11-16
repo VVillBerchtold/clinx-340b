@@ -203,6 +203,11 @@ def built() -> dict[str, bytes]:
     return build_outputs(ROOT)
 
 
+def _ohio(filing_id: str) -> bool:
+    """Ohio's workbooks have their own small-number tests (tests/test_ohio.py)."""
+    return filing_id.startswith("oh-")
+
+
 def _items(built: dict[str, bytes]) -> list[dict[str, str]]:
     return list(csv.DictReader(io.StringIO(built["line_items.csv"].decode("utf-8"))))
 
@@ -210,8 +215,9 @@ def _items(built: dict[str, bytes]) -> list[dict[str, str]]:
 def test_no_published_row_has_a_claim_count_of_one_to_five(built: dict[str, bytes]) -> None:
     for item in _items(built):
         for column in ("claims", "claims_as_filed"):
-            if item[column]:
-                assert not SMALL_LOWEST <= int(item[column].replace(",", "")) <= SMALL_HIGHEST
+            text = item[column].replace(",", "")
+            if text.isdigit():
+                assert not SMALL_LOWEST <= int(text) <= SMALL_HIGHEST
     document = json.loads(built["340b-state-filings.json"])
     for item in document["line_items"]:
         if item["claims"]:
@@ -221,7 +227,7 @@ def test_no_published_row_has_a_claim_count_of_one_to_five(built: dict[str, byte
 def test_exactly_the_small_schedule_g_rows_are_marked_and_the_guard_adds_none(
     built: dict[str, bytes],
 ) -> None:
-    marked = [i for i in _items(built) if i["claims_withheld"]]
+    marked = [i for i in _items(built) if i["claims_withheld"] and not _ohio(i["filing_id"])]
     assert len(marked) == EXPECTED_WITHHELD
     assert {i["claims_withheld"] for i in marked} == {FEWER_THAN}
     assert {(i["schedule"], i["row_kind"]) for i in marked} == {("G", "detail")}
@@ -233,7 +239,7 @@ def test_exactly_the_small_schedule_g_rows_are_marked_and_the_guard_adds_none(
         (r.filing_id, r.schedule, r.line)
         for f in load_filings(ROOT)
         for r in f.rows
-        if r.claims_withheld
+        if r.claims_withheld and not _ohio(r.filing_id)
     }
     assert in_files == keys_marked
     if PRIVATE.exists():
@@ -241,7 +247,10 @@ def test_exactly_the_small_schedule_g_rows_are_marked_and_the_guard_adds_none(
             (r.filing_id, r.schedule, r.line)
             for f in load_filings(ROOT)
             for r in f.rows
-            if r.row_kind is RowKind.DETAIL and r.claims is not None and 1 <= r.claims <= 5
+            if r.row_kind is RowKind.DETAIL
+            and r.claims is not None
+            and 1 <= r.claims <= 5
+            and not _ohio(r.filing_id)
         }
         assert small == keys_marked
     assert len(keys_marked) == EXPECTED_WITHHELD
@@ -249,6 +258,8 @@ def test_exactly_the_small_schedule_g_rows_are_marked_and_the_guard_adds_none(
 
 def test_every_filing_with_small_rows_has_two_or_more_and_stays_between_the_limits() -> None:
     for filing in load_filings(ROOT):
+        if _ohio(filing.meta.filing_id):
+            continue
         for letter in "CG":
             marked = [r for r in filing.schedule(letter) if r.claims_withheld]
             if marked:
@@ -263,7 +274,7 @@ def test_totals_and_below_threshold_rows_are_published_as_filed(built: dict[str,
     seen = 0
     for item in _items(built):
         source = filed[(item["filing_id"], item["schedule"], item["line"])]
-        if item["row_kind"] in ("total", "below_threshold"):
+        if item["row_kind"] in ("total", "below_threshold") and not _ohio(item["filing_id"]):
             assert item["claims_withheld"] == ""
             assert item["claims_as_filed"] == source.claims_as_filed
             assert item["claims"] == ("" if source.claims is None else str(source.claims))
@@ -282,7 +293,7 @@ def test_the_rows_of_other_kinds_and_counts_keep_their_claims(built: dict[str, b
 
 def test_vermont_and_minnesota_rows_only_gain_an_empty_column(built: dict[str, bytes]) -> None:
     for item in _items(built):
-        if not item["filing_id"].startswith("ri-"):
+        if not item["filing_id"].startswith(("ri-", "oh-")):
             assert item["claims_withheld"] == ""
             assert item["claims"] == item["claims_as_filed"] == ""
 

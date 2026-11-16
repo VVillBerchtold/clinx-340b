@@ -1,0 +1,275 @@
+sheet,cell,value
+CAH361320 Data,B1,Ohio Department of Health
+CAH361320 Data,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+CAH361320 Data,B4,Reporting Period:
+CAH361320 Data,C4,"January 1, 2025 - December 31, 2025"
+CAH361320 Data,B5,Primary Contact Name:
+CAH361320 Data,C5,[contact detail withheld]
+CAH361320 Data,B6,Email:
+CAH361320 Data,C6,[contact detail withheld]
+CAH361320 Data,B7,Phone Number:
+CAH361320 Data,C7,[contact detail withheld]
+CAH361320 Data,A8,Data Element
+CAH361320 Data,B8,HRSA 340B ID:
+CAH361320 Data,C8,CAH361320
+CAH361320 Data,D9,Lettered Prefix:
+CAH361320 Data,E9,Number:
+CAH361320 Data,A10,1
+CAH361320 Data,D10,CAH
+CAH361320 Data,E10,361320
+CAH361320 Data,C12,NPI1
+CAH361320 Data,D12,NPI2
+CAH361320 Data,E12,NPI3
+CAH361320 Data,F12,NPI4
+CAH361320 Data,G12,NPI5
+CAH361320 Data,H12,NPI6
+CAH361320 Data,A13,2
+CAH361320 Data,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+CAH361320 Data,C13,1669410940
+CAH361320 Data,D13,-
+CAH361320 Data,E13,-
+CAH361320 Data,F13,-
+CAH361320 Data,G13,-
+CAH361320 Data,H13,-
+CAH361320 Data,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+CAH361320 Data,C16,Commercial Insurance/Private Insurance:
+CAH361320 Data,D16,Medicare:
+CAH361320 Data,E16,"Medicaid 
+(all states):"
+CAH361320 Data,F16,Other Third-Party Payor:
+CAH361320 Data,G16,"Uninsured/
+Self-Pay:"
+CAH361320 Data,H16,TOTAL:
+CAH361320 Data,A17,3
+CAH361320 Data,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+CAH361320 Data,C17,N/A
+CAH361320 Data,D17,N/A
+CAH361320 Data,E17,N/A
+CAH361320 Data,F17,N/A
+CAH361320 Data,G17,N/A
+CAH361320 Data,H17,0
+CAH361320 Data,A18,4
+CAH361320 Data,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+CAH361320 Data,C18,N/A
+CAH361320 Data,D18,N/A
+CAH361320 Data,E18,N/A
+CAH361320 Data,F18,N/A
+CAH361320 Data,G18,N/A
+CAH361320 Data,H18,0
+CAH361320 Data,A19,5
+CAH361320 Data,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+CAH361320 Data,C19,N/A
+CAH361320 Data,D19,N/A
+CAH361320 Data,E19,N/A
+CAH361320 Data,F19,N/A
+CAH361320 Data,G19,N/A
+CAH361320 Data,H19,0
+CAH361320 Data,A20,6
+CAH361320 Data,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+CAH361320 Data,C20,N/A
+CAH361320 Data,D20,N/A
+CAH361320 Data,E20,N/A
+CAH361320 Data,F20,N/A
+CAH361320 Data,G20,N/A
+CAH361320 Data,H20,0
+CAH361320 Data,A21,7
+CAH361320 Data,B21,Percentage of total prescriptions that were 340B
+CAH361320 Data,C21,N/A
+CAH361320 Data,D21,N/A
+CAH361320 Data,E21,N/A
+CAH361320 Data,F21,N/A
+CAH361320 Data,G21,N/A
+CAH361320 Data,H21,N/A
+CAH361320 Data,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+CAH361320 Data,A25,8
+CAH361320 Data,C25,Commercial Insurance/Private Insurance:
+CAH361320 Data,D25,Medicare:
+CAH361320 Data,E25,"Medicaid 
+(all states):"
+CAH361320 Data,F25,Other Third-Party Payor:
+CAH361320 Data,G25,"Uninsured/
+Self-Pay:"
+CAH361320 Data,H25,Indeterminate (Explain)
+CAH361320 Data,I25,TOTAL:
+CAH361320 Data,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+CAH361320 Data,C26,16671.34
+CAH361320 Data,D26,11632.29
+CAH361320 Data,E26,1683.16
+CAH361320 Data,F26,762.76
+CAH361320 Data,G26,0
+CAH361320 Data,H26,0
+CAH361320 Data,I26,30749.55
+CAH361320 Data,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+CAH361320 Data,C27,59221.35
+CAH361320 Data,D27,39109.82
+CAH361320 Data,E27,14461.87
+CAH361320 Data,F27,2260.84
+CAH361320 Data,G27,0
+CAH361320 Data,H27,0
+CAH361320 Data,I27,115053.87999999999
+CAH361320 Data,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+CAH361320 Data,C28,1647
+CAH361320 Data,D28,1004
+CAH361320 Data,E28,2896
+CAH361320 Data,F28,375
+CAH361320 Data,G28,0
+CAH361320 Data,H28,0
+CAH361320 Data,I28,5922
+CAH361320 Data,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+CAH361320 Data,C29,770
+CAH361320 Data,D29,449
+CAH361320 Data,E29,2381
+CAH361320 Data,F29,197
+CAH361320 Data,G29,0
+CAH361320 Data,H29,0
+CAH361320 Data,I29,3797
+CAH361320 Data,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+CAH361320 Data,C30,0.46751669702489373
+CAH361320 Data,D30,0.44721115537848605
+CAH361320 Data,E30,0.82216850828729282
+CAH361320 Data,F30,0.52533333333333332
+CAH361320 Data,G30,N/A
+CAH361320 Data,H30,N/A
+CAH361320 Data,I30,0.64116852414724756
+CAH361320 Data,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+CAH361320 Data,I32,-
+CAH361320 Data,B33,Section 3: Administered Drugs
+CAH361320 Data,D34,"Commercial Insurance/
+Private Insurance:"
+CAH361320 Data,E34,Medicare:
+CAH361320 Data,F34,"Medicaid 
+(all states):"
+CAH361320 Data,G34,Other Third-Party Payor:
+CAH361320 Data,H34,"Uninsured/
+Self-Pay:"
+CAH361320 Data,I34,TOTAL:
+CAH361320 Data,A35,9
+CAH361320 Data,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+CAH361320 Data,D35,124034.88
+CAH361320 Data,E35,483302.08999999997
+CAH361320 Data,F35,393443.94999999995
+CAH361320 Data,G35,1111.26
+CAH361320 Data,H35,4989.3999999999996
+CAH361320 Data,I35,1006881.58
+CAH361320 Data,A36,10
+CAH361320 Data,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+CAH361320 Data,C36,Actual Payments
+CAH361320 Data,D36,219280.15
+CAH361320 Data,E36,531988.84
+CAH361320 Data,F36,16719.82
+CAH361320 Data,G36,11.7
+CAH361320 Data,H36,0
+CAH361320 Data,I36,768000.50999999989
+CAH361320 Data,C37,Estimated Payments*
+CAH361320 Data,D37,29288.639999999999
+CAH361320 Data,E37,46369.19
+CAH361320 Data,F37,9406.18
+CAH361320 Data,G37,117.37
+CAH361320 Data,H37,0
+CAH361320 Data,I37,85181.38
+CAH361320 Data,C38,TOTAL
+CAH361320 Data,D38,248568.78999999998
+CAH361320 Data,E38,578358.03
+CAH361320 Data,F38,26126
+CAH361320 Data,G38,129.07
+CAH361320 Data,H38,0
+CAH361320 Data,I38,853181.89
+CAH361320 Data,A39,11
+CAH361320 Data,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+CAH361320 Data,D39,13269
+CAH361320 Data,E39,30107
+CAH361320 Data,F39,14954
+CAH361320 Data,G39,506
+CAH361320 Data,H39,2471
+CAH361320 Data,I39,61307
+CAH361320 Data,A40,12
+CAH361320 Data,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+CAH361320 Data,D40,8613
+CAH361320 Data,E40,20999
+CAH361320 Data,F40,10237
+CAH361320 Data,G40,410
+CAH361320 Data,H40,1782
+CAH361320 Data,I40,42041
+CAH361320 Data,A41,13
+CAH361320 Data,B41,Percentage of total prescriptions that were 340B
+CAH361320 Data,D41,0.6491069409902781
+CAH361320 Data,E41,0.69747899159663862
+CAH361320 Data,F41,0.68456600240738263
+CAH361320 Data,G41,0.81027667984189722
+CAH361320 Data,H41,0.72116552003237555
+CAH361320 Data,I41,0.68574551030061826
+CAH361320 Data,B43,Section 4: Administrative Costs of the 340B Program
+CAH361320 Data,B45,Payments to External Entities:
+CAH361320 Data,A46,14
+CAH361320 Data,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+CAH361320 Data,C46,8633
+CAH361320 Data,A47,15
+CAH361320 Data,B47,Total Payments to 340B Third Party Administrators:
+CAH361320 Data,C47,164104.76
+CAH361320 Data,A48,16
+CAH361320 Data,B48,Total Payments to 340B Consulting Entities (including audit support):
+CAH361320 Data,C48,20000
+CAH361320 Data,A49,17
+CAH361320 Data,B49,340B Software and Information Technology Costs:
+CAH361320 Data,C49,0
+CAH361320 Data,A50,18
+CAH361320 Data,B50,Other Payments to External Entities:
+CAH361320 Data,C50,0
+CAH361320 Data,B52,Internal Costs to Administer the 340B Program
+CAH361320 Data,A53,19
+CAH361320 Data,B53,Staffing Costs (340B dedicated):
+CAH361320 Data,C53,43305
+CAH361320 Data,A54,20
+CAH361320 Data,B54,Information Technology Costs:
+CAH361320 Data,C54,-
+CAH361320 Data,A55,21
+CAH361320 Data,B55,Other internal costs:
+CAH361320 Data,C55,-
+CAH361320 Data,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+CAH361320 Data,A59,22
+CAH361320 Data,B59,Covered Entity's total number of Contract Pharmacies:
+CAH361320 Data,C59,3
+CAH361320 Data,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+CAH361320 Data,C63,Detailed Description of Item:
+CAH361320 Data,D63,Expenditures from 340B funds:
+CAH361320 Data,A64,23
+CAH361320 Data,B64,Programs or Services funded/purchased with 340B funds:
+CAH361320 Data,B65,Program/Service 1:
+CAH361320 Data,C65,Improving Patient Access
+CAH361320 Data,D65,208523.08000000002
+CAH361320 Data,B66,Program/Service 2:
+CAH361320 Data,C66,Health Service Expansion
+CAH361320 Data,D66,12629.720000000001
+CAH361320 Data,B67,Program/Service 3:
+CAH361320 Data,C67,-
+CAH361320 Data,D67,-
+CAH361320 Data,B68,Program/Service 4:
+CAH361320 Data,C68,-
+CAH361320 Data,D68,-
+CAH361320 Data,B69,Program/Service 5:
+CAH361320 Data,C69,-
+CAH361320 Data,D69,-
+CAH361320 Data,B71,Equipment purchased with 340B Funds:
+CAH361320 Data,B72,Item 1:
+CAH361320 Data,C72,-
+CAH361320 Data,D72,-
+CAH361320 Data,B73,Item 2:
+CAH361320 Data,C73,-
+CAH361320 Data,D73,-
+CAH361320 Data,B74,Item 3:
+CAH361320 Data,C74,-
+CAH361320 Data,D74,-
+CAH361320 Data,B75,Item 4:
+CAH361320 Data,C75,-
+CAH361320 Data,D75,-
+CAH361320 Data,B76,Item 5:
+CAH361320 Data,C76,-
+CAH361320 Data,D76,-
+CAH361320 Data,B78,Other uses of 340B funds not otherwise listed above:
+CAH361320 Data,C78,-
+CAH361320 Data,D78,-
+CAH361320 Data,B80,(Narrative) Provide additional detail/context as necessary:
+CAH361320 Data,C80,"See ""LINE 23 Supplemental"" Tab"
+CAH361320 Data,A82,24
+CAH361320 Data,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+CAH361320 Data,C82,-

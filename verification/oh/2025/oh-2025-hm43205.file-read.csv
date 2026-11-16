@@ -1,0 +1,188 @@
+page,schedule,line,amount,claims,answer
+1,in_house_acquisition_cost,commercial,6342184,,
+1,in_house_acquisition_cost,medicare,0,,
+1,in_house_acquisition_cost,medicaid,8091289,,
+1,in_house_acquisition_cost,other_third_party,1406717,,
+1,in_house_acquisition_cost,uninsured,0,,
+1,in_house_acquisition_cost,total,15840190,,
+1,in_house_payments_received,commercial,8312489,,
+1,in_house_payments_received,medicare,0,,
+1,in_house_payments_received,medicaid,11024901,,
+1,in_house_payments_received,other_third_party,2370963,,
+1,in_house_payments_received,uninsured,0,,
+1,in_house_payments_received,total,21708353,,
+1,in_house_rx_all,commercial,,191,
+1,in_house_rx_all,medicare,,0,
+1,in_house_rx_all,medicaid,,369,
+1,in_house_rx_all,other_third_party,,75,
+1,in_house_rx_all,uninsured,,0,
+1,in_house_rx_all,total,,635,
+1,in_house_rx_340b,commercial,,191,
+1,in_house_rx_340b,medicare,,0,
+1,in_house_rx_340b,medicaid,,369,
+1,in_house_rx_340b,other_third_party,,75,
+1,in_house_rx_340b,uninsured,,0,
+1,in_house_rx_340b,total,,635,
+1,in_house_rx_pct,commercial,100,,
+1,in_house_rx_pct,medicare,#DIV/0!,,
+1,in_house_rx_pct,medicaid,100,,
+1,in_house_rx_pct,other_third_party,100,,
+1,in_house_rx_pct,uninsured,#DIV/0!,,
+1,in_house_rx_pct,total,100,,
+1,contract_acquisition_cost,commercial,N/A,,
+1,contract_acquisition_cost,medicare,N/A,,
+1,contract_acquisition_cost,medicaid,N/A,,
+1,contract_acquisition_cost,other_third_party,N/A,,
+1,contract_acquisition_cost,uninsured,N/A,,
+1,contract_acquisition_cost,indeterminate,N/A,,
+1,contract_acquisition_cost,total,0,,
+1,contract_payments_received,commercial,N/A,,
+1,contract_payments_received,medicare,N/A,,
+1,contract_payments_received,medicaid,N/A,,
+1,contract_payments_received,other_third_party,N/A,,
+1,contract_payments_received,uninsured,N/A,,
+1,contract_payments_received,indeterminate,N/A,,
+1,contract_payments_received,total,0,,
+1,contract_rx_all,commercial,,N/A,
+1,contract_rx_all,medicare,,N/A,
+1,contract_rx_all,medicaid,,N/A,
+1,contract_rx_all,other_third_party,,N/A,
+1,contract_rx_all,uninsured,,N/A,
+1,contract_rx_all,indeterminate,,N/A,
+1,contract_rx_all,total,,0,
+1,contract_rx_340b,commercial,,N/A,
+1,contract_rx_340b,medicare,,N/A,
+1,contract_rx_340b,medicaid,,N/A,
+1,contract_rx_340b,other_third_party,,N/A,
+1,contract_rx_340b,uninsured,,N/A,
+1,contract_rx_340b,indeterminate,,N/A,
+1,contract_rx_340b,total,,0,
+1,contract_rx_pct,commercial,#VALUE!,,
+1,contract_rx_pct,medicare,#VALUE!,,
+1,contract_rx_pct,medicaid,#VALUE!,,
+1,contract_rx_pct,other_third_party,#VALUE!,,
+1,contract_rx_pct,uninsured,#VALUE!,,
+1,contract_rx_pct,indeterminate,#VALUE!,,
+1,contract_rx_pct,total,#DIV/0!,,
+1,administered_acquisition_cost,commercial,N/A,,
+1,administered_acquisition_cost,medicare,N/A,,
+1,administered_acquisition_cost,medicaid,N/A,,
+1,administered_acquisition_cost,other_third_party,N/A,,
+1,administered_acquisition_cost,uninsured,N/A,,
+1,administered_acquisition_cost,total,0,,
+1,administered_payments_actual,commercial,N/A,,
+1,administered_payments_actual,medicare,N/A,,
+1,administered_payments_actual,medicaid,N/A,,
+1,administered_payments_actual,other_third_party,N/A,,
+1,administered_payments_actual,uninsured,N/A,,
+1,administered_payments_actual,total,0,,
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,commercial,N/A,,
+1,administered_payments_estimated,medicare,N/A,,
+1,administered_payments_estimated,medicaid,N/A,,
+1,administered_payments_estimated,other_third_party,N/A,,
+1,administered_payments_estimated,uninsured,N/A,,
+1,administered_payments_estimated,total,0,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,commercial,N/A,,
+1,administered_payments_total,medicare,N/A,,
+1,administered_payments_total,medicaid,N/A,,
+1,administered_payments_total,other_third_party,N/A,,
+1,administered_payments_total,uninsured,N/A,,
+1,administered_payments_total,total,0,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,administered_rx_all,commercial,,N/A,
+1,administered_rx_all,medicare,,N/A,
+1,administered_rx_all,medicaid,,N/A,
+1,administered_rx_all,other_third_party,,N/A,
+1,administered_rx_all,uninsured,,N/A,
+1,administered_rx_all,total,,0,
+1,administered_rx_340b,commercial,,N/A,
+1,administered_rx_340b,medicare,,N/A,
+1,administered_rx_340b,medicaid,,N/A,
+1,administered_rx_340b,other_third_party,,N/A,
+1,administered_rx_340b,uninsured,,N/A,
+1,administered_rx_340b,total,,0,
+1,administered_rx_pct,commercial,#VALUE!,,
+1,administered_rx_pct,medicare,#VALUE!,,
+1,administered_rx_pct,medicaid,#VALUE!,,
+1,administered_rx_pct,other_third_party,#VALUE!,,
+1,administered_rx_pct,uninsured,#VALUE!,,
+1,administered_rx_pct,total,#DIV/0!,,
+1,costs,contract_pharmacies,"$3,797,549
+(Note: These are payments to in-house pharmacy, given there is no dedicated in-house pharmacy field)",,
+1,costs,third_party_administrators,0,,
+1,costs,consultants,4250,,
+1,costs,software_it,0,,
+1,costs,other_external,63253,,
+1,costs,staffing,1122412,,
+1,costs,internal_it,0,,
+1,costs,other_internal,717,,
+1,contract_pharmacies,count,0,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,HM43205
+1,identity,id_prefix,,,HM
+1,identity,id_number,,,43205
+1,identity,npi_1,,,1184829301
+1,identity,npi_2,,,1194756049
+1,identity,npi_3,,,1205125887
+1,identity,npi_4,,,1679552392
+1,identity,npi_5,,,1760576300
+1,identity,npi_6,,,1548247406
+1,identity,npi_7,,,1912192535
+1,identity,npi_8,,,1780941393
+1,identity,npi_9,,,1790179943
+1,identity,npi_10,,,1306868740
+1,identity,npi_11,,,1477927598
+1,identity,npi_12,,,1427799287
+1,identity,npi_13,,,1932621653
+1,identity,npi_14,,,1336935030
+1,identity,npi_15,,,1023214673
+1,identity,npi_16,,,1164950697
+1,identity,npi_17,,,1396730073
+1,identity,npi_18,,,1922553296
+1,identity,npi_19,,,-
+1,contract_pharmacy_notes,indeterminate_explanation,,,N/A
+1,uses,program_1_description,,,See #24
+1,uses,program_1_amount,See #24,,
+1,uses,program_2_description,,,See #24
+1,uses,program_2_amount,See #24,,
+1,uses,program_3_description,,,See #24
+1,uses,program_3_amount,See #24,,
+1,uses,program_4_description,,,See #24
+1,uses,program_4_amount,See #24,,
+1,uses,program_5_description,,,See #24
+1,uses,program_5_amount,See #24,,
+1,uses,equipment_1_description,,,N/A
+1,uses,equipment_1_amount,0,,
+1,uses,equipment_2_description,,,N/A
+1,uses,equipment_2_amount,0,,
+1,uses,equipment_3_description,,,N/A
+1,uses,equipment_3_amount,0,,
+1,uses,equipment_4_description,,,N/A
+1,uses,equipment_4_amount,0,,
+1,uses,equipment_5_description,,,N/A
+1,uses,equipment_5_amount,0,,
+1,uses,other_uses_description,,,N/A
+1,uses,other_uses_amount,0,,
+1,uses,narrative,,,N/A
+1,uses,alternative_narrative,,,"Note on #2 above - the NPIs of our hematology providers are included above.  NPIs of our oncology and BMT physicans can also be provided on request (limited space in collection tool).
+
+Introduction:
+The 340B Drug Pricing Program intends to enable covered entities to stretch scarce federal resources as far as possible, reaching more eligible patients and providing more comprehensive services. For Nationwide Children's, this program is critical to supporting our mission of providing the highest quality of care to all children and their families, regardless of their ability to pay. The 340B savings achieved through our Hemostasis and Thrombosis Center are reinvested directly into care and advocacy for our patient population. 
+Comprehensive Care Model:
+Through 340B savings, the Hemostasis and Thrombosis Center at Nationwide Children’s Hospital is able to offer a comprehensive care model that serves as a one-stop-shop for patients and families with bleeding and clotting disorders.  This model includes a multidisciplinary team of physicians, nurse practitioners, nurse clinicians, nurses, genetic counselors, psychologists, pharmacists, dental hygienists, psychologists, among others.  These disciplines work collaboratively to ensure the best possible outcomes and experience for patients and their families.
+Additionally, Nationwide Children’s is home to one of the oldest Young Women’s Hematology clinics in the country, combining expertise in hemostasis-thrombosis and adolescent medicine.  This specialized clinic provides a compassionate, patient-centered approach for adolescent girls with suspected bleeding and clotting disorders and offers advanced diagnostic and treatment options for those experiencing heavy menstrual bleeding.
+Professional Education and Training:
+The education and development of hemostasis and thrombosis experts is also a top priority.  Nationwide Children’s Hospital offers a fourth-year fellowship for physicians seeking to expand their expertise in hemostasis and thrombosis, helping to address a growing workforce shortage of adequately trained physicians in this field.  Fellows complete a comprehensive curriculum including, outpatient clinical care, inpatient service, research, quality improvement, teaching opportunities, and select elective rotations.
+Research:
+Research is a central focus of the Hemostasis and Thrombosis Center at Nationwide Children’s.  HTC funds are currently being reserved for a research study evaluating a new treatment for rare congenital bleeding disorders.  The study aims to assess the effectiveness of a drug in mice that blocks a protein responsible for slowing down blood clotting.  By blocking this protein, the body can produce more thrombin, a key enzyme that helps blood clot.  If successful in mice, this research could lead to a new treatment option for individuals with rare congenital bleeding disorders, potentially reducing the need for therapies that require blood transfusions.  This project is currently under review by HRSA. 
+Laboratory Medicine:
+The Hemostasis and Thrombosis Center at Nationwide Children’s Hospital has invested in a Director of Hemostasis and Thrombosis Testing within the Division of Pathology and Laboratory Medicine.  This position is responsible for reviewing and interpreting lab tests related to bleeding and clotting conditions, diagnosing new cases of hemophilia, identifying other congenital or acquired coagulopathies, detecting and quantifying acquired inhibitors, and advising on approaches to multiple factor concentrate monitoring. The role also includes interpretation of platelet function testing and the detection and diagnosis of both acquired and congenital thrombophilia.  Additionally, the Director collaborates closely with hematology physician partners to assess the feasibility of introducing new laboratory tests. 
+This role also has an important teaching component, providing education to residents and fellows on laboratory administration, how lab tests for bleeding and clotting work, how medications that affect clotting are monitored, and how lab results guide decisions about blood transfusions and patient treatment.
+Community Outreach and Education:
+The Hemostasis and Thrombosis Center at Nationwide Children’s is a recipient of a grant from the CASCADE Hemophilia Consortium, enabling the Center to provide additional support to patients and families in need.  This includes assistance with medical expenses, transportation, among other items.  
+Nationwide Children’s also hosts a Family Education Day at the Columbus Zoo for patients with bleeding disorders and their families.  This event covers a wide range of topics, including infusion education, mental health, genetics, and transitioning from pediatric to adult healthcare providers.  Additional sessions address school-related concerns, finding additional community resources, available hemophilia camps for children and young adults, and navigating health insurance.  
+School outreach is another key priority.  The Hemophilia and Thrombosis Center team provides education to daycare, preschool, and school staff on hemophilia and strategies to support students with bleeding disorders in educational settings.
+Our staff also partner with the Greater Ohio Bleeding Disorders Foundation, providing community education at local events.  
+Finally, Nationwide Children’s supports FAMOHIO, an organization that hosts an Education Weekend for individuals and families affected by bleeding disorders."

@@ -13,7 +13,7 @@ from pathlib import Path
 import pytest
 
 from filings340b.build import build_outputs, stale_outputs
-from filings340b.forms import ID_FORM, MN_FORM, RI_FORM, UNITS, VT_FORM, VT_LINES
+from filings340b.forms import ID_FORM, MN_FORM, OH_FORM, RI_FORM, UNITS, VT_FORM, VT_LINES
 from filings340b.imageread import compare, image_read_file, read_image_read, unsupported_marks
 from filings340b.load import load_filings
 from filings340b.model import PUBLISHABLE, Basis, Filing, Verification
@@ -445,7 +445,7 @@ def test_no_person_or_phone_number_is_in_vermonts_files() -> None:
 
 
 def test_every_form_is_in_use(filings: tuple[Filing, ...]) -> None:
-    assert {f.meta.form for f in filings} == {RI_FORM, VT_FORM, MN_FORM, ID_FORM}
+    assert {f.meta.form for f in filings} == {RI_FORM, VT_FORM, MN_FORM, ID_FORM, OH_FORM}
 
 
 # --- Vermont does not move either -----------------------------------------------

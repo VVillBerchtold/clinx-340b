@@ -1,0 +1,300 @@
+sheet,cell,value
+Report,B1,Ohio Department of Health
+Report,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Report,B4,Reporting Period:
+Report,C4,"January 1, 2025 - December 31, 2025"
+Report,B5,Primary Contact Name:
+Report,C5,[contact detail withheld]
+Report,B6,Email:
+Report,C6,[contact detail withheld]
+Report,B7,Phone Number:
+Report,C7,[contact detail withheld]
+Report,A8,Data Element
+Report,B8,HRSA 340B ID:
+Report,C8,CHC2657600
+Report,D9,Lettered Prefix:
+Report,E9,Number:
+Report,A10,1
+Report,D10,CHC
+Report,E10,26576-00
+Report,C12,NPI1
+Report,D12,NPI2
+Report,E12,NPI3
+Report,F12,NPI4
+Report,G12,NPI5
+Report,H12,NPI6
+Report,I12,NPI7
+Report,J12,NPI8
+Report,K12,NPI9
+Report,L12,NPI10
+Report,M12,NPI11
+Report,N12,NPI12
+Report,O12,NPI13
+Report,P12,NPI14
+Report,Q12,NPI15
+Report,R12,NPI16
+Report,S12,NPI17
+Report,T12,NPI18
+Report,U12,NPI19
+Report,V12,NPI20
+Report,A13,2
+Report,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Report,C13,1497190771
+Report,D13,1710530886
+Report,E13,1114280690
+Report,F13,1750761813
+Report,G13,1801331384
+Report,H13,1396212510
+Report,I13,1730722570
+Report,J13,1871190728
+Report,K13,1891466280
+Report,L13,-
+Report,M13,-
+Report,N13,-
+Report,O13,-
+Report,P13,-
+Report,Q13,-
+Report,R13,-
+Report,S13,-
+Report,T13,-
+Report,U13,-
+Report,V13,-
+Report,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Report,C16,Commercial Insurance/Private Insurance:
+Report,D16,Medicare:
+Report,E16,Medicaid (all states):
+Report,F16,Other Third-Party Payor:
+Report,G16,Uninsured/Self-Pay:
+Report,H16,TOTAL:
+Report,A17,3
+Report,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Report,C17,2099395.6000000369
+Report,D17,2359974.899999992
+Report,E17,7291732.1299998565
+Report,F17,0
+Report,G17,179940.64999999537
+Report,H17,11931043.27999988
+Report,A18,4
+Report,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Report,C18,4539684.8499999903
+Report,D18,5823288.580000014
+Report,E18,17287577.609999601
+Report,F18,0
+Report,G18,356603.00999999698
+Report,H18,28007154.049999602
+Report,A19,5
+Report,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Report,C19,22774
+Report,D19,29297
+Report,E19,132969
+Report,F19,0
+Report,G19,39047
+Report,H19,224087
+Report,A20,6
+Report,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Report,C20,22774
+Report,D20,29297
+Report,E20,132969
+Report,F20,0
+Report,G20,39047
+Report,H20,224087
+Report,A21,7
+Report,B21,Percentage of total prescriptions that were 340B
+Report,C21,100
+Report,D21,100
+Report,E21,100
+Report,F21,#DIV/0!
+Report,G21,100
+Report,H21,100
+Report,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Report,A25,8
+Report,C25,Commercial Insurance/Private Insurance:
+Report,D25,Medicare:
+Report,E25,Medicaid (all states):
+Report,F25,Other Third-Party Payor:
+Report,G25,Uninsured/Self-Pay:
+Report,H25,Indeterminate (Explain)
+Report,I25,TOTAL:
+Report,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Report,C26,9259.2999999999993
+Report,D26,1776.98
+Report,E26,4538.41
+Report,F26,0
+Report,G26,0
+Report,H26,366750.05
+Report,I26,15574.689999999999
+Report,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Report,C27,29668.49
+Report,D27,6691.15
+Report,E27,18621.66
+Report,F27,0
+Report,G27,0
+Report,H27,930840.04
+Report,I27,54981.3
+Report,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Report,C28,42
+Report,D28,10
+Report,E28,30
+Report,F28,0
+Report,G28,0
+Report,H28,1189
+Report,I28,82
+Report,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Report,C29,42
+Report,D29,10
+Report,E29,30
+Report,F29,0
+Report,G29,0
+Report,H29,1189
+Report,I29,82
+Report,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Report,C30,100
+Report,D30,100
+Report,E30,100
+Report,F30,#DIV/0!
+Report,G30,#DIV/0!
+Report,H30,100
+Report,I30,100
+Report,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Report,I32,Indeterminate reflect data from CVS and Walgreens. We were unable to obtain information by payor from the contracted pharmacies due to time contstraints
+Report,B33,Section 3: Administered Drugs
+Report,D34,Commercial Insurance/Private Insurance:
+Report,E34,Medicare:
+Report,F34,Medicaid (all states):
+Report,G34,Other Third-Party Payor:
+Report,H34,Uninsured/Self-Pay:
+Report,I34,TOTAL:
+Report,A35,9
+Report,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Report,D35,48901.830357708197
+Report,E35,1569.4976887508235
+Report,F35,181902.54142729906
+Report,G35,0
+Report,H35,1485.1705262419221
+Report,I35,233859.04
+Report,A36,10
+Report,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Report,C36,Actual Payments
+Report,D36,170208.22000000012
+Report,E36,5462.8099999999995
+Report,F36,633131.87999999989
+Report,G36,0
+Report,H36,5169.3
+Report,I36,813972.21000000008
+Report,C37,Estimated Payments*
+Report,D37,0
+Report,E37,0
+Report,F37,0
+Report,G37,0
+Report,H37,0
+Report,I37,0
+Report,C38,TOTAL
+Report,D38,170208.22000000012
+Report,E38,5462.8099999999995
+Report,F38,633131.87999999989
+Report,G38,0
+Report,H38,5169.3
+Report,I38,813972.21000000008
+Report,A39,11
+Report,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Report,D39,458
+Report,E39,182
+Report,F39,1719
+Report,G39,10
+Report,H39,544
+Report,I39,2913
+Report,A40,12
+Report,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Report,D40,0
+Report,E40,0
+Report,F40,0
+Report,G40,0
+Report,H40,0
+Report,I40,0
+Report,A41,13
+Report,B41,Percentage of total prescriptions that were 340B
+Report,D41,0
+Report,E41,0
+Report,F41,0
+Report,G41,0
+Report,H41,0
+Report,I41,0
+Report,B43,Section 4: Administrative Costs of the 340B Program
+Report,B45,Payments to External Entities:
+Report,A46,14
+Report,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Report,C46,158849.78
+Report,A47,15
+Report,B47,Total Payments to 340B Third Party Administrators:
+Report,C47,0
+Report,A48,16
+Report,B48,Total Payments to 340B Consulting Entities (including audit support):
+Report,C48,9450
+Report,A49,17
+Report,B49,340B Software and Information Technology Costs:
+Report,C49,75072
+Report,A50,18
+Report,B50,Other Payments to External Entities:
+Report,C50,265342.27
+Report,B52,Internal Costs to Administer the 340B Program
+Report,A53,19
+Report,B53,Staffing Costs (340B dedicated):
+Report,C53,3238033.85
+Report,A54,20
+Report,B54,Information Technology Costs:
+Report,C54,279246
+Report,A55,21
+Report,B55,Other internal costs:
+Report,C55,2830926.9457777594
+Report,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Report,A59,22
+Report,B59,Covered Entity's total number of Contract Pharmacies:
+Report,C59,36
+Report,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Report,C63,Detailed Description of Item:
+Report,D63,Expenditures from 340B funds:
+Report,A64,23
+Report,B64,Programs or Services funded/purchased with 340B funds:
+Report,B65,Program/Service 1:
+Report,C65,Healthcare Services for Uninsured and Underinsured Patients
+Report,D65,4027133
+Report,B66,Program/Service 2:
+Report,C66,Healthcare Services for Individuals Experiencing Homelessness
+Report,D66,205713.6
+Report,B67,Program/Service 3:
+Report,C67,Expansion of Patient Access and Healthcare Services
+Report,D67,281082
+Report,B68,Program/Service 4:
+Report,C68,Medication Cost Assistance for Eligible Patients
+Report,D68,22965.17
+Report,B69,Program/Service 5:
+Report,C69,Free Prescription Delivery Services to Improve Medication Access and Adherence
+Report,D69,684983
+Report,B71,Equipment purchased with 340B Funds:
+Report,B72,Item 1:
+Report,C72,Emergency Generator Supporting Continuity of Patient Care
+Report,D72,13013
+Report,B73,Item 2:
+Report,C73,Security and Surveillance Upgrades to Support Patient and Staff Safety
+Report,D73,58029
+Report,B74,Item 3:
+Report,C74,Health Information Technology and Cybersecurity Infrastructure Supporting Secure Patient Care
+Report,D74,56547
+Report,B75,Item 4:
+Report,C75,-
+Report,D75,-
+Report,B76,Item 5:
+Report,C76,-
+Report,D76,-
+Report,B78,Other uses of 340B funds not otherwise listed above:
+Report,C78,-
+Report,D78,-
+Report,B80,(Narrative) Provide additional detail/context as necessary:
+Report,C80,"The 340B Program enables safety-net providers like FRHC to stretch limited federal resources, ensuring that underserved patients receive affordable medications and comprehensive care. Compliance with federal 340B requirements ensures that savings are used solely to benefit our patients and expand access to essential services.
+
+ FRHC reinvests 340B savings to offset medication costs and reduce out-of-pocket expenses for eligible patients, support critical service lines that operate at a loss, including Obstetrics/Gynecology and Dental, expand specialty services such as Vision, Podiatry, Sports Medicine, and Infectious Disease, and develop and sustain additional service locations to meet patient needs across our multi-county region.
+
+ Without the 340B Program, FRHC would be unable to maintain the depth and breadth of services currently available to our patients. The program’s impact is integral to our ability to fulfill our mission and meet the needs of our community."
+Report,A82,24
+Report,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Report,C82,-

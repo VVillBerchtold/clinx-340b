@@ -1,0 +1,296 @@
+sheet,cell,value
+combined,B1,Ohio Department of Health
+combined,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+combined,B4,Reporting Period:
+combined,C4,"January 1, 2025 - December 31, 2025"
+combined,B5,Primary Contact Name:
+combined,C5,[contact detail withheld]
+combined,B6,Email:
+combined,C6,[contact detail withheld]
+combined,B7,Phone Number:
+combined,C7,[contact detail withheld]
+combined,A8,Data Element
+combined,B8,HRSA 340B ID:
+combined,C8,HV 01717
+combined,D9,Lettered Prefix:
+combined,E9,Number:
+combined,A10,1
+combined,D10,HV
+combined,E10,1717
+combined,C12,NPI1
+combined,D12,NPI2
+combined,E12,NPI3
+combined,F12,NPI4
+combined,G12,NPI5
+combined,H12,NPI6
+combined,I12,NPI7
+combined,J12,NPI8
+combined,K12,NPI9
+combined,L12,NPI10
+combined,M12,NPI11
+combined,N12,NPI12
+combined,O12,NPI13
+combined,P12,NPI14
+combined,Q12,NPI15
+combined,R12,NPI16
+combined,S12,NPI17
+combined,T12,NPI18
+combined,U12,NPI19
+combined,V12,NPI20
+combined,A13,2
+combined,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+combined,C13,-
+combined,D13,-
+combined,E13,-
+combined,F13,-
+combined,G13,-
+combined,H13,-
+combined,I13,-
+combined,J13,-
+combined,K13,-
+combined,L13,-
+combined,M13,-
+combined,N13,-
+combined,O13,-
+combined,P13,-
+combined,Q13,-
+combined,R13,-
+combined,S13,-
+combined,T13,-
+combined,U13,-
+combined,V13,-
+combined,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+combined,C16,Commercial Insurance/Private Insurance:
+combined,D16,Medicare:
+combined,E16,Medicaid (all states):
+combined,F16,Other Third-Party Payor:
+combined,G16,Uninsured/Self-Pay:
+combined,H16,TOTAL:
+combined,A17,3
+combined,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+combined,C17,0
+combined,D17,0
+combined,E17,0
+combined,F17,0
+combined,G17,0
+combined,H17,0
+combined,A18,4
+combined,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+combined,C18,0
+combined,D18,0
+combined,E18,0
+combined,F18,0
+combined,G18,0
+combined,H18,0
+combined,A19,5
+combined,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+combined,C19,0
+combined,D19,0
+combined,E19,0
+combined,F19,0
+combined,G19,0
+combined,H19,0
+combined,A20,6
+combined,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+combined,C20,0
+combined,D20,0
+combined,E20,0
+combined,F20,0
+combined,G20,0
+combined,H20,0
+combined,A21,7
+combined,B21,Percentage of total prescriptions that were 340B
+combined,C21,#DIV/0!
+combined,D21,#DIV/0!
+combined,E21,#DIV/0!
+combined,F21,#DIV/0!
+combined,G21,#DIV/0!
+combined,H21,#DIV/0!
+combined,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+combined,A25,8
+combined,C25,Commercial Insurance/Private Insurance:
+combined,D25,Medicare:
+combined,E25,Medicaid (all states):
+combined,F25,Other Third-Party Payor:
+combined,G25,Uninsured/Self-Pay:
+combined,H25,Indeterminate (Explain)
+combined,I25,TOTAL:
+combined,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+combined,C26,1180950.8399999999
+combined,D26,1980671.65
+combined,E26,3918802.6
+combined,F26,32424.71
+combined,G26,47643.840000000004
+combined,H26,0
+combined,I26,7160493.6399999997
+combined,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+combined,C27,1833083.9
+combined,D27,3099835.78
+combined,E27,6006336.4499999993
+combined,F27,34365.18
+combined,G27,41755.11
+combined,H27,0
+combined,I27,11015376.419999998
+combined,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+combined,C28,1102
+combined,D28,2013
+combined,E28,3192
+combined,F28,12
+combined,G28,738
+combined,H28,0
+combined,I28,7057
+combined,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+combined,C29,841
+combined,D29,1364
+combined,E29,2654
+combined,F29,12
+combined,G29,705
+combined,H29,0
+combined,I29,5576
+combined,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+combined,C30,76.31578947368422
+combined,D30,67.759562841530055
+combined,E30,83.145363408521305
+combined,F30,100
+combined,G30,95.528455284552848
+combined,H30,0
+combined,I30,79.013745217514526
+combined,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+combined,I32,-
+combined,B33,Section 3: Administered Drugs
+combined,D34,Commercial Insurance/Private Insurance:
+combined,E34,Medicare:
+combined,F34,Medicaid (all states):
+combined,G34,Other Third-Party Payor:
+combined,H34,Uninsured/Self-Pay:
+combined,I34,TOTAL:
+combined,A35,9
+combined,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+combined,D35,0
+combined,E35,0
+combined,F35,0
+combined,G35,0
+combined,H35,0
+combined,I35,0
+combined,A36,10
+combined,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+combined,C36,Actual Payments
+combined,D36,0
+combined,E36,0
+combined,F36,0
+combined,G36,0
+combined,H36,0
+combined,I36,0
+combined,C37,Estimated Payments*
+combined,D37,0
+combined,E37,0
+combined,F37,0
+combined,G37,0
+combined,H37,0
+combined,I37,0
+combined,C38,TOTAL
+combined,D38,0
+combined,E38,0
+combined,F38,0
+combined,G38,0
+combined,H38,0
+combined,I38,0
+combined,A39,11
+combined,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+combined,D39,0
+combined,E39,0
+combined,F39,0
+combined,G39,0
+combined,H39,0
+combined,I39,0
+combined,A40,12
+combined,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+combined,D40,0
+combined,E40,0
+combined,F40,0
+combined,G40,0
+combined,H40,0
+combined,I40,0
+combined,A41,13
+combined,B41,Percentage of total prescriptions that were 340B
+combined,D41,#DIV/0!
+combined,E41,#DIV/0!
+combined,F41,#DIV/0!
+combined,G41,#DIV/0!
+combined,H41,#DIV/0!
+combined,I41,#DIV/0!
+combined,B43,Section 4: Administrative Costs of the 340B Program
+combined,B45,Payments to External Entities:
+combined,A46,14
+combined,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+combined,C46,2001364.31
+combined,A47,15
+combined,B47,Total Payments to 340B Third Party Administrators:
+combined,C47,-
+combined,A48,16
+combined,B48,Total Payments to 340B Consulting Entities (including audit support):
+combined,C48,-
+combined,A49,17
+combined,B49,340B Software and Information Technology Costs:
+combined,C49,-
+combined,A50,18
+combined,B50,Other Payments to External Entities:
+combined,C50,-
+combined,B52,Internal Costs to Administer the 340B Program
+combined,A53,19
+combined,B53,Staffing Costs (340B dedicated):
+combined,C53,-
+combined,A54,20
+combined,B54,Information Technology Costs:
+combined,C54,-
+combined,A55,21
+combined,B55,Other internal costs:
+combined,C55,-
+combined,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+combined,A59,22
+combined,B59,Covered Entity's total number of Contract Pharmacies:
+combined,C59,2
+combined,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+combined,C63,Detailed Description of Item:
+combined,D63,Expenditures from 340B funds:
+combined,A64,23
+combined,B64,Programs or Services funded/purchased with 340B funds:
+combined,B65,Program/Service 1:
+combined,C65,Medication assistance
+combined,D65,21474.59
+combined,B66,Program/Service 2:
+combined,C66,Other financial assistance
+combined,D66,27795.05
+combined,B67,Program/Service 3:
+combined,C67,Other charity medical care
+combined,D67,129482.01
+combined,B68,Program/Service 4:
+combined,C68,Other program support*
+combined,D68,1137867.68
+combined,B69,Program/Service 5:
+combined,C69,-
+combined,D69,-
+combined,B71,Equipment purchased with 340B Funds:
+combined,B72,Item 1:
+combined,C72,-
+combined,D72,-
+combined,B73,Item 2:
+combined,C73,-
+combined,D73,-
+combined,B74,Item 3:
+combined,C74,-
+combined,D74,-
+combined,B75,Item 4:
+combined,C75,-
+combined,D75,-
+combined,B76,Item 5:
+combined,C76,-
+combined,D76,-
+combined,B78,Other uses of 340B funds not otherwise listed above:
+combined,C78,-
+combined,D78,-
+combined,B80,(Narrative) Provide additional detail/context as necessary:
+combined,C80,"*Other program support includes nurses, social workers, and other staff required for patient care & program operations; transportation & occupancy expense; program supplies, etc. not covered by grants"
+combined,A82,24
+combined,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+combined,C82,-

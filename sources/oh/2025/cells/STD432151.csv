@@ -1,0 +1,295 @@
+sheet,cell,value
+STD432151,B1,Ohio Department of Health
+STD432151,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+STD432151,B4,Reporting Period:
+STD432151,C4,"January 1, 2025 - December 31, 2025"
+STD432151,B5,Primary Contact Name:
+STD432151,C5,[contact detail withheld]
+STD432151,B6,Email:
+STD432151,C6,[contact detail withheld]
+STD432151,B7,Phone Number:
+STD432151,C7,[contact detail withheld]
+STD432151,A8,Data Element
+STD432151,B8,HRSA 340B ID:
+STD432151,C8,STD432151
+STD432151,D9,Lettered Prefix:
+STD432151,E9,Number:
+STD432151,A10,1
+STD432151,D10,STD
+STD432151,E10,432151
+STD432151,C12,NPI1
+STD432151,D12,NPI2
+STD432151,E12,NPI3
+STD432151,F12,NPI4
+STD432151,G12,NPI5
+STD432151,H12,NPI6
+STD432151,I12,NPI7
+STD432151,J12,NPI8
+STD432151,K12,NPI9
+STD432151,L12,NPI10
+STD432151,M12,NPI11
+STD432151,N12,NPI12
+STD432151,O12,NPI13
+STD432151,P12,NPI14
+STD432151,Q12,NPI15
+STD432151,R12,NPI16
+STD432151,S12,NPI17
+STD432151,T12,NPI18
+STD432151,U12,NPI19
+STD432151,V12,NPI20
+STD432151,A13,2
+STD432151,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+STD432151,C13,1285874339
+STD432151,D13,1427933092
+STD432151,E13,1821342676
+STD432151,F13,1740208974
+STD432151,G13,1992947303
+STD432151,H13,1780426825
+STD432151,I13,1457668527
+STD432151,J13,-
+STD432151,K13,-
+STD432151,L13,-
+STD432151,M13,-
+STD432151,N13,-
+STD432151,O13,-
+STD432151,P13,-
+STD432151,Q13,-
+STD432151,R13,-
+STD432151,S13,-
+STD432151,T13,-
+STD432151,U13,-
+STD432151,V13,-
+STD432151,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+STD432151,C16,Commercial Insurance/Private Insurance:
+STD432151,D16,Medicare:
+STD432151,E16,Medicaid (all states):
+STD432151,F16,Other Third-Party Payor:
+STD432151,G16,Uninsured/Self-Pay:
+STD432151,H16,TOTAL:
+STD432151,A17,3
+STD432151,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+STD432151,C17,0
+STD432151,D17,0
+STD432151,E17,0
+STD432151,F17,0
+STD432151,G17,0
+STD432151,H17,0
+STD432151,A18,4
+STD432151,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+STD432151,C18,0
+STD432151,D18,0
+STD432151,E18,0
+STD432151,F18,0
+STD432151,G18,0
+STD432151,H18,0
+STD432151,A19,5
+STD432151,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+STD432151,C19,0
+STD432151,D19,0
+STD432151,E19,0
+STD432151,F19,0
+STD432151,G19,0
+STD432151,H19,0
+STD432151,A20,6
+STD432151,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+STD432151,C20,0
+STD432151,D20,0
+STD432151,E20,0
+STD432151,F20,0
+STD432151,G20,0
+STD432151,H20,0
+STD432151,A21,7
+STD432151,B21,Percentage of total prescriptions that were 340B
+STD432151,C21,#DIV/0!
+STD432151,D21,#DIV/0!
+STD432151,E21,#DIV/0!
+STD432151,F21,#DIV/0!
+STD432151,G21,#DIV/0!
+STD432151,H21,#DIV/0!
+STD432151,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+STD432151,A25,8
+STD432151,C25,Commercial Insurance/Private Insurance:
+STD432151,D25,Medicare:
+STD432151,E25,Medicaid (all states):
+STD432151,F25,Other Third-Party Payor:
+STD432151,G25,Uninsured/Self-Pay:
+STD432151,H25,Indeterminate (Explain)
+STD432151,I25,TOTAL:
+STD432151,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+STD432151,C26,0
+STD432151,D26,0
+STD432151,E26,0
+STD432151,F26,0
+STD432151,G26,0
+STD432151,H26,0
+STD432151,I26,0
+STD432151,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+STD432151,C27,0
+STD432151,D27,0
+STD432151,E27,0
+STD432151,F27,0
+STD432151,G27,0
+STD432151,H27,0
+STD432151,I27,0
+STD432151,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+STD432151,C28,0
+STD432151,D28,0
+STD432151,E28,0
+STD432151,F28,0
+STD432151,G28,0
+STD432151,H28,0
+STD432151,I28,0
+STD432151,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+STD432151,C29,0
+STD432151,D29,0
+STD432151,E29,0
+STD432151,F29,0
+STD432151,G29,0
+STD432151,H29,0
+STD432151,I29,0
+STD432151,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+STD432151,C30,#DIV/0!
+STD432151,D30,#DIV/0!
+STD432151,E30,#DIV/0!
+STD432151,F30,#DIV/0!
+STD432151,G30,#DIV/0!
+STD432151,H30,#DIV/0!
+STD432151,I30,#DIV/0!
+STD432151,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+STD432151,I32,-
+STD432151,B33,Section 3: Administered Drugs
+STD432151,D34,Commercial Insurance/Private Insurance:
+STD432151,E34,Medicare:
+STD432151,F34,Medicaid (all states):
+STD432151,G34,Other Third-Party Payor:
+STD432151,H34,Uninsured/Self-Pay:
+STD432151,I34,TOTAL:
+STD432151,A35,9
+STD432151,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+STD432151,D35,442.96000000000004
+STD432151,E35,34.419999999999987
+STD432151,F35,3318
+STD432151,G35,1400.76
+STD432151,H35,10771.36
+STD432151,I35,15967.5
+STD432151,A36,10
+STD432151,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+STD432151,C36,Actual Payments
+STD432151,D36,8199.83
+STD432151,E36,102.11999999999998
+STD432151,F36,33485
+STD432151,G36,1282
+STD432151,H36,3291
+STD432151,I36,46359.95
+STD432151,C37,Estimated Payments*
+STD432151,D37,0
+STD432151,E37,0
+STD432151,F37,0
+STD432151,G37,0
+STD432151,H37,0
+STD432151,I37,0
+STD432151,C38,TOTAL
+STD432151,D38,8199.83
+STD432151,E38,102.11999999999998
+STD432151,F38,33485
+STD432151,G38,1282
+STD432151,H38,3291
+STD432151,I38,46359.95
+STD432151,A39,11
+STD432151,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+STD432151,D39,229
+STD432151,E39,[withheld: beside_small]
+STD432151,F39,716
+STD432151,G39,[withheld: fewer_than_6]
+STD432151,H39,3268
+STD432151,I39,4225
+STD432151,A40,12
+STD432151,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+STD432151,D40,202
+STD432151,E40,[withheld: beside_small]
+STD432151,F40,707
+STD432151,G40,[withheld: fewer_than_6]
+STD432151,H40,3231
+STD432151,I40,4155
+STD432151,A41,13
+STD432151,B41,Percentage of total prescriptions that were 340B
+STD432151,D41,88.209606986899558
+STD432151,E41,[withheld: reveals_small]
+STD432151,F41,98.743016759776538
+STD432151,G41,[withheld: reveals_small]
+STD432151,H41,98.867809057527552
+STD432151,I41,98.34319526627219
+STD432151,B43,Section 4: Administrative Costs of the 340B Program
+STD432151,B45,Payments to External Entities:
+STD432151,A46,14
+STD432151,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+STD432151,C46,0
+STD432151,A47,15
+STD432151,B47,Total Payments to 340B Third Party Administrators:
+STD432151,C47,0
+STD432151,A48,16
+STD432151,B48,Total Payments to 340B Consulting Entities (including audit support):
+STD432151,C48,0
+STD432151,A49,17
+STD432151,B49,340B Software and Information Technology Costs:
+STD432151,C49,0
+STD432151,A50,18
+STD432151,B50,Other Payments to External Entities:
+STD432151,C50,0
+STD432151,B52,Internal Costs to Administer the 340B Program
+STD432151,A53,19
+STD432151,B53,Staffing Costs (340B dedicated):
+STD432151,C53,16910
+STD432151,A54,20
+STD432151,B54,Information Technology Costs:
+STD432151,C54,-
+STD432151,A55,21
+STD432151,B55,Other internal costs:
+STD432151,C55,-
+STD432151,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+STD432151,A59,22
+STD432151,B59,Covered Entity's total number of Contract Pharmacies:
+STD432151,C59,-
+STD432151,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+STD432151,C63,Detailed Description of Item:
+STD432151,D63,Expenditures from 340B funds:
+STD432151,A64,23
+STD432151,B64,Programs or Services funded/purchased with 340B funds:
+STD432151,B65,Program/Service 1:
+STD432151,C65,Sexual Health Clinic (labor)
+STD432151,D65,29865
+STD432151,B66,Program/Service 2:
+STD432151,C66,-
+STD432151,D66,-
+STD432151,B67,Program/Service 3:
+STD432151,C67,-
+STD432151,D67,-
+STD432151,B68,Program/Service 4:
+STD432151,C68,-
+STD432151,D68,-
+STD432151,B69,Program/Service 5:
+STD432151,C69,-
+STD432151,D69,-
+STD432151,B71,Equipment purchased with 340B Funds:
+STD432151,B72,Item 1:
+STD432151,C72,-
+STD432151,D72,-
+STD432151,B73,Item 2:
+STD432151,C73,-
+STD432151,D73,-
+STD432151,B74,Item 3:
+STD432151,C74,-
+STD432151,D74,-
+STD432151,B75,Item 4:
+STD432151,C75,-
+STD432151,D75,-
+STD432151,B76,Item 5:
+STD432151,C76,-
+STD432151,D76,-
+STD432151,B78,Other uses of 340B funds not otherwise listed above:
+STD432151,C78,-
+STD432151,D78,-
+STD432151,B80,(Narrative) Provide additional detail/context as necessary:
+STD432151,C80,The small net profit for this program supports a nominal % of nursing staff salary. 
+STD432151,A82,24
+STD432151,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."

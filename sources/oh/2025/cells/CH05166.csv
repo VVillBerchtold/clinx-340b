@@ -1,0 +1,318 @@
+sheet,cell,value
+Sheet1,B1,Ohio Department of Health
+Sheet1,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Sheet1,B4,Reporting Period:
+Sheet1,C4,"January 1, 2025 - December 31, 2025"
+Sheet1,B5,Primary Contact Name:
+Sheet1,C5,[contact detail withheld]
+Sheet1,B6,Email:
+Sheet1,C6,[contact detail withheld]
+Sheet1,B7,Phone Number:
+Sheet1,C7,[contact detail withheld]
+Sheet1,A8,Data Element
+Sheet1,B8,HRSA 340B ID:
+Sheet1,C8,CH05166
+Sheet1,D9,Lettered Prefix:
+Sheet1,E9,Number:
+Sheet1,A10,1
+Sheet1,D10,CH
+Sheet1,E10,05166
+Sheet1,C12,NPI1
+Sheet1,D12,NPI2
+Sheet1,E12,NPI3
+Sheet1,F12,NPI4
+Sheet1,G12,NPI5
+Sheet1,H12,NPI6
+Sheet1,I12,NPI7
+Sheet1,J12,NPI8
+Sheet1,K12,NPI9
+Sheet1,L12,NPI10
+Sheet1,M12,NPI11
+Sheet1,N12,NPI12
+Sheet1,O12,NPI13
+Sheet1,P12,NPI14
+Sheet1,Q12,NPI15
+Sheet1,R12,NPI16
+Sheet1,S12,NPI17
+Sheet1,T12,NPI18
+Sheet1,U12,NPI19
+Sheet1,V12,NPI20
+Sheet1,A13,2
+Sheet1,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Sheet1,C13,1659916294
+Sheet1,D13,1093022287
+Sheet1,E13,1588151872
+Sheet1,F13,1457974792
+Sheet1,G13,1336228212
+Sheet1,H13,1215014113
+Sheet1,I13,1912254574
+Sheet1,J13,1770839276
+Sheet1,K13,-
+Sheet1,L13,-
+Sheet1,M13,-
+Sheet1,N13,-
+Sheet1,O13,-
+Sheet1,P13,-
+Sheet1,Q13,-
+Sheet1,R13,-
+Sheet1,S13,-
+Sheet1,T13,-
+Sheet1,U13,-
+Sheet1,V13,-
+Sheet1,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Sheet1,C16,Commercial Insurance/Private Insurance:
+Sheet1,D16,Medicare:
+Sheet1,E16,Medicaid (all states):
+Sheet1,F16,Other Third-Party Payor:
+Sheet1,G16,Uninsured/Self-Pay:
+Sheet1,H16,TOTAL:
+Sheet1,A17,3
+Sheet1,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Sheet1,C17,0
+Sheet1,D17,0
+Sheet1,E17,0
+Sheet1,F17,0
+Sheet1,G17,0
+Sheet1,H17,0
+Sheet1,A18,4
+Sheet1,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Sheet1,C18,0
+Sheet1,D18,0
+Sheet1,E18,0
+Sheet1,F18,0
+Sheet1,G18,0
+Sheet1,H18,0
+Sheet1,A19,5
+Sheet1,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Sheet1,C19,0
+Sheet1,D19,0
+Sheet1,E19,0
+Sheet1,F19,0
+Sheet1,G19,0
+Sheet1,H19,0
+Sheet1,A20,6
+Sheet1,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Sheet1,C20,0
+Sheet1,D20,0
+Sheet1,E20,0
+Sheet1,F20,0
+Sheet1,G20,0
+Sheet1,H20,0
+Sheet1,A21,7
+Sheet1,B21,Percentage of total prescriptions that were 340B
+Sheet1,C21,#DIV/0!
+Sheet1,D21,#DIV/0!
+Sheet1,E21,#DIV/0!
+Sheet1,F21,#DIV/0!
+Sheet1,G21,#DIV/0!
+Sheet1,H21,#DIV/0!
+Sheet1,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Sheet1,A25,8
+Sheet1,C25,Commercial Insurance/Private Insurance:
+Sheet1,D25,Medicare:
+Sheet1,E25,Medicaid (all states):
+Sheet1,F25,Other Third-Party Payor:
+Sheet1,G25,Uninsured/Self-Pay:
+Sheet1,H25,Indeterminate (Explain)
+Sheet1,I25,TOTAL:
+Sheet1,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Sheet1,C26,1138164
+Sheet1,D26,718733
+Sheet1,E26,349227
+Sheet1,F26,8061
+Sheet1,G26,-835
+Sheet1,H26,0
+Sheet1,I26,2213350
+Sheet1,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Sheet1,C27,2693615
+Sheet1,D27,2221008
+Sheet1,E27,661776
+Sheet1,F27,9849
+Sheet1,G27,-887
+Sheet1,H27,0
+Sheet1,I27,5585361
+Sheet1,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Sheet1,C28,3175
+Sheet1,D28,2325
+Sheet1,E28,47
+Sheet1,F28,22
+Sheet1,G28,80
+Sheet1,H28,0
+Sheet1,I28,5649
+Sheet1,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Sheet1,C29,3175
+Sheet1,D29,2325
+Sheet1,E29,47
+Sheet1,F29,22
+Sheet1,G29,80
+Sheet1,H29,0
+Sheet1,I29,5649
+Sheet1,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Sheet1,C30,100
+Sheet1,D30,100
+Sheet1,E30,100
+Sheet1,F30,100
+Sheet1,G30,100
+Sheet1,H30,#DIV/0!
+Sheet1,I30,100
+Sheet1,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Sheet1,I32,-
+Sheet1,B33,Section 3: Administered Drugs
+Sheet1,D34,Commercial Insurance/Private Insurance:
+Sheet1,E34,Medicare:
+Sheet1,F34,Medicaid (all states):
+Sheet1,G34,Other Third-Party Payor:
+Sheet1,H34,Uninsured/Self-Pay:
+Sheet1,I34,TOTAL:
+Sheet1,A35,9
+Sheet1,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Sheet1,D35,64645.1
+Sheet1,E35,17740.34
+Sheet1,F35,41849.29
+Sheet1,G35,0
+Sheet1,H35,2567.41
+Sheet1,I35,126802.14000000001
+Sheet1,A36,10
+Sheet1,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Sheet1,C36,Actual Payments
+Sheet1,D36,11182.8
+Sheet1,E36,727.33
+Sheet1,F36,13139.25
+Sheet1,G36,0
+Sheet1,H36,450.97
+Sheet1,I36,25500.35
+Sheet1,C37,Estimated Payments*
+Sheet1,D37,0
+Sheet1,E37,0
+Sheet1,F37,0
+Sheet1,G37,0
+Sheet1,H37,0
+Sheet1,I37,0
+Sheet1,C38,TOTAL
+Sheet1,D38,11182.8
+Sheet1,E38,727.33
+Sheet1,F38,13139.25
+Sheet1,G38,0
+Sheet1,H38,450.97
+Sheet1,I38,25500.35
+Sheet1,A39,11
+Sheet1,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Sheet1,D39,1479
+Sheet1,E39,537
+Sheet1,F39,821
+Sheet1,G39,0
+Sheet1,H39,99
+Sheet1,I39,2936
+Sheet1,A40,12
+Sheet1,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Sheet1,D40,1479
+Sheet1,E40,537
+Sheet1,F40,821
+Sheet1,G40,0
+Sheet1,H40,99
+Sheet1,I40,2936
+Sheet1,A41,13
+Sheet1,B41,Percentage of total prescriptions that were 340B
+Sheet1,D41,100
+Sheet1,E41,100
+Sheet1,F41,100
+Sheet1,G41,#DIV/0!
+Sheet1,H41,100
+Sheet1,I41,100
+Sheet1,B43,Section 4: Administrative Costs of the 340B Program
+Sheet1,B45,Payments to External Entities:
+Sheet1,A46,14
+Sheet1,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Sheet1,C46,334884
+Sheet1,A47,15
+Sheet1,B47,Total Payments to 340B Third Party Administrators:
+Sheet1,C47,428655
+Sheet1,A48,16
+Sheet1,B48,Total Payments to 340B Consulting Entities (including audit support):
+Sheet1,C48,36000
+Sheet1,A49,17
+Sheet1,B49,340B Software and Information Technology Costs:
+Sheet1,C49,-
+Sheet1,A50,18
+Sheet1,B50,Other Payments to External Entities:
+Sheet1,C50,-
+Sheet1,B52,Internal Costs to Administer the 340B Program
+Sheet1,A53,19
+Sheet1,B53,Staffing Costs (340B dedicated):
+Sheet1,C53,25878
+Sheet1,A54,20
+Sheet1,B54,Information Technology Costs:
+Sheet1,C54,-
+Sheet1,A55,21
+Sheet1,B55,Other internal costs:
+Sheet1,C55,4356
+Sheet1,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Sheet1,A59,22
+Sheet1,B59,Covered Entity's total number of Contract Pharmacies:
+Sheet1,C59,49
+Sheet1,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Sheet1,C63,Detailed Description of Item:
+Sheet1,D63,Expenditures from 340B funds:
+Sheet1,A64,23
+Sheet1,B64,Programs or Services funded/purchased with 340B funds:
+Sheet1,B65,Program/Service 1:
+Sheet1,C65,-
+Sheet1,D65,-
+Sheet1,B66,Program/Service 2:
+Sheet1,C66,-
+Sheet1,D66,-
+Sheet1,B67,Program/Service 3:
+Sheet1,C67,-
+Sheet1,D67,-
+Sheet1,B68,Program/Service 4:
+Sheet1,C68,-
+Sheet1,D68,-
+Sheet1,B69,Program/Service 5:
+Sheet1,C69,-
+Sheet1,D69,-
+Sheet1,B71,Equipment purchased with 340B Funds:
+Sheet1,B72,Item 1:
+Sheet1,C72,-
+Sheet1,D72,-
+Sheet1,B73,Item 2:
+Sheet1,C73,-
+Sheet1,D73,-
+Sheet1,B74,Item 3:
+Sheet1,C74,-
+Sheet1,D74,-
+Sheet1,B75,Item 4:
+Sheet1,C75,-
+Sheet1,D75,-
+Sheet1,B76,Item 5:
+Sheet1,C76,-
+Sheet1,D76,-
+Sheet1,B78,Other uses of 340B funds not otherwise listed above:
+Sheet1,C78,-
+Sheet1,D78,-
+Sheet1,B80,(Narrative) Provide additional detail/context as necessary:
+Sheet1,C80,-
+Sheet1,A82,24
+Sheet1,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Sheet1,C82,"340B Community Impact Report:
+Famiily Medical Centers
+Ironton-Lawrence County Area CAO, Inc.
+Serving our Community Through the 340B Drug Pricing Program
+
+Our Mission and Community:   Family Medical Centers, a program of Ironton-Lawrence County CAO, Inc., is committed to providing high-quality, patient-centered care to individuals and families across our service area.  We serve patients regardless of their ability to pay, focusing on those who are uninsured, underinsured, and medically underserved.
+The 340B Drug Pricing Program allows our organization to stretch limited resources and expand access to essential services for our community.
+
+What the 340B Program Means to Our Health Center:  Through the 340B program, Family Medical Centers can purchase medications at reduced prices. The savings generated are not retained as profit.  Instead, they are reinvested directly into patient care and community services to fulfill our mission and meet the needs of our patients.
+
+How 340B Savings Support Our Patients:  
+Access to Medications:  340B savings help reduce medication costs for patients, including those on a sliding fee scale, improving affordability and adherence.
+Expanded Services:  Savings are reinvested to support primary care, behavioral health, dental services, and chronic disease management programs.
+Addressing Barriers to Care: Funds support enabling services such as transportation assistance, care coordination, and translation services, ensuring patients can access the care they need.
+Sustaining Care for Vulnerable Populations: 340B savings help offset uncompensated care and allow the health center to continue serving patients regardless of ability to pay.
+
+Impact on Our Community:
+340B savings enable Family Medical Centers to serve more patients, expand services, and improve helath outcomes in our community.  These investments allow us to deliver comprehensive, whole-person care and respond to emerging community health needs.
+
+Why 340B Matters:
+Without the 340B program, our ability to provide affordable medications and essential services would be significantly reduced.  With 340B, we are able to expand access to care, improve health outcomes, and strengthen the overall health of the community we serve.
+
+Looking Ahead: Family Medical Centers remains committed to leveraging 340B savings to enhance services, improve patient outcomes, and address the evolving needs of our community.  We continue to invest in programs that promote health equity and access to care."

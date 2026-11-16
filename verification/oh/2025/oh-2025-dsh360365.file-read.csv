@@ -1,0 +1,212 @@
+page,schedule,line,amount,claims,answer,claims_withheld
+1,in_house_acquisition_cost,commercial,0,,,
+1,in_house_acquisition_cost,medicare,0,,,
+1,in_house_acquisition_cost,medicaid,0,,,
+1,in_house_acquisition_cost,other_third_party,0,,,
+1,in_house_acquisition_cost,uninsured,0,,,
+1,in_house_acquisition_cost,total,0,,,
+1,in_house_payments_received,commercial,0,,,
+1,in_house_payments_received,medicare,0,,,
+1,in_house_payments_received,medicaid,0,,,
+1,in_house_payments_received,other_third_party,0,,,
+1,in_house_payments_received,uninsured,0,,,
+1,in_house_payments_received,total,0,,,
+1,in_house_rx_all,commercial,,0,,
+1,in_house_rx_all,medicare,,0,,
+1,in_house_rx_all,medicaid,,0,,
+1,in_house_rx_all,other_third_party,,0,,
+1,in_house_rx_all,uninsured,,0,,
+1,in_house_rx_all,total,,0,,
+1,in_house_rx_340b,commercial,,0,,
+1,in_house_rx_340b,medicare,,0,,
+1,in_house_rx_340b,medicaid,,0,,
+1,in_house_rx_340b,other_third_party,,0,,
+1,in_house_rx_340b,uninsured,,0,,
+1,in_house_rx_340b,total,,0,,
+1,in_house_rx_pct,commercial,#DIV/0!,,,
+1,in_house_rx_pct,medicare,#DIV/0!,,,
+1,in_house_rx_pct,medicaid,#DIV/0!,,,
+1,in_house_rx_pct,other_third_party,#DIV/0!,,,
+1,in_house_rx_pct,uninsured,#DIV/0!,,,
+1,in_house_rx_pct,total,#DIV/0!,,,
+1,contract_acquisition_cost,commercial,6005.9,,,
+1,contract_acquisition_cost,medicare,1436.93,,,
+1,contract_acquisition_cost,medicaid,2206.792876316,,,
+1,contract_acquisition_cost,other_third_party,102.021007795548,,,
+1,contract_acquisition_cost,uninsured,13.3412087117255,,,
+1,contract_acquisition_cost,indeterminate,0,,,
+1,contract_acquisition_cost,total,9764.98509282327,,,
+1,contract_payments_received,commercial,19695.57,,,
+1,contract_payments_received,medicare,4712.22,,,
+1,contract_payments_received,medicaid,7236.89,,,
+1,contract_payments_received,other_third_party,334.56,,,
+1,contract_payments_received,uninsured,43.75,,,
+1,contract_payments_received,indeterminate,0,,,
+1,contract_payments_received,total,32022.99,,,
+1,contract_rx_all,commercial,,7653,,
+1,contract_rx_all,medicare,,1831,,
+1,contract_rx_all,medicaid,,2812,,
+1,contract_rx_all,other_third_party,,130,,
+1,contract_rx_all,uninsured,,17,,
+1,contract_rx_all,indeterminate,,0,,
+1,contract_rx_all,total,,12443,,
+1,contract_rx_340b,commercial,,424,,
+1,contract_rx_340b,medicare,,101,,
+1,contract_rx_340b,medicaid,,156,,
+1,contract_rx_340b,other_third_party,,,,beside_small
+1,contract_rx_340b,uninsured,,,,fewer_than_6
+1,contract_rx_340b,indeterminate,,0,,
+1,contract_rx_340b,total,,689,,
+1,contract_rx_pct,commercial,5.54031098915458,,,
+1,contract_rx_pct,medicare,5.51611141452758,,,
+1,contract_rx_pct,medicaid,5.54765291607397,,,
+1,contract_rx_pct,other_third_party,,,,reveals_small
+1,contract_rx_pct,uninsured,,,,reveals_small
+1,contract_rx_pct,indeterminate,#DIV/0!,,,
+1,contract_rx_pct,total,5.53724985935868,,,
+1,administered_acquisition_cost,commercial,1211346.71,,,
+1,administered_acquisition_cost,medicare,1193953.24,,,
+1,administered_acquisition_cost,medicaid,259559.48,,,
+1,administered_acquisition_cost,other_third_party,85102.29,,,
+1,administered_acquisition_cost,uninsured,11942.41,,,
+1,administered_acquisition_cost,total,2761904.13,,,
+1,administered_payments_actual,total,0,,,
+1,administered_payments_actual,cell_C,Actual Payments,,,
+1,administered_payments_estimated,commercial,4056149.69,,,
+1,administered_payments_estimated,medicare,3080587.53,,,
+1,administered_payments_estimated,medicaid,663654.24,,,
+1,administered_payments_estimated,other_third_party,254403.69,,,
+1,administered_payments_estimated,uninsured,38965.35,,,
+1,administered_payments_estimated,total,8093760.5,,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,,
+1,administered_payments_total,commercial,4056149.69,,,
+1,administered_payments_total,medicare,3080587.53,,,
+1,administered_payments_total,medicaid,663654.24,,,
+1,administered_payments_total,other_third_party,254403.69,,,
+1,administered_payments_total,uninsured,38965.35,,,
+1,administered_payments_total,total,8093760.5,,,
+1,administered_payments_total,cell_C,TOTAL,,,
+1,administered_rx_all,commercial,,289515,,
+1,administered_rx_all,medicare,,182170,,
+1,administered_rx_all,medicaid,,40990,,
+1,administered_rx_all,other_third_party,,16868,,
+1,administered_rx_all,uninsured,,2732,,
+1,administered_rx_all,total,,532275,,
+1,administered_rx_340b,commercial,,58297,,
+1,administered_rx_340b,medicare,,36120,,
+1,administered_rx_340b,medicaid,,7939,,
+1,administered_rx_340b,other_third_party,,3386,,
+1,administered_rx_340b,uninsured,,551,,
+1,administered_rx_340b,total,,106293,,
+1,administered_rx_pct,commercial,20.136089667202,,,
+1,administered_rx_pct,medicare,19.8276335291212,,,
+1,administered_rx_pct,medicaid,19.368138570383,,,
+1,administered_rx_pct,other_third_party,20.0735119753379,,,
+1,administered_rx_pct,uninsured,20.1683748169839,,,
+1,administered_rx_pct,total,19.9695646047626,,,
+1,costs,contract_pharmacies,3709.68,,,
+1,costs,third_party_administrators,4100,,,
+1,costs,consultants,-,,,
+1,costs,software_it,-,,,
+1,costs,other_external,-,,,
+1,costs,staffing,109476,,,
+1,costs,internal_it,6167,,,
+1,costs,other_internal,3520.67,,,
+1,contract_pharmacies,count,2,,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025",
+1,identity,hrsa_id,,,DSH360365,
+1,identity,id_prefix,,,DSH,
+1,identity,id_number,,,360365,
+1,identity,npi_1,,,1790131050,
+1,identity,npi_2,,,1689822827,
+1,identity,npi_3,,,-,
+1,identity,npi_4,,,-,
+1,identity,npi_5,,,-,
+1,identity,npi_6,,,-,
+1,identity,npi_7,,,-,
+1,identity,npi_8,,,-,
+1,identity,npi_9,,,-,
+1,identity,npi_10,,,-,
+1,identity,npi_11,,,-,
+1,identity,npi_12,,,-,
+1,identity,npi_13,,,-,
+1,identity,npi_14,,,-,
+1,identity,npi_15,,,-,
+1,identity,npi_16,,,-,
+1,identity,npi_17,,,-,
+1,identity,npi_18,,,-,
+1,identity,npi_19,,,-,
+1,identity,npi_20,,,-,
+1,contract_pharmacy_notes,indeterminate_explanation,,,-,
+1,uses,program_1_description,,,-,
+1,uses,program_1_amount,-,,,
+1,uses,program_2_description,,,-,
+1,uses,program_2_amount,-,,,
+1,uses,program_3_description,,,-,
+1,uses,program_3_amount,-,,,
+1,uses,program_4_description,,,-,
+1,uses,program_4_amount,-,,,
+1,uses,program_5_description,,,-,
+1,uses,program_5_amount,-,,,
+1,uses,equipment_1_description,,,-,
+1,uses,equipment_1_amount,-,,,
+1,uses,equipment_2_description,,,-,
+1,uses,equipment_2_amount,-,,,
+1,uses,equipment_3_description,,,-,
+1,uses,equipment_3_amount,-,,,
+1,uses,equipment_4_description,,,-,
+1,uses,equipment_4_amount,-,,,
+1,uses,equipment_5_description,,,-,
+1,uses,equipment_5_amount,-,,,
+1,uses,other_uses_description,,,-,
+1,uses,other_uses_amount,-,,,
+1,uses,narrative,,,"Our 340B Story
+
+About Avita Health System
+
+Avita Health System is a nonprofit, patient-centered health care system in North Central Ohio. It was established in 2011 as the parent company of Bucyrus and Galion Hospitals. In 2017, Avita opened its third hospital, located in Ontario, and now has over 40 clinics and service locations in Crawford and Richland counties with more than 150 employed medical providers, 1,000 affiliated medical providers, and 2,400 employees. Avita services 9 counties with populations totaling over 500,000 Ohioans. Avita’s mission is to improve the health and well-being of those we serve by providing exceptional patient experiences across the continuum of care and consistently exceeding national benchmarks for quality, care, and service.  Unique to the area, Avita is an independent, locally governed health care system with a board of directors that live in the communities where health services are provided.  As a nonprofit health system, Avita values charitable giving and provided over $48 million in uncompensated, unreimbursed, and charity care in FY2025. 
+
+Benefits of the 340B Program
+
+Avita Health System relies on the 340B Drug Pricing Program in order to “stretch scarce Federal resources as far as possible, reaching more eligible patients and providing more comprehensive care”, as Congress had originally intended.  The 340B program is funded entirely through drug manufacturer discounts and there is no cost to the taxpayer or community.  The 340B program is critical to ensuring Avita’s role as a safety-net community hospital, thereby providing vital access to comprehensive and life-saving health services, programs, and prescription drugs.  Savings realized through participation in the 340B program are reinvested into Avita Health System’s internal programs and services, or the expansion of external community assistance programs.  These programs and services include, but are not limited to:
+
+The 340B program enables Avita Health System to expand access to medications across the continuum of care. 
+•	Maintaining formulary access to critical medications that, without 340B discounts, could not be sustainably offered due to reimbursement rates below acquisition costs
+•	Patient access to ultra high cost specialty pharmaceuticals and infusions, including immunotherapy, bispecifics, and radioligand therapy at our infusion centers and comprehensive cancer center
+•	Subsidizing chemotherapy and immunotherapy for uninsured and underinsured patients
+•	Providing pediatric vaccines at all pediatrician and family medicine physician practices system-wide, including continuing a neonatal Hepatitis B vaccination program that provides the birth dose at no charge to patients 
+•	Expanding access to outpatient pharmacy services through a second entity-owned retail pharmacy in Crestline, Ohio, restoring essential pharmaceutical care to a community that had become a pharmacy desert. 
+
+The 340B Program enables Avita Health System to stretch scarce federal resources as far as possible, reaching more eligible patients and providing more comprehensive services.
+
+•	Maintaining community access to 24/7 critical services including emergency medicine (ER), inpatient care, surgery, advanced imaging, and intensive care at all three Avita Health System hospitals
+•	Continuing our commitment to women’s health and perinatal care by continuing to provide Maternity & Obstetric services in Crawford County, while expanding services in Richland County 
+•	Expanding access to specialized services and medical expertise, such as cardiac catheterization, inpatient hemodialysis/CRRT, and telestroke medicine 
+•	Providing critical support for ICU and Med/Surg patients with pulmonologists, intensivists, nephrologists, neurologists, cardiologists, and other specialists that enable patients to receive care close to home, without transferring out of the system. 
+•	Expanding outpatient access to specialty medical and surgical services in our rural, Critical Access Hospitals, including rheumatology, urology, orthopedics, spinal surgery, gastroenterology, pain management, ENT, and wound care (including hyperbaric oxygen treatment) allowing patients to receive expert care close to home
+•	Access to adult and pediatric occupational therapy, physical therapy, speech therapy and audiology services
+•	Expanding access to state-of-the-art technology, including robotic surgery, 3D mammography, 3T MRI, and LINAC with RapidArc® Dynamic planning.
+•	Expanding cancer care for our communities through medical oncology and infusion services at all three Avita Heath System hospitals and a new, state-of-the-art comprehensive Cancer Center in Richland County offering radiation oncology services in addition to medical oncology and infusion. 
+•	Nurse navigation services for oncology patients to guide them through their cancer care journey
+•	Access to charity and indigent care programs, as well as financial assistance for basic medical services, oncology and other specialty medications
+•	Access to patient billing advocates and financial counselors to assist with needs beyond direct medical care, such as gas, electricity, transportation, etc.
+•	Absorbing waived self-administered drug charges for Medicare observation patients
+•	Outpatient social work services to support patients with psychosocial needs and care coordination
+•	Access to psychiatric and addiction medicine services for patients with mental health and substance use disorders.
+•	Crisis intervention services for patients experiencing mental health or behavioral health emergencies
+•	Access to full service Home Health and Hospice care across an 8 county region, including inpatient hospice and respite care. 
+•	Providing ambulatory clinical pharmacy services (Medication Therapy Management clinics) to at-risk patients to improve medication adherence and outcomes through disease state management
+•	Expanding access to patient assistance programs through pharmacist coordinated Medication Access Programs and Drug Repository Services 
+•	Partnerships with local communities to provide community health improvement services, such as diabetes prevention, prenatal support, and tobacco cessation
+•	Offer free sports physicals for the community and access to athletic training services to school districts in local and surrounding counties
+•	Sensory kits for neurodivergent pediatric patients in the Emergency Department to support their comfort and care experience
+•	24/7 access to forensic services, including free medical screenings and exams for victims of sexual assault and abuse, child abuse, domestic violence, human trafficking, and other criminal offenses for victims in Crawford, Richland, and surrounding counties. 
+•	Access to 365 day Walk In Clinic services at 3 separate locations across Richland county.
+•	Access to pre-employment evaluations, post-accident services, and training programs for local employers through our WorkWell Occupational Health services.
+•	Staff tuition assistance and subsidy programs to support continuing education and professional development
+•	Nurse education partnerships with local nursing schools, enabling staff to complete nursing school at no cost to them, strengthening our workforce and community
+
+Impact of Scaling back the 340B Program
+
+Avita Health System is committed to our mission of improving the health and wellbeing of those we serve. We fulfill our mission primarily through the services and programs that we offer our patients, as well as through the support that we give to our communities. Scaling back the 340B Program would threaten our capacity to maintain access to the full scope of medications and services described above, jeopardizing essential care in our rural communities where healthcare options are already limited.",
+1,uses,alternative_narrative,,,-,

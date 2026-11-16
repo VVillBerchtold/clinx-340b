@@ -1,0 +1,309 @@
+sheet,cell,value
+Twin City,B1,Ohio Department of Health
+Twin City,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Twin City,B4,Reporting Period:
+Twin City,C4,"January 1, 2025 - December 31, 2025"
+Twin City,B5,Primary Contact Name:
+Twin City,C5,[contact detail withheld]
+Twin City,B6,Email:
+Twin City,C6,[contact detail withheld]
+Twin City,B7,Phone Number:
+Twin City,C7,[contact detail withheld]
+Twin City,A8,Data Element
+Twin City,B8,HRSA 340B ID:
+Twin City,C8,CAH361302
+Twin City,D9,Lettered Prefix:
+Twin City,E9,Number:
+Twin City,A10,1
+Twin City,D10,CAH
+Twin City,E10,361302
+Twin City,C12,NPI1
+Twin City,D12,NPI2
+Twin City,E12,NPI3
+Twin City,F12,NPI4
+Twin City,G12,NPI5
+Twin City,H12,NPI6
+Twin City,I12,NPI7
+Twin City,J12,NPI8
+Twin City,K12,NPI9
+Twin City,L12,NPI10
+Twin City,M12,NPI11
+Twin City,N12,NPI12
+Twin City,O12,NPI13
+Twin City,P12,NPI14
+Twin City,Q12,NPI15
+Twin City,R12,NPI16
+Twin City,S12,NPI17
+Twin City,T12,NPI18
+Twin City,U12,NPI19
+Twin City,V12,NPI20
+Twin City,A13,2
+Twin City,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Twin City,C13,1992096192
+Twin City,E13,-
+Twin City,F13,-
+Twin City,G13,-
+Twin City,H13,-
+Twin City,I13,-
+Twin City,J13,-
+Twin City,K13,-
+Twin City,L13,-
+Twin City,M13,-
+Twin City,N13,-
+Twin City,O13,-
+Twin City,P13,-
+Twin City,Q13,-
+Twin City,R13,-
+Twin City,S13,-
+Twin City,T13,-
+Twin City,U13,-
+Twin City,V13,-
+Twin City,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Twin City,C16,Commercial Insurance/Private Insurance:
+Twin City,D16,Medicare:
+Twin City,E16,Medicaid (all states):
+Twin City,F16,Other Third-Party Payor:
+Twin City,G16,Uninsured/Self-Pay:
+Twin City,H16,TOTAL:
+Twin City,A17,3
+Twin City,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Twin City,C17,N/A
+Twin City,D17,N/A
+Twin City,E17,N/A
+Twin City,F17,N/A
+Twin City,G17,N/A
+Twin City,H17,0
+Twin City,I17,Hospital does not dispense retail drugs
+Twin City,A18,4
+Twin City,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Twin City,C18,N/A
+Twin City,D18,N/A
+Twin City,E18,N/A
+Twin City,F18,N/A
+Twin City,G18,N/A
+Twin City,H18,0
+Twin City,I18,Hospital does not dispense retail drugs
+Twin City,A19,5
+Twin City,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Twin City,C19,N/A
+Twin City,D19,N/A
+Twin City,E19,N/A
+Twin City,F19,N/A
+Twin City,G19,N/A
+Twin City,H19,0
+Twin City,I19,Hospital does not dispense retail drugs
+Twin City,A20,6
+Twin City,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Twin City,C20,N/A
+Twin City,D20,N/A
+Twin City,E20,N/A
+Twin City,F20,N/A
+Twin City,G20,N/A
+Twin City,H20,0
+Twin City,I20,Hospital does not dispense retail drugs
+Twin City,A21,7
+Twin City,B21,Percentage of total prescriptions that were 340B
+Twin City,C21,#VALUE!
+Twin City,D21,#VALUE!
+Twin City,E21,#VALUE!
+Twin City,F21,#VALUE!
+Twin City,G21,#VALUE!
+Twin City,H21,#DIV/0!
+Twin City,I21,Hospital does not dispense retail drugs
+Twin City,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Twin City,A25,8
+Twin City,C25,Commercial Insurance/Private Insurance:
+Twin City,D25,Medicare:
+Twin City,E25,Medicaid (all states):
+Twin City,F25,Other Third-Party Payor:
+Twin City,G25,Uninsured/Self-Pay:
+Twin City,H25,Indeterminate (Explain)
+Twin City,I25,TOTAL:
+Twin City,J25,Comments
+Twin City,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Twin City,C26,0
+Twin City,D26,0
+Twin City,E26,0
+Twin City,F26,0
+Twin City,G26,0
+Twin City,H26,157533.85999999999
+Twin City,I26,157533.85999999999
+Twin City,J26,"Our TPAs do not provided granular data on insurance type.  We do carve out ALL Medicaid FFS and Medicaid MCO claims, this is done by the TPA in the background"
+Twin City,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Twin City,C27,0
+Twin City,D27,0
+Twin City,E27,0
+Twin City,F27,0
+Twin City,G27,0
+Twin City,H27,551442.24
+Twin City,I27,551442.24
+Twin City,J27,"Our TPAs do not provided granular data on insurance type.  We do carve out ALL Medicaid FFS and Medicaid MCO claims, this is done by the TPA in the background"
+Twin City,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Twin City,C28,0
+Twin City,D28,0
+Twin City,E28,0
+Twin City,F28,0
+Twin City,G28,0
+Twin City,H28,45606
+Twin City,I28,45606
+Twin City,J28,"Our TPAs do not provided granular data on insurance type.  We do carve out ALL Medicaid FFS and Medicaid MCO claims, this is done by the TPA in the background"
+Twin City,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Twin City,C29,0
+Twin City,D29,0
+Twin City,E29,0
+Twin City,F29,0
+Twin City,G29,0
+Twin City,H29,2621
+Twin City,I29,2621
+Twin City,J29,"Our TPAs do not provided granular data on insurance type.  We do carve out ALL Medicaid FFS and Medicaid MCO claims, this is done by the TPA in the background"
+Twin City,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Twin City,C30,#DIV/0!
+Twin City,D30,#DIV/0!
+Twin City,E30,#DIV/0!
+Twin City,F30,#DIV/0!
+Twin City,G30,#DIV/0!
+Twin City,H30,5.7470508266456166
+Twin City,I30,5.7470508266456166
+Twin City,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Twin City,I32,-
+Twin City,B33,Section 3: Administered Drugs
+Twin City,D34,Commercial Insurance/Private Insurance:
+Twin City,E34,Medicare:
+Twin City,F34,Medicaid (all states):
+Twin City,G34,Other Third-Party Payor:
+Twin City,H34,Uninsured/Self-Pay:
+Twin City,I34,TOTAL:
+Twin City,J34,Notes
+Twin City,A35,9
+Twin City,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Twin City,D35,124386
+Twin City,E35,214149
+Twin City,F35,96593
+Twin City,G35,26158
+Twin City,H35,16968
+Twin City,I35,478254
+Twin City,A36,10
+Twin City,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Twin City,C36,Actual Payments
+Twin City,D36,0
+Twin City,E36,0
+Twin City,F36,0
+Twin City,G36,0
+Twin City,H36,0
+Twin City,I36,0
+Twin City,C37,Estimated Payments*
+Twin City,D37,663735.64
+Twin City,E37,857716
+Twin City,F37,240813.57
+Twin City,G37,117329.92
+Twin City,H37,10331.43
+Twin City,I37,1889926.56
+Twin City,C38,TOTAL
+Twin City,D38,663735.64
+Twin City,E38,857716
+Twin City,F38,240813.57
+Twin City,G38,117329.92
+Twin City,H38,10331.43
+Twin City,I38,1889926.56
+Twin City,A39,11
+Twin City,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Twin City,D39,N/A
+Twin City,E39,N/A
+Twin City,F39,N/A
+Twin City,G39,N/A
+Twin City,H39,N/A
+Twin City,I39,N/A
+Twin City,J39,"TPA does not capture inpatient dispensations, only outpatient"
+Twin City,A40,12
+Twin City,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Twin City,D40,11882
+Twin City,E40,20455
+Twin City,F40,9227
+Twin City,G40,2499
+Twin City,H40,1621
+Twin City,I40,45684
+Twin City,A41,13
+Twin City,B41,Percentage of total prescriptions that were 340B
+Twin City,D41,#VALUE!
+Twin City,E41,#VALUE!
+Twin City,F41,#VALUE!
+Twin City,G41,#VALUE!
+Twin City,H41,#VALUE!
+Twin City,I41,#VALUE!
+Twin City,B43,Section 4: Administrative Costs of the 340B Program
+Twin City,B45,Payments to External Entities:
+Twin City,A46,14
+Twin City,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Twin City,C46,190225.28
+Twin City,A47,15
+Twin City,B47,Total Payments to 340B Third Party Administrators:
+Twin City,C47,24000
+Twin City,A48,16
+Twin City,B48,Total Payments to 340B Consulting Entities (including audit support):
+Twin City,C48,14000
+Twin City,A49,17
+Twin City,B49,340B Software and Information Technology Costs:
+Twin City,C49,-
+Twin City,A50,18
+Twin City,B50,Other Payments to External Entities:
+Twin City,C50,-
+Twin City,B52,Internal Costs to Administer the 340B Program
+Twin City,A53,19
+Twin City,B53,Staffing Costs (340B dedicated):
+Twin City,C53,22251.15
+Twin City,D53,This number includes National 340B Team support
+Twin City,A54,20
+Twin City,B54,Information Technology Costs:
+Twin City,C54,-
+Twin City,A55,21
+Twin City,B55,Other internal costs:
+Twin City,C55,-
+Twin City,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Twin City,A59,22
+Twin City,B59,Covered Entity's total number of Contract Pharmacies:
+Twin City,C59,17
+Twin City,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Twin City,C63,Detailed Description of Item:
+Twin City,D63,Expenditures from 340B funds:
+Twin City,A64,23
+Twin City,B64,Programs or Services funded/purchased with 340B funds:
+Twin City,B65,Program/Service 1:
+Twin City,C65,-
+Twin City,D65,-
+Twin City,B66,Program/Service 2:
+Twin City,C66,-
+Twin City,D66,-
+Twin City,B67,Program/Service 3:
+Twin City,C67,-
+Twin City,D67,-
+Twin City,B68,Program/Service 4:
+Twin City,C68,-
+Twin City,D68,-
+Twin City,B69,Program/Service 5:
+Twin City,C69,-
+Twin City,D69,-
+Twin City,B71,Equipment purchased with 340B Funds:
+Twin City,B72,Item 1:
+Twin City,C72,-
+Twin City,D72,-
+Twin City,B73,Item 2:
+Twin City,C73,-
+Twin City,D73,-
+Twin City,B74,Item 3:
+Twin City,C74,-
+Twin City,D74,-
+Twin City,B75,Item 4:
+Twin City,C75,-
+Twin City,D75,-
+Twin City,B76,Item 5:
+Twin City,C76,-
+Twin City,D76,-
+Twin City,B78,Other uses of 340B funds not otherwise listed above:
+Twin City,C78,-
+Twin City,D78,-
+Twin City,B80,(Narrative) Provide additional detail/context as necessary:
+Twin City,C80,-
+Twin City,A82,24
+Twin City,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Twin City,C82,"Trinity Hospital Twin City is a small critical access hospital located in Dennison, Ohio, and is approximately 20 minutes away from the next closest institution that provides similar services. We are located in a federally designated Health Professional Shortage Area (HPSA). Despite operating at a loss, Twin City provides over $1.4 million in community benefits including direct financial assistance and unreimbursed Medicaid care. The 340B program is crucial to the health of our community. We use our 340B savings to teach healthy life choices through our Fit for Life Program, which aims to reduce the number of overweight and obese men and women of all ages in Tuscarawas County and the surrounding counties of Carroll, Guernsey, and Harrison. We also provide support for the community through our Diabetes Wellness program. Twin City also provides medication assistance through its contract pharmacy arrangements that allows qualified patients to receive drugs at discounted prices."
+Twin City,C84,340B dollars help keep the doors open while also providing benefits to our community through programs and financial assistance.

@@ -1,0 +1,287 @@
+sheet,cell,value
+STD42304,B1,Ohio Department of Health
+STD42304,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+STD42304,B4,Reporting Period:
+STD42304,C4,"January 1, 2025 - December 31, 2025"
+STD42304,B5,Primary Contact Name:
+STD42304,C5,[contact detail withheld]
+STD42304,B6,Email:
+STD42304,C6,[contact detail withheld]
+STD42304,B7,Phone Number:
+STD42304,C7,[contact detail withheld]
+STD42304,A8,Data Element
+STD42304,B8,HRSA 340B ID:
+STD42304,C8,STD42304
+STD42304,D9,Lettered Prefix:
+STD42304,E9,Number:
+STD42304,A10,1
+STD42304,D10,-
+STD42304,E10,-
+STD42304,C12,NPI1
+STD42304,D12,NPI2
+STD42304,E12,NPI3
+STD42304,F12,NPI4
+STD42304,G12,NPI5
+STD42304,H12,NPI6
+STD42304,I12,NPI7
+STD42304,J12,NPI8
+STD42304,K12,NPI9
+STD42304,L12,NPI10
+STD42304,M12,NPI11
+STD42304,N12,NPI12
+STD42304,O12,NPI13
+STD42304,P12,NPI14
+STD42304,Q12,NPI15
+STD42304,R12,NPI16
+STD42304,S12,NPI17
+STD42304,T12,NPI18
+STD42304,U12,NPI19
+STD42304,V12,NPI20
+STD42304,A13,2
+STD42304,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+STD42304,C13,1548672090
+STD42304,D13,1770270159
+STD42304,E13,1689057259
+STD42304,F13,1174507487
+STD42304,G13,1265087506
+STD42304,H13,1891769006
+STD42304,I13,1871862359
+STD42304,J13,1477875342
+STD42304,K13,-
+STD42304,L13,-
+STD42304,M13,-
+STD42304,N13,-
+STD42304,O13,-
+STD42304,P13,-
+STD42304,Q13,-
+STD42304,R13,-
+STD42304,S13,-
+STD42304,T13,-
+STD42304,U13,-
+STD42304,V13,-
+STD42304,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+STD42304,C16,Commercial Insurance/Private Insurance:
+STD42304,D16,Medicare:
+STD42304,E16,Medicaid (all states):
+STD42304,F16,Other Third-Party Payor:
+STD42304,G16,Uninsured/Self-Pay:
+STD42304,H16,TOTAL:
+STD42304,A17,3
+STD42304,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+STD42304,C17,0
+STD42304,D17,0
+STD42304,E17,0
+STD42304,F17,0
+STD42304,G17,0
+STD42304,H17,0
+STD42304,A18,4
+STD42304,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+STD42304,C18,0
+STD42304,D18,0
+STD42304,E18,0
+STD42304,F18,0
+STD42304,G18,0
+STD42304,H18,0
+STD42304,A19,5
+STD42304,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+STD42304,C19,0
+STD42304,D19,0
+STD42304,E19,0
+STD42304,F19,0
+STD42304,G19,0
+STD42304,H19,0
+STD42304,A20,6
+STD42304,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+STD42304,C20,0
+STD42304,D20,0
+STD42304,E20,0
+STD42304,F20,0
+STD42304,G20,0
+STD42304,H20,0
+STD42304,A21,7
+STD42304,B21,Percentage of total prescriptions that were 340B
+STD42304,C21,#DIV/0!
+STD42304,D21,#DIV/0!
+STD42304,E21,#DIV/0!
+STD42304,F21,#DIV/0!
+STD42304,G21,#DIV/0!
+STD42304,H21,#DIV/0!
+STD42304,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+STD42304,A25,8
+STD42304,C25,Commercial Insurance/Private Insurance:
+STD42304,D25,Medicare:
+STD42304,E25,Medicaid (all states):
+STD42304,F25,Other Third-Party Payor:
+STD42304,G25,Uninsured/Self-Pay:
+STD42304,H25,Indeterminate (Explain)
+STD42304,I25,TOTAL:
+STD42304,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+STD42304,C26,5738385.9617428007
+STD42304,D26,0
+STD42304,E26,2823509.7223362513
+STD42304,F26,0
+STD42304,G26,277081.43000000092
+STD42304,H26,0
+STD42304,I26,8838977.1140790526
+STD42304,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+STD42304,C27,9362523.6000001281
+STD42304,D27,0
+STD42304,E27,4779502.5100000203
+STD42304,F27,0
+STD42304,G27,44072.050000000105
+STD42304,H27,0
+STD42304,I27,14186098.160000149
+STD42304,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+STD42304,C28,22475
+STD42304,D28,0
+STD42304,E28,12169
+STD42304,F28,0
+STD42304,G28,13788
+STD42304,H28,0
+STD42304,I28,48432
+STD42304,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+STD42304,C29,14346
+STD42304,D29,0
+STD42304,E29,6074
+STD42304,F29,0
+STD42304,G29,5055
+STD42304,H29,0
+STD42304,I29,25475
+STD42304,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+STD42304,C30,63.830923248053395
+STD42304,D30,#DIV/0!
+STD42304,E30,49.913715177911087
+STD42304,F30,#DIV/0!
+STD42304,G30,36.662315056570932
+STD42304,H30,#DIV/0!
+STD42304,I30,52.599520977865879
+STD42304,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+STD42304,I32,-
+STD42304,B33,Section 3: Administered Drugs
+STD42304,D34,Commercial Insurance/Private Insurance:
+STD42304,E34,Medicare:
+STD42304,F34,Medicaid (all states):
+STD42304,G34,Other Third-Party Payor:
+STD42304,H34,Uninsured/Self-Pay:
+STD42304,I34,TOTAL:
+STD42304,A35,9
+STD42304,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+STD42304,D35,0
+STD42304,E35,0
+STD42304,F35,0
+STD42304,G35,0
+STD42304,H35,0
+STD42304,I35,0
+STD42304,A36,10
+STD42304,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+STD42304,C36,Actual Payments
+STD42304,D36,0
+STD42304,E36,0
+STD42304,F36,0
+STD42304,G36,0
+STD42304,H36,0
+STD42304,I36,0
+STD42304,C37,Estimated Payments*
+STD42304,D37,0
+STD42304,E37,0
+STD42304,F37,0
+STD42304,G37,0
+STD42304,H37,0
+STD42304,I37,0
+STD42304,C38,TOTAL
+STD42304,D38,0
+STD42304,E38,0
+STD42304,F38,0
+STD42304,G38,0
+STD42304,H38,0
+STD42304,I38,0
+STD42304,A39,11
+STD42304,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+STD42304,D39,516
+STD42304,E39,0
+STD42304,F39,298
+STD42304,G39,0
+STD42304,H39,451
+STD42304,I39,1265
+STD42304,A40,12
+STD42304,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+STD42304,D40,191
+STD42304,E40,0
+STD42304,F40,110
+STD42304,G40,0
+STD42304,H40,167
+STD42304,I40,468
+STD42304,A41,13
+STD42304,B41,Percentage of total prescriptions that were 340B
+STD42304,D41,37.015503875968989
+STD42304,E41,#DIV/0!
+STD42304,F41,36.912751677852349
+STD42304,G41,#DIV/0!
+STD42304,H41,37.028824833702885
+STD42304,I41,36.996047430830039
+STD42304,B43,Section 4: Administrative Costs of the 340B Program
+STD42304,B45,Payments to External Entities:
+STD42304,A46,14
+STD42304,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+STD42304,C46,760099.88344000129
+STD42304,A47,15
+STD42304,B47,Total Payments to 340B Third Party Administrators:
+STD42304,A48,16
+STD42304,B48,Total Payments to 340B Consulting Entities (including audit support):
+STD42304,C48,22691.27448
+STD42304,A49,17
+STD42304,B49,340B Software and Information Technology Costs:
+STD42304,A50,18
+STD42304,B50,Other Payments to External Entities:
+STD42304,B52,Internal Costs to Administer the 340B Program
+STD42304,A53,19
+STD42304,B53,Staffing Costs (340B dedicated):
+STD42304,C53,36096
+STD42304,A54,20
+STD42304,B54,Information Technology Costs:
+STD42304,C54,12000
+STD42304,A55,21
+STD42304,B55,Other internal costs:
+STD42304,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+STD42304,A59,22
+STD42304,B59,Covered Entity's total number of Contract Pharmacies:
+STD42304,C59,36
+STD42304,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+STD42304,C63,Detailed Description of Item:
+STD42304,D63,Expenditures from 340B funds:
+STD42304,A64,23
+STD42304,B64,Programs or Services funded/purchased with 340B funds:
+STD42304,B65,Program/Service 1:
+STD42304,C65,"Have a team of 8 clinicians, 8 adminidstrative support staff including Lost to Care coordinators, case managers, and schedulers, 5 medical assistants, 2 registered nurses and 5 outreach workers in the clinic.  "
+STD42304,D65,4695389.82
+STD42304,B66,Program/Service 2:
+STD42304,C66,HIV Treatment
+STD42304,B67,Program/Service 3:
+STD42304,C67,HIV Prevention
+STD42304,B68,Program/Service 4:
+STD42304,C68,STI Treatment & Testing
+STD42304,B69,Program/Service 5:
+STD42304,C69,Hep C Testing and Treatment
+STD42304,B71,Equipment purchased with 340B Funds:
+STD42304,B72,Item 1:
+STD42304,C72,Office & Testing Supplies
+STD42304,B73,Item 2:
+STD42304,C73,Building Rent / Maintenance Costs
+STD42304,D73,607299.92000000004
+STD42304,B74,Item 3:
+STD42304,C74,Marketing and Advertising Expenses
+STD42304,D74,322205.28999999998
+STD42304,B75,Item 4:
+STD42304,C75,    Taxes and Insurance
+STD42304,D75,48296.68
+STD42304,B76,Item 5:
+STD42304,C76,"    General and Administrative Expenses, RV & Mobile Equipment"
+STD42304,D76,801676.41
+STD42304,B78,Other uses of 340B funds not otherwise listed above:
+STD42304,C78,"See attached supplemental information for programs. Servives, mission and goals on for our program.  Not all costs / inititives listed above"
+STD42304,D78,-
+STD42304,B80,(Narrative) Provide additional detail/context as necessary:
+STD42304,C80,"See attached supplemental information for programs. Servives, mission and goals on for our program.  Not all costs / inititives listed above"
+STD42304,A82,24
+STD42304,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+STD42304,C82,-

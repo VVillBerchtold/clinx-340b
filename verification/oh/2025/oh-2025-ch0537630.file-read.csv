@@ -1,0 +1,186 @@
+page,schedule,line,amount,claims,answer
+1,in_house_acquisition_cost,commercial,694257.7,,
+1,in_house_acquisition_cost,medicare,1953194.98,,
+1,in_house_acquisition_cost,medicaid,2349811.92,,
+1,in_house_acquisition_cost,other_third_party,0,,
+1,in_house_acquisition_cost,uninsured,6265.03,,
+1,in_house_acquisition_cost,total,5003529.63,,
+1,in_house_payments_received,commercial,2500932.06,,
+1,in_house_payments_received,medicare,5861141.37,,
+1,in_house_payments_received,medicaid,6283058.44,,
+1,in_house_payments_received,other_third_party,0,,
+1,in_house_payments_received,uninsured,22325.89,,
+1,in_house_payments_received,total,14667457.76,,
+1,in_house_rx_all,commercial,,31517,
+1,in_house_rx_all,medicare,,53152,
+1,in_house_rx_all,medicaid,,65809,
+1,in_house_rx_all,other_third_party,,0,
+1,in_house_rx_all,uninsured,,2818,
+1,in_house_rx_all,total,,153296,
+1,in_house_rx_340b,commercial,,17858,
+1,in_house_rx_340b,medicare,,28087,
+1,in_house_rx_340b,medicaid,,34799,
+1,in_house_rx_340b,other_third_party,,0,
+1,in_house_rx_340b,uninsured,,1589,
+1,in_house_rx_340b,total,,82333,
+1,in_house_rx_pct,commercial,56.661484278326,,
+1,in_house_rx_pct,medicare,52.842790487658,,
+1,in_house_rx_pct,medicaid,52.8787855764409,,
+1,in_house_rx_pct,other_third_party,#DIV/0!,,
+1,in_house_rx_pct,uninsured,56.3875088715401,,
+1,in_house_rx_pct,total,53.7085116376161,,
+1,contract_acquisition_cost,commercial,0,,
+1,contract_acquisition_cost,medicare,0,,
+1,contract_acquisition_cost,medicaid,0,,
+1,contract_acquisition_cost,other_third_party,0,,
+1,contract_acquisition_cost,uninsured,0,,
+1,contract_acquisition_cost,indeterminate,1466128.9,,
+1,contract_acquisition_cost,total,1466128.9,,
+1,contract_payments_received,commercial,0,,
+1,contract_payments_received,medicare,0,,
+1,contract_payments_received,medicaid,0,,
+1,contract_payments_received,other_third_party,0,,
+1,contract_payments_received,uninsured,0,,
+1,contract_payments_received,indeterminate,4125534.83,,
+1,contract_payments_received,total,4125534.83,,
+1,contract_rx_all,commercial,,0,
+1,contract_rx_all,medicare,,0,
+1,contract_rx_all,medicaid,,0,
+1,contract_rx_all,other_third_party,,0,
+1,contract_rx_all,uninsured,,0,
+1,contract_rx_all,indeterminate,,35454,
+1,contract_rx_all,total,,35454,
+1,contract_rx_340b,commercial,,0,
+1,contract_rx_340b,medicare,,0,
+1,contract_rx_340b,medicaid,,0,
+1,contract_rx_340b,other_third_party,,0,
+1,contract_rx_340b,uninsured,,0,
+1,contract_rx_340b,indeterminate,,35454,
+1,contract_rx_340b,total,,35454,
+1,contract_rx_pct,commercial,#DIV/0!,,
+1,contract_rx_pct,medicare,#DIV/0!,,
+1,contract_rx_pct,medicaid,#DIV/0!,,
+1,contract_rx_pct,other_third_party,#DIV/0!,,
+1,contract_rx_pct,uninsured,#DIV/0!,,
+1,contract_rx_pct,indeterminate,100,,
+1,contract_rx_pct,total,100,,
+1,administered_acquisition_cost,commercial,17351.33,,
+1,administered_acquisition_cost,medicare,3922.5,,
+1,administered_acquisition_cost,medicaid,646.06,,
+1,administered_acquisition_cost,other_third_party,5653.03,,
+1,administered_acquisition_cost,uninsured,18560.42,,
+1,administered_acquisition_cost,total,46133.34,,
+1,administered_payments_actual,commercial,0,,
+1,administered_payments_actual,medicare,0,,
+1,administered_payments_actual,medicaid,0,,
+1,administered_payments_actual,other_third_party,0,,
+1,administered_payments_actual,uninsured,0,,
+1,administered_payments_actual,total,0,,
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,commercial,735.67,,
+1,administered_payments_estimated,medicare,166.3,,
+1,administered_payments_estimated,medicaid,27.13,,
+1,administered_payments_estimated,other_third_party,239.46,,
+1,administered_payments_estimated,uninsured,786.21,,
+1,administered_payments_estimated,total,1954.77,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,commercial,0,,
+1,administered_payments_total,medicare,0,,
+1,administered_payments_total,medicaid,0,,
+1,administered_payments_total,other_third_party,0,,
+1,administered_payments_total,uninsured,0,,
+1,administered_payments_total,total,0,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,administered_rx_all,commercial,,3370,
+1,administered_rx_all,medicare,,763,
+1,administered_rx_all,medicaid,,126,
+1,administered_rx_all,other_third_party,,1097,
+1,administered_rx_all,uninsured,,3606,
+1,administered_rx_all,total,,8962,
+1,administered_rx_340b,commercial,,3370,
+1,administered_rx_340b,medicare,,763,
+1,administered_rx_340b,medicaid,,126,
+1,administered_rx_340b,other_third_party,,1097,
+1,administered_rx_340b,uninsured,,3606,
+1,administered_rx_340b,total,,8962,
+1,administered_rx_pct,commercial,100,,
+1,administered_rx_pct,medicare,100,,
+1,administered_rx_pct,medicaid,100,,
+1,administered_rx_pct,other_third_party,100,,
+1,administered_rx_pct,uninsured,100,,
+1,administered_rx_pct,total,100,,
+1,costs,contract_pharmacies,1252683.79,,
+1,costs,third_party_administrators,175148.86,,
+1,costs,consultants,18917.5,,
+1,costs,software_it,70888.14,,
+1,costs,other_external,1208899.75,,
+1,costs,staffing,1678613.14,,
+1,costs,internal_it,11385.01,,
+1,costs,other_internal,31009.31,,
+1,contract_pharmacies,count,73,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,CH0537630
+1,identity,id_prefix,,,CH
+1,identity,id_number,,,537630
+1,identity,npi_1,,,1497464218
+1,identity,npi_2,,,1780393504
+1,identity,npi_3,,,1205018348
+1,identity,npi_4,,,1528257789
+1,identity,npi_5,,,1104008242
+1,identity,npi_6,,,1841472982 
+1,identity,npi_7,,,1881078566
+1,identity,npi_8,,,1295118883
+1,identity,npi_9,,,1790201168
+1,identity,npi_10,,,1396261756
+1,identity,npi_11,,,1184191785
+1,identity,npi_12,,,1093282733
+1,identity,npi_13,,,1932727849
+1,identity,npi_14,,,1942828959
+1,identity,npi_15,,,1780255513
+1,identity,npi_16,,,1750952594 
+1,identity,npi_17,,,1518629708
+1,identity,npi_18,,,1043972235
+1,identity,npi_19,,,1578225009
+1,identity,npi_20,,,1588326029
+1,contract_pharmacy_notes,indeterminate_explanation,,,"TPA data did not include sufficient data to accurately break down prescriptions by payer type prior to report submission date. In addition, local independent contract pharmacies do not utilize TPA. "
+1,uses,program_1_description,,,Sliding fee discount program to help low-income Ohioans at or below 200% of the federal poverty level access medical and pharmacy services at a reduced cost.-
+1,uses,program_1_amount,2835204,,
+1,uses,program_2_description,,,Transportation services to help patients meet their medical and pharmacy needs.
+1,uses,program_2_amount,177817.97,,
+1,uses,program_3_description,,,Mobile Medical Unit to provide community members access to care at locations that meet their needs.
+1,uses,program_3_amount,300080.35,,
+1,uses,program_4_description,,,"Reinvesting 340B profit directly back into patient care to address Social Determinants of Health (SDOH) for patients with complex chronic conditions, including but not limited to patient navigation support, care coordination, clinical pharmacy support, health coaching, mobile phlebotomy, and lifestyle interventions to improve patient outcomes."
+1,uses,program_4_amount,1875281,,
+1,uses,program_5_description,,,Dental services to address access in our communities for all patients
+1,uses,program_5_amount,3214488.64,,
+1,uses,program_6_description,,,Care coordination
+1,uses,program_6_amount,199103.98,,
+1,uses,equipment_1_description,,,Pharmacy Drive Through Window
+1,uses,equipment_1_amount,30140,,
+1,uses,equipment_2_description,,,Honda HR-V - Pharmacy Delivery Vehicle
+1,uses,equipment_2_amount,29582,,
+1,uses,equipment_3_description,,,Honda HR-V - Pharmacy Delivery Vehicle
+1,uses,equipment_3_amount,30037,,
+1,uses,equipment_4_description,,,-
+1,uses,equipment_4_amount,-,,
+1,uses,equipment_5_description,,,-
+1,uses,equipment_5_amount,-,,
+1,uses,other_uses_description,,,-
+1,uses,other_uses_amount,-,,
+1,uses,narrative,,,"MVHC operates twelve (12) locations within a four-county
+region including Muskingum, Morgan, Guernsey, and Coshocton counties. MVHC serves over 73,000
+patients annually, resulting in over 282,000 visits. MVHC offers services including primary care services,
+women’s health, dental health, podiatry, behavioral health, and addiction services. Additionally, MVHC
+operates two in-house pharmacies and one specialty pharmacy in Muskingum and Guernsey counties.  Our medical and pharmacy services are available to low-income patients on the sliding-fee scale, and we serve all patients regardless of their insurance.  In addition to providing free transportation to our patients, and offering Mobile Health services, we also provide free prescription deliver- impacting patients with transportation barriers to accessing healthcare. "
+1,uses,alternative_narrative,,,-
+1,other_cells,cell_E14,,,1407633381
+1,other_cells,cell_F14,,,1447037312
+1,other_cells,cell_G14,,,1063242121
+1,other_cells,cell_H14,,,1427888585
+1,other_cells,cell_I14,,,1962232025
+1,other_cells,cell_J14,,,1053141119
+1,other_cells,cell_K14,,,1699502054
+1,other_cells,cell_L14,,,1346077708
+1,other_cells,cell_M14,,,1770477937
+1,other_cells,cell_N14,,,1851285019
+1,other_cells,cell_E61,,,7829655.22

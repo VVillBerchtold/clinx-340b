@@ -12,12 +12,15 @@ separate, mechanical line of evidence.
 
 from __future__ import annotations
 
+import csv
 import re
 from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 
+from filings340b.forms import form_of
 from filings340b.model import Filing, Row
+from filings340b.ohio_template import CONTACT_MARKER
 
 # A printed figure that reads as money: grouped thousands, or two decimals.
 MONEY = re.compile(r"(?<![\d,.])(?:\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+\.\d{2})(?!\d|[,.]\d)")
@@ -89,7 +92,7 @@ def _sharing(filing: Filing, everyone: tuple[Filing, ...]) -> tuple[Filing, ...]
     )
 
 
-def check_filing(
+def check_filing(  # noqa: PLR0912
     filing: Filing, text_file: Path, everyone: tuple[Filing, ...] = ()
 ) -> list[Problem]:
     """Compare one filing's rows with its extracted page text.
@@ -99,6 +102,8 @@ def check_filing(
     """
     pool = tuple(r for f in _sharing(filing, everyone) for r in f.rows) or filing.rows
     fid = filing.meta.filing_id
+    if form_of(filing.meta.form).workbook:
+        return _check_cells(filing, text_file)
     if filing.source.scanned:
         return []
     if not text_file.exists():
@@ -157,7 +162,40 @@ def check_filing(
     return problems
 
 
+def cells_file(root: Path, filing: Filing) -> Path:
+    """Return where a workbook filing's copy of its template sheet's cells is kept."""
+    folder = root / "sources" / filing.meta.state.lower() / str(filing.meta.reporting_year)
+    return folder / "cells" / f"{Path(filing.source.file_name).stem}.csv"
+
+
+def _check_cells(filing: Filing, path: Path) -> list[Problem]:
+    """Compare a workbook filing's rows with the cells file that stands in for its text."""
+    fid = filing.meta.filing_id
+    if not path.exists():
+        return [Problem(fid, 0, True, f"no cells file at {path.name}")]
+    with path.open(newline="", encoding="utf-8") as handle:
+        cells = {r["cell"]: r["value"] for r in csv.DictReader(handle)}
+    problems = []
+    for row in filing.rows:
+        where = f"schedule {row.schedule} line {row.line}"
+        printed = cells.get(row.source_cell)
+        figure = row.amount_as_filed or row.claims_as_filed or row.answer_as_filed
+        if printed is None:
+            detail = f"cell {row.source_cell} is not in the cells file"
+        elif row.claims_withheld:
+            detail = "" if printed.startswith("[withheld: ") else "a withheld cell shows a value"
+        elif printed in (figure, CONTACT_MARKER):
+            detail = ""
+        else:
+            detail = f"cell {row.source_cell} holds a different value"
+        if detail:
+            problems.append(Problem(fid, row.page, True, f"{where}: {detail}"))
+    return problems
+
+
 def text_file_for(root: Path, filing: Filing) -> Path:
-    """Return where the extracted text of a filing's PDF is kept."""
+    """Return where the extracted text of a filing's PDF (or workbook cells) is kept."""
+    if form_of(filing.meta.form).workbook:
+        return cells_file(root, filing)
     folder = root / "sources" / filing.meta.state.lower() / str(filing.meta.reporting_year)
     return folder / "text" / (Path(filing.source.file_name).stem + ".txt")

@@ -1,0 +1,295 @@
+sheet,cell,value
+ODH 340B Reporting,B1,Ohio Department of Health
+ODH 340B Reporting,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+ODH 340B Reporting,B4,Reporting Period:
+ODH 340B Reporting,C4,"January 1, 2025 - December 31, 2025"
+ODH 340B Reporting,B5,Primary Contact Name:
+ODH 340B Reporting,C5,[contact detail withheld]
+ODH 340B Reporting,B6,Email:
+ODH 340B Reporting,C6,[contact detail withheld]
+ODH 340B Reporting,B7,Phone Number:
+ODH 340B Reporting,C7,[contact detail withheld]
+ODH 340B Reporting,A8,Data Element
+ODH 340B Reporting,B8,HRSA 340B ID:
+ODH 340B Reporting,C8,CH057270
+ODH 340B Reporting,D9,Lettered Prefix:
+ODH 340B Reporting,E9,Number:
+ODH 340B Reporting,A10,1
+ODH 340B Reporting,D10,CHO
+ODH 340B Reporting,E10,57270
+ODH 340B Reporting,C12,NPI1
+ODH 340B Reporting,D12,NPI2
+ODH 340B Reporting,E12,NPI3
+ODH 340B Reporting,F12,NPI4
+ODH 340B Reporting,G12,NPI5
+ODH 340B Reporting,H12,NPI6
+ODH 340B Reporting,I12,NPI7
+ODH 340B Reporting,J12,NPI8
+ODH 340B Reporting,K12,NPI9
+ODH 340B Reporting,L12,NPI10
+ODH 340B Reporting,M12,NPI11
+ODH 340B Reporting,N12,NPI12
+ODH 340B Reporting,O12,NPI13
+ODH 340B Reporting,P12,NPI14
+ODH 340B Reporting,Q12,NPI15
+ODH 340B Reporting,R12,NPI16
+ODH 340B Reporting,S12,NPI17
+ODH 340B Reporting,T12,NPI18
+ODH 340B Reporting,U12,NPI19
+ODH 340B Reporting,V12,NPI20
+ODH 340B Reporting,A13,2
+ODH 340B Reporting,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+ODH 340B Reporting,C13,1407110729
+ODH 340B Reporting,D13,1093232035
+ODH 340B Reporting,E13,1689216236
+ODH 340B Reporting,F13,1427891530
+ODH 340B Reporting,G13,1316774821
+ODH 340B Reporting,H13,-
+ODH 340B Reporting,I13,-
+ODH 340B Reporting,J13,-
+ODH 340B Reporting,K13,-
+ODH 340B Reporting,L13,-
+ODH 340B Reporting,M13,-
+ODH 340B Reporting,N13,-
+ODH 340B Reporting,O13,-
+ODH 340B Reporting,P13,-
+ODH 340B Reporting,Q13,-
+ODH 340B Reporting,R13,-
+ODH 340B Reporting,S13,-
+ODH 340B Reporting,T13,-
+ODH 340B Reporting,U13,-
+ODH 340B Reporting,V13,-
+ODH 340B Reporting,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+ODH 340B Reporting,C16,Commercial Insurance/Private Insurance:
+ODH 340B Reporting,D16,Medicare:
+ODH 340B Reporting,E16,Medicaid (all states):
+ODH 340B Reporting,F16,Other Third-Party Payor:
+ODH 340B Reporting,G16,Uninsured/Self-Pay:
+ODH 340B Reporting,H16,TOTAL:
+ODH 340B Reporting,A17,3
+ODH 340B Reporting,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+ODH 340B Reporting,C17,1598383.1199999999
+ODH 340B Reporting,D17,1209160.79
+ODH 340B Reporting,E17,2878908.79
+ODH 340B Reporting,F17,0
+ODH 340B Reporting,G17,49630.94
+ODH 340B Reporting,H17,5736083.6400000006
+ODH 340B Reporting,A18,4
+ODH 340B Reporting,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+ODH 340B Reporting,C18,3495875.4300000006
+ODH 340B Reporting,D18,3129173.59
+ODH 340B Reporting,E18,6534822.3199999994
+ODH 340B Reporting,F18,0
+ODH 340B Reporting,G18,94872.68
+ODH 340B Reporting,H18,13254744.02
+ODH 340B Reporting,A19,5
+ODH 340B Reporting,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+ODH 340B Reporting,C19,30822
+ODH 340B Reporting,D19,18059
+ODH 340B Reporting,E19,46427
+ODH 340B Reporting,F19,0
+ODH 340B Reporting,G19,8248
+ODH 340B Reporting,H19,103556
+ODH 340B Reporting,A20,6
+ODH 340B Reporting,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+ODH 340B Reporting,C20,30822
+ODH 340B Reporting,D20,18059
+ODH 340B Reporting,E20,46427
+ODH 340B Reporting,F20,0
+ODH 340B Reporting,G20,8248
+ODH 340B Reporting,H20,103556
+ODH 340B Reporting,A21,7
+ODH 340B Reporting,B21,Percentage of total prescriptions that were 340B
+ODH 340B Reporting,C21,100
+ODH 340B Reporting,D21,100
+ODH 340B Reporting,E21,100
+ODH 340B Reporting,F21,#DIV/0!
+ODH 340B Reporting,G21,100
+ODH 340B Reporting,H21,100
+ODH 340B Reporting,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+ODH 340B Reporting,A25,8
+ODH 340B Reporting,C25,Commercial Insurance/Private Insurance:
+ODH 340B Reporting,D25,Medicare:
+ODH 340B Reporting,E25,Medicaid (all states):
+ODH 340B Reporting,F25,Other Third-Party Payor:
+ODH 340B Reporting,G25,Uninsured/Self-Pay:
+ODH 340B Reporting,H25,Indeterminate (Explain)
+ODH 340B Reporting,I25,TOTAL:
+ODH 340B Reporting,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+ODH 340B Reporting,C26,94570.51
+ODH 340B Reporting,D26,0
+ODH 340B Reporting,E26,0
+ODH 340B Reporting,F26,0
+ODH 340B Reporting,G26,5.52
+ODH 340B Reporting,H26,0
+ODH 340B Reporting,I26,94576.03
+ODH 340B Reporting,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+ODH 340B Reporting,C27,220996.39
+ODH 340B Reporting,D27,0
+ODH 340B Reporting,E27,0
+ODH 340B Reporting,F27,0
+ODH 340B Reporting,G27,15.51
+ODH 340B Reporting,H27,0
+ODH 340B Reporting,I27,221011.90000000002
+ODH 340B Reporting,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+ODH 340B Reporting,C28,[withheld: beside_small]
+ODH 340B Reporting,D28,0
+ODH 340B Reporting,E28,0
+ODH 340B Reporting,F28,0
+ODH 340B Reporting,G28,[withheld: fewer_than_6]
+ODH 340B Reporting,H28,0
+ODH 340B Reporting,I28,753
+ODH 340B Reporting,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+ODH 340B Reporting,C29,[withheld: beside_small]
+ODH 340B Reporting,D29,0
+ODH 340B Reporting,E29,0
+ODH 340B Reporting,F29,0
+ODH 340B Reporting,G29,[withheld: fewer_than_6]
+ODH 340B Reporting,H29,0
+ODH 340B Reporting,I29,753
+ODH 340B Reporting,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+ODH 340B Reporting,C30,[withheld: reveals_small]
+ODH 340B Reporting,D30,#DIV/0!
+ODH 340B Reporting,E30,#DIV/0!
+ODH 340B Reporting,F30,#DIV/0!
+ODH 340B Reporting,G30,[withheld: reveals_small]
+ODH 340B Reporting,H30,#DIV/0!
+ODH 340B Reporting,I30,100
+ODH 340B Reporting,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+ODH 340B Reporting,I32,-
+ODH 340B Reporting,B33,Section 3: Administered Drugs
+ODH 340B Reporting,D34,Commercial Insurance/Private Insurance:
+ODH 340B Reporting,E34,Medicare:
+ODH 340B Reporting,F34,Medicaid (all states):
+ODH 340B Reporting,G34,Other Third-Party Payor:
+ODH 340B Reporting,H34,Uninsured/Self-Pay:
+ODH 340B Reporting,I34,TOTAL:
+ODH 340B Reporting,A35,9
+ODH 340B Reporting,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+ODH 340B Reporting,D35,0
+ODH 340B Reporting,E35,0
+ODH 340B Reporting,F35,0
+ODH 340B Reporting,G35,0
+ODH 340B Reporting,H35,0
+ODH 340B Reporting,I35,0
+ODH 340B Reporting,A36,10
+ODH 340B Reporting,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+ODH 340B Reporting,C36,Actual Payments
+ODH 340B Reporting,D36,0
+ODH 340B Reporting,E36,0
+ODH 340B Reporting,F36,0
+ODH 340B Reporting,G36,0
+ODH 340B Reporting,H36,0
+ODH 340B Reporting,I36,0
+ODH 340B Reporting,C37,Estimated Payments*
+ODH 340B Reporting,D37,0
+ODH 340B Reporting,E37,0
+ODH 340B Reporting,F37,0
+ODH 340B Reporting,G37,0
+ODH 340B Reporting,H37,0
+ODH 340B Reporting,I37,0
+ODH 340B Reporting,C38,TOTAL
+ODH 340B Reporting,D38,0
+ODH 340B Reporting,E38,0
+ODH 340B Reporting,F38,0
+ODH 340B Reporting,G38,0
+ODH 340B Reporting,H38,0
+ODH 340B Reporting,I38,0
+ODH 340B Reporting,A39,11
+ODH 340B Reporting,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+ODH 340B Reporting,D39,0
+ODH 340B Reporting,E39,0
+ODH 340B Reporting,F39,0
+ODH 340B Reporting,G39,0
+ODH 340B Reporting,H39,0
+ODH 340B Reporting,I39,0
+ODH 340B Reporting,A40,12
+ODH 340B Reporting,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+ODH 340B Reporting,D40,0
+ODH 340B Reporting,E40,0
+ODH 340B Reporting,F40,0
+ODH 340B Reporting,G40,0
+ODH 340B Reporting,H40,0
+ODH 340B Reporting,I40,0
+ODH 340B Reporting,A41,13
+ODH 340B Reporting,B41,Percentage of total prescriptions that were 340B
+ODH 340B Reporting,D41,#DIV/0!
+ODH 340B Reporting,E41,#DIV/0!
+ODH 340B Reporting,F41,#DIV/0!
+ODH 340B Reporting,G41,#DIV/0!
+ODH 340B Reporting,H41,#DIV/0!
+ODH 340B Reporting,I41,#DIV/0!
+ODH 340B Reporting,B43,Section 4: Administrative Costs of the 340B Program
+ODH 340B Reporting,B45,Payments to External Entities:
+ODH 340B Reporting,A46,14
+ODH 340B Reporting,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+ODH 340B Reporting,C46,29036.05
+ODH 340B Reporting,A47,15
+ODH 340B Reporting,B47,Total Payments to 340B Third Party Administrators:
+ODH 340B Reporting,C47,18040.16
+ODH 340B Reporting,A48,16
+ODH 340B Reporting,B48,Total Payments to 340B Consulting Entities (including audit support):
+ODH 340B Reporting,C48,-
+ODH 340B Reporting,A49,17
+ODH 340B Reporting,B49,340B Software and Information Technology Costs:
+ODH 340B Reporting,C49,78887.78
+ODH 340B Reporting,A50,18
+ODH 340B Reporting,B50,Other Payments to External Entities:
+ODH 340B Reporting,C50,-
+ODH 340B Reporting,B52,Internal Costs to Administer the 340B Program
+ODH 340B Reporting,A53,19
+ODH 340B Reporting,B53,Staffing Costs (340B dedicated):
+ODH 340B Reporting,C53,2284858.7799999998
+ODH 340B Reporting,A54,20
+ODH 340B Reporting,B54,Information Technology Costs:
+ODH 340B Reporting,C54,-
+ODH 340B Reporting,A55,21
+ODH 340B Reporting,B55,Other internal costs:
+ODH 340B Reporting,C55,673098.44
+ODH 340B Reporting,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+ODH 340B Reporting,A59,22
+ODH 340B Reporting,B59,Covered Entity's total number of Contract Pharmacies:
+ODH 340B Reporting,C59,7
+ODH 340B Reporting,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+ODH 340B Reporting,C63,Detailed Description of Item:
+ODH 340B Reporting,D63,Expenditures from 340B funds:
+ODH 340B Reporting,A64,23
+ODH 340B Reporting,B64,Programs or Services funded/purchased with 340B funds:
+ODH 340B Reporting,B65,Program/Service 1:
+ODH 340B Reporting,C65,Integrated Primary Care programmatic service provisions (aka program losses that are covered by Pharmacy profits)
+ODH 340B Reporting,D65,3807080
+ODH 340B Reporting,B66,Program/Service 2:
+ODH 340B Reporting,C66,Integrated Optometry programmatic cost of service provision (aka program losses that are covered by Pharmacy profits)
+ODH 340B Reporting,D66,186980
+ODH 340B Reporting,B67,Program/Service 3:
+ODH 340B Reporting,C67,Integrated Dental programmatic cost of service provision (aka program losses that are covered by Pharmacy profits)
+ODH 340B Reporting,D67,1044775
+ODH 340B Reporting,B68,Program/Service 4:
+ODH 340B Reporting,C68,-
+ODH 340B Reporting,D68,-
+ODH 340B Reporting,B69,Program/Service 5:
+ODH 340B Reporting,C69,-
+ODH 340B Reporting,D69,-
+ODH 340B Reporting,B71,Equipment purchased with 340B Funds:
+ODH 340B Reporting,B72,Item 1:
+ODH 340B Reporting,D72,-
+ODH 340B Reporting,B73,Item 2:
+ODH 340B Reporting,C73,-
+ODH 340B Reporting,D73,-
+ODH 340B Reporting,B74,Item 3:
+ODH 340B Reporting,C74,-
+ODH 340B Reporting,D74,-
+ODH 340B Reporting,B75,Item 4:
+ODH 340B Reporting,C75,-
+ODH 340B Reporting,D75,-
+ODH 340B Reporting,B76,Item 5:
+ODH 340B Reporting,C76,-
+ODH 340B Reporting,D76,-
+ODH 340B Reporting,B78,Other uses of 340B funds not otherwise listed above:
+ODH 340B Reporting,C78,-
+ODH 340B Reporting,D78,-
+ODH 340B Reporting,B80,(Narrative) Provide additional detail/context as necessary:
+ODH 340B Reporting,C80,"For other internal costs, we included URAC specialty pharmacy accreditation fees, overhead costs, mailing and delivery costs, banking fees, depreciation, and small equipment for the in-house pharmacies. For contract pharmacies, the records do not specify the patient's insurance type. However, we completely exclude Medicaid from our contract pharmacy arrangements. "
+ODH 340B Reporting,A82,24
+ODH 340B Reporting,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+ODH 340B Reporting,C82,-

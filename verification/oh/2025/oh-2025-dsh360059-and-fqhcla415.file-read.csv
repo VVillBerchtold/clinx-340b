@@ -1,0 +1,20 @@
+page,schedule,line,amount,claims,answer
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,DSH|360059
+1,identity,npi_1,,,1700828852
+1,identity,npi_2,,,1609818681
+1,identity,npi_3,,,1750329264
+1,identity,npi_4,,,1942493663
+1,identity,npi_5,,,1427478858
+1,identity,npi_6,,,1821497306
+1,identity,npi_7,,,1043619604
+1,identity,npi_8,,,1225499775
+1,identity,npi_9,,,1063873297
+1,identity,npi_10,,,1053772715
+1,identity,npi_11,,,1518410869
+1,identity,npi_12,,,1871180026
+1,identity,npi_13,,,1770164592
+1,identity,npi_14,,,1992529911

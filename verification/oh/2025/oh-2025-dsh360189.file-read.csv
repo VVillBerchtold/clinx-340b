@@ -1,0 +1,202 @@
+page,schedule,line,amount,claims,answer
+1,in_house_acquisition_cost,commercial,0,,
+1,in_house_acquisition_cost,medicare,0,,
+1,in_house_acquisition_cost,medicaid,0,,
+1,in_house_acquisition_cost,other_third_party,0,,
+1,in_house_acquisition_cost,uninsured,0,,
+1,in_house_acquisition_cost,total,0,,
+1,in_house_payments_received,commercial,0,,
+1,in_house_payments_received,medicare,0,,
+1,in_house_payments_received,medicaid,0,,
+1,in_house_payments_received,other_third_party,0,,
+1,in_house_payments_received,uninsured,0,,
+1,in_house_payments_received,total,0,,
+1,in_house_rx_all,commercial,,0,
+1,in_house_rx_all,medicare,,0,
+1,in_house_rx_all,medicaid,,0,
+1,in_house_rx_all,other_third_party,,0,
+1,in_house_rx_all,uninsured,,0,
+1,in_house_rx_all,total,,0,
+1,in_house_rx_340b,commercial,,0,
+1,in_house_rx_340b,medicare,,0,
+1,in_house_rx_340b,medicaid,,0,
+1,in_house_rx_340b,other_third_party,,0,
+1,in_house_rx_340b,uninsured,,0,
+1,in_house_rx_340b,total,,0,
+1,in_house_rx_pct,commercial,#DIV/0!,,
+1,in_house_rx_pct,medicare,#DIV/0!,,
+1,in_house_rx_pct,medicaid,#DIV/0!,,
+1,in_house_rx_pct,other_third_party,#DIV/0!,,
+1,in_house_rx_pct,uninsured,#DIV/0!,,
+1,in_house_rx_pct,total,#DIV/0!,,
+1,contract_acquisition_cost,commercial,0,,
+1,contract_acquisition_cost,medicare,81527.34,,
+1,contract_acquisition_cost,medicaid,0,,
+1,contract_acquisition_cost,other_third_party,0,,
+1,contract_acquisition_cost,uninsured,0,,
+1,contract_acquisition_cost,indeterminate,0,,
+1,contract_acquisition_cost,total,81527.34,,
+1,contract_payments_received,commercial,0,,
+1,contract_payments_received,medicare,180577.78,,
+1,contract_payments_received,medicaid,0,,
+1,contract_payments_received,other_third_party,0,,
+1,contract_payments_received,uninsured,0,,
+1,contract_payments_received,indeterminate,0,,
+1,contract_payments_received,total,180577.78,,
+1,contract_rx_all,commercial,,0,
+1,contract_rx_all,medicare,,12,
+1,contract_rx_all,medicaid,,0,
+1,contract_rx_all,other_third_party,,0,
+1,contract_rx_all,uninsured,,0,
+1,contract_rx_all,indeterminate,,0,
+1,contract_rx_all,total,,12,
+1,contract_rx_340b,commercial,,0,
+1,contract_rx_340b,medicare,,12,
+1,contract_rx_340b,medicaid,,0,
+1,contract_rx_340b,other_third_party,,0,
+1,contract_rx_340b,uninsured,,0,
+1,contract_rx_340b,indeterminate,,0,
+1,contract_rx_340b,total,,12,
+1,contract_rx_pct,commercial,#DIV/0!,,
+1,contract_rx_pct,medicare,100,,
+1,contract_rx_pct,medicaid,#DIV/0!,,
+1,contract_rx_pct,other_third_party,#DIV/0!,,
+1,contract_rx_pct,uninsured,#DIV/0!,,
+1,contract_rx_pct,indeterminate,#DIV/0!,,
+1,contract_rx_pct,total,100,,
+1,administered_acquisition_cost,commercial,1537875.54,,
+1,administered_acquisition_cost,medicare,3001720.62,,
+1,administered_acquisition_cost,medicaid,1202208.95,,
+1,administered_acquisition_cost,other_third_party,273564.41,,
+1,administered_acquisition_cost,uninsured,163879.47,,
+1,administered_acquisition_cost,total,6179248.99,,
+1,administered_payments_actual,commercial,5254261.51,,
+1,administered_payments_actual,medicare,7640042.58,,
+1,administered_payments_actual,medicaid,636820.76,,
+1,administered_payments_actual,other_third_party,3800474,,
+1,administered_payments_actual,uninsured,60392.95,,
+1,administered_payments_actual,total,17391991.8,,
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,commercial,0,,
+1,administered_payments_estimated,medicare,0,,
+1,administered_payments_estimated,medicaid,0,,
+1,administered_payments_estimated,other_third_party,0,,
+1,administered_payments_estimated,uninsured,0,,
+1,administered_payments_estimated,total,0,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,commercial,5254261.51,,
+1,administered_payments_total,medicare,7640042.58,,
+1,administered_payments_total,medicaid,636820.76,,
+1,administered_payments_total,other_third_party,3800474,,
+1,administered_payments_total,uninsured,60392.95,,
+1,administered_payments_total,total,17391991.8,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,administered_rx_all,commercial,,48588,
+1,administered_rx_all,medicare,,94836,
+1,administered_rx_all,medicaid,,37983,
+1,administered_rx_all,other_third_party,,8643,
+1,administered_rx_all,uninsured,,5179,
+1,administered_rx_all,total,,195229,
+1,administered_rx_340b,commercial,,17478,
+1,administered_rx_340b,medicare,,34114,
+1,administered_rx_340b,medicaid,,13663,
+1,administered_rx_340b,other_third_party,,3109,
+1,administered_rx_340b,uninsured,,1863,
+1,administered_rx_340b,total,,70227,
+1,administered_rx_pct,commercial,35.9718448999753,,
+1,administered_rx_pct,medicare,35.9715719768864,,
+1,administered_rx_pct,medicaid,35.9713556064555,,
+1,administered_rx_pct,other_third_party,35.9713062594007,,
+1,administered_rx_pct,uninsured,35.9721954045182,,
+1,administered_rx_pct,total,35.9716025795348,,
+1,costs,contract_pharmacies,7800,,
+1,costs,third_party_administrators,0,,
+1,costs,consultants,0,,
+1,costs,software_it,21218,,
+1,costs,other_external,0,,
+1,costs,staffing,69023.48,,
+1,costs,internal_it,0,,
+1,costs,other_internal,0,,
+1,contract_pharmacies,count,2,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,DSH360189
+1,identity,id_prefix,,,DSH
+1,identity,id_number,,,360189
+1,identity,npi_1,,,1245442318
+1,identity,npi_2,,,-
+1,identity,npi_3,,,-
+1,identity,npi_4,,,-
+1,identity,npi_5,,,-
+1,identity,npi_6,,,-
+1,identity,npi_7,,,-
+1,identity,npi_8,,,-
+1,identity,npi_9,,,-
+1,identity,npi_10,,,-
+1,identity,npi_11,,,-
+1,identity,npi_12,,,-
+1,identity,npi_13,,,-
+1,identity,npi_14,,,-
+1,identity,npi_15,,,-
+1,identity,npi_16,,,-
+1,identity,npi_17,,,-
+1,identity,npi_18,,,-
+1,identity,npi_19,,,-
+1,identity,npi_20,,,-
+1,contract_pharmacy_notes,indeterminate_explanation,,,-
+1,uses,program_1_description,,,0
+1,uses,program_1_amount,-,,
+1,uses,program_2_description,,,-
+1,uses,program_2_amount,-,,
+1,uses,program_3_description,,,-
+1,uses,program_3_amount,-,,
+1,uses,program_4_description,,,-
+1,uses,program_4_amount,-,,
+1,uses,program_5_description,,,-
+1,uses,program_5_amount,-,,
+1,uses,equipment_1_description,,,0
+1,uses,equipment_1_amount,-,,
+1,uses,equipment_2_description,,,-
+1,uses,equipment_2_amount,-,,
+1,uses,equipment_3_description,,,-
+1,uses,equipment_3_amount,-,,
+1,uses,equipment_4_description,,,-
+1,uses,equipment_4_amount,-,,
+1,uses,equipment_5_description,,,-
+1,uses,equipment_5_amount,-,,
+1,uses,other_uses_description,,,-
+1,uses,other_uses_amount,-,,
+1,uses,narrative,,,-
+1,uses,alternative_narrative,,,"The Value of the 340B Program to Our Rural Hospital and Community 
+
+ 
+
+Executive Summary 
+The 340B Drug Pricing Program is a critical source of financial support that enables our hospital to continue fulfilling its mission of providing high-quality healthcare services to all patients regardless of their ability to pay. The savings generated through participation in the 340B program are not retained as profit; rather, they are reinvested directly into patient care, community health programs, capital improvements, and services that would otherwise be financially unsustainable in a rural healthcare environment. 
+
+Supporting Oncology Services 
+
+Cancer care requires significant investments in specialized staff, medications, equipment, and patient support services. 340B savings help offset the increasing costs associated with providing oncology services, allowing patients in our community to receive treatment closer to home rather than traveling to larger metropolitan areas. These savings support access to life-saving therapies, patient navigation, and comprehensive care for vulnerable populations. 
+
+Funding Withdrawal Management Services 
+
+Our Withdrawal Management program serves a disproportionately high Medicaid population and operates at a financial loss. Despite the negative margin, the service was identified as a critical need through our Community Health Needs Assessment. 340B savings help support the continuation of this essential program, ensuring individuals struggling with substance use disorders have access to treatment, recovery support, and care coordination within our community. 
+
+Supporting Charity Care and Uncompensated Care 
+
+Many patients do not qualify for Medicaid or formal charity care programs yet still lack the financial resources to pay for needed medical services. 340B savings help offset uncompensated and undercompensated care, allowing our hospital to continue serving patients regardless of financial circumstance while reducing barriers to care. 
+
+Offsetting Declining Reimbursement 
+
+Hospitals continue to face increasing financial pressure from reductions and inadequacies in reimbursement from Medicare, Medicaid, and commercial managed care organizations. Reimbursement rates often fail to cover the actual cost of delivering care, particularly for rural providers. The 340B program helps bridge a portion of this gap, supporting the financial stability necessary to maintain access to essential services. 
+
+Reinvestment in Hospital Infrastructure and Technology 
+
+340B savings allow the hospital to reinvest in critical infrastructure and patient care improvements. These investments include new medical equipment, modernization projects, facility repairs, technology upgrades, cybersecurity initiatives, and other improvements that enhance quality, safety, and patient experience. Without these savings, many capital projects would be delayed or eliminated. 
+
+Protecting Access to Care in a Rural Community 
+
+As a rural healthcare provider, we operate in an environment with unique challenges, including lower patient volumes, workforce shortages, transportation barriers, and limited access to specialty care. Compared with the neighboring Columbus metropolitan area, our community has fewer healthcare resources readily available. The 340B program helps ensure local residents maintain access to services close to home and supports the development of future programs identified as community needs. 
+
+Conclusion 
+
+The 340B Program is an essential tool that enables our hospital to fulfill its obligation to serve the healthcare needs of our community. Program savings strengthen access to oncology care, sustain withdrawal management services, support charity and uncompensated care, mitigate reimbursement challenges, fund necessary capital investments, and preserve access to healthcare in our rural region. Continued participation in the 340B program directly benefits patients and helps ensure the long-term viability of services that our community depends upon every day. "

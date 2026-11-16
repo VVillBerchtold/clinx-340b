@@ -1,0 +1,318 @@
+sheet,cell,value
+Submission,B1,Ohio Department of Health
+Submission,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Submission,B4,Reporting Period:
+Submission,C4,"January 1, 2025 - December 31, 2025"
+Submission,B5,Primary Contact Name:
+Submission,C5,[contact detail withheld]
+Submission,B6,Email:
+Submission,C6,[contact detail withheld]
+Submission,B7,Phone Number:
+Submission,C7,[contact detail withheld]
+Submission,A8,Data Element
+Submission,B8,HRSA 340B ID:
+Submission,C8,CH052900
+Submission,D9,Lettered Prefix:
+Submission,E9,Number:
+Submission,A10,1
+Submission,D10,CH
+Submission,E10,52900
+Submission,C12,NPI1
+Submission,D12,NPI2
+Submission,E12,NPI3
+Submission,F12,NPI4
+Submission,G12,NPI5
+Submission,H12,NPI6
+Submission,I12,NPI7
+Submission,J12,NPI8
+Submission,K12,NPI9
+Submission,L12,NPI10
+Submission,M12,NPI11
+Submission,N12,NPI12
+Submission,O12,NPI13
+Submission,P12,NPI14
+Submission,Q12,NPI15
+Submission,R12,NPI16
+Submission,S12,NPI17
+Submission,T12,NPI18
+Submission,U12,NPI19
+Submission,V12,NPI20
+Submission,W12,NPI21
+Submission,X12,NPI22
+Submission,Y12,NPI23
+Submission,Z12,NPI24
+Submission,AA12,NPI25
+Submission,AB12,NPI26
+Submission,AC12,NPI27
+Submission,AD12,NPI28
+Submission,AE12,NPI29
+Submission,AF12,NPI30
+Submission,AG12,NPI31
+Submission,AH12,NPI32
+Submission,A13,2
+Submission,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Submission,C13,1912164146
+Submission,D13,1245802537
+Submission,E13,1336550755
+Submission,F13,1144892449
+Submission,G13,1114599420
+Submission,H13,1114194347
+Submission,I13,194975917
+Submission,J13,1003908930
+Submission,K13,1750056727
+Submission,L13,1225703291
+Submission,M13,1073243101
+Submission,N13,1932873049
+Submission,O13,1972054914
+Submission,P13,1821661372
+Submission,Q13,1891887790
+Submission,R13,1790116218
+Submission,S13,1841965811
+Submission,T13,1316612385
+Submission,U13,1760659171
+Submission,V13,1114107984
+Submission,W13,1811164254
+Submission,X13,1962074278
+Submission,Y13,1912099839
+Submission,Z13,1023100955
+Submission,AA13,1851066823
+Submission,AB13,1578974929
+Submission,AC13,1417520966
+Submission,AD13,1205644614
+Submission,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Submission,C16,Commercial Insurance/Private Insurance:
+Submission,D16,Medicare:
+Submission,E16,Medicaid (all states):
+Submission,F16,Other Third-Party Payor:
+Submission,G16,Uninsured/Self-Pay:
+Submission,H16,TOTAL:
+Submission,A17,3
+Submission,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Submission,C17,11302023.6
+Submission,D17,1395175.81
+Submission,E17,3744240.01
+Submission,F17,12763.51
+Submission,G17,62715.37
+Submission,H17,16516918.299999999
+Submission,A18,4
+Submission,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Submission,C18,2184109.4
+Submission,D18,3818615.8
+Submission,E18,6937008.2400000002
+Submission,F18,18140.060000000001
+Submission,G18,132757.37
+Submission,H18,13090630.869999999
+Submission,A19,5
+Submission,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Submission,C19,11838
+Submission,D19,14676
+Submission,E19,22549
+Submission,F19,85
+Submission,G19,6702
+Submission,H19,55850
+Submission,A20,6
+Submission,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Submission,C20,11838
+Submission,D20,14676
+Submission,E20,22549
+Submission,F20,85
+Submission,G20,6702
+Submission,H20,55850
+Submission,A21,7
+Submission,B21,Percentage of total prescriptions that were 340B
+Submission,C21,100
+Submission,D21,100
+Submission,E21,100
+Submission,F21,100
+Submission,G21,100
+Submission,H21,100
+Submission,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Submission,A25,8
+Submission,C25,Commercial Insurance/Private Insurance:
+Submission,D25,Medicare:
+Submission,E25,Medicaid (all states):
+Submission,F25,Other Third-Party Payor:
+Submission,G25,Uninsured/Self-Pay:
+Submission,H25,Indeterminate (Explain)
+Submission,I25,TOTAL:
+Submission,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Submission,C26,670928.06999999995
+Submission,D26,463253.56000000006
+Submission,E26,212413.39
+Submission,F26,6335.69
+Submission,G26,35.190000000000005
+Submission,H26,0
+Submission,I26,1352965.9
+Submission,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Submission,C27,1241221.7999999998
+Submission,D27,1011190.2399999998
+Submission,E27,385706.09
+Submission,F27,13218.52
+Submission,G27,-207.82999999999998
+Submission,H27,0
+Submission,I27,2651128.8199999994
+Submission,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Submission,C28,10679
+Submission,D28,8705
+Submission,E28,11823
+Submission,F28,131
+Submission,G28,490
+Submission,H28,0
+Submission,I28,31828
+Submission,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Submission,C29,5074
+Submission,D29,4133
+Submission,E29,396
+Submission,F29,19
+Submission,G29,8
+Submission,H29,0
+Submission,I29,9630
+Submission,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Submission,C30,47.513812154696133
+Submission,D30,47.478460654796095
+Submission,E30,3.3494037046434917
+Submission,F30,14.503816793893129
+Submission,G30,1.6326530612244898
+Submission,H30,0
+Submission,I30,30.256378031921578
+Submission,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Submission,I32,-
+Submission,B33,Section 3: Administered Drugs
+Submission,D34,Commercial Insurance/Private Insurance:
+Submission,E34,Medicare:
+Submission,F34,Medicaid (all states):
+Submission,G34,Other Third-Party Payor:
+Submission,H34,Uninsured/Self-Pay:
+Submission,I34,TOTAL:
+Submission,A35,9
+Submission,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Submission,D35,0
+Submission,E35,0
+Submission,F35,0
+Submission,G35,0
+Submission,H35,0
+Submission,I35,0
+Submission,A36,10
+Submission,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Submission,C36,Actual Payments
+Submission,D36,0
+Submission,E36,0
+Submission,F36,0
+Submission,G36,0
+Submission,H36,0
+Submission,I36,0
+Submission,C37,Estimated Payments*
+Submission,D37,0
+Submission,E37,0
+Submission,F37,0
+Submission,G37,0
+Submission,H37,0
+Submission,I37,0
+Submission,C38,TOTAL
+Submission,D38,0
+Submission,E38,0
+Submission,F38,0
+Submission,G38,0
+Submission,H38,0
+Submission,I38,0
+Submission,A39,11
+Submission,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Submission,D39,0
+Submission,E39,0
+Submission,F39,0
+Submission,G39,0
+Submission,H39,0
+Submission,I39,0
+Submission,A40,12
+Submission,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Submission,D40,0
+Submission,E40,0
+Submission,F40,0
+Submission,G40,0
+Submission,H40,0
+Submission,I40,0
+Submission,A41,13
+Submission,B41,Percentage of total prescriptions that were 340B
+Submission,D41,0
+Submission,E41,0
+Submission,F41,0
+Submission,G41,0
+Submission,H41,0
+Submission,I41,0
+Submission,B43,Section 4: Administrative Costs of the 340B Program
+Submission,B45,Payments to External Entities:
+Submission,A46,14
+Submission,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Submission,C46,411151.37
+Submission,A47,15
+Submission,B47,Total Payments to 340B Third Party Administrators:
+Submission,C47,101894.87
+Submission,A48,16
+Submission,B48,Total Payments to 340B Consulting Entities (including audit support):
+Submission,C48,3925
+Submission,D48,Ideal therapeutics - for audit
+Submission,A49,17
+Submission,B49,340B Software and Information Technology Costs:
+Submission,C49,-
+Submission,A50,18
+Submission,B50,Other Payments to External Entities:
+Submission,C50,1113518.1818181819
+Submission,D50,Management fees - In-house pharmacy
+Submission,B52,Internal Costs to Administer the 340B Program
+Submission,A53,19
+Submission,B53,Staffing Costs (340B dedicated):
+Submission,C53,128106.77
+Submission,A54,20
+Submission,B54,Information Technology Costs:
+Submission,C54,-
+Submission,A55,21
+Submission,B55,Other internal costs:
+Submission,C55,47343.789999999994
+Submission,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Submission,A59,22
+Submission,B59,Covered Entity's total number of Contract Pharmacies:
+Submission,C59,28
+Submission,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Submission,C63,Detailed Description of Item:
+Submission,D63,Expenditures from 340B funds:
+Submission,A64,23
+Submission,B64,Programs or Services funded/purchased with 340B funds:
+Submission,B65,Program/Service 1:
+Submission,C65,-
+Submission,D65,-
+Submission,B66,Program/Service 2:
+Submission,C66,-
+Submission,D66,-
+Submission,B67,Program/Service 3:
+Submission,C67,-
+Submission,D67,-
+Submission,B68,Program/Service 4:
+Submission,C68,-
+Submission,D68,-
+Submission,B69,Program/Service 5:
+Submission,C69,-
+Submission,D69,-
+Submission,B71,Equipment purchased with 340B Funds:
+Submission,B72,Item 1:
+Submission,C72,-
+Submission,D72,-
+Submission,B73,Item 2:
+Submission,C73,-
+Submission,D73,-
+Submission,B74,Item 3:
+Submission,C74,-
+Submission,D74,-
+Submission,B75,Item 4:
+Submission,C75,-
+Submission,D75,-
+Submission,B76,Item 5:
+Submission,C76,-
+Submission,D76,-
+Submission,B78,Other uses of 340B funds not otherwise listed above:
+Submission,C78,-
+Submission,D78,-
+Submission,B80,(Narrative) Provide additional detail/context as necessary:
+Submission,C80,-
+Submission,A82,24
+Submission,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Submission,C82,"340B Savings are used for expanding Patient Services, Improving Access to Care, Strengthening Operations.  At Valley View Health Centers, a division of Community Action Committee of Pike County, we treat all who come to us regardless of their ability to pay. We provide care to patients who live in an area hit hard with the opioid epidemic and poverty. We strive to address social determinants of health by providing access to care, education, housing, transportation, food security, etc. The 340B Drug Discount Program is a federal government program created in 1992 that requires drug manufacturers to provide outpatient drugs to eligible health care organizations and covered entities to stretch scarce federal resources as far as possible, reaching more eligible patients and providing more comprehensive services. We invest in new facilities and equipment to make accessing health care services easier and provide the best in technology and services. We widen our service area through school-based expansion, offer telehealth and remote services to remove geographical barriers. We expand care options by expanding case management services all at locations. We fight food insecurities through a mobile food pantry, increased case management to assist with housing, transportation, etc. We remove barriers by utilize technology to provide access to care using telehealth to reach our most rural patients who may struggle with transportation. We strive to improve insurance verification and authorization process, appointment scheduling and registration, and work to address the shortage of providers. We strive to improve communication, standardized processes, workflows, and leadership that serves to achieve better outcomes for our patients. We work with community partners to build strong relationships that better serve our patients. We strengthen cash on hand to ensure we don’t experience cash shortages that could negatively impact patient access."

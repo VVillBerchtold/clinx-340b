@@ -1,0 +1,308 @@
+sheet,cell,value
+CMC,B1,Ohio Department of Health
+CMC,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+CMC,B4,Reporting Period:
+CMC,C4,"January 1, 2025 - December 31, 2025"
+CMC,B5,Primary Contact Name:
+CMC,C5,[contact detail withheld]
+CMC,B6,Email:
+CMC,C6,[contact detail withheld]
+CMC,B7,Phone Number:
+CMC,C7,[contact detail withheld]
+CMC,A8,Data Element
+CMC,B8,HRSA 340B ID:
+CMC,C8,DSH360137
+CMC,D9,Lettered Prefix:
+CMC,E9,Number:
+CMC,A10,1
+CMC,D10,DSH
+CMC,E10,361307
+CMC,C12,NPI1
+CMC,D12,NPI2
+CMC,E12,NPI3
+CMC,F12,NPI4
+CMC,G12,NPI5
+CMC,H12,NPI6
+CMC,I12,NPI7
+CMC,J12,NPI8
+CMC,K12,NPI9
+CMC,L12,NPI10
+CMC,M12,NPI11
+CMC,N12,NPI12
+CMC,O12,NPI13
+CMC,P12,NPI14
+CMC,Q12,NPI15
+CMC,R12,NPI16
+CMC,S12,NPI17
+CMC,T12,NPI18
+CMC,U12,NPI19
+CMC,V12,NPI20
+CMC,A13,2
+CMC,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+CMC,C13,1043397292
+CMC,D13,-
+CMC,E13,-
+CMC,F13,-
+CMC,G13,-
+CMC,H13,-
+CMC,I13,-
+CMC,J13,-
+CMC,K13,-
+CMC,L13,-
+CMC,M13,-
+CMC,N13,-
+CMC,O13,-
+CMC,P13,-
+CMC,Q13,-
+CMC,R13,-
+CMC,S13,-
+CMC,T13,-
+CMC,U13,-
+CMC,V13,-
+CMC,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+CMC,C16,Commercial Insurance/Private Insurance:
+CMC,D16,Medicare:
+CMC,E16,Medicaid (all states):
+CMC,F16,Other Third-Party Payor:
+CMC,G16,Uninsured/Self-Pay:
+CMC,H16,TOTAL:
+CMC,A17,3
+CMC,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+CMC,C17,18791077.107218999
+CMC,D17,4003952.9350885726
+CMC,E17,0
+CMC,F17,1227641.8766764128
+CMC,G17,269788.41923553194
+CMC,H17,24292460.338219516
+CMC,A18,4
+CMC,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+CMC,C18,63643544.924013197
+CMC,D18,13560997.969618626
+CMC,E18,0
+CMC,F18,4157903.2688253503
+CMC,G18,913747.0556703069
+CMC,H18,82276193.218127474
+CMC,A19,5
+CMC,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+CMC,C19,120579
+CMC,D19,65223
+CMC,E19,94507
+CMC,F19,22901
+CMC,G19,9086
+CMC,H19,312296
+CMC,A20,6
+CMC,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+CMC,C20,43818
+CMC,D20,51070
+CMC,E20,0
+CMC,F20,10482
+CMC,G20,2607
+CMC,H20,107977
+CMC,A21,7
+CMC,B21,Percentage of total prescriptions that were 340B
+CMC,C21,36.339661135023512
+CMC,D21,78.300599481777894
+CMC,E21,0
+CMC,F21,45.770927033753985
+CMC,G21,28.692493946731233
+CMC,H21,34.575210697543355
+CMC,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+CMC,A25,8
+CMC,C25,Commercial Insurance/Private Insurance:
+CMC,D25,Medicare:
+CMC,E25,Medicaid (all states):
+CMC,F25,Other Third-Party Payor:
+CMC,G25,Uninsured/Self-Pay:
+CMC,H25,Indeterminate (Explain)
+CMC,I25,TOTAL:
+CMC,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+CMC,C26,125417850.88
+CMC,D26,26723703.449999999
+CMC,E26,0
+CMC,F26,8193687.0899999999
+CMC,G26,1800656.96
+CMC,H26,14690432.23
+CMC,I26,162135898.38
+CMC,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+CMC,C27,242373306.88999999
+CMC,D27,51644262.219999999
+CMC,E27,0
+CMC,F27,15834516.539999999
+CMC,G27,3479817.09
+CMC,H27,26284261.440000001
+CMC,I27,313331902.74000001
+CMC,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+CMC,C28,489551
+CMC,D28,63123
+CMC,E28,217011
+CMC,F28,93093
+CMC,G28,35990
+CMC,H28,19511
+CMC,I28,898768
+CMC,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+CMC,C29,62214
+CMC,D29,13256
+CMC,E29,0
+CMC,F29,4064
+CMC,G29,893
+CMC,H29,5210
+CMC,I29,80427
+CMC,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+CMC,C30,12.708379719375509
+CMC,D30,21.000269315463459
+CMC,E30,0
+CMC,F30,4.3655269461721078
+CMC,G30,2.4812447902195052
+CMC,H30,26.702885551740046
+CMC,I30,8.9485829491036615
+CMC,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+CMC,I32,"Due to limited visibility into claims and payor data, report infusion contract data as “indeterminate”."
+CMC,B33,Section 3: Administered Drugs
+CMC,D34,Commercial Insurance/Private Insurance:
+CMC,E34,Medicare:
+CMC,F34,Medicaid (all states):
+CMC,G34,Other Third-Party Payor:
+CMC,H34,Uninsured/Self-Pay:
+CMC,I34,TOTAL:
+CMC,A35,9
+CMC,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+CMC,D35,0
+CMC,E35,0
+CMC,F35,0
+CMC,G35,0
+CMC,H35,0
+CMC,I35,0
+CMC,A36,10
+CMC,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+CMC,C36,Actual Payments
+CMC,D36,0
+CMC,E36,0
+CMC,F36,0
+CMC,G36,0
+CMC,H36,0
+CMC,I36,0
+CMC,C37,Estimated Payments*
+CMC,D37,0
+CMC,E37,0
+CMC,F37,0
+CMC,G37,0
+CMC,H37,0
+CMC,I37,0
+CMC,C38,TOTAL
+CMC,D38,0
+CMC,E38,0
+CMC,F38,0
+CMC,G38,0
+CMC,H38,0
+CMC,I38,0
+CMC,A39,11
+CMC,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+CMC,D39,0
+CMC,E39,0
+CMC,F39,0
+CMC,G39,0
+CMC,H39,0
+CMC,I39,0
+CMC,A40,12
+CMC,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+CMC,D40,0
+CMC,E40,0
+CMC,F40,0
+CMC,G40,0
+CMC,H40,0
+CMC,I40,0
+CMC,A41,13
+CMC,B41,Percentage of total prescriptions that were 340B
+CMC,D41,#DIV/0!
+CMC,E41,#DIV/0!
+CMC,F41,#DIV/0!
+CMC,G41,#DIV/0!
+CMC,H41,#DIV/0!
+CMC,I41,#DIV/0!
+CMC,B43,Section 4: Administrative Costs of the 340B Program
+CMC,B45,Payments to External Entities:
+CMC,A46,14
+CMC,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+CMC,C46,1158128.18
+CMC,A47,15
+CMC,B47,Total Payments to 340B Third Party Administrators:
+CMC,C47,760465.49526315788
+CMC,A48,16
+CMC,B48,Total Payments to 340B Consulting Entities (including audit support):
+CMC,C48,55269.951264000003
+CMC,A49,17
+CMC,B49,340B Software and Information Technology Costs:
+CMC,C49,0
+CMC,A50,18
+CMC,B50,Other Payments to External Entities:
+CMC,C50,52868.356200000002
+CMC,B52,Internal Costs to Administer the 340B Program
+CMC,A53,19
+CMC,B53,Staffing Costs (340B dedicated):
+CMC,C53,1080433.0498500001
+CMC,A54,20
+CMC,B54,Information Technology Costs:
+CMC,C54,0
+CMC,A55,21
+CMC,B55,Other internal costs:
+CMC,C55,0
+CMC,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+CMC,A59,22
+CMC,B59,Covered Entity's total number of Contract Pharmacies:
+CMC,C59,177
+CMC,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+CMC,C63,Detailed Description of Item:
+CMC,D63,Expenditures from 340B funds:
+CMC,A64,23
+CMC,B64,Programs or Services funded/purchased with 340B funds:
+CMC,B65,Program/Service 1:
+CMC,C65,-
+CMC,D65,-
+CMC,B66,Program/Service 2:
+CMC,C66,-
+CMC,D66,-
+CMC,B67,Program/Service 3:
+CMC,C67,-
+CMC,D67,-
+CMC,B68,Program/Service 4:
+CMC,C68,-
+CMC,D68,-
+CMC,B69,Program/Service 5:
+CMC,C69,-
+CMC,D69,-
+CMC,B71,Equipment purchased with 340B Funds:
+CMC,B72,Item 1:
+CMC,C72,-
+CMC,D72,-
+CMC,B73,Item 2:
+CMC,C73,-
+CMC,D73,-
+CMC,B74,Item 3:
+CMC,C74,-
+CMC,D74,-
+CMC,B75,Item 4:
+CMC,C75,-
+CMC,D75,-
+CMC,B76,Item 5:
+CMC,C76,-
+CMC,D76,-
+CMC,B78,Other uses of 340B funds not otherwise listed above:
+CMC,C78,-
+CMC,D78,-
+CMC,B80,(Narrative) Provide additional detail/context as necessary:
+CMC,C80,-
+CMC,A82,24
+CMC,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+CMC,C82,"340B savings help support University Hospitals’ overall capacity to provide community benefit, which totaled $511 million in 2024. These resources play an important role in sustaining a wide range of programs and services that benefit our patients and community. These supports include:
+
+Financial assistance for patients who are unable to afford hospital care, physician care and/or medications
+Medication access services to help patients navigate insurance requirements and reduce financial barriers
+Patient engagement programs focused on refill management and improving adherence to therapy
+Clinical services, including pharmacists embedded in provider offices and ongoing care management
+Education and training by preparing future generations of caregivers
+Transportation assistance
+Home health services
+Community outreach initiatives
+Medicaid shortfall and other uncompensated care
+Support for medical research
+In-kind contributions to community organizations"

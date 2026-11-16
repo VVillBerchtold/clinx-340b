@@ -1,0 +1,293 @@
+sheet,cell,value
+Sheet1,B1,Ohio Department of Health
+Sheet1,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Sheet1,B4,Reporting Period:
+Sheet1,C4,"January 1, 2025 - December 31, 2025"
+Sheet1,B5,Primary Contact Name:
+Sheet1,C5,[contact detail withheld]
+Sheet1,B6,Email:
+Sheet1,C6,[contact detail withheld]
+Sheet1,B7,Phone Number:
+Sheet1,C7,[contact detail withheld]
+Sheet1,A8,Data Element
+Sheet1,B8,HRSA 340B ID:
+Sheet1,C8,CH050990
+Sheet1,D9,Lettered Prefix:
+Sheet1,E9,Number:
+Sheet1,A10,1
+Sheet1,D10,CH
+Sheet1,E10,50990
+Sheet1,C12,NPI1
+Sheet1,D12,NPI2
+Sheet1,E12,NPI3
+Sheet1,F12,NPI4
+Sheet1,G12,NPI5
+Sheet1,H12,NPI6
+Sheet1,I12,NPI7
+Sheet1,J12,NPI8
+Sheet1,K12,NPI9
+Sheet1,L12,NPI10
+Sheet1,M12,NPI11
+Sheet1,N12,NPI12
+Sheet1,O12,NPI13
+Sheet1,P12,NPI14
+Sheet1,Q12,NPI15
+Sheet1,R12,NPI16
+Sheet1,S12,NPI17
+Sheet1,T12,NPI18
+Sheet1,U12,NPI19
+Sheet1,V12,NPI20
+Sheet1,A13,2
+Sheet1,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Sheet1,C13,1376612119
+Sheet1,D13,1235379819
+Sheet1,E13,1891009502
+Sheet1,F13,1942646799
+Sheet1,G13,1003862343
+Sheet1,H13,1013436930
+Sheet1,I13,1679331490
+Sheet1,J13,1316994072
+Sheet1,K13,1053049213
+Sheet1,L13,1255372207
+Sheet1,M13,1528796786
+Sheet1,N13,1174555478
+Sheet1,O13,1841624350
+Sheet1,P13,1306874326
+Sheet1,Q13,1417992330
+Sheet1,R13,1023358892
+Sheet1,S13,1942242284
+Sheet1,T13,1205864162
+Sheet1,U13,1164458717
+Sheet1,V13,"1164458717, 1013428200,1841812393,1417266537"
+Sheet1,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Sheet1,C16,Commercial Insurance/Private Insurance:
+Sheet1,D16,Medicare:
+Sheet1,E16,Medicaid (all states):
+Sheet1,F16,Other Third-Party Payor:
+Sheet1,G16,Uninsured/Self-Pay:
+Sheet1,H16,TOTAL:
+Sheet1,A17,3
+Sheet1,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Sheet1,C17,1114063
+Sheet1,D17,908078
+Sheet1,E17,1007686
+Sheet1,F17,0
+Sheet1,G17,193736
+Sheet1,H17,3223563
+Sheet1,A18,4
+Sheet1,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Sheet1,C18,2264001
+Sheet1,D18,1845397
+Sheet1,E18,2047821
+Sheet1,F18,0
+Sheet1,G18,393711
+Sheet1,H18,6550930
+Sheet1,A19,5
+Sheet1,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Sheet1,C19,54169
+Sheet1,D19,48418
+Sheet1,E19,58202
+Sheet1,F19,0
+Sheet1,G19,11022
+Sheet1,H19,171811
+Sheet1,A20,6
+Sheet1,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Sheet1,C20,22295
+Sheet1,D20,18172
+Sheet1,E20,20163
+Sheet1,F20,0
+Sheet1,G20,3877
+Sheet1,H20,64507
+Sheet1,A21,7
+Sheet1,B21,Percentage of total prescriptions that were 340B
+Sheet1,C21,41.158227030220232
+Sheet1,D21,37.531496550869505
+Sheet1,E21,34.643139411016804
+Sheet1,F21,#DIV/0!
+Sheet1,G21,35.175104336780983
+Sheet1,H21,37.545325968651596
+Sheet1,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Sheet1,A25,8
+Sheet1,C25,Commercial Insurance/Private Insurance:
+Sheet1,D25,Medicare:
+Sheet1,E25,Medicaid (all states):
+Sheet1,F25,Other Third-Party Payor:
+Sheet1,G25,Uninsured/Self-Pay:
+Sheet1,H25,Indeterminate (Explain)
+Sheet1,I25,TOTAL:
+Sheet1,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Sheet1,C26,3740947
+Sheet1,D26,4211579
+Sheet1,E26,2394038
+Sheet1,F26,0
+Sheet1,G26,135215
+Sheet1,H26,0
+Sheet1,I26,10481779
+Sheet1,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Sheet1,C27,9259665
+Sheet1,D27,10424582
+Sheet1,E27,5925772
+Sheet1,F27,0
+Sheet1,G27,334687
+Sheet1,H27,0
+Sheet1,I27,25944706
+Sheet1,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Sheet1,C28,12673
+Sheet1,D28,14267
+Sheet1,E28,8114
+Sheet1,F28,0
+Sheet1,G28,458
+Sheet1,H28,0
+Sheet1,I28,35512
+Sheet1,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Sheet1,C29,12673
+Sheet1,D29,14267
+Sheet1,E29,8114
+Sheet1,F29,0
+Sheet1,G29,458
+Sheet1,H29,0
+Sheet1,I29,35512
+Sheet1,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Sheet1,C30,100
+Sheet1,D30,100
+Sheet1,E30,100
+Sheet1,F30,#DIV/0!
+Sheet1,G30,100
+Sheet1,H30,#DIV/0!
+Sheet1,I30,100
+Sheet1,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Sheet1,I32,-
+Sheet1,B33,Section 3: Administered Drugs
+Sheet1,D34,Commercial Insurance/Private Insurance:
+Sheet1,E34,Medicare:
+Sheet1,F34,Medicaid (all states):
+Sheet1,G34,Other Third-Party Payor:
+Sheet1,H34,Uninsured/Self-Pay:
+Sheet1,I34,TOTAL:
+Sheet1,A35,9
+Sheet1,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Sheet1,D35,80064
+Sheet1,E35,8
+Sheet1,F35,107348
+Sheet1,G35,856
+Sheet1,H35,2488
+Sheet1,I35,190764
+Sheet1,A36,10
+Sheet1,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Sheet1,C36,Actual Payments
+Sheet1,D36,181327
+Sheet1,E36,0
+Sheet1,F36,0
+Sheet1,G36,1834
+Sheet1,H36,3026
+Sheet1,I36,186187
+Sheet1,C37,Estimated Payments*
+Sheet1,E37,0
+Sheet1,F37,0
+Sheet1,I37,0
+Sheet1,C38,TOTAL
+Sheet1,D38,0
+Sheet1,E38,0
+Sheet1,F38,0
+Sheet1,G38,0
+Sheet1,H38,0
+Sheet1,I38,0
+Sheet1,A39,11
+Sheet1,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Sheet1,D39,482
+Sheet1,E39,[withheld: fewer_than_6]
+Sheet1,F39,814
+Sheet1,G39,[withheld: beside_small]
+Sheet1,H39,46
+Sheet1,I39,1357
+Sheet1,A40,12
+Sheet1,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Sheet1,D40,468
+Sheet1,E40,[withheld: fewer_than_6]
+Sheet1,F40,754
+Sheet1,G40,[withheld: fewer_than_6]
+Sheet1,H40,46
+Sheet1,I40,1273
+Sheet1,A41,13
+Sheet1,B41,Percentage of total prescriptions that were 340B
+Sheet1,D41,97.095435684647299
+Sheet1,E41,[withheld: reveals_small]
+Sheet1,F41,92.62899262899262
+Sheet1,G41,[withheld: reveals_small]
+Sheet1,H41,100
+Sheet1,I41,93.809874723655113
+Sheet1,B43,Section 4: Administrative Costs of the 340B Program
+Sheet1,B45,Payments to External Entities:
+Sheet1,A46,14
+Sheet1,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Sheet1,C46,2330491
+Sheet1,A47,15
+Sheet1,B47,Total Payments to 340B Third Party Administrators:
+Sheet1,C47,3495737
+Sheet1,A48,16
+Sheet1,B48,Total Payments to 340B Consulting Entities (including audit support):
+Sheet1,C48,64357
+Sheet1,A49,17
+Sheet1,B49,340B Software and Information Technology Costs:
+Sheet1,C49,0
+Sheet1,A50,18
+Sheet1,B50,Other Payments to External Entities:
+Sheet1,C50,2250
+Sheet1,B52,Internal Costs to Administer the 340B Program
+Sheet1,A53,19
+Sheet1,B53,Staffing Costs (340B dedicated):
+Sheet1,C53,909815
+Sheet1,A54,20
+Sheet1,B54,Information Technology Costs:
+Sheet1,C54,60729
+Sheet1,A55,21
+Sheet1,B55,Other internal costs:
+Sheet1,C55,568020
+Sheet1,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Sheet1,A59,22
+Sheet1,B59,Covered Entity's total number of Contract Pharmacies:
+Sheet1,C59,99
+Sheet1,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Sheet1,C63,Detailed Description of Item:
+Sheet1,D63,Expenditures from 340B funds:
+Sheet1,A64,23
+Sheet1,B64,Programs or Services funded/purchased with 340B funds:
+Sheet1,B65,Program/Service 1:
+Sheet1,C65,SCHOOL BASED HEALTH
+Sheet1,D65,1139254
+Sheet1,B66,Program/Service 2:
+Sheet1,C66,MOBILE SERVICES
+Sheet1,D66,1715454
+Sheet1,B67,Program/Service 3:
+Sheet1,C67,DENTAL SERVICES
+Sheet1,D67,1863656
+Sheet1,B68,Program/Service 4:
+Sheet1,C68,OB/GYN SERVICES
+Sheet1,D68,1411003
+Sheet1,B69,Program/Service 5:
+Sheet1,C69,FAMILY MEDICINE
+Sheet1,D69,3818684
+Sheet1,B71,Equipment purchased with 340B Funds:
+Sheet1,B72,Item 1:
+Sheet1,C72,DENTAL 
+Sheet1,D72,659253
+Sheet1,B73,Item 2:
+Sheet1,C73,PHARMACY
+Sheet1,D73,51243
+Sheet1,B74,Item 3:
+Sheet1,C74,CAPITAL IMPROVEMENTS
+Sheet1,D74,699594
+Sheet1,B75,Item 4:
+Sheet1,C75,WARDS CORNER HEALTH CENTER
+Sheet1,D75,415150
+Sheet1,B76,Item 5:
+Sheet1,C76,HILLSBORO OFFICE
+Sheet1,D76,454892
+Sheet1,B78,Other uses of 340B funds not otherwise listed above:
+Sheet1,C78,PHARMACY PRESCRIPTIONS COSTS
+Sheet1,D78,290500
+Sheet1,B80,(Narrative) Provide additional detail/context as necessary:
+Sheet1,C80,SEE ATTACHED NARRATIVE (2ND Tab)
+Sheet1,A82,24
+Sheet1,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Sheet1,C82,-

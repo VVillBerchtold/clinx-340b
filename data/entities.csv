@@ -1,56 +1,298 @@
-entity_id,state,entity_type,name_as_filed,opais_ids_as_filed,entity_type_as_filed,city_as_filed
-id-statewide,ID,state_total,,,,
-mn-abbott-northwestern,MN,hospital,Abbott Northwestern Hospital,,Disproportionate Share Hospital,Minneapolis
-mn-cambridge,MN,hospital,Cambridge Medical Center,,Disproportionate Share Hospital,Cambridge
-mn-ccm-health,MN,hospital,CCM Health,,Critical Access Hospital,Montevideo
-mn-centracare-rice-memorial,MN,hospital,CentraCare - Rice Memorial Hospital,,Disproportionate Share Hospital,Willmar
-mn-centracare-st-cloud,MN,hospital,CentraCare - St. Cloud Hospital,,Disproportionate Share Hospital,St. Cloud
-mn-childrens-minnesota,MN,hospital,Children’s Minnesota,,Children's Hospital,Minneapolis
-mn-cuyuna,MN,hospital,Cuyuna Regional Medical Center,,Critical Access Hospital,Crosby
-mn-essentia-duluth,MN,hospital,Essentia Health Duluth,,Disproportionate Share Hospital,Duluth
-mn-essentia-st-josephs,MN,hospital,Essentia Health - St. Joseph's Medical Center,,Sole Community Hospital,Brainerd
-mn-essentia-virginia,MN,hospital,Essentia Health Virginia,,Disproportionate Share Hospital,Virginia
-mn-fairview-blood-clotting,MN,other,M Health Fairview - Center for Blood and Clotting Disorders,,CHD Treatment Center,Minneapolis
-mn-fairview-st-johns,MN,hospital,M Health Fairview - St. John's Hospital,,Disproportionate Share Hospital,Maplewood
-mn-fairview-umn-medical-center,MN,hospital,M Health Fairview - University of Minnesota Medical Center,,Disproportionate Share Hospital,Minneapolis
-mn-faribault,MN,hospital,Faribault Medical Center,,Disproportionate Share Hospital,Faribault
-mn-gillette-childrens,MN,hospital,Gillette Children's Specialty Healthcare,,Children's Hospital,St. Paul
-mn-grand-itasca,MN,hospital,Grand Itasca Clinic and Hospital,,Sole Community Hospital,Grand Rapids
-mn-hennepin-healthcare,MN,hospital,Hennepin Healthcare,,Disproportionate Share Hospital,Minneapolis
-mn-mayo-albert-lea,MN,hospital,Mayo Clinic Health System in Albert Lea,,Sole Community Hospital,Albert Lea
-mn-mercy-hospital,MN,hospital,Mercy Hospital,,Disproportionate Share Hospital,Coon Rapids
-mn-new-ulm,MN,hospital,New Ulm Medical Center,,Critical Access Hospital,New Ulm
-mn-north-memorial,MN,hospital,North Memorial Health,,Disproportionate Share Hospital,Robbinsdale
-mn-range-regional,MN,hospital,Range Regional Health Services,,Disproportionate Share Hospital,Hibbing
-mn-regions-hospital,MN,hospital,Regions Hospital,,Disproportionate Share Hospital,St. Paul
-mn-sanford-bemidji,MN,hospital,Sanford Bemidji Medical Center,,Disproportionate Share Hospital,Bemidji
-mn-st-lukes-duluth,MN,hospital,St. Luke's Hospital of Duluth,,Disproportionate Share Hospital,Duluth
-mn-statewide,MN,state_total,,,,
-mn-united-hospital,MN,hospital,United Hospital,,Disproportionate Share Hospital,St. Paul
-ri-blackstone-valley,RI,health_center,Blackstone Valley Community Health Care,"CH011990, CH01199A, CH01199B, CH01199C, CH01199D, CH01199E, CH01199F",,
-ri-comprehensive-community-action,RI,health_center,"Comprehensive Community Action, Inc.","CHC06666-00, CHC06666-01, CHC06666-02, CHC066666-04",,
-ri-east-bay-cap,RI,health_center,East Bay Community Action Program,CH015160,,
-ri-kent-hospital,RI,hospital,Kent County Memorial Hospital,DSH410009,,
-ri-landmark,RI,hospital,Landmark Medical center,DSH410011,,
-ri-miriam-immunology-center,RI,hospital,The Miriam Hospital Immunology Center,STD02904,,
-ri-miriam-rise-tb-clinic,RI,hospital,The Miriam Hospital RISE TB Clinic,TB02906,,
-ri-miriam-ryan-white,RI,hospital,The Miriam Hospital Ryan White Care Program,HV00018,,
-ri-providence-chc,RI,health_center,"The Providence Community Health Centers, Inc",CH010580,,
-ri-rhode-island-hospital,RI,hospital,Rhode Island Hospital,DSH410007,,
-ri-thundermist,RI,health_center,Thundermist Health Center,"CH011820, CH01182C, CH01182J, CH01182N, CH01182P, CH01182Q, CH01182R, CH01182S, CH01182U, CH01182V, CH01182W, FP028951",,
-ri-wellone,RI,health_center,WellOne Primary Medical and Dental Care (A),CH010480,,
-ri-women-and-infants,RI,hospital,Women & Infants Hospital of RI,DSH410010,,
-ri-wood-river,RI,health_center,"Wood River Health Services, Inc.","CH012230, CH012230A",,
-vt-central-vermont,VT,hospital,Central Vermont Medical Center,,,
-vt-copley,VT,hospital,Copley Hospital,,,
-vt-gifford,VT,hospital,Gifford Medical Center,,,
-vt-grace-cottage,VT,hospital,Grace Cottage Hospital,,,
-vt-mt-ascutney,VT,hospital,Mount Ascutney Hospital,,,
-vt-north-country,VT,hospital,North Country Hospital,,,
-vt-northeastern-vermont,VT,hospital,Northeastern Vermont Regional Hospital,,,
-vt-northwestern,VT,hospital,Northwestern Medical Center,,,
-vt-porter,VT,hospital,Porter Medical Center,,,
-vt-rutland,VT,hospital,Rutland Regional Medical Center,,,
-vt-southwestern-vermont,VT,hospital,Southwestern Vermont Medical Center,,,
-vt-springfield,VT,hospital,Springfield Hospital,,,
-vt-uvm-medical-center,VT,hospital,University of Vermont Medical Center,,,
+entity_id,state,entity_type,name_as_filed,opais_ids_as_filed,entity_type_as_filed,city_as_filed,hrsa_name,hrsa_id_spelling,hrsa_list_date,hrsa_match
+id-statewide,ID,state_total,,,,,,,,
+mn-abbott-northwestern,MN,hospital,Abbott Northwestern Hospital,,Disproportionate Share Hospital,Minneapolis,,,,
+mn-cambridge,MN,hospital,Cambridge Medical Center,,Disproportionate Share Hospital,Cambridge,,,,
+mn-ccm-health,MN,hospital,CCM Health,,Critical Access Hospital,Montevideo,,,,
+mn-centracare-rice-memorial,MN,hospital,CentraCare - Rice Memorial Hospital,,Disproportionate Share Hospital,Willmar,,,,
+mn-centracare-st-cloud,MN,hospital,CentraCare - St. Cloud Hospital,,Disproportionate Share Hospital,St. Cloud,,,,
+mn-childrens-minnesota,MN,hospital,Children’s Minnesota,,Children's Hospital,Minneapolis,,,,
+mn-cuyuna,MN,hospital,Cuyuna Regional Medical Center,,Critical Access Hospital,Crosby,,,,
+mn-essentia-duluth,MN,hospital,Essentia Health Duluth,,Disproportionate Share Hospital,Duluth,,,,
+mn-essentia-st-josephs,MN,hospital,Essentia Health - St. Joseph's Medical Center,,Sole Community Hospital,Brainerd,,,,
+mn-essentia-virginia,MN,hospital,Essentia Health Virginia,,Disproportionate Share Hospital,Virginia,,,,
+mn-fairview-blood-clotting,MN,other,M Health Fairview - Center for Blood and Clotting Disorders,,CHD Treatment Center,Minneapolis,,,,
+mn-fairview-st-johns,MN,hospital,M Health Fairview - St. John's Hospital,,Disproportionate Share Hospital,Maplewood,,,,
+mn-fairview-umn-medical-center,MN,hospital,M Health Fairview - University of Minnesota Medical Center,,Disproportionate Share Hospital,Minneapolis,,,,
+mn-faribault,MN,hospital,Faribault Medical Center,,Disproportionate Share Hospital,Faribault,,,,
+mn-gillette-childrens,MN,hospital,Gillette Children's Specialty Healthcare,,Children's Hospital,St. Paul,,,,
+mn-grand-itasca,MN,hospital,Grand Itasca Clinic and Hospital,,Sole Community Hospital,Grand Rapids,,,,
+mn-hennepin-healthcare,MN,hospital,Hennepin Healthcare,,Disproportionate Share Hospital,Minneapolis,,,,
+mn-mayo-albert-lea,MN,hospital,Mayo Clinic Health System in Albert Lea,,Sole Community Hospital,Albert Lea,,,,
+mn-mercy-hospital,MN,hospital,Mercy Hospital,,Disproportionate Share Hospital,Coon Rapids,,,,
+mn-new-ulm,MN,hospital,New Ulm Medical Center,,Critical Access Hospital,New Ulm,,,,
+mn-north-memorial,MN,hospital,North Memorial Health,,Disproportionate Share Hospital,Robbinsdale,,,,
+mn-range-regional,MN,hospital,Range Regional Health Services,,Disproportionate Share Hospital,Hibbing,,,,
+mn-regions-hospital,MN,hospital,Regions Hospital,,Disproportionate Share Hospital,St. Paul,,,,
+mn-sanford-bemidji,MN,hospital,Sanford Bemidji Medical Center,,Disproportionate Share Hospital,Bemidji,,,,
+mn-st-lukes-duluth,MN,hospital,St. Luke's Hospital of Duluth,,Disproportionate Share Hospital,Duluth,,,,
+mn-statewide,MN,state_total,,,,,,,,
+mn-united-hospital,MN,hospital,United Hospital,,Disproportionate Share Hospital,St. Paul,,,,
+oh-cah361300-00,OH,not_stated,,CAH36130000,,,PAULDING COUNTY HOSPITAL,CAH361300-00,2026-11-11,exact
+oh-cah361302-00,OH,not_stated,,CAH361302,,,TRINITY HOSPITAL TWIN CITY,CAH361302-00,2026-11-11,with or without the 00 ending
+oh-cah361303-00,OH,not_stated,,CAH361303,,,LODI COMMUNITY HOSPITAL,CAH361303-00,2026-11-11,with or without the 00 ending
+oh-cah361306-00,OH,not_stated,,CAH361306-00,,,MERCY HEALTH - ALLEN HOSPITAL LLC,CAH361306-00,2026-11-11,exact
+oh-cah361307-00,OH,not_stated,,CAH361307-00,,,UNIVERSITY HOSPITALS GENEVA MEDICAL CENTER,CAH361307-00,2026-11-11,with or without the 00 ending
+oh-cah361308-00,OH,not_stated,,CAH361308-00,,,UNIVERSITY HOSPITALS CONNEAUT MEDICAL CENTER,CAH361308-00,2026-11-11,with or without the 00 ending
+oh-cah361309-00,OH,not_stated,,CAH361309,,,HENRY COUNTY HOSPITAL,CAH361309-00,2026-11-11,with or without the 00 ending
+oh-cah361310-00,OH,not_stated,,CAH361310-00,,,"MERCY HEALTH-WILLARD HOSPITAL, LLC",CAH361310-00,2026-11-11,exact
+oh-cah361311-00,OH,not_stated,,CAH361311,,,HARRISON COMMUNITY HOSPITAL,CAH361311-00,2026-11-11,with or without the 00 ending
+oh-cah361312-00,OH,not_stated,,CAH361312-00,,,Community Mercy Health Partners DBA Mercy Health - Urbana Hospital,CAH361312-00,2026-11-11,exact
+oh-cah361314-00,OH,not_stated,,CAH361314-00,,,H. B. MAGRUDER MEMORIAL HOSPITAL,CAH361314-00,2026-11-11,exact
+oh-cah361315-00,OH,not_stated,,CAH361315-00,,,HARDIN MEMORIAL HOSPITAL,CAH361315-00,2026-11-11,exact
+oh-cah361316-00,OH,not_stated,,CAH361316,,,BUCYRUS COMMUNITY HOSPITAL,CAH361316-00,2026-11-11,with or without the 00 ending
+oh-cah361318-00,OH,not_stated,,CAH361318-00,,,Fostoria Community Hospital,CAH361318-00,2026-11-11,exact
+oh-cah361319-00,OH,not_stated,,CAH361319,,,SELBY GENERAL HOSPITAL,CAH361319-00,2026-11-11,with or without the 00 ending
+oh-cah361320-00,OH,not_stated,,CAH361320,,,HOLZER MEDICAL CENTER-JACKSON,CAH361320-00,2026-11-11,with or without the 00 ending
+oh-cah361321-00,OH,not_stated,,CAH361321,,,BARNESVILLE HOSPITAL ASSOCIATION INC.,CAH361321-00,2026-11-11,with or without the 00 ending
+oh-cah361322-00,OH,not_stated,,CAH361322-00,,,BLUFFTON HOSPITAL,CAH361322-00,2026-11-11,exact
+oh-cah361323-00,OH,not_stated,,CAH361323,,,Aultman Orrville Hospital,CAH361323-00,2026-11-11,with or without the 00 ending
+oh-cah361324-00,OH,not_stated,,CAH361324-00,,,SHELBY MEMORIAL HOSPITAL,CAH361324-00,2026-11-11,exact
+oh-cah361325-00,OH,not_stated,,CAH361325,,,GALION COMMUNITY HOSPITAL,CAH361325-00,2026-11-11,with or without the 00 ending
+oh-cah361326-00,OH,not_stated,,CAH361326-00,,,ADAMS COUNTY HOSPITAL DBA ADAMS COUNTY REGIONAL MEDICAL CENTER,CAH361326-00,2026-11-11,exact
+oh-cah361327-00,OH,not_stated,,CAH361327,,,CHWC-MONTPELIER,CAH361327-00,2026-11-11,with or without the 00 ending
+oh-cah361328-00,OH,not_stated,,CAH361328-00,,,Defiance Regional Hospital,CAH361328-00,2026-11-11,exact
+oh-cah361329-00,OH,not_stated,,CAH36132900,,,WYANDOT MEMORIAL HOSPITAL,CAH361329-00,2026-11-11,exact
+oh-cah361330-00,OH,not_stated,,CAH361330-00,,,HOCKING VALLEY COMMUNITY HOSPITAL,CAH361330-00,2026-11-11,exact
+oh-cah361331-00,OH,not_stated,,CAH | 361331,,,Adena Fayette Medical Center,CAH361331-00,2026-11-11,exact
+oh-cah361332-00,OH,not_stated,,CAH361332-00,,,HIGHLAND DISTRICT HOSPITAL,CAH361332-00,2026-11-11,exact
+oh-cah361333-00,OH,not_stated,,CAH361333-00,,,FULTON COUNTY HEALTH CENTER,CAH361333-00,2026-11-11,exact
+oh-cah361334-00,OH,not_stated,,CAH | 361334,,,ADENA PIKE MEDICAL CENTER,CAH361334-00,2026-11-11,exact
+oh-cah361335-00,OH,not_stated,,CAH36133500,,,WAYNE HOSPITAL COMPANY,CAH361335-00,2026-11-11,exact
+oh-ch050560,OH,not_stated,,CH050560,,,OHIO HILLS HEALTH SERVICES (BARNESVILLE FAMILY HEALTH CENTER),CH050560,2026-11-11,exact
+oh-ch050640,OH,not_stated,,,,,"Family Health Services of Darke County, Inc. (FAMILY HEALTH SERVICES OF DARKE COUNTY)",CH050640,2026-11-11,exact
+oh-ch050920,OH,not_stated,,CH050920,,,NEIGHBORHOOD HEALTH CARE INCORPORATED (Ridge Community Health Center),CH050920,2026-11-11,exact
+oh-ch050960,OH,not_stated,,CH050960,,,COMMUNITY AND RURAL HEALTH SERVICES (Main Site),CH050960,2026-11-11,exact
+oh-ch050990,OH,not_stated,,CH050990,,,"HEALTHSOURCE OF OHIO INC (HEALTHSOURCE OF OHIO, INC.)",CH050990,2026-11-11,exact
+oh-ch05157bc,OH,not_stated,,CH05157BC,,,"CINCINNATI HEALTH NETWORK INC, THE (MCMICKEN HEALTH COLLABORATIVE)",CH05157BC,2026-11-11,exact
+oh-ch0516380,OH,not_stated,,CH0516380,,,HEALTH PARTNERS OF WESTERN OHIO (Dr.Gene Wright Community Health Center),CH0516380,2026-11-11,exact
+oh-ch05166,OH,not_stated,,CH05166,,,,,2026-11-11,not in HRSA's list
+oh-ch051780,OH,not_stated,,,,,"NEIGHBORHOOD HEALTH ASSOCIATION OF TOLEDO, INC. (NEIGHBORHOOD HEALTH ASSOCIATION OF TOLEDO)",CH051780,2026-11-11,exact
+oh-ch05182c,OH,not_stated,,CHO5182C,,,CARE ALLIANCE (Central Neighborhood Clinic),CH05182C,2026-11-11,exact
+oh-ch051831a,OH,not_stated,,051831,,,HEART OF OHIO FAMILY HEALTH CENTERS (Capital Park Family Health Center at Innis Road),CH051831A,2026-11-11,exact
+oh-ch052270,OH,not_stated,,CH052270,,,HOPEWELL HEALTH CENTERS INC. (Hopewell Health Centers - Chillicothe),CH052270,2026-11-11,exact
+oh-ch052900,OH,not_stated,,CH052900,,,COMMUNITY ACTION COMMITTEE OF PIKE COUNTY (N/A),CH052900,2026-11-11,exact
+oh-ch053086,OH,not_stated,,CH053086,,,,,2026-11-11,not in HRSA's list
+oh-ch0537630,OH,not_stated,,CH0537630,,,MUSKINGUM VALLEY HEALTH CENTERS (Muskingum Valley Health Centers),CH0537630,2026-11-11,exact
+oh-ch056440,OH,not_stated,,CH056440,,,"OHIO NORTH EAST HEALTH SYSTEMS, INC. (Youngstown Community Health Center)",CH056440,2026-11-11,exact
+oh-ch057110,OH,not_stated,,CH057110,,,"THIRD STREET COMMUNITY CLINIC (Third Street Community Clinic, Inc)",CH057110,2026-11-11,exact
+oh-ch057270,OH,not_stated,,CH057270,,,"Axess Family Services, Inc. (AxessPointe Community Health Center/Akron)",CH057270,2026-11-11,exact
+oh-ch058470,OH,not_stated,,CH 058470,,,"COLUMBUS NEIGHBORHOOD HEALTH CENTER, INC. (PrimaryOne Health 3433 Agler Road)",CH058470,2026-11-11,exact
+oh-ch059880,OH,not_stated,,CH059880,,,"The HealthCare Connection, Inc. (LINCOLN HEIGHTS HEALTH CENTER)",CH059880,2026-11-11,exact
+oh-chc0823800,OH,not_stated,,CHC08238-00,,,,,2026-11-11,not in HRSA's list
+oh-chc08753-00,OH,not_stated,,CHC08753,,,"BUTLER COUNTY COMMUNITY HEALTH CONSORTIUM, INC. (Hamilton Community Health Center)",CHC08753-00,2026-11-11,with or without the 00 ending
+oh-chc11332-00,OH,not_stated,,CHC | 11332,,,COMMUNITY HEALTH CENTERS OF GREATER DAYTON (Community Health Centers of Greater Dayton - Charles Drew Health Center),CHC11332-00,2026-11-11,with or without the 00 ending
+oh-chc12886-00,OH,not_stated,,CHC12886-00,,,LOWER LIGHTS CHRISTIAN HEALTH CENTER INC (Lower Lights Christian Health Center),CHC12886-00,2026-11-11,with or without the 00 ending
+oh-chc12888-01,OH,not_stated,,CHC12888-01,,,LORAIN COUNTY HEALTH & DENTISTRY,CHC12888-01,2026-11-11,exact
+oh-chc12890-00,OH,not_stated,,CHC12890-00,,,FAIRFIELD COMMUNITY HEALTH CENTER (FCHC South),CHC12890-00,2026-11-11,exact
+oh-chc12892-00,OH,not_stated,,CHC12892-00,,,ROCKING HORSE CENTER (ROCKING HORSE CENTER),CHC12892-00,2026-11-11,exact
+oh-chc22681-10,OH,not_stated,,CHC-22681-10,,,"SOUTHEAST COMMUNITY MENTAL HEALTH CENTER INC (Southeast Inc., Long Street Admin)",CHC22681-10,2026-11-11,exact
+oh-chc24111-00,OH,not_stated,,"CHC24111-00, -01, -02, -03, -04",,,Circle Health Services (Circle Health Services),CHC24111-00,2026-11-11,exact
+oh-chc25682-00,OH,not_stated,,CHC25682-00,,,Christian Community Health Services (Crossroad Health Center OTR),CHC25682-00,2026-11-11,exact
+oh-chc26575-00,OH,not_stated,,CHC26575-00,,,Community Health & Wellness Partners of Logan County (West Liberty Community Health Center),CHC26575-00,2026-11-11,exact
+oh-chc26576-00,OH,not_stated,,CHC2657600,,,Dayton Health Center dba Five Rivers Health Centers (Five Rivers Health Centers Edgemont Campus),CHC26576-00,2026-11-11,exact
+oh-chc26577-00,OH,not_stated,,CHC26577,,,TALBERT HOUSE HEALTH CENTER (Centerpoint Health Medical Franklin),CHC26577-00,2026-11-11,with or without the 00 ending
+oh-chc26578-00,OH,not_stated,,CHC26578-00,,,"WOOD, COUNTY OF (Wood County Community Health  Center)",CHC26578-00,2026-11-11,exact
+oh-chc28349-03,OH,not_stated,,CHC2834903,,,SPRINGVALE HEALTH CENTERS INC (Oxford St.),CHC28349-03,2026-11-11,exact
+oh-chc28350-00,OH,not_stated,,CHC28350-00,,,"ERIE, COUNTY OF (Erie County Health Department)",CHC28350-00,2026-11-11,exact
+oh-chc29020-00,OH,not_stated,,CHC29020-00,,,COMPASS COMMUNITY HEALTH (Compass Community Health),CHC29020-00,2026-11-11,with or without the 00 ending
+oh-chc29021-00,OH,not_stated,,CHC29021-00,,,"FAMILY HEALTH CARE OF NORTHWEST OHIO, INC. (Family Health Care of Northwest Ohio, Inc.)",CHC29021-00,2026-11-11,with or without the 00 ending
+oh-chc30716-00,OH,not_stated,,CHC30716-00,,,County of Knox (Danville Community Health Center),CHC30716-00,2026-11-11,exact
+oh-chc30718-00,OH,not_stated,,CHC30718,,,"SIGNATURE HEALTH, INC. (Signature Health, Inc. Administrative Location)",CHC30718-00,2026-11-11,with or without the 00 ending
+oh-chc33657-00,OH,not_stated,,CHC33657-00,,,HIGHLAND HEALTH PROVIDERS CORP (Highland Health Providers - Lynchburg Medical Center),CHC33657-00,2026-11-11,exact
+oh-chc33658-00,OH,not_stated,,CHC33658-00,,,"MEDINA, COUNTY OF (Medina County)",CHC33658-00,2026-11-11,exact
+oh-chc33660-00,OH,not_stated,,CHC33660,,,"OHIO STATE UNIVERSITY, THE (Ohio State University Total Health Care Center (THCC))",CHC33660-00,2026-11-11,with or without the 00 ending
+oh-chc43215-00,OH,not_stated,,CHC-43215-00,,,LUTHERAN SOCIAL SERVICES OF CENTRAL OHIO (Faith Mission),CHC43215-00,2026-11-11,exact
+oh-dsh360003,OH,not_stated,,DSH,,,University of Cincinnati Medical Center LLC,DSH360003,2026-11-11,exact
+oh-dsh360008,OH,not_stated,,DSH360008,,,SOUTHERN OHIO MEDICAL CENTER,DSH360008,2026-11-11,exact
+oh-dsh360012,OH,not_stated,,DSH360012,,,MOUNT CARMEL ST. ANN'S,DSH360012,2026-11-11,exact
+oh-dsh360014,OH,not_stated,,DSH360014,,,OBLENESS MEMORIAL HOSPITAL,DSH360014,2026-11-11,exact
+oh-dsh360017,OH,not_stated,,DSH360017,,,GRANT MEDICAL CENTER,DSH360017,2026-11-11,exact
+oh-dsh360020,OH,not_stated,,DSH360020,,,SUMMA HEALTH SYSTEM,DSH360020,2026-11-11,exact
+oh-dsh360025,OH,not_stated,,DSH360025,,,FIRELANDS REGIONAL MEDICAL CENTER,DSH360025,2026-11-11,exact
+oh-dsh360035,OH,not_stated,,DSH360035,,,MOUNT CARMEL HEALTH,DSH360035,2026-11-11,exact
+oh-dsh360039,OH,not_stated,,DSH360039,,,GENESIS HEALTHCARE SYSTEM,DSH360039,2026-11-11,exact
+oh-dsh360048,OH,not_stated,,DSH360048,,,UNIV OF TOLEDO MEDL CENTER,DSH360048,2026-11-11,exact
+oh-dsh360051,OH,not_stated,,DSH360051,,,MIAMI VALLEY HOSPITAL,DSH360051,2026-11-11,exact
+oh-dsh360054,OH,not_stated,,DSH360054,,,HOLZER,DSH360054,2026-11-11,exact
+oh-dsh360059,OH,not_stated,,DSH360059,,,METROHEALTH MEDICAL CENTER,DSH360059,2026-11-11,exact
+oh-dsh360068,OH,not_stated,,DSH360068,,,THE TOLEDO HOSPITAL,DSH360068,2026-11-11,exact
+oh-dsh360077,OH,not_stated,,DSH360077,,,FAIRVIEW HOSPITAL,DSH360077,2026-11-11,exact
+oh-dsh360082,OH,not_stated,,DSH360082,,,EUCLID HOSPITAL,DSH360082,2026-11-11,exact
+oh-dsh360085,OH,not_stated,,DSH360085,,,THE OHIO STATE UNIVERSITY HOSPITAL,DSH360085,2026-11-11,exact
+oh-dsh360086,OH,not_stated,,DSH360086,,,Community Mercy Health Partners DBA Mercy Health – Springfield Regional Medical Center,DSH360086,2026-11-11,exact
+oh-dsh360087,OH,not_stated,,DSH360087,,,LUTHERAN HOSPITAL,DSH360087,2026-11-11,exact
+oh-dsh360089,OH,not_stated,,DSH360089,,,MERCY HEALTH-TIFFIN  HOSPITAL LLC,DSH360089,2026-11-11,exact
+oh-dsh360107,OH,not_stated,,DSH360107,,,THE BELLEVUE HOSPITAL,DSH360107,2026-11-11,exact
+oh-dsh360112,OH,not_stated,,DSH360112,,,MERCY HEALTH- ST. VINCENT MEDICAL CE,DSH360112,2026-11-11,exact
+oh-dsh360132,OH,not_stated,,DSH360132,,,Kettering Health Hamilton,DSH360132,2026-11-11,exact
+oh-dsh360133,OH,not_stated,,DSH360133,,,Kettering Health Dayton,DSH360133,2026-11-11,exact
+oh-dsh360134,OH,not_stated,,DSH 360134,,,THE GOOD SAMARITAN HOSPITAL OF CINCINNATI OHIO,DSH360134,2026-11-11,exact
+oh-dsh360137,OH,not_stated,,DSH360137,,,UNIVERSITY HOSPITALS CLEVELAND MEDICAL CENTER,DSH360137,2026-11-11,exact
+oh-dsh360152,OH,not_stated,,DSH360152,,,OHIOHEALTH CORPORATION DBA DOCTORS HOSPITAL,DSH360152,2026-11-11,exact
+oh-dsh360159,OH,not_stated,,DSH | 360159,,,ADENA REGIONAL MEDICAL CENTER,DSH360159,2026-11-11,exact
+oh-dsh360161,OH,not_stated,,DSH360161,,,"Mercy Health Youngstown, LLC dba St. Joseph Warren Hospital",DSH360161,2026-11-11,exact
+oh-dsh360172,OH,not_stated,,DSH360172,,,MERCY HEALTH-REGIONAL MEDICAL CENTER,DSH360172,2026-11-11,exact
+oh-dsh360189,OH,not_stated,,DSH360189,,,MADISON HEALTH,DSH360189,2026-11-11,exact
+oh-dsh360203,OH,not_stated,,DSH360203,,,SOUTHEASTERN OHIO REG MED CTR,DSH360203,2026-11-11,exact
+oh-dsh360211,OH,not_stated,,DSH360211,,,TRINITY HOSPITAL HOLDING COMPANY,DSH360211,2026-11-11,exact
+oh-dsh360218,OH,not_stated,,DSH360218,,,LICKING MEMORIAL HOSPITAL,DSH360218,2026-11-11,exact
+oh-dsh360236,OH,not_stated,,DSH360236,,,"Mercy Health-Clermont Hospital, LLC",DSH360236,2026-11-11,exact
+oh-dsh360259,OH,not_stated,,DSH360259,,,BAY PARK COMMUNITY HOSPITAL,DSH360259,2026-11-11,exact
+oh-dsh360276,OH,not_stated,,DSH360276,,,"Mercy Health Youngstown, LLC dba St. Elizabeth Boardman Hospital",DSH360276,2026-11-11,exact
+oh-dsh360365,OH,not_stated,,DSH360365,,,AVITA ONTARIO HOSPITAL,DSH360365,2026-11-11,exact
+oh-fp43040,OH,not_stated,,FP43040,,,Union County Health Department (Union County),FP43040,2026-11-11,exact
+oh-fp430506,OH,not_stated,,FP-430506,,,KNO-HO-CO-Ashland CAC,FP430506,2026-11-11,exact
+oh-fp430553,OH,not_stated,,FP|430553,,,FAMILY HEALTH SERVICES OF EAST CENTRAL OHIO,FP430553,2026-11-11,exact
+oh-fp43140,OH,not_stated,,FP43140,,,Madison County London City Health Department (Madison County London City Health Department),FP43140,2026-11-11,exact
+oh-fp431601,OH,not_stated,,FP431601,,,FAYETTE COUNTY HEALTH DEPARTMENT,FP431601,2026-11-11,exact
+oh-fp43215,OH,not_stated,,FP43215,,,Columbus City Health Department,FP43215,2026-11-11,exact
+oh-fp432407,OH,not_stated,,FP432407,,,SANDUSKY COUNTY HEALTH DEPARTMENT,FP432407,2026-11-11,exact
+oh-fp432666,OH,not_stated,,FP 432666,,,OH DEPT OF HEALTH (Reproductive Health and Wellness Program),FP432666,2026-11-11,exact
+oh-fp43338,OH,not_stated,,FP43338,,,Morrow County Health Department,FP43338,2026-11-11,exact
+oh-fp43506,OH,not_stated,,FP43506,,,Fulton County Health Department (Williams County Health Department Bryan Office Family Planning Clinic),FP43506,2026-11-11,exact
+oh-fp43604,OH,not_stated,,-,,,Toledo Lucas County Health Department,FP43604,2026-11-11,exact
+oh-fp43724,OH,not_stated,,FP43724,,,NOBLE COUNTY HEALTH DEPARTMENT,FP43724,2026-11-11,exact
+oh-fp43725,OH,not_stated,,FP43725,,,CAMBRIDGE-GUERNSEY COUNTY HEALTH DEPARTMENT,FP43725,2026-11-11,exact
+oh-fp439504,OH,not_stated,,FP439504,,,BELMONT COUNTY GENERAL HEALTH DISTRICT,FP439504,2026-11-11,exact
+oh-fp440357,OH,not_stated,,FP440357,,,FAMILY PLANNING SERVICES OF LORAIN COUNTY (ELYRIA CLINIC),FP440357,2026-11-11,exact
+oh-fp441080,OH,not_stated,,FP441080,,,J. Glen Smith Health Center City of Cleveland Dept. of Public Health (J. Glen Smith Health Center),FP441080,2026-11-11,exact
+oh-fp441131,OH,not_stated,,FP441131,,,CLEVELAND DEPT. OF PUBLIC HEALTH (Blanket Mills Health Center),FP441131,2026-11-11,exact
+oh-fp44130,OH,not_stated,,"FP44130, STD44130",,,CUYAHOGA COUNTY BOARD OF HEALTH (PARMA CLINIC),FP44130,2026-11-11,exact
+oh-fp44313,OH,not_stated,,FP44313,,,Summit County Public Health (Summit County General Health District),FP44313,2026-11-11,exact
+oh-fp446222,OH,not_stated,,FP446222,,,TUSCARAWAS COUNTY GENERAL HEALTH,FP446222,2026-11-11,exact
+oh-fp44691,OH,not_stated,,,,,Viola Startzman Clinic (Viola Startzman Clinic),FP44691,2026-11-11,exact
+oh-fp44718,OH,not_stated,,FP44718,,,Stark County Health Department (Stark County Health Department Nursing Services),FP44718,2026-11-11,exact
+oh-fp44857,OH,not_stated,,FP44857,,,,,2026-11-11,not in HRSA's list
+oh-fp448706,OH,not_stated,,FP448706,,,ERIE COUNTY HEALTH DEPARTMENT (ERIE COUNTY FAMILY PLANNING),FP448706,2026-11-11,exact
+oh-fp450361,OH,not_stated,,FP450361,,,Warren County Combined Health District,FP450361,2026-11-11,exact
+oh-fp45121,OH,not_stated,,FP45121 and FP45693,,,"ADAMS/BROWN COUNTIES ECONOMIC OPPORTUNITIES, INC. (BROWN COUNTY FAMILY PLANNING CLINIC)",FP45121,2026-11-11,exact
+oh-fp45373,OH,not_stated,,FP45373,,,Miami County Health District,FP45373,2026-11-11,exact
+oh-fp45503,OH,not_stated,,FP45503,,,Clark County Combined Health District (Reproductive Health and Wellness - Nursing),FP45503,2026-11-11,exact
+oh-fp45631,OH,not_stated,,FP45631,,,Gallia County Health Department,FP45631,2026-11-11,exact
+oh-fp456381,OH,not_stated,,"FP456381, STD 45638",,,LAWRENCE COUNTY HEALTH DEPARTMENT (Lawrence County  Family Planning Clinic),FP456381,2026-11-11,exact
+oh-fp45662,OH,not_stated,,FP45662,,,PORTSMOUTH CITY HEALTH DEPT (Nursing Division),FP45662,2026-11-11,exact
+oh-fp45801,OH,not_stated,,,,,ALLEN COUNTY HEALTH DEPARTMENT (FAMILY PLANNING PROGRAM),FP45801,2026-11-11,exact
+oh-fp458401,OH,not_stated,,"FP458401, STD458401, TB45840",,,Hancock Public Health Department (DBA/HANCOCK PUBLIC HEALTH),FP458401,2026-11-11,exact
+oh-fqhcla369,OH,not_stated,,FQHCLA369,,,"COMMUNITY SUPPORT SERVICES, INC. (Community Support Services)",FQHCLA369,2026-11-11,exact
+oh-fqhcla396,OH,not_stated,,FQHCLA396,,,SHAWNEE MENTAL HEALTH CENTER INC (Portsmouth Clinic),FQHCLA396,2026-11-11,exact
+oh-fqhcla415,OH,not_stated,,DSH|360059,,,"MetroHealth System, The (Glenville Community Health Center)",FQHCLA415,2026-11-11,exact
+oh-fqhcla438,OH,not_stated,,,,,"Alliance Family Health Center, Inc. (Alliance Family Health Center)",FQHCLA438,2026-11-11,exact
+oh-fqhcla452,OH,not_stated,,FQHCLA452,,,CROSSROADS HEALTH (Crossroads Health Mentor Avenue),FQHCLA452,2026-11-11,exact
+oh-fqhcla467,OH,not_stated,,FQHCLA467,,,COMPASSION HEALTH TOLEDO (Compassion Health Toledo-Dorr Street),FQHCLA467,2026-11-11,exact
+oh-fqhcla470,OH,not_stated,,FQHCLA470,,,ZEPF CENTER (Nebraska Primary Care),FQHCLA470,2026-11-11,exact
+oh-hm11560,OH,not_stated,,HM11560,,,Dayton Children's Hospital,HM11560,2026-11-11,exact
+oh-hm1581,OH,not_stated,,HM1581,,,CHILDREN'S HOSPITAL MEDICAL CENTER (HEMOPHILIA TREATMENT CENTER),HM1581,2026-11-11,exact
+oh-hm1583,OH,not_stated,,HM 1583,,,CHILDREN'S HOSPITAL MED CTR OF AKRON (Akron HTC Clinic),HM1583,2026-11-11,exact
+oh-hm43203,OH,not_stated,,HM43203,,,The Ohio State University Bleeding and Clotting Disorders Center,HM43203,2026-11-11,exact
+oh-hm43205,OH,not_stated,,HM43205,,,NATIONWIDE CHILDREN'S HOSPITAL (HEMOSTASIS & THROMBOSIS CENTER),HM43205,2026-11-11,exact
+oh-hm441061,OH,not_stated,,HM441061,,,University Hospitals Cleveland Medical Center (Hemophilia Treatment Center),HM441061,2026-11-11,exact
+oh-hm45044,OH,not_stated,,HM45044,,,Children's Hospital Medical Center (Hemophilia Treatment Center Liberty Campus),HM45044,2026-11-11,exact
+oh-hm8395,OH,not_stated,,HM8395,,,The Ohio State University Bleeding and Clotting Disorders Center,HM8395,2026-11-11,exact
+oh-hv00531,OH,not_stated,,HV00531,,,"Equitas Health, Inc. (Equitas Health Short North)",HV00531,2026-11-11,exact
+oh-hv01717,OH,not_stated,,HV 01717,,,URSULINE CENTER (COMPREHENSIVE CARE CENTER),HV01717,2026-11-11,exact
+oh-hv43614,OH,not_stated,,HV43614,,,UNIVERSITY OF TOLEDO,HV43614,2026-11-11,exact
+oh-hv44106,OH,not_stated,,HV44106,,,UNIVERSITY HOSPITALS CLEVELAND MEDICAL CENTER (JOHN T CAREY SPEC IMM UNIT),HV44106,2026-11-11,exact
+oh-ped363300-00,OH,not_stated,,PED363300,,,CHILDREN'S HOSPITAL MEDICAL CENTER,PED363300-00,2026-11-11,with or without the 00 ending
+oh-ped363302-00,OH,not_stated,,PED363302-00,,,UNIVERSITY HOSPITALS RAINBOW BABIES AND CHILDREN'S HOSPITAL,PED363302-00,2026-11-11,with or without the 00 ending
+oh-ped363303-00,OH,not_stated,,PED36330300,,,CHILDREN'S HOSPITAL MEDICAL CENTER OF AKRON,PED363303-00,2026-11-11,exact
+oh-ped363305-00,OH,not_stated,,PED363305-00,,,NATIONWIDE CHILDREN'S HOSPITAL,PED363305-00,2026-11-11,exact
+oh-ped363306-00,OH,not_stated,,PED363306,,,Dayton Children's Hospital,PED363306-00,2026-11-11,with or without the 00 ending
+oh-rrc360010-00,OH,not_stated,,RRC360010,,,UNION HOSPITAL ASSOCIATION,RRC360010-00,2026-11-11,with or without the 00 ending
+oh-rrc360011-00,OH,not_stated,,RRC360011-00,,,MARION GENERAL HOSPITAL,RRC360011-00,2026-11-11,with or without the 00 ending
+oh-rrc360027-00,OH,not_stated,,RRC360027,,,AKRON GENERAL MEDICAL CENTER,RRC360027-00,2026-11-11,with or without the 00 ending
+oh-rrc360064-00,OH,not_stated,,DSH/RRC360064-00,,,ST. ELIZABETH HEALTH CENTER,RRC360064-00,2026-11-11,exact
+oh-rrc360066-00,OH,not_stated,,RRC360066-00,,,MERCY HEALTH-ST RITAS MEDICAL CENTER,RRC360066-00,2026-11-11,exact
+oh-rrc360076-00,OH,not_stated,,RRC360076-00,,,ATRIUM MEDICAL CENTER,RRC360076-00,2026-11-11,exact
+oh-rrc360079-00,OH,not_stated,,RRC360079-00,,,Kettering Health Main Campus,RRC360079-00,2026-11-11,exact
+oh-rrc360084-00,OH,not_stated,,RRC360084,,,AULTMAN HOSPITAL,RRC360084-00,2026-11-11,with or without the 00 ending
+oh-rrc360118-00,OH,not_stated,,RRC360118-00,,,MEDCENTRAL HEALTH SYSTEM,RRC360118-00,2026-11-11,exact
+oh-rrc360147-00,OH,not_stated,,RRC360147,,,MARIETTA MEMORIAL HOSPITAL,RRC360147-00,2026-11-11,found by the ID typed in the workbook
+oh-rrc360180-00,OH,not_stated,,RRC360180,,,CLEVELAND CLINIC HOSPITAL,RRC360180-00,2026-11-11,with or without the 00 ending
+oh-rrc360234-00,OH,not_stated,,RRC360234-00,,,"Mercy Health-West Hospital, LLC DBA",RRC360234-00,2026-11-11,exact
+oh-rrc360239-00,OH,not_stated,,RRC360239-00,,,Kettering Health Miamisburg,RRC360239-00,2026-11-11,exact
+oh-rrc360360-00,OH,not_stated,,RRC360360-00,,,SOIN MEDICAL CENTER,RRC360360-00,2026-11-11,exact
+oh-rw424823,OH,not_stated,,RW424823,,,University Hospitals of Cleveland (JOHN T CAREY SPEC IMM UNIT),RW424823,2026-11-11,exact
+oh-rwi43210,OH,not_stated,,RWI43210,,,"The Ohio State University (Department of Internal Medicine, Division of Infectious Diseases)",RWI43210,2026-11-11,exact
+oh-rwi441061,OH,not_stated,,RWI441061,,,UNIVERSITY HOSPITALS CLEVELAND MEDICAL CENTER (JOHN T CAREY SPEC IMM UNIT),RWI441061,2026-11-11,exact
+oh-rwii44102,OH,not_stated,,RWII44102,,,Nueva Luz Urban Resource Center,RWII44102,2026-11-11,exact
+oh-sch360040-00,OH,not_stated,,SCH360040,,,KNOX COMMUNITY HOSPITAL,SCH360040-00,2026-11-11,exact
+oh-sch360197-00,OH,not_stated,,SCH36019700,,,MARY RUTAN HOSPITAL,SCH360197-00,2026-11-11,exact
+oh-std42304,OH,not_stated,,STD42304,,,Central Outreach Wellness Center (Central Outreach Wellness Center Columbus),STD42304,2026-11-11,exact
+oh-std431402,OH,not_stated,,STD431402,,,Madison County Public Health,STD431402,2026-11-11,exact
+oh-std432151,OH,not_stated,,STD432151,,,COLUMBUS CITY HEALTH DEPARTMENT (STD CLINIC),STD432151,2026-11-11,exact
+oh-std432152,OH,not_stated,,-,,,Franklin County Juvenile Intervention Center (Juvenile Justice Clinic- Nationwide Children's Hospital),STD432152,2026-11-11,exact
+oh-std432155,OH,not_stated,,STD432155,,,OHIO DEPARTMENT OF HEALTH (STD PREVENTION PROGRAM),STD432155,2026-11-11,exact
+oh-std43223,OH,not_stated,,STD43223,,,Ohio Dept of Rehabilitation & Correction (Franklin Medical Center),STD43223,2026-11-11,exact
+oh-std43452,OH,not_stated,,STD|43452,,,Ottawa County Health Department,STD43452,2026-11-11,exact
+oh-std436247,OH,not_stated,,-,,,LUCAS COUNTY REGIONAL HEALTH DISTRICT (STD CLINIC),STD436247,2026-11-11,exact
+oh-std437241,OH,not_stated,,STD437241,,,Noble County (Noble County Health Department),STD437241,2026-11-11,exact
+oh-std437251,OH,not_stated,,STD437251,,,Cambridge Guernsey County Health Department,STD437251,2026-11-11,exact
+oh-std43952,OH,not_stated,,STD43952,,,Jefferson County General Health District,STD43952,2026-11-11,exact
+oh-std44102,OH,not_stated,,STD44102,,,Nueva Luz Urban Resource Center,STD44102,2026-11-11,exact
+oh-std44106,OH,not_stated,,STD44106,,,Circle Health Services (d/b/a The Centers),STD44106,2026-11-11,exact
+oh-std44108,OH,not_stated,,STD44108,,,Cleveland Dept. of Public Health (J. Glen Smith Health Center),STD44108,2026-11-11,exact
+oh-std441132,OH,not_stated,,STD441132,,,CLEVELAND CITY HEALTH DEPARTMENT (BLANKET MILLS HEALTH CENTER),STD441132,2026-11-11,exact
+oh-std44118,OH,not_stated,,STD44118,,,Central Outreach Wellness Center (Central Outreach Wellness Center Cleveland Heights),STD44118,2026-11-11,exact
+oh-std442561,OH,not_stated,,STD442561,,,Medina County Health Department,STD442561,2026-11-11,exact
+oh-std44406,OH,not_stated,,STD 44406,,,Ursuline Center (Comprehensive Care Center),STD44406,2026-11-11,exact
+oh-std445026,OH,not_stated,,DOH0764127,,,YOUNGSTOWN CITY HEALTH DEPARTMENT (STD CLINIC),STD445026,2026-11-11,exact
+oh-std44615,OH,not_stated,,STD44615,,,Carroll County General Health District,STD44615,2026-11-11,exact
+oh-std44622,OH,not_stated,,STD44622,,,Tuscarawas County Health Department,STD44622,2026-11-11,exact
+oh-std447023,OH,not_stated,,STD|447023,,,CANTON CITY HEALTH DEPARTMENT (STD CLINIC),STD447023,2026-11-11,exact
+oh-std44720,OH,not_stated,,STD44720,,,Stark County Health Department (Stark County Health Department Nursing Services),STD44720,2026-11-11,exact
+oh-std44820,OH,not_stated,,STD44820,,,Crawford County Public Health,STD44820,2026-11-11,exact
+oh-std44833,OH,not_stated,,STD44833,,,Galion City Health Department,STD44833,2026-11-11,exact
+oh-std44857,OH,not_stated,,STD44857.xlsx,,,Huron County Public Health (Huron County Public Health),STD44857,2026-11-11,exact
+oh-std44870,OH,not_stated,,STD44870,,,Erie County Health Department (Erie County Community Health Center),STD44870,2026-11-11,exact
+oh-std45103,OH,not_stated,,STD45103,,,Clermont County Health District,STD45103,2026-11-11,exact
+oh-std452191,OH,not_stated,,"TB452022, STD452191",,,Hamilton County General Health District,STD452191,2026-11-11,exact
+oh-std45373,OH,not_stated,,STD45373,,,Miami County Public Health (Miami County Public Health),STD45373,2026-11-11,exact
+oh-std45422,OH,not_stated,,STD 45422,,,PUBLIC HEALTH-DAYTON & MONTGOMERY COUNTY (STD CLINIC),STD45422,2026-11-11,exact
+oh-std45503,OH,not_stated,,STD45503,,,"Clark County Combined Health District (HIV, STI, & Viral Hepatitis Interventions and Treatment)",STD45503,2026-11-11,exact
+oh-std45662,OH,not_stated,,STD45662,,,Portsmouth City Health Department (STD),STD45662,2026-11-11,exact
+oh-std457011,OH,not_stated,,STD457011,,,Ohio Health Campus Care at Ohio University (Student Health Services),STD457011,2026-11-11,exact
+oh-std45801,OH,not_stated,,,,,Allen County Health Department,STD45801,2026-11-11,exact
+oh-std458401,OH,not_stated,,STD458401,,,Hancock Public Health (STI & Reproductive Health Clinic),STD458401,2026-11-11,exact
+oh-tb432159,OH,not_stated,,TB 432159,,,COLUMBUS CITY HEALTH  DEPARTMENT (BEN FRANKLIN TB CLINIC),TB432159,2026-11-11,exact
+oh-tb435451,OH,not_stated,,TB435451,,,HENRY COUNTY/NAPOLEON CITY (GENERAL HEALTH DISTRICT),TB435451,2026-11-11,exact
+oh-tb43624,OH,not_stated,,-,,,TOLEDO/LUCAS COUNTY HEALTH DEPARTMENT (TB  Program),TB43624,2026-11-11,exact
+oh-tb43724,OH,not_stated,,TB43724,,,NOBLE COUNTY HEALTH DEPARTMENT,TB43724,2026-11-11,exact
+oh-tb43725,OH,not_stated,,TB43725,,,GUERNSEY COUNTY HEALTH DEPARTMENT (CAMBRIDGE),TB43725,2026-11-11,exact
+oh-tb445078,OH,not_stated,,TB445078,,,MAHONING COUNTY DISTRICT BOARD OF HEALTH (TUBERCULOSIS PROGRAM),TB445078,2026-11-11,exact
+oh-tb44615,OH,not_stated,,TB44615,,,Carroll County General Health District,TB44615,2026-11-11,exact
+oh-tb45036,OH,not_stated,,TB45036,,,WARREN COUNTY COMBINED HEALTH DISTRICT (TB Clinic),TB45036,2026-11-11,exact
+oh-tb451189,OH,not_stated,,TB451189,,,CLERMONT COUNTY HEALTH DISTRICT,TB451189,2026-11-11,exact
+oh-tb452022,OH,not_stated,,"TB452022, STD452191",,,HAMILTON COUNTY General Health District (TB CONTROL CLINIC),TB452022,2026-11-11,exact
+oh-tb45422,OH,not_stated,,45422,,,PUBLIC HEALTH DAYTON & MONTGOMERY COUNTY (REIBOLD BLDG.),TB45422,2026-11-11,exact
+oh-tb45503,OH,not_stated,,FP45503,,,CLARK COUNTY COMBINED HEALTH DISTRICT (TB CLINIC),TB45503,2026-11-11,exact
+oh-tb45601,OH,not_stated,,TB45601,,,ROSS COUNTY HEALTH DISTRICT,TB45601,2026-11-11,exact
+oh-tb456903,OH,not_stated,,-,,,PIKE COUNTY HEALTH DEPARTMENT,TB456903,2026-11-11,exact
+oh-tb45801,OH,not_stated,,,,,ALLEN COUNTY HEALTH DEPARTMENT,TB45801,2026-11-11,exact
+oh-tb45840,OH,not_stated,,TB45840,,,Hancock Public Health Department (DBA/ HANCOCK PUBLIC HEALTH),TB45840,2026-11-11,exact
+ri-blackstone-valley,RI,health_center,Blackstone Valley Community Health Care,"CH011990, CH01199A, CH01199B, CH01199C, CH01199D, CH01199E, CH01199F",,,,,,
+ri-comprehensive-community-action,RI,health_center,"Comprehensive Community Action, Inc.","CHC06666-00, CHC06666-01, CHC06666-02, CHC066666-04",,,,,,
+ri-east-bay-cap,RI,health_center,East Bay Community Action Program,CH015160,,,,,,
+ri-kent-hospital,RI,hospital,Kent County Memorial Hospital,DSH410009,,,,,,
+ri-landmark,RI,hospital,Landmark Medical center,DSH410011,,,,,,
+ri-miriam-immunology-center,RI,hospital,The Miriam Hospital Immunology Center,STD02904,,,,,,
+ri-miriam-rise-tb-clinic,RI,hospital,The Miriam Hospital RISE TB Clinic,TB02906,,,,,,
+ri-miriam-ryan-white,RI,hospital,The Miriam Hospital Ryan White Care Program,HV00018,,,,,,
+ri-providence-chc,RI,health_center,"The Providence Community Health Centers, Inc",CH010580,,,,,,
+ri-rhode-island-hospital,RI,hospital,Rhode Island Hospital,DSH410007,,,,,,
+ri-thundermist,RI,health_center,Thundermist Health Center,"CH011820, CH01182C, CH01182J, CH01182N, CH01182P, CH01182Q, CH01182R, CH01182S, CH01182U, CH01182V, CH01182W, FP028951",,,,,,
+ri-wellone,RI,health_center,WellOne Primary Medical and Dental Care (A),CH010480,,,,,,
+ri-women-and-infants,RI,hospital,Women & Infants Hospital of RI,DSH410010,,,,,,
+ri-wood-river,RI,health_center,"Wood River Health Services, Inc.","CH012230, CH012230A",,,,,,
+vt-central-vermont,VT,hospital,Central Vermont Medical Center,,,,,,,
+vt-copley,VT,hospital,Copley Hospital,,,,,,,
+vt-gifford,VT,hospital,Gifford Medical Center,,,,,,,
+vt-grace-cottage,VT,hospital,Grace Cottage Hospital,,,,,,,
+vt-mt-ascutney,VT,hospital,Mount Ascutney Hospital,,,,,,,
+vt-north-country,VT,hospital,North Country Hospital,,,,,,,
+vt-northeastern-vermont,VT,hospital,Northeastern Vermont Regional Hospital,,,,,,,
+vt-northwestern,VT,hospital,Northwestern Medical Center,,,,,,,
+vt-porter,VT,hospital,Porter Medical Center,,,,,,,
+vt-rutland,VT,hospital,Rutland Regional Medical Center,,,,,,,
+vt-southwestern-vermont,VT,hospital,Southwestern Vermont Medical Center,,,,,,,
+vt-springfield,VT,hospital,Springfield Hospital,,,,,,,
+vt-uvm-medical-center,VT,hospital,University of Vermont Medical Center,,,,,,,

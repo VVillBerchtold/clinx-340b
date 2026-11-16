@@ -1,0 +1,273 @@
+sheet,cell,value
+DSH360054 Data,B1,Ohio Department of Health
+DSH360054 Data,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+DSH360054 Data,B4,Reporting Period:
+DSH360054 Data,C4,"January 1, 2025 - December 31, 2025"
+DSH360054 Data,B5,Primary Contact Name:
+DSH360054 Data,C5,[contact detail withheld]
+DSH360054 Data,B6,Email:
+DSH360054 Data,C6,[contact detail withheld]
+DSH360054 Data,B7,Phone Number:
+DSH360054 Data,C7,[contact detail withheld]
+DSH360054 Data,A8,Data Element
+DSH360054 Data,B8,HRSA 340B ID:
+DSH360054 Data,C8,DSH360054
+DSH360054 Data,D9,Lettered Prefix:
+DSH360054 Data,E9,Number:
+DSH360054 Data,A10,1
+DSH360054 Data,D10,DSH
+DSH360054 Data,E10,360054
+DSH360054 Data,C12,NPI1
+DSH360054 Data,D12,NPI2
+DSH360054 Data,E12,NPI3
+DSH360054 Data,F12,NPI4
+DSH360054 Data,G12,NPI5
+DSH360054 Data,H12,NPI6
+DSH360054 Data,A13,2
+DSH360054 Data,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+DSH360054 Data,C13,1942256888
+DSH360054 Data,D13,N/A
+DSH360054 Data,E13,N/A
+DSH360054 Data,F13,N/A
+DSH360054 Data,G13,N/A
+DSH360054 Data,H13,N/A
+DSH360054 Data,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+DSH360054 Data,C16,Commercial Insurance/Private Insurance:
+DSH360054 Data,D16,Medicare:
+DSH360054 Data,E16,"Medicaid 
+(all states):"
+DSH360054 Data,F16,Other Third-Party Payor:
+DSH360054 Data,G16,Uninsured/ Self-Pay:
+DSH360054 Data,H16,TOTAL:
+DSH360054 Data,A17,3
+DSH360054 Data,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+DSH360054 Data,C17,2381687.15
+DSH360054 Data,D17,3024495.03
+DSH360054 Data,E17,2352046.92
+DSH360054 Data,F17,39485.629999999997
+DSH360054 Data,G17,0
+DSH360054 Data,H17,7797714.7299999995
+DSH360054 Data,A18,4
+DSH360054 Data,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+DSH360054 Data,C18,6411511.7400000002
+DSH360054 Data,D18,7009041.4400000004
+DSH360054 Data,E18,6754941.2599999998
+DSH360054 Data,F18,91519.76
+DSH360054 Data,G18,0
+DSH360054 Data,H18,20267014.199999999
+DSH360054 Data,A19,5
+DSH360054 Data,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+DSH360054 Data,C19,87409
+DSH360054 Data,D19,36462
+DSH360054 Data,E19,65363
+DSH360054 Data,F19,[withheld: beside_small]
+DSH360054 Data,G19,[withheld: fewer_than_6]
+DSH360054 Data,H19,190980
+DSH360054 Data,A20,6
+DSH360054 Data,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+DSH360054 Data,C20,45877
+DSH360054 Data,D20,20558
+DSH360054 Data,E20,34077
+DSH360054 Data,F20,693
+DSH360054 Data,G20,0
+DSH360054 Data,H20,101205
+DSH360054 Data,A21,7
+DSH360054 Data,B21,Percentage of total prescriptions that were 340B
+DSH360054 Data,C21,0.52485442002539784
+DSH360054 Data,D21,0.56381986725906419
+DSH360054 Data,E21,0.52134999923504122
+DSH360054 Data,F21,[withheld: reveals_small]
+DSH360054 Data,G21,[withheld: reveals_small]
+DSH360054 Data,H21,0.52992459943449577
+DSH360054 Data,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+DSH360054 Data,C25,Commercial Insurance/Private Insurance:
+DSH360054 Data,D25,Medicare:
+DSH360054 Data,E25,"Medicaid 
+(all states):"
+DSH360054 Data,F25,Other Third-Party Payor:
+DSH360054 Data,G25,"Uninsured/
+Self-Pay:"
+DSH360054 Data,H25,Indeterminate (Explain)
+DSH360054 Data,I25,TOTAL:
+DSH360054 Data,A26,8
+DSH360054 Data,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+DSH360054 Data,C26,599871.14
+DSH360054 Data,D26,420950.77
+DSH360054 Data,E26,170584.88
+DSH360054 Data,F26,17472.080000000002
+DSH360054 Data,G26,0
+DSH360054 Data,H26,0
+DSH360054 Data,I26,1208878.8700000001
+DSH360054 Data,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+DSH360054 Data,C27,1872329.02
+DSH360054 Data,D27,1120740.02
+DSH360054 Data,E27,777849.95
+DSH360054 Data,F27,63561.45
+DSH360054 Data,G27,0
+DSH360054 Data,H27,0
+DSH360054 Data,I27,3834480.4400000004
+DSH360054 Data,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+DSH360054 Data,C28,69862
+DSH360054 Data,D28,32989
+DSH360054 Data,E28,38119
+DSH360054 Data,F28,10558
+DSH360054 Data,G28,0
+DSH360054 Data,H28,0
+DSH360054 Data,I28,151528
+DSH360054 Data,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+DSH360054 Data,C29,43376
+DSH360054 Data,D29,18678
+DSH360054 Data,E29,24126
+DSH360054 Data,F29,604
+DSH360054 Data,G29,0
+DSH360054 Data,H29,0
+DSH360054 Data,I29,86784
+DSH360054 Data,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+DSH360054 Data,C30,0.62088116572671836
+DSH360054 Data,D30,0.56618872957652555
+DSH360054 Data,E30,0.63291272069046933
+DSH360054 Data,F30,5.7207804508429626E-2
+DSH360054 Data,G30,N/A
+DSH360054 Data,H30,N/A
+DSH360054 Data,I30,0.57272583284937439
+DSH360054 Data,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+DSH360054 Data,I32,-
+DSH360054 Data,B33,Section 3: Administered Drugs
+DSH360054 Data,D34,"Commercial Insurance/
+Private Insurance:"
+DSH360054 Data,E34,Medicare:
+DSH360054 Data,F34,"Medicaid 
+(all states):"
+DSH360054 Data,G34,Other Third-Party Payor:
+DSH360054 Data,H34,"Uninsured/
+Self-Pay:"
+DSH360054 Data,I34,TOTAL:
+DSH360054 Data,A35,9
+DSH360054 Data,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+DSH360054 Data,D35,4067858.27
+DSH360054 Data,E35,5641648.46
+DSH360054 Data,F35,1077346.79
+DSH360054 Data,G35,18686.79
+DSH360054 Data,H35,186646.69
+DSH360054 Data,I35,10992186.999999998
+DSH360054 Data,A36,10
+DSH360054 Data,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+DSH360054 Data,C36,Actual Payments
+DSH360054 Data,D36,7096405.0099999998
+DSH360054 Data,E36,10149592.33
+DSH360054 Data,F36,1654607.45
+DSH360054 Data,G36,8069.11
+DSH360054 Data,H36,0
+DSH360054 Data,I36,18908673.899999999
+DSH360054 Data,C37,Estimated Payments*
+DSH360054 Data,D37,40777
+DSH360054 Data,E37,6113244.6500000004
+DSH360054 Data,F37,110221.69
+DSH360054 Data,G37,0
+DSH360054 Data,H37,372.48
+DSH360054 Data,I37,6264615.8200000012
+DSH360054 Data,C38,TOTAL
+DSH360054 Data,D38,7137182.0099999998
+DSH360054 Data,E38,16262836.98
+DSH360054 Data,F38,1764829.14
+DSH360054 Data,G38,8069.11
+DSH360054 Data,H38,372.48
+DSH360054 Data,I38,25173289.720000003
+DSH360054 Data,A39,11
+DSH360054 Data,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+DSH360054 Data,D39,65113
+DSH360054 Data,E39,87721
+DSH360054 Data,F39,48895
+DSH360054 Data,G39,1535
+DSH360054 Data,H39,3785
+DSH360054 Data,I39,207049
+DSH360054 Data,A40,12
+DSH360054 Data,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+DSH360054 Data,D40,47635
+DSH360054 Data,E40,66243
+DSH360054 Data,F40,37124
+DSH360054 Data,G40,1267
+DSH360054 Data,H40,2771
+DSH360054 Data,I40,155040
+DSH360054 Data,A41,13
+DSH360054 Data,B41,Percentage of total prescriptions that were 340B
+DSH360054 Data,D41,0.7315743399935497
+DSH360054 Data,E41,0.75515554998233037
+DSH360054 Data,F41,0.75925963799979546
+DSH360054 Data,G41,0.82540716612377851
+DSH360054 Data,H41,0.73210039630118895
+DSH360054 Data,I41,0.74880825311882693
+DSH360054 Data,B43,Section 4: Administrative Costs of the 340B Program
+DSH360054 Data,B45,Payments to External Entities:
+DSH360054 Data,A46,14
+DSH360054 Data,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+DSH360054 Data,C46,1670546.22
+DSH360054 Data,A47,15
+DSH360054 Data,B47,Total Payments to 340B Third Party Administrators:
+DSH360054 Data,C47,842326.06
+DSH360054 Data,A48,16
+DSH360054 Data,B48,Total Payments to 340B Consulting Entities (including audit support):
+DSH360054 Data,C48,28000
+DSH360054 Data,A49,17
+DSH360054 Data,B49,340B Software and Information Technology Costs:
+DSH360054 Data,C49,0
+DSH360054 Data,A50,18
+DSH360054 Data,B50,Other Payments to External Entities:
+DSH360054 Data,C50,0
+DSH360054 Data,B52,Internal Costs to Administer the 340B Program
+DSH360054 Data,A53,19
+DSH360054 Data,B53,Staffing Costs (340B dedicated):
+DSH360054 Data,C53,158301
+DSH360054 Data,A54,20
+DSH360054 Data,B54,Information Technology Costs:
+DSH360054 Data,C54,0
+DSH360054 Data,A55,21
+DSH360054 Data,B55,Other internal costs:
+DSH360054 Data,C55,0
+DSH360054 Data,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+DSH360054 Data,A59,22
+DSH360054 Data,B59,Covered Entity's total number of Contract Pharmacies:
+DSH360054 Data,C59,15
+DSH360054 Data,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+DSH360054 Data,C63,"Detailed Description 
+of Item:"
+DSH360054 Data,D63,Expenditures from 340B funds:
+DSH360054 Data,A64,23
+DSH360054 Data,B64,Programs or Services funded/purchased with 340B funds:
+DSH360054 Data,B65,Program/Service 1:
+DSH360054 Data,C65,Expansion into School Based Medicine
+DSH360054 Data,D65,106033
+DSH360054 Data,B66,Program/Service 2:
+DSH360054 Data,C66,Community and Public Health Programs
+DSH360054 Data,D66,2269232.9379999996
+DSH360054 Data,B67,Program/Service 3:
+DSH360054 Data,C67,Improving Patient Access
+DSH360054 Data,D67,21923946.029015493
+DSH360054 Data,B68,Program/Service 4:
+DSH360054 Data,C68,Facility Upgrades
+DSH360054 Data,D68,1945012.66
+DSH360054 Data,B69,Program/Service 5:
+DSH360054 Data,C69,Health Service Expansion
+DSH360054 Data,D69,949921.35300000012
+DSH360054 Data,B71,Equipment purchased with 340B Funds:
+DSH360054 Data,B72,Item 1:
+DSH360054 Data,C72,Cancer Center MRI & CT
+DSH360054 Data,D72,1169750
+DSH360054 Data,B73,Item 2:
+DSH360054 Data,C73,Cath Lab Opera
+DSH360054 Data,D73,1483337.96
+DSH360054 Data,B74,Item 3:
+DSH360054 Data,C74,Pharmacy Omnicell
+DSH360054 Data,D74,204903.31
+DSH360054 Data,B75,Item 4:
+DSH360054 Data,C75,"X-Ray, C-ARM"
+DSH360054 Data,D75,509730
+DSH360054 Data,B76,Item 5:
+DSH360054 Data,B78,Other uses of 340B funds not otherwise listed above:
+DSH360054 Data,C78,-
+DSH360054 Data,D78,-
+DSH360054 Data,B80,(Narrative) Provide additional detail/context as necessary:
+DSH360054 Data,C80,"See ""Line 23 Supplemental"" TAB"
+DSH360054 Data,A82,24
+DSH360054 Data,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+DSH360054 Data,C82,-

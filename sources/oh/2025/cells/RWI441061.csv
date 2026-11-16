@@ -1,0 +1,293 @@
+sheet,cell,value
+PartA,B1,Ohio Department of Health
+PartA,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+PartA,B4,Reporting Period:
+PartA,C4,"January 1, 2025 - December 31, 2025"
+PartA,B5,Primary Contact Name:
+PartA,C5,[contact detail withheld]
+PartA,B6,Email:
+PartA,C6,[contact detail withheld]
+PartA,B7,Phone Number:
+PartA,C7,[contact detail withheld]
+PartA,A8,Data Element
+PartA,B8,HRSA 340B ID:
+PartA,C8,RWI441061
+PartA,D9,Lettered Prefix:
+PartA,E9,Number:
+PartA,A10,1
+PartA,D10,RWI
+PartA,E10,441061
+PartA,C12,NPI1
+PartA,D12,NPI2
+PartA,E12,NPI3
+PartA,F12,NPI4
+PartA,G12,NPI5
+PartA,H12,NPI6
+PartA,I12,NPI7
+PartA,J12,NPI8
+PartA,K12,NPI9
+PartA,L12,NPI10
+PartA,M12,NPI11
+PartA,N12,NPI12
+PartA,O12,NPI13
+PartA,P12,NPI14
+PartA,Q12,NPI15
+PartA,R12,NPI16
+PartA,S12,NPI17
+PartA,T12,NPI18
+PartA,U12,NPI19
+PartA,V12,NPI20
+PartA,A13,2
+PartA,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+PartA,C13,1043397292
+PartA,D13,-
+PartA,E13,-
+PartA,F13,-
+PartA,G13,-
+PartA,H13,-
+PartA,I13,-
+PartA,J13,-
+PartA,K13,-
+PartA,L13,-
+PartA,M13,-
+PartA,N13,-
+PartA,O13,-
+PartA,P13,-
+PartA,Q13,-
+PartA,R13,-
+PartA,S13,-
+PartA,T13,-
+PartA,U13,-
+PartA,V13,-
+PartA,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+PartA,C16,Commercial Insurance/Private Insurance:
+PartA,D16,Medicare:
+PartA,E16,Medicaid (all states):
+PartA,F16,Other Third-Party Payor:
+PartA,G16,Uninsured/Self-Pay:
+PartA,H16,TOTAL:
+PartA,A17,3
+PartA,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+PartA,C17,N/A
+PartA,D17,N/A
+PartA,E17,N/A
+PartA,F17,N/A
+PartA,G17,N/A
+PartA,H17,0
+PartA,A18,4
+PartA,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+PartA,C18,N/A
+PartA,D18,N/A
+PartA,E18,N/A
+PartA,F18,N/A
+PartA,G18,N/A
+PartA,H18,0
+PartA,A19,5
+PartA,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+PartA,C19,N/A
+PartA,D19,N/A
+PartA,E19,N/A
+PartA,F19,N/A
+PartA,G19,N/A
+PartA,H19,0
+PartA,A20,6
+PartA,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+PartA,C20,N/A
+PartA,D20,N/A
+PartA,E20,N/A
+PartA,F20,N/A
+PartA,G20,N/A
+PartA,H20,0
+PartA,A21,7
+PartA,B21,Percentage of total prescriptions that were 340B
+PartA,C21,#VALUE!
+PartA,D21,#VALUE!
+PartA,E21,#VALUE!
+PartA,F21,#VALUE!
+PartA,G21,#VALUE!
+PartA,H21,#DIV/0!
+PartA,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+PartA,A25,8
+PartA,C25,Commercial Insurance/Private Insurance:
+PartA,D25,Medicare:
+PartA,E25,Medicaid (all states):
+PartA,F25,Other Third-Party Payor:
+PartA,G25,Uninsured/Self-Pay:
+PartA,H25,Indeterminate (Explain)
+PartA,I25,TOTAL:
+PartA,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+PartA,C26,0
+PartA,D26,0
+PartA,E26,0
+PartA,F26,12881.78
+PartA,G26,0
+PartA,H26,0
+PartA,I26,12881.78
+PartA,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+PartA,C27,0
+PartA,D27,0
+PartA,E27,0
+PartA,F27,12502.3
+PartA,G27,0
+PartA,H27,0
+PartA,I27,12502.3
+PartA,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+PartA,C28,0
+PartA,D28,0
+PartA,E28,0
+PartA,F28,[withheld: fewer_than_6]
+PartA,G28,0
+PartA,H28,0
+PartA,I28,[withheld: fewer_than_6]
+PartA,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+PartA,C29,0
+PartA,D29,0
+PartA,E29,0
+PartA,F29,[withheld: fewer_than_6]
+PartA,G29,0
+PartA,H29,0
+PartA,I29,[withheld: fewer_than_6]
+PartA,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+PartA,C30,#DIV/0!
+PartA,D30,#DIV/0!
+PartA,E30,#DIV/0!
+PartA,F30,[withheld: reveals_small]
+PartA,G30,#DIV/0!
+PartA,H30,#DIV/0!
+PartA,I30,[withheld: reveals_small]
+PartA,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+PartA,I32,-
+PartA,B33,Section 3: Administered Drugs
+PartA,D34,Commercial Insurance/Private Insurance:
+PartA,E34,Medicare:
+PartA,F34,Medicaid (all states):
+PartA,G34,Other Third-Party Payor:
+PartA,H34,Uninsured/Self-Pay:
+PartA,I34,TOTAL:
+PartA,A35,9
+PartA,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+PartA,D35,N/A
+PartA,E35,N/A
+PartA,F35,N/A
+PartA,G35,N/A
+PartA,H35,N/A
+PartA,I35,0
+PartA,A36,10
+PartA,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+PartA,C36,Actual Payments
+PartA,D36,N/A
+PartA,E36,N/A
+PartA,F36,N/A
+PartA,G36,N/A
+PartA,H36,N/A
+PartA,I36,0
+PartA,C37,Estimated Payments*
+PartA,D37,N/A
+PartA,E37,N/A
+PartA,F37,N/A
+PartA,G37,N/A
+PartA,H37,N/A
+PartA,I37,0
+PartA,C38,TOTAL
+PartA,D38,N/A
+PartA,E38,N/A
+PartA,F38,N/A
+PartA,G38,N/A
+PartA,H38,N/A
+PartA,I38,0
+PartA,A39,11
+PartA,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+PartA,D39,N/A
+PartA,E39,N/A
+PartA,F39,N/A
+PartA,G39,N/A
+PartA,H39,N/A
+PartA,I39,0
+PartA,A40,12
+PartA,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+PartA,D40,N/A
+PartA,E40,N/A
+PartA,F40,N/A
+PartA,G40,N/A
+PartA,H40,N/A
+PartA,I40,0
+PartA,A41,13
+PartA,B41,Percentage of total prescriptions that were 340B
+PartA,D41,#VALUE!
+PartA,E41,#VALUE!
+PartA,F41,#VALUE!
+PartA,G41,#VALUE!
+PartA,H41,#VALUE!
+PartA,I41,#DIV/0!
+PartA,B43,Section 4: Administrative Costs of the 340B Program
+PartA,B45,Payments to External Entities:
+PartA,A46,14
+PartA,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+PartA,C46,200
+PartA,A47,15
+PartA,B47,Total Payments to 340B Third Party Administrators:
+PartA,C47,0
+PartA,A48,16
+PartA,B48,Total Payments to 340B Consulting Entities (including audit support):
+PartA,C48,0
+PartA,A49,17
+PartA,B49,340B Software and Information Technology Costs:
+PartA,C49,0
+PartA,A50,18
+PartA,B50,Other Payments to External Entities:
+PartA,C50,0
+PartA,B52,Internal Costs to Administer the 340B Program
+PartA,A53,19
+PartA,B53,Staffing Costs (340B dedicated):
+PartA,C53,0
+PartA,A54,20
+PartA,B54,Information Technology Costs:
+PartA,C54,0
+PartA,A55,21
+PartA,B55,Other internal costs:
+PartA,C55,0
+PartA,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+PartA,A59,22
+PartA,B59,Covered Entity's total number of Contract Pharmacies:
+PartA,C59,1
+PartA,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+PartA,C63,Detailed Description of Item:
+PartA,D63,Expenditures from 340B funds:
+PartA,A64,23
+PartA,B64,Programs or Services funded/purchased with 340B funds:
+PartA,B65,Program/Service 1:
+PartA,B66,Program/Service 2:
+PartA,C66,-
+PartA,D66,-
+PartA,B67,Program/Service 3:
+PartA,C67,-
+PartA,D67,-
+PartA,B68,Program/Service 4:
+PartA,C68,-
+PartA,D68,-
+PartA,B69,Program/Service 5:
+PartA,C69,-
+PartA,D69,-
+PartA,B71,Equipment purchased with 340B Funds:
+PartA,B72,Item 1:
+PartA,C72,0
+PartA,D72,0
+PartA,B73,Item 2:
+PartA,C73,-
+PartA,D73,-
+PartA,B74,Item 3:
+PartA,C74,-
+PartA,D74,-
+PartA,B75,Item 4:
+PartA,C75,-
+PartA,D75,-
+PartA,B76,Item 5:
+PartA,C76,-
+PartA,D76,-
+PartA,B78,Other uses of 340B funds not otherwise listed above:
+PartA,C78,0
+PartA,D78,0
+PartA,B80,(Narrative) Provide additional detail/context as necessary:
+PartA,A82,24
+PartA,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+PartA,C82,"Ryan White Part A grant funding provides medications and outpatient medical care to uninsured patients in designated high-need areas. Patients currently enrolled in the Ryan White program are eligible for medication assistance, transportation vouchers, as well as medical, lab, dental and psychosocial services provided by staff supported by program income from 340B revenue. Part A grant funds and limited program income are used to  provide access to prescription drugs purchased at 340B discount cost to stretch scarce resources and remove barriers to medication compliance and improve patient quality of life and outcomes. Ryan White grant programs are audited annually for program integrity both internally and by the funding source."

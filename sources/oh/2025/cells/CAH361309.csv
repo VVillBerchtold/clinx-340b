@@ -1,0 +1,297 @@
+sheet,cell,value
+Jonathans Report,B1,Ohio Department of Health
+Jonathans Report,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Jonathans Report,B4,Reporting Period:
+Jonathans Report,C4,"January 1, 2025 - December 31, 2025"
+Jonathans Report,B5,Primary Contact Name:
+Jonathans Report,C5,[contact detail withheld]
+Jonathans Report,B6,Email:
+Jonathans Report,C6,[contact detail withheld]
+Jonathans Report,B7,Phone Number:
+Jonathans Report,C7,[contact detail withheld]
+Jonathans Report,A8,Data Element
+Jonathans Report,B8,HRSA 340B ID:
+Jonathans Report,C8,CAH361309
+Jonathans Report,D9,Lettered Prefix:
+Jonathans Report,E9,Number:
+Jonathans Report,A10,1
+Jonathans Report,D10,CAH
+Jonathans Report,E10,361309
+Jonathans Report,C12,NPI1
+Jonathans Report,D12,NPI2
+Jonathans Report,E12,NPI3
+Jonathans Report,F12,NPI4
+Jonathans Report,G12,NPI5
+Jonathans Report,H12,NPI6
+Jonathans Report,I12,NPI7
+Jonathans Report,J12,NPI8
+Jonathans Report,K12,NPI9
+Jonathans Report,L12,NPI10
+Jonathans Report,M12,NPI11
+Jonathans Report,N12,NPI12
+Jonathans Report,O12,NPI13
+Jonathans Report,P12,NPI14
+Jonathans Report,Q12,NPI15
+Jonathans Report,R12,NPI16
+Jonathans Report,S12,NPI17
+Jonathans Report,T12,NPI18
+Jonathans Report,U12,NPI19
+Jonathans Report,V12,NPI20
+Jonathans Report,A13,2
+Jonathans Report,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Jonathans Report,C13,1407880909
+Jonathans Report,D13,-
+Jonathans Report,E13,-
+Jonathans Report,F13,-
+Jonathans Report,G13,-
+Jonathans Report,H13,-
+Jonathans Report,I13,-
+Jonathans Report,J13,-
+Jonathans Report,K13,-
+Jonathans Report,L13,-
+Jonathans Report,M13,-
+Jonathans Report,N13,-
+Jonathans Report,O13,-
+Jonathans Report,P13,-
+Jonathans Report,Q13,-
+Jonathans Report,R13,-
+Jonathans Report,S13,-
+Jonathans Report,T13,-
+Jonathans Report,U13,-
+Jonathans Report,V13,-
+Jonathans Report,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Jonathans Report,C16,Commercial Insurance/Private Insurance:
+Jonathans Report,D16,Medicare:
+Jonathans Report,E16,Medicaid (all states):
+Jonathans Report,F16,Other Third-Party Payor:
+Jonathans Report,G16,Uninsured/Self-Pay:
+Jonathans Report,H16,TOTAL:
+Jonathans Report,A17,3
+Jonathans Report,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Jonathans Report,C17,0
+Jonathans Report,D17,0
+Jonathans Report,E17,0
+Jonathans Report,F17,0
+Jonathans Report,G17,0
+Jonathans Report,H17,0
+Jonathans Report,A18,4
+Jonathans Report,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Jonathans Report,C18,0
+Jonathans Report,D18,0
+Jonathans Report,E18,0
+Jonathans Report,F18,0
+Jonathans Report,G18,0
+Jonathans Report,H18,0
+Jonathans Report,A19,5
+Jonathans Report,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Jonathans Report,C19,0
+Jonathans Report,D19,0
+Jonathans Report,E19,0
+Jonathans Report,F19,0
+Jonathans Report,G19,0
+Jonathans Report,H19,0
+Jonathans Report,A20,6
+Jonathans Report,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Jonathans Report,C20,0
+Jonathans Report,D20,0
+Jonathans Report,E20,0
+Jonathans Report,F20,0
+Jonathans Report,G20,0
+Jonathans Report,H20,0
+Jonathans Report,A21,7
+Jonathans Report,B21,Percentage of total prescriptions that were 340B
+Jonathans Report,C21,#DIV/0!
+Jonathans Report,D21,#DIV/0!
+Jonathans Report,E21,#DIV/0!
+Jonathans Report,F21,#DIV/0!
+Jonathans Report,G21,#DIV/0!
+Jonathans Report,H21,#DIV/0!
+Jonathans Report,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Jonathans Report,A25,8
+Jonathans Report,C25,Commercial Insurance/Private Insurance:
+Jonathans Report,D25,Medicare:
+Jonathans Report,E25,Medicaid (all states):
+Jonathans Report,F25,Other Third-Party Payor:
+Jonathans Report,G25,Uninsured/Self-Pay:
+Jonathans Report,H25,Indeterminate (Explain)
+Jonathans Report,I25,TOTAL:
+Jonathans Report,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Jonathans Report,C26,283684.93
+Jonathans Report,D26,125315.5
+Jonathans Report,E26,0
+Jonathans Report,F26,1283.52
+Jonathans Report,G26,42648.12
+Jonathans Report,H26,0
+Jonathans Report,I26,452932.07
+Jonathans Report,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Jonathans Report,C27,661501.56999999995
+Jonathans Report,D27,344561.53
+Jonathans Report,E27,0
+Jonathans Report,F27,3109.4
+Jonathans Report,G27,122573.93
+Jonathans Report,H27,0
+Jonathans Report,I27,1131746.43
+Jonathans Report,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Jonathans Report,C28,101895
+Jonathans Report,D28,34002
+Jonathans Report,E28,22801
+Jonathans Report,F28,733
+Jonathans Report,G28,12374
+Jonathans Report,H28,0
+Jonathans Report,I28,171805
+Jonathans Report,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Jonathans Report,C29,742
+Jonathans Report,D29,354
+Jonathans Report,E29,0
+Jonathans Report,F29,[withheld: fewer_than_6]
+Jonathans Report,G29,[withheld: beside_small]
+Jonathans Report,H29,0
+Jonathans Report,I29,1221
+Jonathans Report,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Jonathans Report,C30,0.7282005986554787
+Jonathans Report,D30,1.0411152285159697
+Jonathans Report,E30,0
+Jonathans Report,F30,[withheld: reveals_small]
+Jonathans Report,G30,[withheld: reveals_small]
+Jonathans Report,H30,#DIV/0!
+Jonathans Report,I30,0.7106894444282762
+Jonathans Report,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Jonathans Report,I32,-
+Jonathans Report,B33,Section 3: Administered Drugs
+Jonathans Report,D34,Commercial Insurance/Private Insurance:
+Jonathans Report,E34,Medicare:
+Jonathans Report,F34,Medicaid (all states):
+Jonathans Report,G34,Other Third-Party Payor:
+Jonathans Report,H34,Uninsured/Self-Pay:
+Jonathans Report,I34,TOTAL:
+Jonathans Report,A35,9
+Jonathans Report,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Jonathans Report,D35,417958.11
+Jonathans Report,E35,642566.89
+Jonathans Report,F35,0
+Jonathans Report,G35,1558.87
+Jonathans Report,H35,5392.31
+Jonathans Report,I35,1067476.1800000002
+Jonathans Report,A36,10
+Jonathans Report,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Jonathans Report,C36,Actual Payments
+Jonathans Report,D36,0
+Jonathans Report,E36,0
+Jonathans Report,F36,0
+Jonathans Report,G36,0
+Jonathans Report,H36,0
+Jonathans Report,I36,0
+Jonathans Report,C37,Estimated Payments*
+Jonathans Report,D37,695302
+Jonathans Report,E37,1239272
+Jonathans Report,F37,0
+Jonathans Report,G37,9440
+Jonathans Report,H37,4394
+Jonathans Report,I37,1948408
+Jonathans Report,C38,TOTAL
+Jonathans Report,D38,695302
+Jonathans Report,E38,1239272
+Jonathans Report,F38,0
+Jonathans Report,G38,9440
+Jonathans Report,H38,4394
+Jonathans Report,I38,1948408
+Jonathans Report,A39,11
+Jonathans Report,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Jonathans Report,D39,14215
+Jonathans Report,E39,35798
+Jonathans Report,F39,4543
+Jonathans Report,G39,417
+Jonathans Report,H39,1230
+Jonathans Report,I39,56203
+Jonathans Report,A40,12
+Jonathans Report,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Jonathans Report,D40,11928
+Jonathans Report,E40,22131
+Jonathans Report,F40,0
+Jonathans Report,G40,305
+Jonathans Report,H40,1219
+Jonathans Report,I40,35583
+Jonathans Report,A41,13
+Jonathans Report,B41,Percentage of total prescriptions that were 340B
+Jonathans Report,D41,83.911361238128734
+Jonathans Report,E41,61.821889491033019
+Jonathans Report,F41,0
+Jonathans Report,G41,73.141486810551555
+Jonathans Report,H41,99.105691056910572
+Jonathans Report,I41,63.311566998202942
+Jonathans Report,C42,"Attestation for Estimated Payments:  We used the Outpatient pharmacy revenue, adjusted them for contractual allowances and adjusted them for the 340B utilization percentage.  "
+Jonathans Report,B43,Section 4: Administrative Costs of the 340B Program
+Jonathans Report,B45,Payments to External Entities:
+Jonathans Report,A46,14
+Jonathans Report,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Jonathans Report,C46,167659
+Jonathans Report,A47,15
+Jonathans Report,B47,Total Payments to 340B Third Party Administrators:
+Jonathans Report,C47,51099.15
+Jonathans Report,A48,16
+Jonathans Report,B48,Total Payments to 340B Consulting Entities (including audit support):
+Jonathans Report,C48,6500
+Jonathans Report,A49,17
+Jonathans Report,B49,340B Software and Information Technology Costs:
+Jonathans Report,C49,-
+Jonathans Report,A50,18
+Jonathans Report,B50,Other Payments to External Entities:
+Jonathans Report,C50,-
+Jonathans Report,B52,Internal Costs to Administer the 340B Program
+Jonathans Report,A53,19
+Jonathans Report,B53,Staffing Costs (340B dedicated):
+Jonathans Report,C53,48090
+Jonathans Report,A54,20
+Jonathans Report,B54,Information Technology Costs:
+Jonathans Report,C54,-
+Jonathans Report,A55,21
+Jonathans Report,B55,Other internal costs:
+Jonathans Report,C55,-
+Jonathans Report,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Jonathans Report,A59,22
+Jonathans Report,B59,Covered Entity's total number of Contract Pharmacies:
+Jonathans Report,C59,4
+Jonathans Report,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Jonathans Report,C63,Detailed Description of Item:
+Jonathans Report,D63,Expenditures from 340B funds:
+Jonathans Report,A64,23
+Jonathans Report,B64,Programs or Services funded/purchased with 340B funds:
+Jonathans Report,B65,Program/Service 1:
+Jonathans Report,C65,Specialty Clinics Loss 
+Jonathans Report,D65,2000000
+Jonathans Report,B66,Program/Service 2:
+Jonathans Report,C66,Emergency Care Loss
+Jonathans Report,D66,1800000
+Jonathans Report,B67,Program/Service 3:
+Jonathans Report,C67,Primary & Pediatric Care Loss
+Jonathans Report,D67,1600000
+Jonathans Report,B68,Program/Service 4:
+Jonathans Report,C68,Respiratory Therapy Loss
+Jonathans Report,D68,600000
+Jonathans Report,B69,Program/Service 5:
+Jonathans Report,C69,Urgent Care Loss
+Jonathans Report,D69,300000
+Jonathans Report,B71,Equipment purchased with 340B Funds:
+Jonathans Report,B72,Item 1:
+Jonathans Report,C72,-
+Jonathans Report,D72,-
+Jonathans Report,B73,Item 2:
+Jonathans Report,C73,-
+Jonathans Report,D73,-
+Jonathans Report,B74,Item 3:
+Jonathans Report,C74,-
+Jonathans Report,D74,-
+Jonathans Report,B75,Item 4:
+Jonathans Report,C75,-
+Jonathans Report,D75,-
+Jonathans Report,B76,Item 5:
+Jonathans Report,C76,-
+Jonathans Report,D76,-
+Jonathans Report,B78,Other uses of 340B funds not otherwise listed above:
+Jonathans Report,C78,-
+Jonathans Report,D78,-
+Jonathans Report,B80,(Narrative) Provide additional detail/context as necessary:
+Jonathans Report,C80,Services are being provided by this safety net provider locally to residents at a loss greater than the revenue of the 340B program.
+Jonathans Report,A82,24
+Jonathans Report,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Jonathans Report,C82,-

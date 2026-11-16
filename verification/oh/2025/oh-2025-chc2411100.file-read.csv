@@ -1,0 +1,201 @@
+page,schedule,line,amount,claims,answer
+1,in_house_acquisition_cost,commercial,2585011,,
+1,in_house_acquisition_cost,medicare,2600908,,
+1,in_house_acquisition_cost,medicaid,5515215,,
+1,in_house_acquisition_cost,other_third_party,140747,,
+1,in_house_acquisition_cost,uninsured,34411,,
+1,in_house_acquisition_cost,total,10876292,,
+1,in_house_payments_received,commercial,5861199,,
+1,in_house_payments_received,medicare,3685260,,
+1,in_house_payments_received,medicaid,12232535,,
+1,in_house_payments_received,other_third_party,194731,,
+1,in_house_payments_received,uninsured,108322,,
+1,in_house_payments_received,total,22082047,,
+1,in_house_rx_all,commercial,,44689,
+1,in_house_rx_all,medicare,,17617,
+1,in_house_rx_all,medicaid,,77883,
+1,in_house_rx_all,other_third_party,,107,
+1,in_house_rx_all,uninsured,,13522,
+1,in_house_rx_all,total,,153818,
+1,in_house_rx_340b,commercial,,38622,
+1,in_house_rx_340b,medicare,,14383,
+1,in_house_rx_340b,medicaid,,69928,
+1,in_house_rx_340b,other_third_party,,95,
+1,in_house_rx_340b,uninsured,,12568,
+1,in_house_rx_340b,total,,135596,
+1,in_house_rx_pct,commercial,86.423952203003,,
+1,in_house_rx_pct,medicare,81.6427314525742,,
+1,in_house_rx_pct,medicaid,89.7859609927712,,
+1,in_house_rx_pct,other_third_party,88.785046728972,,
+1,in_house_rx_pct,uninsured,92.9448306463541,,
+1,in_house_rx_pct,total,88.1535320963736,,
+1,contract_acquisition_cost,commercial,0,,
+1,contract_acquisition_cost,medicare,0,,
+1,contract_acquisition_cost,medicaid,0,,
+1,contract_acquisition_cost,other_third_party,0,,
+1,contract_acquisition_cost,uninsured,0,,
+1,contract_acquisition_cost,indeterminate,0,,
+1,contract_acquisition_cost,total,0,,
+1,contract_payments_received,commercial,0,,
+1,contract_payments_received,medicare,0,,
+1,contract_payments_received,medicaid,0,,
+1,contract_payments_received,other_third_party,0,,
+1,contract_payments_received,uninsured,0,,
+1,contract_payments_received,indeterminate,0,,
+1,contract_payments_received,total,0,,
+1,contract_rx_all,commercial,,0,
+1,contract_rx_all,medicare,,0,
+1,contract_rx_all,medicaid,,0,
+1,contract_rx_all,other_third_party,,0,
+1,contract_rx_all,uninsured,,0,
+1,contract_rx_all,indeterminate,,0,
+1,contract_rx_all,total,,0,
+1,contract_rx_340b,commercial,,0,
+1,contract_rx_340b,medicare,,0,
+1,contract_rx_340b,medicaid,,0,
+1,contract_rx_340b,other_third_party,,0,
+1,contract_rx_340b,uninsured,,0,
+1,contract_rx_340b,indeterminate,,0,
+1,contract_rx_340b,total,,0,
+1,contract_rx_pct,commercial,#DIV/0!,,
+1,contract_rx_pct,medicare,#DIV/0!,,
+1,contract_rx_pct,medicaid,#DIV/0!,,
+1,contract_rx_pct,other_third_party,#DIV/0!,,
+1,contract_rx_pct,uninsured,#DIV/0!,,
+1,contract_rx_pct,indeterminate,#DIV/0!,,
+1,contract_rx_pct,total,#DIV/0!,,
+1,administered_acquisition_cost,commercial,0,,
+1,administered_acquisition_cost,medicare,0,,
+1,administered_acquisition_cost,medicaid,0,,
+1,administered_acquisition_cost,other_third_party,0,,
+1,administered_acquisition_cost,uninsured,0,,
+1,administered_acquisition_cost,total,0,,
+1,administered_payments_actual,commercial,0,,
+1,administered_payments_actual,medicare,0,,
+1,administered_payments_actual,medicaid,0,,
+1,administered_payments_actual,other_third_party,0,,
+1,administered_payments_actual,uninsured,0,,
+1,administered_payments_actual,total,0,,
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,commercial,0,,
+1,administered_payments_estimated,medicare,0,,
+1,administered_payments_estimated,medicaid,0,,
+1,administered_payments_estimated,other_third_party,0,,
+1,administered_payments_estimated,uninsured,0,,
+1,administered_payments_estimated,total,0,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,commercial,0,,
+1,administered_payments_total,medicare,0,,
+1,administered_payments_total,medicaid,0,,
+1,administered_payments_total,other_third_party,0,,
+1,administered_payments_total,uninsured,0,,
+1,administered_payments_total,total,0,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,administered_rx_all,commercial,,0,
+1,administered_rx_all,medicare,,0,
+1,administered_rx_all,medicaid,,0,
+1,administered_rx_all,other_third_party,,0,
+1,administered_rx_all,uninsured,,0,
+1,administered_rx_all,total,,0,
+1,administered_rx_340b,commercial,,0,
+1,administered_rx_340b,medicare,,0,
+1,administered_rx_340b,medicaid,,0,
+1,administered_rx_340b,other_third_party,,0,
+1,administered_rx_340b,uninsured,,0,
+1,administered_rx_340b,total,,0,
+1,administered_rx_pct,commercial,#DIV/0!,,
+1,administered_rx_pct,medicare,#DIV/0!,,
+1,administered_rx_pct,medicaid,#DIV/0!,,
+1,administered_rx_pct,other_third_party,#DIV/0!,,
+1,administered_rx_pct,uninsured,#DIV/0!,,
+1,administered_rx_pct,total,#DIV/0!,,
+1,costs,contract_pharmacies,0,,
+1,costs,third_party_administrators,71076,,
+1,costs,consultants,11500,,
+1,costs,software_it,0,,
+1,costs,other_external,0,,
+1,costs,staffing,210000,,
+1,costs,internal_it,44408,,
+1,costs,other_internal,41000,,
+1,contract_pharmacies,count,0,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,"CHC24111-00, -01, -02, -03, -04"
+1,identity,id_prefix,,,CHC
+1,identity,id_number,,,24111
+1,identity,npi_1,,,1841526415
+1,identity,npi_2,,,1477832822
+1,identity,npi_3,,,1649524513
+1,identity,npi_4,,,1487087060-
+1,identity,npi_5,,,1437657236
+1,identity,npi_6,,,-
+1,identity,npi_7,,,-
+1,identity,npi_8,,,-
+1,identity,npi_9,,,-
+1,identity,npi_10,,,-
+1,identity,npi_11,,,-
+1,identity,npi_12,,,-
+1,identity,npi_13,,,-
+1,identity,npi_14,,,-
+1,identity,npi_15,,,-
+1,identity,npi_16,,,-
+1,identity,npi_17,,,-
+1,identity,npi_18,,,-
+1,identity,npi_19,,,-
+1,identity,npi_20,,,-
+1,contract_pharmacy_notes,indeterminate_explanation,,,-
+1,uses,program_1_description,,,"Psychiatry Services - Additional staff, offsetting underpayments, etc: The Centers provides a full scope of psychiatric evaluations and treatment services for adults and children. Based on individual needs, treatment options may include individual, group, and family psychotherapy, individualized behavioral therapy, psychopharmacotherapy, or a combination thereof. "
+1,uses,program_1_amount,1200632,,
+1,uses,program_2_description,,,"Primary Care - Additional staff, offsetting underpayments, equipment, etc: The Centers provides comprehensive primary care for the entire family — from routine check-ups and preventive care to sick visits and ongoing support for chronic health conditions. Primary care services include:
+•	Routine check-ups and well visits
+•	Sick and urgent care visits
+•	Vaccines and flu shots
+•	Chronic care management
+•	Pediatric care"
+1,uses,program_2_amount,1837461,,
+1,uses,program_3_description,,,"Schizophrenia Specialized Treatment, Advocacy, and Recovery Services: This specialized program is designed to provide comprehensive, coordinated and evidence-based care for individuals experiencing schizophrenia spectrum disorders. The program centralizes treatment services to ensure individuals receive personalized care from a multidisciplinary team focused on recovery, stability and improved quality of life. "
+1,uses,program_3_amount,386273,,
+1,uses,program_4_description,,,"Care Coordinators: The Centers dedicated care coordinators will help individuals navigate the patient pathway – connecting them to the correct physician, medicine and next appropriate level of care in a timely, respectful and streamlined approach.  "
+1,uses,program_4_amount,70270,,
+1,uses,program_5_description,,,"Dental Services: From routine check-ups to dental concerns that need attention, The Centers provides affordable, compassionate dental care for children and adults in a comfortable, modern setting.
+•	Dental exams and X-rays
+•	Dental cleanings
+•	Fillings
+•	Dental Sealants
+•	Tooth extractions "
+1,uses,program_5_amount,416148,,
+1,uses,program_6_description,,,"School Based Therapy for Children: SB-BHT provides individual counseling to youth in charter and public schools throughout Cuyahoga County. These supportive services are provided at the school and are incorporated into the academic day. Services are available year-round and provided in the community, at home or via telehealth. "
+1,uses,program_6_amount,302670,,
+1,uses,program_7_description,,,"Pharmacy expense coverage - Staff, Clinical Pharmacists, etc: At The Centers, the pharmacy is a part of our patients’ healthcare team. We provide low-cost prescriptions, convenient locations, fast prescription refills and affordable options with a sliding fee scale, payment plans and more. We also now have free home delivery to reduce barriers and increase accessibility. Our team of clinical pharmacists co-manage medication treatment plans for patients with chronic diseases alongside providers. They also manage clinical monitoring programs as well as compliance packaging. "
+1,uses,program_7_amount,4768854,,
+1,uses,program_8_description,,,"Glick Recovery Center: Cuyahoga County’s first 24/7 behavioral health crisis center. Located in Cleveland’s Central neighborhood, this 51,000-square-foot facility serves as a no-wrong-door entry point to provide immediate, compassionate care for adults facing urgent mental health or substance-use crises under one roof:
+Floor 1: Crisis level of care
+•40 chair crisis recovery center
+•pharmacy
+Floor 2: Residential level of care
+•16 bed psychiatric stabilization
+•12 bed Rosary Hall Withdrawal Management Unit – opening January 2027
+Floor 3: Outpatient level of care
+•Primary care
+•Psychiatry
+•Counseling
+•Case management
+•Day treatment
+•Center for Schizophrenia
+•Supported Employment"
+1,uses,program_8_amount,3751339,,
+1,uses,program_9_description,,,"Basic Needs Resource Center: The Centers’ Basic Needs Resource Center helps individuals and families access essentials, supportive services and connections for healthier, more stable lives."
+1,uses,program_9_amount,83547,,
+1,uses,equipment_1_description,,,-
+1,uses,equipment_1_amount,-,,
+1,uses,equipment_2_description,,,-
+1,uses,equipment_2_amount,-,,
+1,uses,equipment_3_description,,,-
+1,uses,equipment_3_amount,-,,
+1,uses,equipment_4_description,,,-
+1,uses,equipment_4_amount,-,,
+1,uses,equipment_5_description,,,-
+1,uses,equipment_5_amount,-,,
+1,uses,other_uses_description,,,-
+1,uses,other_uses_amount,-,,
+1,uses,narrative,,,"The Centers reinvests 100 percent of its 340B program savings to expand access to high-quality, comprehensive health care and supportive services for underserved patients throughout our community. Consistent with the intent of Congress, 340B savings strengthen our ability to provide care regardless of a patient's ability to pay and help offset significant reimbursement shortfalls in behavioral health, primary care, dental care, pharmacy, and other essential services. These funds support critical clinical staff, care coordination, pharmacy operations, specialized treatment programs, school-based services for children, and innovative crisis and recovery services that would otherwise be difficult or impossible to sustain. By reinvesting 340B savings directly into patient care and community health initiatives, The Centers is able to serve more patients, enhance care quality, address social determinants of health, and meet growing community needs while maintaining access to services that are vital to the health and well-being of the populations we serve."
+1,uses,alternative_narrative,,,-

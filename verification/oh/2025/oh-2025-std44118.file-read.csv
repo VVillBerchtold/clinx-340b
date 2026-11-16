@@ -1,0 +1,161 @@
+page,schedule,line,amount,claims,answer
+1,in_house_acquisition_cost,commercial,0,,
+1,in_house_acquisition_cost,medicare,0,,
+1,in_house_acquisition_cost,medicaid,0,,
+1,in_house_acquisition_cost,other_third_party,0,,
+1,in_house_acquisition_cost,uninsured,0,,
+1,in_house_acquisition_cost,total,0,,
+1,in_house_payments_received,commercial,0,,
+1,in_house_payments_received,medicare,0,,
+1,in_house_payments_received,medicaid,0,,
+1,in_house_payments_received,other_third_party,0,,
+1,in_house_payments_received,uninsured,0,,
+1,in_house_payments_received,total,0,,
+1,in_house_rx_all,commercial,,0,
+1,in_house_rx_all,medicare,,0,
+1,in_house_rx_all,medicaid,,0,
+1,in_house_rx_all,other_third_party,,0,
+1,in_house_rx_all,uninsured,,0,
+1,in_house_rx_all,total,,0,
+1,in_house_rx_340b,commercial,,0,
+1,in_house_rx_340b,medicare,,0,
+1,in_house_rx_340b,medicaid,,0,
+1,in_house_rx_340b,other_third_party,,0,
+1,in_house_rx_340b,uninsured,,0,
+1,in_house_rx_340b,total,,0,
+1,in_house_rx_pct,commercial,#DIV/0!,,
+1,in_house_rx_pct,medicare,#DIV/0!,,
+1,in_house_rx_pct,medicaid,#DIV/0!,,
+1,in_house_rx_pct,other_third_party,#DIV/0!,,
+1,in_house_rx_pct,uninsured,#DIV/0!,,
+1,in_house_rx_pct,total,#DIV/0!,,
+1,contract_acquisition_cost,commercial,4965935.900068,,
+1,contract_acquisition_cost,medicare,0,,
+1,contract_acquisition_cost,medicaid,29306394.16276,,
+1,contract_acquisition_cost,other_third_party,0,,
+1,contract_acquisition_cost,uninsured,125447.739999999,,
+1,contract_acquisition_cost,indeterminate,0,,
+1,contract_acquisition_cost,total,34397777.802828,,
+1,contract_payments_received,commercial,9341021.52999994,,
+1,contract_payments_received,medicare,0,,
+1,contract_payments_received,medicaid,42849126.430001,,
+1,contract_payments_received,other_third_party,0,,
+1,contract_payments_received,uninsured,8726.62999999998,,
+1,contract_payments_received,indeterminate,0,,
+1,contract_payments_received,total,52198874.590001,,
+1,contract_rx_all,commercial,,6122,
+1,contract_rx_all,medicare,,0,
+1,contract_rx_all,medicaid,,9475,
+1,contract_rx_all,other_third_party,,0,
+1,contract_rx_all,uninsured,,3407,
+1,contract_rx_all,indeterminate,,0,
+1,contract_rx_all,total,,19004,
+1,contract_rx_340b,commercial,,4568,
+1,contract_rx_340b,medicare,,0,
+1,contract_rx_340b,medicaid,,7009,
+1,contract_rx_340b,other_third_party,,0,
+1,contract_rx_340b,uninsured,,1323,
+1,contract_rx_340b,indeterminate,,0,
+1,contract_rx_340b,total,,12900,
+1,contract_rx_pct,commercial,74.6161385168246,,
+1,contract_rx_pct,medicare,#DIV/0!,,
+1,contract_rx_pct,medicaid,73.9736147757256,,
+1,contract_rx_pct,other_third_party,#DIV/0!,,
+1,contract_rx_pct,uninsured,38.8318168476666,,
+1,contract_rx_pct,indeterminate,#DIV/0!,,
+1,contract_rx_pct,total,67.880446221848,,
+1,administered_acquisition_cost,commercial,0,,
+1,administered_acquisition_cost,medicare,0,,
+1,administered_acquisition_cost,medicaid,0,,
+1,administered_acquisition_cost,other_third_party,0,,
+1,administered_acquisition_cost,uninsured,0,,
+1,administered_acquisition_cost,total,0,,
+1,administered_payments_actual,commercial,0,,
+1,administered_payments_actual,medicare,0,,
+1,administered_payments_actual,medicaid,0,,
+1,administered_payments_actual,other_third_party,0,,
+1,administered_payments_actual,uninsured,0,,
+1,administered_payments_actual,total,0,,
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,commercial,0,,
+1,administered_payments_estimated,medicare,0,,
+1,administered_payments_estimated,medicaid,0,,
+1,administered_payments_estimated,other_third_party,0,,
+1,administered_payments_estimated,uninsured,0,,
+1,administered_payments_estimated,total,0,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,commercial,0,,
+1,administered_payments_total,medicare,0,,
+1,administered_payments_total,medicaid,0,,
+1,administered_payments_total,other_third_party,0,,
+1,administered_payments_total,uninsured,0,,
+1,administered_payments_total,total,0,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,administered_rx_all,commercial,,253,
+1,administered_rx_all,medicare,,0,
+1,administered_rx_all,medicaid,,208,
+1,administered_rx_all,other_third_party,,0,
+1,administered_rx_all,uninsured,,294,
+1,administered_rx_all,total,,755,
+1,administered_rx_340b,commercial,,69,
+1,administered_rx_340b,medicare,,0,
+1,administered_rx_340b,medicaid,,56,
+1,administered_rx_340b,other_third_party,,0,
+1,administered_rx_340b,uninsured,,80,
+1,administered_rx_340b,total,,205,
+1,administered_rx_pct,commercial,27.2727272727273,,
+1,administered_rx_pct,medicare,#DIV/0!,,
+1,administered_rx_pct,medicaid,26.9230769230769,,
+1,administered_rx_pct,other_third_party,#DIV/0!,,
+1,administered_rx_pct,uninsured,27.2108843537415,,
+1,administered_rx_pct,total,27.1523178807947,,
+1,costs,contract_pharmacies,3142364.87131001,,
+1,costs,consultants,52946.30712,,
+1,costs,staffing,54144,,
+1,costs,internal_it,15000,,
+1,contract_pharmacies,count,43,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,STD44118
+1,identity,id_prefix,,,-
+1,identity,id_number,,,-
+1,identity,npi_1,,,1417136805
+1,identity,npi_2,,,1154757052
+1,identity,npi_3,,,1497841035
+1,identity,npi_4,,,1285522284
+1,identity,npi_5,,,1700381993
+1,identity,npi_6,,,1417531856
+1,identity,npi_7,,,1942891825
+1,identity,npi_8,,,1124398185
+1,identity,npi_9,,,1083089783
+1,identity,npi_10,,,1073103453
+1,identity,npi_11,,,-
+1,identity,npi_12,,,-
+1,identity,npi_13,,,-
+1,identity,npi_14,,,-
+1,identity,npi_15,,,-
+1,identity,npi_16,,,-
+1,identity,npi_17,,,-
+1,identity,npi_18,,,-
+1,identity,npi_19,,,-
+1,identity,npi_20,,,-
+1,contract_pharmacy_notes,indeterminate_explanation,,,-
+1,uses,program_1_description,,,"Have a team of 5 clinicians, 8 adminidstrative support staff including Lost to Care coordinators, case managers, and schedulers, 5 medical assistants, 2 registered nurses and 5 outreach workers in the clinic.  Also have 5 dedicated NP's for Hep C Outreach, 6 medical assistants, 1 RN and 1 admin dedicated to the Hep C Program"
+1,uses,program_1_amount,5351952.90418437,,
+1,uses,program_2_description,,,HIV Treatment
+1,uses,program_3_description,,,HIV Prevention
+1,uses,program_4_description,,,STI Treatment & Testing
+1,uses,program_5_description,,,Hep C Testing and Treatment
+1,uses,equipment_1_description,,,Office & Testing Supplies
+1,uses,equipment_1_amount,291559,,
+1,uses,equipment_2_description,,,Building Rent / Maintenance Costs
+1,uses,equipment_2_amount,592283.6,,
+1,uses,equipment_3_description,,,Marketing and Advertising Expenses
+1,uses,equipment_3_amount,186102.61,,
+1,uses,equipment_4_description,,,    Taxes and Insurance
+1,uses,equipment_4_amount,199462.19,,
+1,uses,equipment_5_description,,,"    General and Administrative Expenses, RV & Mobile Equipment"
+1,uses,equipment_5_amount,920265.24,,
+1,uses,other_uses_description,,,"See attached supplemental information for programs, services, mission and expansion goals for our program.  Not all costs / inititives listed above"
+1,uses,other_uses_amount,-,,
+1,uses,narrative,,,"See attached supplemental information for programs, services, mission and expansion goals for our program.  Not all costs / inititives listed above"
+1,uses,alternative_narrative,,,-

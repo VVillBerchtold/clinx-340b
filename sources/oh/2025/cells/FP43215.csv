@@ -1,0 +1,296 @@
+sheet,cell,value
+FP43215,B1,Ohio Department of Health
+FP43215,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+FP43215,B4,Reporting Period:
+FP43215,C4,"January 1, 2025 - December 31, 2025"
+FP43215,B5,Primary Contact Name:
+FP43215,C5,[contact detail withheld]
+FP43215,B6,Email:
+FP43215,C6,[contact detail withheld]
+FP43215,B7,Phone Number:
+FP43215,C7,[contact detail withheld]
+FP43215,A8,Data Element
+FP43215,B8,HRSA 340B ID:
+FP43215,C8,FP43215
+FP43215,D9,Lettered Prefix:
+FP43215,E9,Number:
+FP43215,A10,1
+FP43215,D10,FP
+FP43215,E10,43215
+FP43215,C12,NPI1
+FP43215,D12,NPI2
+FP43215,E12,NPI3
+FP43215,F12,NPI4
+FP43215,G12,NPI5
+FP43215,H12,NPI6
+FP43215,I12,NPI7
+FP43215,J12,NPI8
+FP43215,K12,NPI9
+FP43215,L12,NPI10
+FP43215,M12,NPI11
+FP43215,N12,NPI12
+FP43215,O12,NPI13
+FP43215,P12,NPI14
+FP43215,Q12,NPI15
+FP43215,R12,NPI16
+FP43215,S12,NPI17
+FP43215,T12,NPI18
+FP43215,U12,NPI19
+FP43215,V12,NPI20
+FP43215,A13,2
+FP43215,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+FP43215,C13,1285874339
+FP43215,D13,1427933092
+FP43215,E13,1821342676
+FP43215,F13,1740208974
+FP43215,G13,1780426825
+FP43215,H13,1457668527
+FP43215,I13,-
+FP43215,J13,-
+FP43215,K13,-
+FP43215,L13,-
+FP43215,M13,-
+FP43215,N13,-
+FP43215,O13,-
+FP43215,P13,-
+FP43215,Q13,-
+FP43215,R13,-
+FP43215,S13,-
+FP43215,T13,-
+FP43215,U13,-
+FP43215,V13,-
+FP43215,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+FP43215,C16,Commercial Insurance/Private Insurance:
+FP43215,D16,Medicare:
+FP43215,E16,Medicaid (all states):
+FP43215,F16,Other Third-Party Payor:
+FP43215,G16,Uninsured/Self-Pay:
+FP43215,H16,TOTAL:
+FP43215,A17,3
+FP43215,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+FP43215,C17,0
+FP43215,D17,0
+FP43215,E17,0
+FP43215,F17,0
+FP43215,G17,0
+FP43215,H17,0
+FP43215,A18,4
+FP43215,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+FP43215,C18,0
+FP43215,D18,0
+FP43215,E18,0
+FP43215,F18,0
+FP43215,G18,0
+FP43215,H18,0
+FP43215,A19,5
+FP43215,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+FP43215,C19,0
+FP43215,D19,0
+FP43215,E19,0
+FP43215,F19,0
+FP43215,G19,0
+FP43215,H19,0
+FP43215,A20,6
+FP43215,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+FP43215,C20,0
+FP43215,D20,0
+FP43215,E20,0
+FP43215,F20,0
+FP43215,G20,0
+FP43215,H20,0
+FP43215,A21,7
+FP43215,B21,Percentage of total prescriptions that were 340B
+FP43215,C21,#DIV/0!
+FP43215,D21,#DIV/0!
+FP43215,E21,#DIV/0!
+FP43215,F21,#DIV/0!
+FP43215,G21,#DIV/0!
+FP43215,H21,#DIV/0!
+FP43215,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+FP43215,A25,8
+FP43215,C25,Commercial Insurance/Private Insurance:
+FP43215,D25,Medicare:
+FP43215,E25,Medicaid (all states):
+FP43215,F25,Other Third-Party Payor:
+FP43215,G25,Uninsured/Self-Pay:
+FP43215,H25,Indeterminate (Explain)
+FP43215,I25,TOTAL:
+FP43215,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+FP43215,C26,0
+FP43215,D26,0
+FP43215,E26,0
+FP43215,F26,0
+FP43215,G26,0
+FP43215,H26,0
+FP43215,I26,0
+FP43215,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+FP43215,C27,0
+FP43215,D27,0
+FP43215,E27,0
+FP43215,F27,0
+FP43215,G27,0
+FP43215,H27,0
+FP43215,I27,0
+FP43215,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+FP43215,C28,0
+FP43215,D28,0
+FP43215,E28,0
+FP43215,F28,0
+FP43215,G28,0
+FP43215,H28,0
+FP43215,I28,0
+FP43215,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+FP43215,C29,0
+FP43215,D29,0
+FP43215,E29,0
+FP43215,F29,0
+FP43215,G29,0
+FP43215,H29,0
+FP43215,I29,0
+FP43215,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+FP43215,C30,#DIV/0!
+FP43215,D30,#DIV/0!
+FP43215,E30,#DIV/0!
+FP43215,F30,#DIV/0!
+FP43215,G30,#DIV/0!
+FP43215,H30,#DIV/0!
+FP43215,I30,#DIV/0!
+FP43215,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+FP43215,I32,-
+FP43215,B33,Section 3: Administered Drugs
+FP43215,D34,Commercial Insurance/Private Insurance:
+FP43215,E34,Medicare:
+FP43215,F34,Medicaid (all states):
+FP43215,G34,Other Third-Party Payor:
+FP43215,H34,Uninsured/Self-Pay:
+FP43215,I34,TOTAL:
+FP43215,A35,9
+FP43215,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+FP43215,D35,16020
+FP43215,E35,0
+FP43215,F35,16650
+FP43215,G35,0
+FP43215,H35,90750
+FP43215,I35,123420
+FP43215,A36,10
+FP43215,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+FP43215,C36,Actual Payments
+FP43215,D36,27256.35
+FP43215,E36,0
+FP43215,F36,39068
+FP43215,G36,0
+FP43215,H36,14423.18
+FP43215,I36,80747.53
+FP43215,C37,Estimated Payments*
+FP43215,D37,0
+FP43215,E37,0
+FP43215,F37,0
+FP43215,G37,0
+FP43215,H37,0
+FP43215,I37,0
+FP43215,C38,TOTAL
+FP43215,D38,27256.35
+FP43215,E38,0
+FP43215,F38,39068
+FP43215,G38,0
+FP43215,H38,14423.18
+FP43215,I38,80747.53
+FP43215,A39,11
+FP43215,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+FP43215,D39,43
+FP43215,E39,0
+FP43215,F39,43
+FP43215,G39,0
+FP43215,H39,230
+FP43215,I39,316
+FP43215,A40,12
+FP43215,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+FP43215,D40,42
+FP43215,E40,0
+FP43215,F40,43
+FP43215,G40,0
+FP43215,H40,204
+FP43215,I40,289
+FP43215,A41,13
+FP43215,B41,Percentage of total prescriptions that were 340B
+FP43215,D41,97.674418604651152
+FP43215,E41,#DIV/0!
+FP43215,F41,100
+FP43215,G41,#DIV/0!
+FP43215,H41,88.695652173913047
+FP43215,I41,91.455696202531641
+FP43215,B43,Section 4: Administrative Costs of the 340B Program
+FP43215,B45,Payments to External Entities:
+FP43215,A46,14
+FP43215,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+FP43215,C46,0
+FP43215,A47,15
+FP43215,B47,Total Payments to 340B Third Party Administrators:
+FP43215,C47,0
+FP43215,A48,16
+FP43215,B48,Total Payments to 340B Consulting Entities (including audit support):
+FP43215,C48,0
+FP43215,A49,17
+FP43215,B49,340B Software and Information Technology Costs:
+FP43215,C49,0
+FP43215,A50,18
+FP43215,B50,Other Payments to External Entities:
+FP43215,C50,0
+FP43215,B52,Internal Costs to Administer the 340B Program
+FP43215,A53,19
+FP43215,B53,Staffing Costs (340B dedicated):
+FP43215,C53,21694
+FP43215,A54,20
+FP43215,B54,Information Technology Costs:
+FP43215,C54,-
+FP43215,A55,21
+FP43215,B55,Other internal costs:
+FP43215,C55,-
+FP43215,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+FP43215,A59,22
+FP43215,B59,Covered Entity's total number of Contract Pharmacies:
+FP43215,C59,0
+FP43215,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+FP43215,C63,Detailed Description of Item:
+FP43215,D63,Expenditures from 340B funds:
+FP43215,A64,23
+FP43215,B64,Programs or Services funded/purchased with 340B funds:
+FP43215,B65,Program/Service 1:
+FP43215,C65,-
+FP43215,D65,-
+FP43215,B66,Program/Service 2:
+FP43215,C66,-
+FP43215,D66,-
+FP43215,B67,Program/Service 3:
+FP43215,C67,-
+FP43215,D67,-
+FP43215,B68,Program/Service 4:
+FP43215,C68,-
+FP43215,D68,-
+FP43215,B69,Program/Service 5:
+FP43215,C69,-
+FP43215,D69,-
+FP43215,B71,Equipment purchased with 340B Funds:
+FP43215,B72,Item 1:
+FP43215,C72,-
+FP43215,D72,-
+FP43215,B73,Item 2:
+FP43215,C73,-
+FP43215,D73,-
+FP43215,B74,Item 3:
+FP43215,C74,-
+FP43215,D74,-
+FP43215,B75,Item 4:
+FP43215,C75,-
+FP43215,D75,-
+FP43215,B76,Item 5:
+FP43215,C76,-
+FP43215,D76,-
+FP43215,B78,Other uses of 340B funds not otherwise listed above:
+FP43215,C78,-
+FP43215,D78,-
+FP43215,B80,(Narrative) Provide additional detail/context as necessary:
+FP43215,C80,There is not a net profit generated from 340B income for this clinic. 
+FP43215,A82,24
+FP43215,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+FP43215,C82,-

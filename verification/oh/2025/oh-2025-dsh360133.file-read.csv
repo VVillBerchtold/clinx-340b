@@ -1,0 +1,239 @@
+page,schedule,line,amount,claims,answer
+1,in_house_acquisition_cost,commercial,6595379,,
+1,in_house_acquisition_cost,medicare,21407897,,
+1,in_house_acquisition_cost,medicaid,3133245,,
+1,in_house_acquisition_cost,other_third_party,1708022,,
+1,in_house_acquisition_cost,uninsured,0,,
+1,in_house_acquisition_cost,total,32844543,,
+1,in_house_payments_received,commercial,12107815,,
+1,in_house_payments_received,medicare,39498544,,
+1,in_house_payments_received,medicaid,6501503,,
+1,in_house_payments_received,other_third_party,3038119,,
+1,in_house_payments_received,uninsured,0,,
+1,in_house_payments_received,total,61145981,,
+1,in_house_rx_all,commercial,,23402,
+1,in_house_rx_all,medicare,,16473,
+1,in_house_rx_all,medicaid,,18496,
+1,in_house_rx_all,other_third_party,,9411,
+1,in_house_rx_all,uninsured,,4092,
+1,in_house_rx_all,total,,71874,
+1,in_house_rx_340b,commercial,,4468,
+1,in_house_rx_340b,medicare,,8989,
+1,in_house_rx_340b,medicaid,,6601,
+1,in_house_rx_340b,other_third_party,,4153,
+1,in_house_rx_340b,uninsured,,0,
+1,in_house_rx_340b,total,,24211,
+1,in_house_rx_pct,commercial,19.0923852662166,,
+1,in_house_rx_pct,medicare,54.56808110241,,
+1,in_house_rx_pct,medicaid,35.6887975778547,,
+1,in_house_rx_pct,other_third_party,44.129210498353,,
+1,in_house_rx_pct,uninsured,0,,
+1,in_house_rx_pct,total,33.6853382307928,,
+1,contract_acquisition_cost,commercial,4997346,,
+1,contract_acquisition_cost,medicare,2474017,,
+1,contract_acquisition_cost,medicaid,237367,,
+1,contract_acquisition_cost,other_third_party,342863,,
+1,contract_acquisition_cost,uninsured,0,,
+1,contract_acquisition_cost,indeterminate,0,,
+1,contract_acquisition_cost,total,8051593,,
+1,contract_payments_received,commercial,9488589,,
+1,contract_payments_received,medicare,10076823,,
+1,contract_payments_received,medicaid,1069252,,
+1,contract_payments_received,other_third_party,1544475,,
+1,contract_payments_received,uninsured,0,,
+1,contract_payments_received,indeterminate,0,,
+1,contract_payments_received,total,22179139,,
+1,contract_rx_all,commercial,,1325,
+1,contract_rx_all,medicare,,658,
+1,contract_rx_all,medicaid,,27,
+1,contract_rx_all,other_third_party,,39,
+1,contract_rx_all,uninsured,,0,
+1,contract_rx_all,indeterminate,,Explanation Below,
+1,contract_rx_all,total,,2049,
+1,contract_rx_340b,commercial,,1325,
+1,contract_rx_340b,medicare,,658,
+1,contract_rx_340b,medicaid,,27,
+1,contract_rx_340b,other_third_party,,39,
+1,contract_rx_340b,uninsured,,0,
+1,contract_rx_340b,indeterminate,,0,
+1,contract_rx_340b,total,,2049,
+1,contract_rx_pct,commercial,100,,
+1,contract_rx_pct,medicare,100,,
+1,contract_rx_pct,medicaid,100,,
+1,contract_rx_pct,other_third_party,100,,
+1,contract_rx_pct,uninsured,#DIV/0!,,
+1,contract_rx_pct,indeterminate,#VALUE!,,
+1,contract_rx_pct,total,100,,
+1,administered_acquisition_cost,commercial,3918672,,
+1,administered_acquisition_cost,medicare,7198055,,
+1,administered_acquisition_cost,medicaid,1964140,,
+1,administered_acquisition_cost,other_third_party,267155,,
+1,administered_acquisition_cost,uninsured,171372,,
+1,administered_acquisition_cost,total,13519394,,
+1,administered_payments_actual,commercial,59457145,,
+1,administered_payments_actual,medicare,97009634,,
+1,administered_payments_actual,medicaid,18667745,,
+1,administered_payments_actual,other_third_party,2436809,,
+1,administered_payments_actual,uninsured,0,,
+1,administered_payments_actual,total,177571333,,
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,commercial,0,,
+1,administered_payments_estimated,medicare,0,,
+1,administered_payments_estimated,medicaid,0,,
+1,administered_payments_estimated,other_third_party,0,,
+1,administered_payments_estimated,uninsured,0,,
+1,administered_payments_estimated,total,0,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,commercial,59457145,,
+1,administered_payments_total,medicare,97009634,,
+1,administered_payments_total,medicaid,18667745,,
+1,administered_payments_total,other_third_party,2436809,,
+1,administered_payments_total,uninsured,0,,
+1,administered_payments_total,total,177571333,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,administered_rx_all,commercial,,359242,
+1,administered_rx_all,medicare,,846747,
+1,administered_rx_all,medicaid,,514383,
+1,administered_rx_all,other_third_party,,42985,
+1,administered_rx_all,uninsured,,63424,
+1,administered_rx_all,total,,1826781,
+1,administered_rx_340b,commercial,,210958,
+1,administered_rx_340b,medicare,,267541,
+1,administered_rx_340b,medicaid,,158401,
+1,administered_rx_340b,other_third_party,,16190,
+1,administered_rx_340b,uninsured,,25921,
+1,administered_rx_340b,total,,679011,
+1,administered_rx_pct,commercial,58.723089171088,,
+1,administered_rx_pct,medicare,31.5963327888968,,
+1,administered_rx_pct,medicaid,30.7943691762753,,
+1,administered_rx_pct,other_third_party,37.6643015005234,,
+1,administered_rx_pct,uninsured,40.8693869828456,,
+1,administered_rx_pct,total,37.1698085320572,,
+1,costs,contract_pharmacies,2230458,,
+1,costs,third_party_administrators,252384,,
+1,costs,consultants,28884,,
+1,costs,software_it,-,,
+1,costs,other_external,-,,
+1,costs,staffing,305101,,
+1,costs,internal_it,-,,
+1,costs,other_internal,-,,
+1,contract_pharmacies,count,21,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,DSH360133
+1,identity,id_prefix,,,DSH
+1,identity,id_number,,,360133
+1,identity,npi_1,,,1053339507
+1,identity,npi_2,,,1811072010
+1,identity,npi_3,,,1629511688
+1,identity,npi_4,,,-
+1,identity,npi_5,,,-
+1,identity,npi_6,,,-
+1,identity,npi_7,,,-
+1,identity,npi_8,,,-
+1,identity,npi_9,,,-
+1,identity,npi_10,,,-
+1,identity,npi_11,,,-
+1,identity,npi_12,,,-
+1,identity,npi_13,,,-
+1,identity,npi_14,,,-
+1,identity,npi_15,,,-
+1,identity,npi_16,,,-
+1,identity,npi_17,,,-
+1,identity,npi_18,,,-
+1,identity,npi_19,,,-
+1,identity,npi_20,,,-
+1,contract_pharmacy_notes,indeterminate_explanation,,,"Per standard 340B software architecture, non-340B dispensing data is not captured or accessible to the Covered Entity for these contract locations. Total counts reflect 340B-cleared transactions only."
+1,uses,program_1_description,,,-
+1,uses,program_1_amount,-,,
+1,uses,program_2_description,,,-
+1,uses,program_2_amount,-,,
+1,uses,program_3_description,,,-
+1,uses,program_3_amount,-,,
+1,uses,program_4_description,,,-
+1,uses,program_4_amount,-,,
+1,uses,program_5_description,,,-
+1,uses,program_5_amount,-,,
+1,uses,equipment_1_description,,,-
+1,uses,equipment_1_amount,-,,
+1,uses,equipment_2_description,,,-
+1,uses,equipment_2_amount,-,,
+1,uses,equipment_3_description,,,-
+1,uses,equipment_3_amount,-,,
+1,uses,equipment_4_description,,,-
+1,uses,equipment_4_amount,-,,
+1,uses,equipment_5_description,,,-
+1,uses,equipment_5_amount,-,,
+1,uses,other_uses_description,,,-
+1,uses,other_uses_amount,-,,
+1,uses,narrative,,,-
+1,uses,alternative_narrative,,,Kettering Health 340B Program Savings Narrative
+1,other_cells,cell_C83,,,"Kettering Health participates in the federal 340B Drug Pricing Program as part of its commitment to improving the health and well-being of the communities it serves. The program allows eligible Kettering Health entities to purchase outpatient medications at reduced prices, generating savings that are reinvested to expand access to care, improve affordability, and strengthen patient services."
+1,other_cells,cell_C84,,,"Consistent with federal guidance, 340B savings are not maintained as a separate fund but are integrated into the overall financial framework of Kettering Health. These resources are strategically deployed to directly support patient care initiatives, particularly for underserved, uninsured, and underinsured populations."
+1,other_cells,cell_C87,,,Demonstrated Patient and Community Impact in 2025
+1,other_cells,cell_C88,,,"In 2025, Kettering Health’s patient assistance program supported in part by 340B savings—generated over $91.8 million in total patient support, reflecting a substantial investment in medication access and affordability."
+1,other_cells,cell_C89,,,"Complementing these efforts, Kettering Health also provided significant levels of uncompensated care across the system, underscoring its role as a safety net provider:"
+1,other_cells,cell_C90,,,Charity Care: $255.6 million
+1,other_cells,cell_C91,,,Bad Debt: $128.6 million
+1,other_cells,cell_C92,,,Total Uncompensated Care: $376.5 million
+1,other_cells,cell_C93,,,These figures highlight the magnitude of financial support provided to patients and communities and reinforce the critical role 340B savings play in sustaining these efforts.
+1,other_cells,cell_C94,,,Key patient assistance highlights include:
+1,other_cells,cell_C95,,,Infusion Support: More than $29.3 million in assistance
+1,other_cells,cell_C96,,,Specialty Pharmacy Programs: Over $48.5 million in total support
+1,other_cells,cell_C97,,,Ambulatory Care Assistance: Approximately $12.8 million
+1,other_cells,cell_C98,,,"Together, these investments demonstrate how 340B-enabled resources are directly translated into meaningful financial relief and improved access to care."
+1,other_cells,cell_C101,,,Expanding Access to Care
+1,other_cells,cell_C102,,,"Kettering Health uses 340B program savings to broaden access to essential healthcare services. These resources help offset the significant financial burden reflected in the $376.5 million in uncompensated care provided in 2025, enabling:"
+1,other_cells,cell_C103,,,Continued care regardless of a patient’s ability to pay
+1,other_cells,cell_C104,,,Expansion of services in rural and underserved communities
+1,other_cells,cell_C105,,,Sustainability of critical programs that operate at a financial loss
+1,other_cells,cell_C108,,,Enhancing Medication Access and Affordability
+1,other_cells,cell_C109,,,Medication affordability remains a central focus of Kettering Health’s 340B strategy. The 2025 data reflect a comprehensive approach that includes:
+1,other_cells,cell_C110,,,Direct financial assistance to reduce patient out-of-pocket costs
+1,other_cells,cell_C111,,,Free drug replacement programs ensuring continuity of therapy
+1,other_cells,cell_C112,,,Copay support for high-cost infusion and specialty medications
+1,other_cells,cell_C113,,,Innovative tools such as the 340B Care Card program
+1,other_cells,cell_C114,,,These efforts reduce financial barriers and complement the system’s broader charity care and uncompensated care commitments.
+1,other_cells,cell_C117,,,Supporting and Expanding Clinical Services
+1,other_cells,cell_C118,,,"The breadth of assistance across infusion, specialty, and ambulatory care settings reflects Kettering Health’s investment in comprehensive clinical services. 340B savings help support:"
+1,other_cells,cell_C119,,,Advanced therapies for complex and chronic conditions
+1,other_cells,cell_C120,,,Specialty pharmacy management of high-cost medications
+1,other_cells,cell_C121,,,Integrated outpatient care models
+1,other_cells,cell_C122,,,These services are essential in managing the needs of patients who may otherwise contribute to uncompensated care if access were limited.
+1,other_cells,cell_C125,,,Addressing Social Determinants of Health
+1,other_cells,cell_C126,,,Kettering Health recognizes that financial hardship is a major barrier to care. The combination of $91.8 million in patient assistance and $376.5 million in uncompensated care demonstrates a system-wide commitment to reducing these barriers.
+1,other_cells,cell_C127,,,"Additional support includes transportation, education, and care coordination services that ensure patients can access and adhere to treatment."
+1,other_cells,cell_C130,,,Investing in Workforce and Infrastructure
+1,other_cells,cell_C131,,,Delivering this level of patient and community support requires significant operational investment. 340B savings fund:
+1,other_cells,cell_C132,,,Clinical pharmacy teams and patient assistance coordinators
+1,other_cells,cell_C133,,,Infrastructure supporting specialty and infusion services
+1,other_cells,cell_C134,,,Technology systems for tracking and optimizing assistance
+1,other_cells,cell_C135,,,Compliance oversight and program integrity
+1,other_cells,cell_C138,,,Offsetting Financial Pressures and Sustaining Services
+1,other_cells,cell_C139,,,The scale of charity care and bad debt in 2025 illustrates the financial realities faced by Kettering Health. 340B savings help offset:
+1,other_cells,cell_C140,,,$255.6 million in charity care provided to patients in need
+1,other_cells,cell_C141,,,$128.6 million in bad debt associated with unpaid care
+1,other_cells,cell_C142,,,Reimbursement shortfalls and high-cost therapies
+1,other_cells,cell_C143,,,These resources are essential to sustaining access to care and maintaining critical services across the system.
+1,other_cells,cell_C146,,,Advancing Community and Population Health
+1,other_cells,cell_C147,,,"Through strategic reinvestment of 340B savings, Kettering Health continues to improve community health outcomes by:"
+1,other_cells,cell_C148,,,Reducing delays in care due to financial barriers
+1,other_cells,cell_C149,,,Improving medication adherence
+1,other_cells,cell_C150,,,Supporting chronic disease management
+1,other_cells,cell_C151,,,Expanding preventive care initiatives
+1,other_cells,cell_C154,,,Ensuring Program Integrity and Compliance
+1,other_cells,cell_C155,,,Kettering Health is committed to responsible stewardship of the 340B program. Program savings support:
+1,other_cells,cell_C156,,,Ongoing audits and monitoring
+1,other_cells,cell_C157,,,Staff education and compliance efforts
+1,other_cells,cell_C158,,,Policies and systems aligned with federal requirements
+1,other_cells,cell_C161,,,Summary
+1,other_cells,cell_C162,,,"In 2025, Kettering Health demonstrated the impact of its mission-driven approach through:"
+1,other_cells,cell_C163,,,$91.8 million in patient assistance programs
+1,other_cells,cell_C164,,,"$376.5 million in total uncompensated care, including: "
+1,other_cells,cell_C165,,,$255.6 million in charity care
+1,other_cells,cell_C166,,,$128.6 million in bad debt
+1,other_cells,cell_C167,,,340B program savings are a vital component enabling Kettering Health to sustain these efforts by:
+1,other_cells,cell_C168,,,Expanding access to care
+1,other_cells,cell_C169,,,Reducing financial barriers for patients
+1,other_cells,cell_C170,,,Supporting high-cost and specialized therapies
+1,other_cells,cell_C171,,,Strengthening clinical services and infrastructure
+1,other_cells,cell_C172,,,"Through this reinvestment, Kettering Health continues to fulfill its mission of delivering compassionate, high-quality care while addressing the evolving needs of the communities it serves."

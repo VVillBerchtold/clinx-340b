@@ -1,0 +1,295 @@
+page,schedule,line,amount,claims,answer
+1,in_house_acquisition_cost,commercial,1246189.03000004,,
+1,in_house_acquisition_cost,medicare,2271311.76999999,,
+1,in_house_acquisition_cost,medicaid,2418840.12000006,,
+1,in_house_acquisition_cost,other_third_party,0,,
+1,in_house_acquisition_cost,uninsured,113703.689999999,,
+1,in_house_acquisition_cost,total,6050044.61000008,,
+1,in_house_payments_received,commercial,2772515.60000002,,
+1,in_house_payments_received,medicare,9020863.72999998,,
+1,in_house_payments_received,medicaid,5715378.96999999,,
+1,in_house_payments_received,other_third_party,0,,
+1,in_house_payments_received,uninsured,326382.139999998,,
+1,in_house_payments_received,total,17835140.44,,
+1,in_house_rx_all,commercial,,12541,
+1,in_house_rx_all,medicare,,27804,
+1,in_house_rx_all,medicaid,,23307,
+1,in_house_rx_all,other_third_party,,0,
+1,in_house_rx_all,uninsured,,18809,
+1,in_house_rx_all,total,,82461,
+1,in_house_rx_340b,commercial,,12541,
+1,in_house_rx_340b,medicare,,27804,
+1,in_house_rx_340b,medicaid,,23307,
+1,in_house_rx_340b,other_third_party,,0,
+1,in_house_rx_340b,uninsured,,18809,
+1,in_house_rx_340b,total,,82461,
+1,in_house_rx_pct,commercial,100,,
+1,in_house_rx_pct,medicare,100,,
+1,in_house_rx_pct,medicaid,100,,
+1,in_house_rx_pct,other_third_party,#DIV/0!,,
+1,in_house_rx_pct,uninsured,100,,
+1,in_house_rx_pct,total,100,,
+1,contract_acquisition_cost,commercial,597635.83,,
+1,contract_acquisition_cost,medicare,930269.48,,
+1,contract_acquisition_cost,medicaid,828091.46,,
+1,contract_acquisition_cost,other_third_party,4072.8,,
+1,contract_acquisition_cost,uninsured,23797.75,,
+1,contract_acquisition_cost,indeterminate,31400.25,,
+1,contract_acquisition_cost,total,2383867.32,,
+1,contract_payments_received,commercial,1325703.01,,
+1,contract_payments_received,medicare,2241716.89,,
+1,contract_payments_received,medicaid,2183460.51,,
+1,contract_payments_received,other_third_party,0,,
+1,contract_payments_received,uninsured,0,,
+1,contract_payments_received,indeterminate,91299.02,,
+1,contract_payments_received,total,5750880.41,,
+1,contract_rx_all,commercial,,29886,
+1,contract_rx_all,medicare,,39443,
+1,contract_rx_all,medicaid,,52450,
+1,contract_rx_all,other_third_party,,114,
+1,contract_rx_all,uninsured,,5410,
+1,contract_rx_all,indeterminate,,0,
+1,contract_rx_all,total,,127303,
+1,contract_rx_340b,commercial,,12848,
+1,contract_rx_340b,medicare,,23985,
+1,contract_rx_340b,medicaid,,27252,
+1,contract_rx_340b,other_third_party,,9,
+1,contract_rx_340b,uninsured,,3165,
+1,contract_rx_340b,indeterminate,,0,
+1,contract_rx_340b,total,,67259,
+1,contract_rx_pct,commercial,42.9900287760155,,
+1,contract_rx_pct,medicare,60.8092690718252,,
+1,contract_rx_pct,medicaid,51.9580552907531,,
+1,contract_rx_pct,other_third_party,7.89473684210526,,
+1,contract_rx_pct,uninsured,58.5027726432532,,
+1,contract_rx_pct,indeterminate,#DIV/0!,,
+1,contract_rx_pct,total,52.8337902484623,,
+1,administered_acquisition_cost,commercial,0,,
+1,administered_acquisition_cost,medicare,0,,
+1,administered_acquisition_cost,medicaid,0,,
+1,administered_acquisition_cost,other_third_party,0,,
+1,administered_acquisition_cost,uninsured,0,,
+1,administered_acquisition_cost,total,0,,
+1,administered_payments_actual,commercial,0,,
+1,administered_payments_actual,medicare,0,,
+1,administered_payments_actual,medicaid,0,,
+1,administered_payments_actual,other_third_party,0,,
+1,administered_payments_actual,uninsured,0,,
+1,administered_payments_actual,total,0,,
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,commercial,0,,
+1,administered_payments_estimated,medicare,0,,
+1,administered_payments_estimated,medicaid,0,,
+1,administered_payments_estimated,other_third_party,0,,
+1,administered_payments_estimated,uninsured,0,,
+1,administered_payments_estimated,total,0,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,commercial,0,,
+1,administered_payments_total,medicare,0,,
+1,administered_payments_total,medicaid,0,,
+1,administered_payments_total,other_third_party,0,,
+1,administered_payments_total,uninsured,0,,
+1,administered_payments_total,total,0,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,administered_rx_all,commercial,,0,
+1,administered_rx_all,medicare,,0,
+1,administered_rx_all,medicaid,,0,
+1,administered_rx_all,other_third_party,,0,
+1,administered_rx_all,uninsured,,0,
+1,administered_rx_all,total,,0,
+1,administered_rx_340b,commercial,,0,
+1,administered_rx_340b,medicare,,0,
+1,administered_rx_340b,medicaid,,0,
+1,administered_rx_340b,other_third_party,,0,
+1,administered_rx_340b,uninsured,,0,
+1,administered_rx_340b,total,,0,
+1,administered_rx_pct,commercial,#DIV/0!,,
+1,administered_rx_pct,medicare,#DIV/0!,,
+1,administered_rx_pct,medicaid,#DIV/0!,,
+1,administered_rx_pct,other_third_party,#DIV/0!,,
+1,administered_rx_pct,uninsured,#DIV/0!,,
+1,administered_rx_pct,total,#DIV/0!,,
+1,costs,contract_pharmacies,-,,
+1,costs,third_party_administrators,569613,,
+1,costs,consultants,8000,,
+1,costs,software_it,-,,
+1,costs,other_external,-,,
+1,costs,staffing,919908,,
+1,costs,internal_it,-,,
+1,costs,other_internal,91691,,
+1,contract_pharmacies,count,133,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,CH052270
+1,identity,id_prefix,,,CH
+1,identity,id_number,,,052270
+1,identity,npi_1,,,FQHC NPI'S
+1,identity,npi_2,,,N/A
+1,identity,npi_3,,,N/A
+1,identity,npi_4,,,N/A
+1,identity,npi_5,,,1023491511
+1,identity,npi_6,,,1376227876
+1,identity,npi_7,,,1003500919
+1,identity,npi_8,,,1356106330
+1,identity,npi_9,,,1942291794
+1,identity,npi_10,,,1770929762
+1,identity,npi_11,,,1598374993
+1,identity,npi_12,,,1245778125
+1,identity,npi_13,,,1396258687
+1,identity,npi_14,,,1215449020
+1,identity,npi_15,,,1669463360
+1,identity,npi_16,,,1497746101
+1,identity,npi_17,,,1659362374
+1,identity,npi_18,,,1548937667
+1,identity,npi_19,,,1255322962
+1,identity,npi_20,,,1861686024
+1,identity,npi_21,,,1083388839
+1,identity,npi_22,,,1386390631
+1,identity,npi_23,,,1164826129
+1,identity,npi_24,,,1730691858
+1,identity,npi_25,,,1093227118
+1,identity,npi_26,,,1659883775
+1,identity,npi_27,,,1740793942
+1,identity,npi_28,,,1427575216
+1,identity,npi_29,,,1083169163
+1,identity,npi_30,,,1780196592
+1,identity,npi_31,,,1952887994
+1,identity,npi_32,,,1477157212
+1,identity,npi_33,,,1780330969
+1,identity,npi_34,,,1699475004
+1,identity,npi_35,,,1215621461
+1,identity,npi_36,,,1487348629
+1,identity,npi_37,,,1093492662
+1,identity,npi_38,,,1114601846
+1,identity,npi_39,,,1740967314
+1,identity,npi_40,,,1881371458
+1,identity,npi_41,,,1861178766
+1,identity,npi_42,,,1316727415
+1,identity,npi_43,,,1851171300
+1,identity,npi_44,,,1811795941
+1,identity,npi_45,,,1790583649
+1,identity,npi_46,,,1245038199
+1,identity,npi_47,,,1063210912
+1,identity,npi_48,,,1518765189
+1,uses,program_1_description,,,"Providing affordable, high quality, integrated primary medical care and care coordination services in Ross, Vinton, Hocking, Athens, Perry, Meigs, Vinton, and Franklin Counties in Ohio."
+1,uses,program_1_amount,13757639,,
+1,uses,program_2_description,,,"Providing behavioral health services including:  psychiatry, therapy, case management, transportation, crisis response and residential crisis stablization services in Athens, Hocking, Vinton, Gallia, Jackson, Meigs and Washington Counties in Ohio."
+1,uses,program_2_amount,38578856,,
+1,uses,program_3_description,,,"Providing comprehensive oral health services in Athens, Gallia, Meigs, Perry, Ross and Vinton Counties in Ohio."
+1,uses,program_3_amount,5652659,,
+1,uses,program_4_description,,,"Providing school-based health center services with integrated primary care and behavioral health across five school districts in Athens, Meigs and Washington Counties in Ohio."
+1,uses,program_4_amount,1701039,,
+1,uses,program_5_description,,,-
+1,uses,equipment_1_description,,,-
+1,uses,equipment_1_amount,-,,
+1,uses,equipment_2_description,,,-
+1,uses,equipment_2_amount,-,,
+1,uses,equipment_3_description,,,-
+1,uses,equipment_3_amount,-,,
+1,uses,equipment_4_description,,,-
+1,uses,equipment_4_amount,-,,
+1,uses,equipment_5_description,,,-
+1,uses,equipment_5_amount,-,,
+1,uses,other_uses_description,,,-
+1,uses,other_uses_amount,-,,
+1,uses,narrative,,,-
+1,uses,alternative_narrative,,,-
+1,other_cells,cell_D12,,,LOGAN PHARM
+1,other_cells,cell_E12,,,90 HOSP MH
+1,other_cells,cell_F12,,,90 HOSP AD
+1,other_cells,cell_G12,,,90 HOSP PC
+1,other_cells,cell_H12,,,225 GOLDEN ROCKET
+1,other_cells,cell_I12,,,200 GOLDEN ROCKET
+1,other_cells,cell_J12,,,100 WEST AVE
+1,other_cells,cell_K12,,,CHILLICOTHE PC
+1,other_cells,cell_L12,,,COOLVILLE PC
+1,other_cells,cell_M12,,,REEDSVILLE
+1,other_cells,cell_N12,,,8461 SR 144-STEWART
+1,other_cells,cell_O12,,,GALLIPOLIS
+1,other_cells,cell_P12,,,CHILLICOTHE DENTAL
+1,other_cells,cell_Q12,,,LOGAN PC
+1,other_cells,cell_R12,,,MCARTHUR
+1,other_cells,cell_S12,,,NELSONVILLE-MT ST MARYS
+1,other_cells,cell_T12,,,NELSONVILLE-4 BUCKEYE DR
+1,other_cells,cell_U12,,,NEW LEX
+1,other_cells,cell_V12,,,POMEROY
+1,other_cells,cell_W12,,,RACINE DENTAL
+1,other_cells,cell_X12,,,REYNOLDSBURG
+1,other_cells,cell_Y12,,,18500 JACKSONVILLE RD-TOMCAT CENTER
+1,other_cells,cell_Z12,,,THE PLAINS-25 S CLINTON ST
+1,other_cells,cell_AA12,,,RESPITE-DAIRY LANE
+1,other_cells,cell_AB12,,,BELPRE-RICHMILLER LN
+1,other_cells,cell_AC12,,,JACKSON 2 B URLINGTON RD
+1,other_cells,cell_AD12,,,JACKSON 1 MCCARTY LN
+1,other_cells,cell_AE12,,,LOGAN BH
+1,other_cells,cell_AF12,,,REACH KIMBERLY RD
+1,other_cells,cell_AG12,,,REACH BARLOW VINCENT
+1,other_cells,cell_AH12,,,REACH CHESHIRE
+1,other_cells,cell_AI12,,,LOGAN HS
+1,other_cells,cell_AJ12,,,MARIETTA
+1,other_cells,cell_AK12,,,MEIGS HS
+1,other_cells,cell_AL12,,,LOGAN HOCKING MS
+1,other_cells,cell_AM12,,,VINTON MS
+1,other_cells,cell_AN12,,,BUNDY ES
+1,other_cells,cell_AO12,,,VINTON HS
+1,other_cells,cell_AP12,,,FORT FRYE MS
+1,other_cells,cell_AQ12,,,LOWELL ES
+1,other_cells,cell_AR12,,,ATHENS MS
+1,other_cells,cell_AS12,,,ATHENS HS
+1,other_cells,cell_AT12,,,BEVERLY CENTER ES
+1,other_cells,cell_AU12,,,COOLVILLE ES
+1,other_cells,cell_AV12,,,TRI COUNTY CAREER CTR
+1,other_cells,cell_AW12,,,TRIMBLE HS
+1,other_cells,cell_AX12,,,WARREN FULL CLINIC
+1,other_cells,cell_C14,,,FFS NPI'S
+1,other_cells,cell_D14,,,1568970333
+1,other_cells,cell_E14,,,1699010348
+1,other_cells,cell_F14,,,1790021608
+1,other_cells,cell_G14,,,1427417542
+1,other_cells,cell_H14,,,N/A
+1,other_cells,cell_I14,,,N/A
+1,other_cells,cell_J14,,,1093570079
+1,other_cells,cell_K14,,,1659468908
+1,other_cells,cell_L14,,,1912343955
+1,other_cells,cell_M14,,,1780293183
+1,other_cells,cell_N14,,,1114466729
+1,other_cells,cell_O14,,,1962919506
+1,other_cells,cell_P14,,,1215627476
+1,other_cells,cell_Q14,,,1881781144
+1,other_cells,cell_R14,,,1003903360
+1,other_cells,cell_S14,,,1902993264
+1,other_cells,cell_T14,,,1194492215
+1,other_cells,cell_U14,,,1972690238
+1,other_cells,cell_V14,,,1013101757
+1,other_cells,cell_W14,,,1588354740
+1,other_cells,cell_X14,,,1568118818
+1,other_cells,cell_Y14,,,1174931000
+1,other_cells,cell_Z14,,,1114439239
+1,other_cells,cell_AA14,,,1750893871
+1,other_cells,cell_AB14,,,1144732348
+1,other_cells,cell_AC14,,,1861909400
+1,other_cells,cell_AD14,,,1316463961
+1,other_cells,cell_AE14,,,1982159067
+1,other_cells,cell_AF14,,,1508378316
+1,other_cells,cell_AG14,,,1831675859
+1,other_cells,cell_AH14,,,1275137010
+1,other_cells,cell_AI14,,,N/A
+1,other_cells,cell_AJ14,,,1326748781
+1,other_cells,cell_AK14,,,N/A
+1,other_cells,cell_AL14,,,N/A
+1,other_cells,cell_AM14,,,N/A
+1,other_cells,cell_AN14,,,N/A
+1,other_cells,cell_AO14,,,N/A
+1,other_cells,cell_AP14,,,N/A
+1,other_cells,cell_AQ14,,,N/A
+1,other_cells,cell_AR14,,,N/A
+1,other_cells,cell_AS14,,,N/A
+1,other_cells,cell_AT14,,,N/A
+1,other_cells,cell_AU14,,,N/A
+1,other_cells,cell_AV14,,,N/A
+1,other_cells,cell_AW14,,,N/A
+1,other_cells,cell_AX14,,,1427856095
+1,other_cells,cell_J32,,,"CaptureRX, one of our third party processors, is not able to provide data by payer group"
+1,other_cells,cell_B65,,,Primary Care
+1,other_cells,cell_B66,,,Behavioral Health
+1,other_cells,cell_B67,,,Dental
+1,other_cells,cell_B68,,,School-based health centers

@@ -18,6 +18,7 @@ from filings340b.errors import DataError
 from filings340b.forms import form_of
 from filings340b.model import Filing, Row, Verification
 from filings340b.sealing import MARKER, is_unknown
+from filings340b.smallcounts import REVEALS_SMALL
 from filings340b.textcheck import core
 
 READ_COLUMNS = ("page", "schedule", "line", "amount", "claims", "answer")
@@ -115,8 +116,11 @@ def row_differences(
     seen_claims = held_read if withheld_read and held_read is not None else read["claims"]
     skip_claims = is_unknown(row)
     if workbook:
+        seen_amount = read["amount"]
+        if withheld_read and held_read is not None and row.claims_withheld == REVEALS_SMALL:
+            seen_amount, seen_claims = held_read, read["claims"]
         pairs = (
-            ("amount", row.amount_as_filed, read["amount"]),
+            ("amount", row.amount_as_filed, seen_amount),
             *(() if skip_claims else (("claims", row.claims_as_filed, seen_claims),)),
             ("answer", row.answer_as_filed, read["answer"]),
         )

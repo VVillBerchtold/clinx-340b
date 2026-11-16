@@ -1,0 +1,296 @@
+sheet,cell,value
+STD44857.xlsx,B1,Ohio Department of Health
+STD44857.xlsx,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+STD44857.xlsx,B4,Reporting Period:  
+STD44857.xlsx,C4,"January 1, 2025 - December 31, 2025"
+STD44857.xlsx,B5,Primary Contact Name:
+STD44857.xlsx,C5,[contact detail withheld]
+STD44857.xlsx,B6,Email:
+STD44857.xlsx,C6,[contact detail withheld]
+STD44857.xlsx,B7,Phone Number:
+STD44857.xlsx,C7,[contact detail withheld]
+STD44857.xlsx,A8,Data Element
+STD44857.xlsx,B8,HRSA 340B ID:
+STD44857.xlsx,C8,STD44857.xlsx
+STD44857.xlsx,D9,Lettered Prefix:
+STD44857.xlsx,E9,Number:
+STD44857.xlsx,A10,1
+STD44857.xlsx,D10,-
+STD44857.xlsx,E10,-
+STD44857.xlsx,C12,NPI1
+STD44857.xlsx,D12,NPI2
+STD44857.xlsx,E12,NPI3
+STD44857.xlsx,F12,NPI4
+STD44857.xlsx,G12,NPI5
+STD44857.xlsx,H12,NPI6
+STD44857.xlsx,I12,NPI7
+STD44857.xlsx,J12,NPI8
+STD44857.xlsx,K12,NPI9
+STD44857.xlsx,L12,NPI10
+STD44857.xlsx,M12,NPI11
+STD44857.xlsx,N12,NPI12
+STD44857.xlsx,O12,NPI13
+STD44857.xlsx,P12,NPI14
+STD44857.xlsx,Q12,NPI15
+STD44857.xlsx,R12,NPI16
+STD44857.xlsx,S12,NPI17
+STD44857.xlsx,T12,NPI18
+STD44857.xlsx,U12,NPI19
+STD44857.xlsx,V12,NPI20
+STD44857.xlsx,A13,2
+STD44857.xlsx,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+STD44857.xlsx,C13,1619065141
+STD44857.xlsx,D13,-
+STD44857.xlsx,E13,-
+STD44857.xlsx,F13,-
+STD44857.xlsx,G13,-
+STD44857.xlsx,H13,-
+STD44857.xlsx,I13,-
+STD44857.xlsx,J13,-
+STD44857.xlsx,K13,-
+STD44857.xlsx,L13,-
+STD44857.xlsx,M13,-
+STD44857.xlsx,N13,-
+STD44857.xlsx,O13,-
+STD44857.xlsx,P13,-
+STD44857.xlsx,Q13,-
+STD44857.xlsx,R13,-
+STD44857.xlsx,S13,-
+STD44857.xlsx,T13,-
+STD44857.xlsx,U13,-
+STD44857.xlsx,V13,-
+STD44857.xlsx,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+STD44857.xlsx,C16,Commercial Insurance/Private Insurance:
+STD44857.xlsx,D16,Medicare:
+STD44857.xlsx,E16,Medicaid (all states):
+STD44857.xlsx,F16,Other Third-Party Payor:
+STD44857.xlsx,G16,Uninsured/Self-Pay:
+STD44857.xlsx,H16,TOTAL:
+STD44857.xlsx,A17,3
+STD44857.xlsx,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+STD44857.xlsx,C17,0
+STD44857.xlsx,D17,0
+STD44857.xlsx,E17,0
+STD44857.xlsx,F17,0
+STD44857.xlsx,G17,0
+STD44857.xlsx,H17,0
+STD44857.xlsx,A18,4
+STD44857.xlsx,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+STD44857.xlsx,C18,0
+STD44857.xlsx,D18,0
+STD44857.xlsx,E18,0
+STD44857.xlsx,F18,0
+STD44857.xlsx,G18,0
+STD44857.xlsx,H18,0
+STD44857.xlsx,A19,5
+STD44857.xlsx,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+STD44857.xlsx,C19,0
+STD44857.xlsx,D19,0
+STD44857.xlsx,E19,0
+STD44857.xlsx,F19,0
+STD44857.xlsx,G19,[withheld: fewer_than_6]
+STD44857.xlsx,H19,[withheld: fewer_than_6]
+STD44857.xlsx,A20,6
+STD44857.xlsx,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+STD44857.xlsx,C20,0
+STD44857.xlsx,D20,0
+STD44857.xlsx,E20,0
+STD44857.xlsx,F20,0
+STD44857.xlsx,G20,[withheld: fewer_than_6]
+STD44857.xlsx,H20,[withheld: fewer_than_6]
+STD44857.xlsx,A21,7
+STD44857.xlsx,B21,Percentage of total prescriptions that were 340B
+STD44857.xlsx,C21,0
+STD44857.xlsx,D21,0
+STD44857.xlsx,E21,0
+STD44857.xlsx,F21,0
+STD44857.xlsx,G21,[withheld: reveals_small]
+STD44857.xlsx,H21,[withheld: reveals_small]
+STD44857.xlsx,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+STD44857.xlsx,A25,8
+STD44857.xlsx,C25,Commercial Insurance/Private Insurance:
+STD44857.xlsx,D25,Medicare:
+STD44857.xlsx,E25,Medicaid (all states):
+STD44857.xlsx,F25,Other Third-Party Payor:
+STD44857.xlsx,G25,Uninsured/Self-Pay:
+STD44857.xlsx,H25,Indeterminate (Explain)
+STD44857.xlsx,I25,TOTAL:
+STD44857.xlsx,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+STD44857.xlsx,C26,0
+STD44857.xlsx,D26,0
+STD44857.xlsx,E26,0
+STD44857.xlsx,F26,0
+STD44857.xlsx,G26,0
+STD44857.xlsx,H26,0
+STD44857.xlsx,I26,0
+STD44857.xlsx,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+STD44857.xlsx,C27,0
+STD44857.xlsx,D27,0
+STD44857.xlsx,E27,0
+STD44857.xlsx,F27,0
+STD44857.xlsx,G27,0
+STD44857.xlsx,H27,0
+STD44857.xlsx,I27,0
+STD44857.xlsx,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+STD44857.xlsx,C28,0
+STD44857.xlsx,D28,0
+STD44857.xlsx,E28,0
+STD44857.xlsx,F28,0
+STD44857.xlsx,G28,0
+STD44857.xlsx,H28,0
+STD44857.xlsx,I28,0
+STD44857.xlsx,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+STD44857.xlsx,C29,0
+STD44857.xlsx,D29,0
+STD44857.xlsx,E29,0
+STD44857.xlsx,F29,0
+STD44857.xlsx,G29,0
+STD44857.xlsx,H29,0
+STD44857.xlsx,I29,0
+STD44857.xlsx,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+STD44857.xlsx,C30,0
+STD44857.xlsx,D30,0
+STD44857.xlsx,E30,0
+STD44857.xlsx,F30,0
+STD44857.xlsx,G30,0
+STD44857.xlsx,H30,0
+STD44857.xlsx,I30,0
+STD44857.xlsx,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+STD44857.xlsx,I32,-
+STD44857.xlsx,B33,Section 3: Administered Drugs
+STD44857.xlsx,D34,Commercial Insurance/Private Insurance:
+STD44857.xlsx,E34,Medicare:
+STD44857.xlsx,F34,Medicaid (all states):
+STD44857.xlsx,G34,Other Third-Party Payor:
+STD44857.xlsx,H34,Uninsured/Self-Pay:
+STD44857.xlsx,I34,TOTAL:
+STD44857.xlsx,A35,9
+STD44857.xlsx,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+STD44857.xlsx,D35,0
+STD44857.xlsx,E35,0
+STD44857.xlsx,F35,0
+STD44857.xlsx,G35,0
+STD44857.xlsx,H35,0
+STD44857.xlsx,I35,0
+STD44857.xlsx,A36,10
+STD44857.xlsx,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+STD44857.xlsx,C36,Actual Payments
+STD44857.xlsx,D36,0
+STD44857.xlsx,E36,0
+STD44857.xlsx,F36,0
+STD44857.xlsx,G36,0
+STD44857.xlsx,H36,0
+STD44857.xlsx,I36,0
+STD44857.xlsx,C37,Estimated Payments*
+STD44857.xlsx,D37,0
+STD44857.xlsx,E37,0
+STD44857.xlsx,F37,0
+STD44857.xlsx,G37,0
+STD44857.xlsx,H37,0
+STD44857.xlsx,I37,0
+STD44857.xlsx,C38,TOTAL
+STD44857.xlsx,D38,0
+STD44857.xlsx,E38,0
+STD44857.xlsx,F38,0
+STD44857.xlsx,G38,0
+STD44857.xlsx,H38,0
+STD44857.xlsx,I38,0
+STD44857.xlsx,A39,11
+STD44857.xlsx,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+STD44857.xlsx,D39,0
+STD44857.xlsx,E39,0
+STD44857.xlsx,F39,0
+STD44857.xlsx,G39,0
+STD44857.xlsx,H39,[withheld: fewer_than_6]
+STD44857.xlsx,I39,[withheld: fewer_than_6]
+STD44857.xlsx,A40,12
+STD44857.xlsx,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+STD44857.xlsx,D40,0
+STD44857.xlsx,E40,0
+STD44857.xlsx,F40,0
+STD44857.xlsx,G40,0
+STD44857.xlsx,H40,[withheld: fewer_than_6]
+STD44857.xlsx,I40,[withheld: fewer_than_6]
+STD44857.xlsx,A41,13
+STD44857.xlsx,B41,Percentage of total prescriptions that were 340B
+STD44857.xlsx,D41,0
+STD44857.xlsx,E41,0
+STD44857.xlsx,F41,0
+STD44857.xlsx,G41,0
+STD44857.xlsx,H41,[withheld: reveals_small]
+STD44857.xlsx,I41,[withheld: reveals_small]
+STD44857.xlsx,B43,Section 4: Administrative Costs of the 340B Program
+STD44857.xlsx,B45,Payments to External Entities:
+STD44857.xlsx,A46,14
+STD44857.xlsx,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+STD44857.xlsx,C46,-
+STD44857.xlsx,A47,15
+STD44857.xlsx,B47,Total Payments to 340B Third Party Administrators:
+STD44857.xlsx,C47,-
+STD44857.xlsx,A48,16
+STD44857.xlsx,B48,Total Payments to 340B Consulting Entities (including audit support):
+STD44857.xlsx,C48,-
+STD44857.xlsx,A49,17
+STD44857.xlsx,B49,340B Software and Information Technology Costs:
+STD44857.xlsx,C49,-
+STD44857.xlsx,A50,18
+STD44857.xlsx,B50,Other Payments to External Entities:
+STD44857.xlsx,C50,-
+STD44857.xlsx,B52,Internal Costs to Administer the 340B Program
+STD44857.xlsx,A53,19
+STD44857.xlsx,B53,Staffing Costs (340B dedicated):
+STD44857.xlsx,C53,1653
+STD44857.xlsx,A54,20
+STD44857.xlsx,B54,Information Technology Costs:
+STD44857.xlsx,C54,-
+STD44857.xlsx,A55,21
+STD44857.xlsx,B55,Other internal costs:
+STD44857.xlsx,C55,-
+STD44857.xlsx,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+STD44857.xlsx,A59,22
+STD44857.xlsx,B59,Covered Entity's total number of Contract Pharmacies:
+STD44857.xlsx,C59,-
+STD44857.xlsx,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+STD44857.xlsx,C63,Detailed Description of Item:
+STD44857.xlsx,D63,Expenditures from 340B funds:
+STD44857.xlsx,A64,23
+STD44857.xlsx,B64,Programs or Services funded/purchased with 340B funds:
+STD44857.xlsx,B65,Program/Service 1:
+STD44857.xlsx,C65,"STD44857 provides testing, education and treatment of sexually transmitted diseases; medications for uninsured patients are provided by the STI program at ODH per an agreement between HCPH and ODH; All other medications are sent to patients' choice of pharmacy (not associated with HCPH);  Thus, for this particular program, there are no 340B purchases by STD44857"
+STD44857.xlsx,D65,"For STD44857, there is no 340B income.  Expenditures include staff time to conduct inventory, reporting to ODH on a quarterly basis, ordering medications from ODH, administration and documentation of administration of 340B medications. "
+STD44857.xlsx,B66,Program/Service 2:
+STD44857.xlsx,C66,-
+STD44857.xlsx,D66,-
+STD44857.xlsx,B67,Program/Service 3:
+STD44857.xlsx,C67,-
+STD44857.xlsx,D67,-
+STD44857.xlsx,B68,Program/Service 4:
+STD44857.xlsx,C68,-
+STD44857.xlsx,D68,-
+STD44857.xlsx,B69,Program/Service 5:
+STD44857.xlsx,C69,-
+STD44857.xlsx,D69,-
+STD44857.xlsx,B71,Equipment purchased with 340B Funds:
+STD44857.xlsx,B72,Item 1:
+STD44857.xlsx,C72,-
+STD44857.xlsx,D72,-
+STD44857.xlsx,B73,Item 2:
+STD44857.xlsx,C73,-
+STD44857.xlsx,D73,-
+STD44857.xlsx,B74,Item 3:
+STD44857.xlsx,C74,-
+STD44857.xlsx,D74,-
+STD44857.xlsx,B75,Item 4:
+STD44857.xlsx,C75,-
+STD44857.xlsx,D75,-
+STD44857.xlsx,B76,Item 5:
+STD44857.xlsx,C76,-
+STD44857.xlsx,D76,-
+STD44857.xlsx,B78,Other uses of 340B funds not otherwise listed above:
+STD44857.xlsx,C78,-
+STD44857.xlsx,D78,-
+STD44857.xlsx,B80,(Narrative) Provide additional detail/context as necessary:
+STD44857.xlsx,C80,-
+STD44857.xlsx,A82,24
+STD44857.xlsx,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+STD44857.xlsx,C82,-

@@ -21,9 +21,10 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from filings340b.errors import DataError
-from filings340b.forms import OH_EXTRA_PREFIX, OH_INDETERMINATE, OH_PERCENT_OF, form_of
+from filings340b.forms import OH_EXTRA_PREFIX, OH_INDETERMINATE, OH_PERCENT_OF, OH_TOTAL, form_of
 from filings340b.model import Filing, Row, RowKind
-from filings340b.money import parse_count, parse_workbook_amount
+from filings340b.money import parse_count, parse_workbook_amount, parse_workbook_count
+from filings340b.ohio_recovery import published_view, too_few
 from filings340b.smallcounts import (
     BESIDE_SMALL,
     FEWER_THAN,
@@ -128,10 +129,13 @@ def is_unknown(row: Row) -> bool:
     return bool(row.claims_withheld) and row.claims is None
 
 
-def _count_of(filing_id: str, row: Row, held: Held) -> int:
+def _count_of(filing_id: str, row: Row, held: Held, *, workbook: bool = False) -> int:
     where = f"{filing_id} schedule {row.schedule} line {row.line}"
     try:
-        count = parse_count(held.claims_as_filed)
+        if workbook:
+            count = parse_workbook_count(held.claims_as_filed)
+        else:
+            count = parse_count(held.claims_as_filed)
     except ValueError as error:
         raise DataError(f"{where}: the private count is not a count") from error
     if row.claims_withheld == FEWER_THAN and not is_small(count):
@@ -146,6 +150,7 @@ def _count_of(filing_id: str, row: Row, held: Held) -> int:
 def _restored(filing: Filing, held: Mapping[RowKey, Held]) -> Filing:
     rows: list[Row] = []
     reads: dict[SumKey, str] = {}
+    workbook = form_of(filing.meta.form).workbook
     for row in filing.rows:
         if row.claims_withheld:
             key = (filing.meta.filing_id, row.schedule, row.line)
@@ -167,7 +172,7 @@ def _restored(filing: Filing, held: Mapping[RowKey, Held]) -> Filing:
                 row = dataclasses.replace(  # noqa: PLW2901
                     row,
                     claims_as_filed=held[key].claims_as_filed,
-                    claims=_count_of(key[0], row, held[key]),
+                    claims=_count_of(key[0], row, held[key], workbook=workbook),
                 )
         rows.append(row)
     return dataclasses.replace(filing, rows=tuple(rows), held_reads=reads)
@@ -291,6 +296,42 @@ def derived_percentages(rows: Iterable[Row], counts: dict[RowKey, str]) -> dict[
     return out
 
 
+def _workbook_withheld(rows: tuple[Row, ...]) -> dict[RowKey, str]:
+    """Apply the small-number rule to one workbook filing, then close what it leaves open.
+
+    After the rule and the percentages that would give a count away, a reader who knows the
+    template's sums could still narrow some withheld count to one number (a total beside two
+    withheld cells, for example). Each such cell gets the printed total of its row withheld
+    beside it, or failing that its smallest visible neighbour, until no count can be narrowed
+    to a single number.
+    """
+    computed = withheld_rows(rows, lenient=True, apart=_apart)
+    computed.update(derived_percentages(rows, computed))
+    if not rows:
+        return computed
+    filing_id = rows[0].filing_id
+    for _ in range(80):
+        pinned = too_few(published_view(rows, computed))
+        if not pinned:
+            break
+        for schedule, _line in pinned:
+            options = [
+                r
+                for r in rows
+                if r.schedule == schedule
+                and r.claims is not None
+                and r.claims > SMALL_HIGHEST
+                and (filing_id, schedule, r.line) not in computed
+                and not _apart(r.line)
+            ]
+            totals = [r for r in options if r.line == OH_TOTAL]
+            details = sorted(options, key=lambda r: (r.claims or 0, r.line))
+            for row in (*totals, *details)[:1]:
+                computed[(filing_id, schedule, row.line)] = BESIDE_SMALL
+        computed.update(derived_percentages(rows, computed))
+    return computed
+
+
 def withheld_for(filings: Iterable[Filing]) -> dict[RowKey, str]:
     """Return (filing, schedule, line) -> reason for every row whose figure is not published.
 
@@ -308,8 +349,7 @@ def withheld_for(filings: Iterable[Filing]) -> dict[RowKey, str]:
             out.update(marks)
             continue
         if form_of(filing.meta.form).workbook:
-            computed = withheld_rows(filing.rows, lenient=True, apart=_apart)
-            computed.update(derived_percentages(filing.rows, computed))
+            computed = _workbook_withheld(filing.rows)
         else:
             computed = withheld_rows(filing.rows)
         for key, reason in marks.items():

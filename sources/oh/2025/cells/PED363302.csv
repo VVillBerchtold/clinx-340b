@@ -1,0 +1,308 @@
+sheet,cell,value
+RBC,B1,Ohio Department of Health
+RBC,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+RBC,B4,Reporting Period:
+RBC,C4,"January 1, 2025 - December 31, 2025"
+RBC,B5,Primary Contact Name:
+RBC,C5,[contact detail withheld]
+RBC,B6,Email:
+RBC,C6,[contact detail withheld]
+RBC,B7,Phone Number:
+RBC,C7,[contact detail withheld]
+RBC,A8,Data Element
+RBC,B8,HRSA 340B ID:
+RBC,C8,PED363302-00
+RBC,D9,Lettered Prefix:
+RBC,E9,Number:
+RBC,A10,1
+RBC,D10,PED
+RBC,E10,363302
+RBC,C12,NPI1
+RBC,D12,NPI2
+RBC,E12,NPI3
+RBC,F12,NPI4
+RBC,G12,NPI5
+RBC,H12,NPI6
+RBC,I12,NPI7
+RBC,J12,NPI8
+RBC,K12,NPI9
+RBC,L12,NPI10
+RBC,M12,NPI11
+RBC,N12,NPI12
+RBC,O12,NPI13
+RBC,P12,NPI14
+RBC,Q12,NPI15
+RBC,R12,NPI16
+RBC,S12,NPI17
+RBC,T12,NPI18
+RBC,U12,NPI19
+RBC,V12,NPI20
+RBC,A13,2
+RBC,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+RBC,C13,1518042175
+RBC,D13,-
+RBC,E13,-
+RBC,F13,-
+RBC,G13,-
+RBC,H13,-
+RBC,I13,-
+RBC,J13,-
+RBC,K13,-
+RBC,L13,-
+RBC,M13,-
+RBC,N13,-
+RBC,O13,-
+RBC,P13,-
+RBC,Q13,-
+RBC,R13,-
+RBC,S13,-
+RBC,T13,-
+RBC,U13,-
+RBC,V13,-
+RBC,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+RBC,C16,Commercial Insurance/Private Insurance:
+RBC,D16,Medicare:
+RBC,E16,Medicaid (all states):
+RBC,F16,Other Third-Party Payor:
+RBC,G16,Uninsured/Self-Pay:
+RBC,H16,TOTAL:
+RBC,A17,3
+RBC,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+RBC,C17,0
+RBC,D17,0
+RBC,E17,0
+RBC,F17,0
+RBC,G17,0
+RBC,H17,0
+RBC,A18,4
+RBC,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+RBC,C18,0
+RBC,D18,0
+RBC,E18,0
+RBC,F18,0
+RBC,G18,0
+RBC,H18,0
+RBC,A19,5
+RBC,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+RBC,C19,0
+RBC,D19,0
+RBC,E19,0
+RBC,F19,0
+RBC,G19,0
+RBC,H19,0
+RBC,A20,6
+RBC,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+RBC,C20,0
+RBC,D20,0
+RBC,E20,0
+RBC,F20,0
+RBC,G20,0
+RBC,H20,0
+RBC,A21,7
+RBC,B21,Percentage of total prescriptions that were 340B
+RBC,C21,#DIV/0!
+RBC,D21,#DIV/0!
+RBC,E21,#DIV/0!
+RBC,F21,#DIV/0!
+RBC,G21,#DIV/0!
+RBC,H21,#DIV/0!
+RBC,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+RBC,A25,8
+RBC,C25,Commercial Insurance/Private Insurance:
+RBC,D25,Medicare:
+RBC,E25,Medicaid (all states):
+RBC,F25,Other Third-Party Payor:
+RBC,G25,Uninsured/Self-Pay:
+RBC,H25,Indeterminate (Explain)
+RBC,I25,TOTAL:
+RBC,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+RBC,C26,11811628.970000001
+RBC,D26,0
+RBC,E26,0
+RBC,F26,636123.32999999996
+RBC,G26,139795.42000000001
+RBC,H26,5786.72
+RBC,I26,12587547.720000001
+RBC,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+RBC,C27,17307509.149999999
+RBC,D27,0
+RBC,E27,0
+RBC,F27,932107.7
+RBC,G27,204841.39
+RBC,H27,17766.72
+RBC,I27,18444458.239999998
+RBC,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+RBC,C28,81819
+RBC,D28,0
+RBC,E28,34587
+RBC,F28,14499
+RBC,G28,5662
+RBC,H28,42
+RBC,I28,136567
+RBC,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+RBC,C29,5763
+RBC,D29,0
+RBC,E29,0
+RBC,F29,310
+RBC,G29,68
+RBC,H29,9
+RBC,I29,6141
+RBC,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+RBC,C30,7.0435962307043587
+RBC,D30,#DIV/0!
+RBC,E30,0
+RBC,F30,2.138078488171598
+RBC,G30,1.2009890498057225
+RBC,H30,21.428571428571427
+RBC,I30,4.4966939304517197
+RBC,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+RBC,I32,"Due to limited visibility into claims and payor data, report infusion contract data as “indeterminate”."
+RBC,B33,Section 3: Administered Drugs
+RBC,D34,Commercial Insurance/Private Insurance:
+RBC,E34,Medicare:
+RBC,F34,Medicaid (all states):
+RBC,G34,Other Third-Party Payor:
+RBC,H34,Uninsured/Self-Pay:
+RBC,I34,TOTAL:
+RBC,A35,9
+RBC,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+RBC,D35,1085637.6446898992
+RBC,E35,297106.72514040221
+RBC,F35,847769.27165732381
+RBC,G35,9415.7462574661295
+RBC,H35,2362957.3156230398
+RBC,I35,4602886.7033681311
+RBC,A36,10
+RBC,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+RBC,C36,Actual Payments
+RBC,D36,138468.65
+RBC,E36,37894.75
+RBC,F36,108129.51
+RBC,G36,1200.94
+RBC,H36,301385.56
+RBC,I36,587079.40999999992
+RBC,C37,Estimated Payments*
+RBC,D37,0
+RBC,E37,0
+RBC,F37,0
+RBC,G37,0
+RBC,H37,0
+RBC,I37,0
+RBC,C38,TOTAL
+RBC,D38,138468.65
+RBC,E38,37894.75
+RBC,F38,108129.51
+RBC,G38,1200.94
+RBC,H38,301385.56
+RBC,I38,587079.40999999992
+RBC,A39,11
+RBC,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+RBC,D39,22965
+RBC,E39,85872
+RBC,F39,8974
+RBC,G39,5420
+RBC,H39,29
+RBC,I39,123260
+RBC,A40,12
+RBC,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+RBC,D40,27504
+RBC,E40,7527
+RBC,F40,21478
+RBC,G40,239
+RBC,H40,59865
+RBC,I40,116613
+RBC,A41,13
+RBC,B41,Percentage of total prescriptions that were 340B
+RBC,D41,119.76485956890922
+RBC,E41,8.7653717160424822
+RBC,F41,239.33585914865168
+RBC,G41,4.4095940959409594
+RBC,H41,206431.03448275861
+RBC,I41,94.60733409054032
+RBC,B43,Section 4: Administrative Costs of the 340B Program
+RBC,B45,Payments to External Entities:
+RBC,A46,14
+RBC,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+RBC,C46,113937.62
+RBC,A47,15
+RBC,B47,Total Payments to 340B Third Party Administrators:
+RBC,C47,178042.48736842105
+RBC,A48,16
+RBC,B48,Total Payments to 340B Consulting Entities (including audit support):
+RBC,C48,995.69942399999991
+RBC,A49,17
+RBC,B49,340B Software and Information Technology Costs:
+RBC,C49,0
+RBC,A50,18
+RBC,B50,Other Payments to External Entities:
+RBC,C50,952.43419999999992
+RBC,B52,Internal Costs to Administer the 340B Program
+RBC,A53,19
+RBC,B53,Staffing Costs (340B dedicated):
+RBC,C53,19464.22135
+RBC,A54,20
+RBC,B54,Information Technology Costs:
+RBC,C54,0
+RBC,A55,21
+RBC,B55,Other internal costs:
+RBC,C55,0
+RBC,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+RBC,A59,22
+RBC,B59,Covered Entity's total number of Contract Pharmacies:
+RBC,C59,177
+RBC,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+RBC,C63,Detailed Description of Item:
+RBC,D63,Expenditures from 340B funds:
+RBC,A64,23
+RBC,B64,Programs or Services funded/purchased with 340B funds:
+RBC,B65,Program/Service 1:
+RBC,C65,-
+RBC,D65,-
+RBC,B66,Program/Service 2:
+RBC,C66,-
+RBC,D66,-
+RBC,B67,Program/Service 3:
+RBC,C67,-
+RBC,D67,-
+RBC,B68,Program/Service 4:
+RBC,C68,-
+RBC,D68,-
+RBC,B69,Program/Service 5:
+RBC,C69,-
+RBC,D69,-
+RBC,B71,Equipment purchased with 340B Funds:
+RBC,B72,Item 1:
+RBC,C72,-
+RBC,D72,-
+RBC,B73,Item 2:
+RBC,C73,-
+RBC,D73,-
+RBC,B74,Item 3:
+RBC,C74,-
+RBC,D74,-
+RBC,B75,Item 4:
+RBC,C75,-
+RBC,D75,-
+RBC,B76,Item 5:
+RBC,C76,-
+RBC,D76,-
+RBC,B78,Other uses of 340B funds not otherwise listed above:
+RBC,C78,-
+RBC,D78,-
+RBC,B80,(Narrative) Provide additional detail/context as necessary:
+RBC,C80,-
+RBC,A82,24
+RBC,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+RBC,C82,"340B savings help support University Hospitals’ overall capacity to provide community benefit, which totaled $511 million in 2024. These resources play an important role in sustaining a wide range of programs and services that benefit our patients and community. These supports include:
+
+Financial assistance for patients who are unable to afford hospital care, physician care and/or medications
+Medication access services to help patients navigate insurance requirements and reduce financial barriers
+Patient engagement programs focused on refill management and improving adherence to therapy
+Clinical services, including pharmacists embedded in provider offices and ongoing care management
+Education and training by preparing future generations of caregivers
+Transportation assistance
+Home health services
+Community outreach initiatives
+Medicaid shortfall and other uncompensated care
+Support for medical research
+In-kind contributions to community organizations"

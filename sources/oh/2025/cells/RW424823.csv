@@ -1,0 +1,296 @@
+sheet,cell,value
+Part D,B1,Ohio Department of Health
+Part D,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Part D,B4,Reporting Period:
+Part D,C4,"January 1, 2025 - December 31, 2025"
+Part D,B5,Primary Contact Name:
+Part D,C5,[contact detail withheld]
+Part D,B6,Email:
+Part D,C6,[contact detail withheld]
+Part D,B7,Phone Number:
+Part D,C7,[contact detail withheld]
+Part D,A8,Data Element
+Part D,B8,HRSA 340B ID:
+Part D,C8,RW424823
+Part D,D9,Lettered Prefix:
+Part D,E9,Number:
+Part D,A10,1
+Part D,D10,RW
+Part D,E10,424823
+Part D,C12,NPI1
+Part D,D12,NPI2
+Part D,E12,NPI3
+Part D,F12,NPI4
+Part D,G12,NPI5
+Part D,H12,NPI6
+Part D,I12,NPI7
+Part D,J12,NPI8
+Part D,K12,NPI9
+Part D,L12,NPI10
+Part D,M12,NPI11
+Part D,N12,NPI12
+Part D,O12,NPI13
+Part D,P12,NPI14
+Part D,Q12,NPI15
+Part D,R12,NPI16
+Part D,S12,NPI17
+Part D,T12,NPI18
+Part D,U12,NPI19
+Part D,V12,NPI20
+Part D,A13,2
+Part D,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Part D,C13,1043397292
+Part D,D13,-
+Part D,E13,-
+Part D,F13,-
+Part D,G13,-
+Part D,H13,-
+Part D,I13,-
+Part D,J13,-
+Part D,K13,-
+Part D,L13,-
+Part D,M13,-
+Part D,N13,-
+Part D,O13,-
+Part D,P13,-
+Part D,Q13,-
+Part D,R13,-
+Part D,S13,-
+Part D,T13,-
+Part D,U13,-
+Part D,V13,-
+Part D,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Part D,C16,Commercial Insurance/Private Insurance:
+Part D,D16,Medicare:
+Part D,E16,Medicaid (all states):
+Part D,F16,Other Third-Party Payor:
+Part D,G16,Uninsured/Self-Pay:
+Part D,H16,TOTAL:
+Part D,A17,3
+Part D,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Part D,C17,N/A
+Part D,D17,N/A
+Part D,E17,N/A
+Part D,F17,N/A
+Part D,G17,N/A
+Part D,H17,0
+Part D,A18,4
+Part D,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Part D,C18,N/A
+Part D,D18,N/A
+Part D,E18,N/A
+Part D,F18,N/A
+Part D,G18,N/A
+Part D,H18,0
+Part D,A19,5
+Part D,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Part D,C19,N/A
+Part D,D19,N/A
+Part D,E19,N/A
+Part D,F19,N/A
+Part D,G19,N/A
+Part D,H19,0
+Part D,A20,6
+Part D,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Part D,C20,N/A
+Part D,D20,N/A
+Part D,E20,N/A
+Part D,F20,N/A
+Part D,G20,N/A
+Part D,H20,0
+Part D,A21,7
+Part D,B21,Percentage of total prescriptions that were 340B
+Part D,C21,#VALUE!
+Part D,D21,#VALUE!
+Part D,E21,#VALUE!
+Part D,F21,#VALUE!
+Part D,G21,#VALUE!
+Part D,H21,#DIV/0!
+Part D,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Part D,A25,8
+Part D,C25,Commercial Insurance/Private Insurance:
+Part D,D25,Medicare:
+Part D,E25,Medicaid (all states):
+Part D,F25,Other Third-Party Payor:
+Part D,G25,Uninsured/Self-Pay:
+Part D,H25,Indeterminate (Explain)
+Part D,I25,TOTAL:
+Part D,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Part D,C26,37910.699999999997
+Part D,D26,33618.93
+Part D,E26,0
+Part D,F26,0
+Part D,G26,0
+Part D,H26,0
+Part D,I26,71529.63
+Part D,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Part D,C27,202552.57
+Part D,D27,15365.01
+Part D,E27,0
+Part D,F27,15169.65
+Part D,G27,0
+Part D,H27,0
+Part D,I27,233087.23
+Part D,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Part D,C28,177
+Part D,D28,49
+Part D,E28,225
+Part D,F28,0
+Part D,G28,0
+Part D,H28,0
+Part D,I28,451
+Part D,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Part D,C29,43
+Part D,D29,6
+Part D,E29,0
+Part D,F29,0
+Part D,G29,0
+Part D,H29,0
+Part D,I29,49
+Part D,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Part D,C30,24.293785310734464
+Part D,D30,12.244897959183673
+Part D,E30,0
+Part D,F30,#DIV/0!
+Part D,G30,#DIV/0!
+Part D,H30,#DIV/0!
+Part D,I30,10.864745011086473
+Part D,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Part D,I32,-
+Part D,B33,Section 3: Administered Drugs
+Part D,D34,Commercial Insurance/Private Insurance:
+Part D,E34,Medicare:
+Part D,F34,Medicaid (all states):
+Part D,G34,Other Third-Party Payor:
+Part D,H34,Uninsured/Self-Pay:
+Part D,I34,TOTAL:
+Part D,A35,9
+Part D,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Part D,D35,N/A
+Part D,E35,N/A
+Part D,F35,N/A
+Part D,G35,N/A
+Part D,H35,N/A
+Part D,I35,0
+Part D,A36,10
+Part D,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Part D,C36,Actual Payments
+Part D,D36,N/A
+Part D,E36,N/A
+Part D,F36,N/A
+Part D,G36,N/A
+Part D,H36,N/A
+Part D,I36,0
+Part D,C37,Estimated Payments*
+Part D,D37,N/A
+Part D,E37,N/A
+Part D,F37,N/A
+Part D,G37,N/A
+Part D,H37,N/A
+Part D,I37,0
+Part D,C38,TOTAL
+Part D,D38,N/A
+Part D,E38,N/A
+Part D,F38,N/A
+Part D,G38,N/A
+Part D,H38,N/A
+Part D,I38,0
+Part D,A39,11
+Part D,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Part D,D39,N/A
+Part D,E39,N/A
+Part D,F39,N/A
+Part D,G39,N/A
+Part D,H39,N/A
+Part D,I39,0
+Part D,A40,12
+Part D,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Part D,D40,N/A
+Part D,E40,N/A
+Part D,F40,N/A
+Part D,G40,N/A
+Part D,H40,N/A
+Part D,I40,0
+Part D,A41,13
+Part D,B41,Percentage of total prescriptions that were 340B
+Part D,D41,#VALUE!
+Part D,E41,#VALUE!
+Part D,F41,#VALUE!
+Part D,G41,#VALUE!
+Part D,H41,#VALUE!
+Part D,I41,#DIV/0!
+Part D,B43,Section 4: Administrative Costs of the 340B Program
+Part D,B45,Payments to External Entities:
+Part D,A46,14
+Part D,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Part D,C46,2550
+Part D,A47,15
+Part D,B47,Total Payments to 340B Third Party Administrators:
+Part D,C47,0
+Part D,A48,16
+Part D,B48,Total Payments to 340B Consulting Entities (including audit support):
+Part D,C48,0
+Part D,A49,17
+Part D,B49,340B Software and Information Technology Costs:
+Part D,C49,0
+Part D,A50,18
+Part D,B50,Other Payments to External Entities:
+Part D,C50,0
+Part D,B52,Internal Costs to Administer the 340B Program
+Part D,A53,19
+Part D,B53,Staffing Costs (340B dedicated):
+Part D,C53,20535.560000000001
+Part D,A54,20
+Part D,B54,Information Technology Costs:
+Part D,C54,0
+Part D,A55,21
+Part D,B55,Other internal costs:
+Part D,C55,0
+Part D,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Part D,A59,22
+Part D,B59,Covered Entity's total number of Contract Pharmacies:
+Part D,C59,1
+Part D,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Part D,C63,Detailed Description of Item:
+Part D,D63,Expenditures from 340B funds:
+Part D,A64,23
+Part D,B64,Programs or Services funded/purchased with 340B funds:
+Part D,B65,Program/Service 1:
+Part D,C65,-
+Part D,D65,-
+Part D,B66,Program/Service 2:
+Part D,C66,-
+Part D,D66,-
+Part D,B67,Program/Service 3:
+Part D,C67,-
+Part D,D67,-
+Part D,B68,Program/Service 4:
+Part D,C68,-
+Part D,D68,-
+Part D,B69,Program/Service 5:
+Part D,C69,-
+Part D,D69,-
+Part D,B71,Equipment purchased with 340B Funds:
+Part D,B72,Item 1:
+Part D,C72,-
+Part D,D72,-
+Part D,B73,Item 2:
+Part D,C73,-
+Part D,D73,-
+Part D,B74,Item 3:
+Part D,C74,-
+Part D,D74,-
+Part D,B75,Item 4:
+Part D,C75,-
+Part D,D75,-
+Part D,B76,Item 5:
+Part D,C76,-
+Part D,D76,-
+Part D,B78,Other uses of 340B funds not otherwise listed above:
+Part D,C78,-
+Part D,D78,-
+Part D,B80,(Narrative) Provide additional detail/context as necessary:
+Part D,C80,-
+Part D,A82,24
+Part D,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Part D,C82,"The Ryan White Part D grant provides services to women and youth under 25. Patients currently enrolled in the Ryan White program are eligible for medication and copay support, transportation vouchers, as well as medical, lab, dental,  and psychosocial services provided by staff supported by program income from 340B revenue. Part D funds also support the Women's support group,  Youth support group and Yoga classes provided in our clinic space as well as community outreach at public events like PRIDE and World AIDS Day. We also host regularly scheduled events at local libraries and community centers  that provide free HIV testing  and  link patients to care and resources. Ryan White grant programs are audited annually for program integrity both internally and by the funding source."

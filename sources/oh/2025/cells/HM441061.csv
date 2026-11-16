@@ -1,0 +1,300 @@
+sheet,cell,value
+HTC,B1,Ohio Department of Health
+HTC,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+HTC,B4,Reporting Period:
+HTC,C4,"January 1, 2025 - December 31, 2025"
+HTC,B5,Primary Contact Name:
+HTC,C5,[contact detail withheld]
+HTC,B6,Email:
+HTC,C6,[contact detail withheld]
+HTC,B7,Phone Number:
+HTC,C7,[contact detail withheld]
+HTC,A8,Data Element
+HTC,B8,HRSA 340B ID:
+HTC,C8,HM441061
+HTC,D9,Lettered Prefix:
+HTC,E9,Number:
+HTC,A10,1
+HTC,D10,HM
+HTC,E10,441061
+HTC,C12,NPI1
+HTC,D12,NPI2
+HTC,E12,NPI3
+HTC,F12,NPI4
+HTC,G12,NPI5
+HTC,H12,NPI6
+HTC,I12,NPI7
+HTC,J12,NPI8
+HTC,K12,NPI9
+HTC,L12,NPI10
+HTC,M12,NPI11
+HTC,N12,NPI12
+HTC,O12,NPI13
+HTC,P12,NPI14
+HTC,Q12,NPI15
+HTC,R12,NPI16
+HTC,S12,NPI17
+HTC,T12,NPI18
+HTC,U12,NPI19
+HTC,V12,NPI20
+HTC,A13,2
+HTC,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+HTC,C13,1043397292
+HTC,D13,-
+HTC,E13,-
+HTC,F13,-
+HTC,G13,-
+HTC,H13,-
+HTC,I13,-
+HTC,J13,-
+HTC,K13,-
+HTC,L13,-
+HTC,M13,-
+HTC,N13,-
+HTC,O13,-
+HTC,P13,-
+HTC,Q13,-
+HTC,R13,-
+HTC,S13,-
+HTC,T13,-
+HTC,U13,-
+HTC,V13,-
+HTC,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+HTC,C16,Commercial Insurance/Private Insurance:
+HTC,D16,Medicare:
+HTC,E16,Medicaid (all states):
+HTC,F16,Other Third-Party Payor:
+HTC,G16,Uninsured/Self-Pay:
+HTC,H16,TOTAL:
+HTC,A17,3
+HTC,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+HTC,D17,0
+HTC,E17,0
+HTC,F17,0
+HTC,G17,0
+HTC,H17,0
+HTC,A18,4
+HTC,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+HTC,D18,0
+HTC,E18,0
+HTC,F18,0
+HTC,G18,0
+HTC,H18,0
+HTC,A19,5
+HTC,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+HTC,D19,0
+HTC,E19,0
+HTC,F19,0
+HTC,G19,0
+HTC,H19,0
+HTC,A20,6
+HTC,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+HTC,D20,0
+HTC,E20,0
+HTC,F20,0
+HTC,G20,0
+HTC,H20,0
+HTC,A21,7
+HTC,B21,Percentage of total prescriptions that were 340B
+HTC,C21,#DIV/0!
+HTC,D21,#DIV/0!
+HTC,E21,#DIV/0!
+HTC,F21,#DIV/0!
+HTC,G21,#DIV/0!
+HTC,H21,#DIV/0!
+HTC,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+HTC,A25,8
+HTC,C25,Commercial Insurance/Private Insurance:
+HTC,D25,Medicare:
+HTC,E25,Medicaid (all states):
+HTC,F25,Other Third-Party Payor:
+HTC,G25,Uninsured/Self-Pay:
+HTC,H25,Indeterminate (Explain)
+HTC,I25,TOTAL:
+HTC,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+HTC,C26,16026792.08
+HTC,D26,588139.16
+HTC,E26,0
+HTC,F26,0
+HTC,G26,0
+HTC,H26,0
+HTC,I26,16614931.24
+HTC,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+HTC,C27,11925543.91
+HTC,D27,437634.64
+HTC,E27,0
+HTC,F27,0
+HTC,G27,0
+HTC,H27,0
+HTC,I27,12363178.550000001
+HTC,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+HTC,C28,342
+HTC,D28,12
+HTC,E28,245
+HTC,F28,0
+HTC,G28,0
+HTC,H28,0
+HTC,I28,599
+HTC,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+HTC,C29,434
+HTC,D29,16
+HTC,E29,0
+HTC,F29,0
+HTC,G29,0
+HTC,H29,0
+HTC,I29,450
+HTC,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+HTC,C30,126.90058479532165
+HTC,D30,133.33333333333331
+HTC,E30,0
+HTC,F30,#DIV/0!
+HTC,G30,#DIV/0!
+HTC,H30,#DIV/0!
+HTC,I30,75.12520868113522
+HTC,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+HTC,I32,-
+HTC,B33,Section 3: Administered Drugs
+HTC,D34,Commercial Insurance/Private Insurance:
+HTC,E34,Medicare:
+HTC,F34,Medicaid (all states):
+HTC,G34,Other Third-Party Payor:
+HTC,H34,Uninsured/Self-Pay:
+HTC,I34,TOTAL:
+HTC,A35,9
+HTC,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+HTC,D35,0
+HTC,E35,0
+HTC,F35,0
+HTC,G35,0
+HTC,H35,0
+HTC,I35,0
+HTC,A36,10
+HTC,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+HTC,C36,Actual Payments
+HTC,D36,0
+HTC,E36,0
+HTC,F36,0
+HTC,G36,0
+HTC,H36,0
+HTC,I36,0
+HTC,C37,Estimated Payments*
+HTC,D37,0
+HTC,E37,0
+HTC,F37,0
+HTC,G37,0
+HTC,H37,0
+HTC,I37,0
+HTC,C38,TOTAL
+HTC,D38,0
+HTC,E38,0
+HTC,F38,0
+HTC,G38,0
+HTC,H38,0
+HTC,I38,0
+HTC,A39,11
+HTC,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+HTC,D39,0
+HTC,E39,0
+HTC,F39,0
+HTC,G39,0
+HTC,H39,0
+HTC,I39,0
+HTC,A40,12
+HTC,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+HTC,D40,0
+HTC,E40,0
+HTC,F40,0
+HTC,G40,0
+HTC,H40,0
+HTC,I40,0
+HTC,A41,13
+HTC,B41,Percentage of total prescriptions that were 340B
+HTC,D41,#DIV/0!
+HTC,E41,#DIV/0!
+HTC,F41,#DIV/0!
+HTC,G41,#DIV/0!
+HTC,H41,#DIV/0!
+HTC,I41,#DIV/0!
+HTC,B43,Section 4: Administrative Costs of the 340B Program
+HTC,B45,Payments to External Entities:
+HTC,A46,14
+HTC,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+HTC,C46,80785.8
+HTC,A47,15
+HTC,B47,Total Payments to 340B Third Party Administrators:
+HTC,C47,0
+HTC,A48,16
+HTC,B48,Total Payments to 340B Consulting Entities (including audit support):
+HTC,C48,0
+HTC,A49,17
+HTC,B49,340B Software and Information Technology Costs:
+HTC,C49,0
+HTC,A50,18
+HTC,B50,Other Payments to External Entities:
+HTC,C50,0
+HTC,B52,Internal Costs to Administer the 340B Program
+HTC,A53,19
+HTC,B53,Staffing Costs (340B dedicated):
+HTC,C53,469183.99999999924
+HTC,A54,20
+HTC,B54,Information Technology Costs:
+HTC,C54,-
+HTC,A55,21
+HTC,B55,Other internal costs:
+HTC,C55,-
+HTC,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+HTC,A59,22
+HTC,B59,Covered Entity's total number of Contract Pharmacies:
+HTC,C59,9
+HTC,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+HTC,C63,Detailed Description of Item:
+HTC,D63,Expenditures from 340B funds:
+HTC,A64,23
+HTC,B64,Programs or Services funded/purchased with 340B funds:
+HTC,B65,Program/Service 1:
+HTC,C65,-
+HTC,D65,-
+HTC,B66,Program/Service 2:
+HTC,C66,-
+HTC,D66,-
+HTC,B67,Program/Service 3:
+HTC,C67,-
+HTC,D67,-
+HTC,B68,Program/Service 4:
+HTC,C68,-
+HTC,D68,-
+HTC,B69,Program/Service 5:
+HTC,C69,-
+HTC,D69,-
+HTC,B71,Equipment purchased with 340B Funds:
+HTC,B72,Item 1:
+HTC,C72,-
+HTC,D72,-
+HTC,B73,Item 2:
+HTC,C73,-
+HTC,D73,-
+HTC,B74,Item 3:
+HTC,C74,-
+HTC,D74,-
+HTC,B75,Item 4:
+HTC,C75,-
+HTC,D75,-
+HTC,B76,Item 5:
+HTC,C76,-
+HTC,D76,-
+HTC,B78,Other uses of 340B funds not otherwise listed above:
+HTC,C78,-
+HTC,D78,-
+HTC,B80,(Narrative) Provide additional detail/context as necessary:
+HTC,C80,-
+HTC,A82,24
+HTC,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+HTC,C82,"The Comprehensive Hemophilia Treatment Center (HTC) at University Hospitals is a 340B Covered Entity that utilizes funds generated through its 340B program to offer programs and services that benefit our patients and other members of the bleeding disorder community. These programs and services include:
+•	Medication access and care coordination services to help patients navigate insurance requirements, reduce financial barriers, and coordinate specialty care
+•	Patient engagement programs focused on refill management and improving adherence to treatment plans
+•	Education & Training for multi-disciplinary HTC staff members to ensure best possible care for patients
+•	Transportation and Access to Care assistance
+•	Home Health Services
+•	Community Outreach & Education Initiatives
+•	In-kind contributions to community organizations
+Through these efforts, our Hemophilia Treatment Center enhances access to comprehensive care, improves health outcomes, reduces barriers to treatment, and provides meaningful community benefit for individuals and families affected by bleeding disorders. Participation in the 340B Program enables our organization to strengthen services that support the long-term health and well-being of patients across Northeast Ohio."

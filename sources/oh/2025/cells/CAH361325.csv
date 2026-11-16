@@ -1,0 +1,334 @@
+sheet,cell,value
+Sheet1,B1,Ohio Department of Health
+Sheet1,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Sheet1,B4,Reporting Period:
+Sheet1,C4,"January 1, 2025 - December 31, 2025"
+Sheet1,B5,Primary Contact Name:
+Sheet1,C5,[contact detail withheld]
+Sheet1,B6,Email:
+Sheet1,C6,[contact detail withheld]
+Sheet1,B7,Phone Number:
+Sheet1,C7,[contact detail withheld]
+Sheet1,A8,Data Element
+Sheet1,B8,HRSA 340B ID:
+Sheet1,C8,CAH361325
+Sheet1,D9,Lettered Prefix:
+Sheet1,E9,Number:
+Sheet1,A10,1
+Sheet1,D10,CAH
+Sheet1,E10,361325
+Sheet1,C12,NPI1
+Sheet1,D12,NPI2
+Sheet1,E12,NPI3
+Sheet1,F12,NPI4
+Sheet1,G12,NPI5
+Sheet1,H12,NPI6
+Sheet1,I12,NPI7
+Sheet1,J12,NPI8
+Sheet1,K12,NPI9
+Sheet1,L12,NPI10
+Sheet1,M12,NPI11
+Sheet1,N12,NPI12
+Sheet1,O12,NPI13
+Sheet1,P12,NPI14
+Sheet1,Q12,NPI15
+Sheet1,R12,NPI16
+Sheet1,S12,NPI17
+Sheet1,T12,NPI18
+Sheet1,U12,NPI19
+Sheet1,V12,NPI20
+Sheet1,A13,2
+Sheet1,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Sheet1,C13,1023322674
+Sheet1,D13,1063778827
+Sheet1,E13,1124376108
+Sheet1,F13,1164655981
+Sheet1,G13,1194154294
+Sheet1,H13,1205205366
+Sheet1,I13,1215285259
+Sheet1,J13,1215907522
+Sheet1,K13,1275765653
+Sheet1,L13,1487734984
+Sheet1,M13,1689806887
+Sheet1,N13,1750882262
+Sheet1,O13,1790918514
+Sheet1,P13,1861749376
+Sheet1,Q13,1871563106
+Sheet1,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Sheet1,C16,Commercial Insurance/Private Insurance:
+Sheet1,D16,Medicare:
+Sheet1,E16,Medicaid (all states):
+Sheet1,F16,Other Third-Party Payor:
+Sheet1,G16,Uninsured/Self-Pay:
+Sheet1,H16,TOTAL:
+Sheet1,A17,3
+Sheet1,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Sheet1,C17,1454114.4
+Sheet1,D17,274831.12
+Sheet1,E17,178602.4
+Sheet1,F17,32883.11
+Sheet1,G17,104.32
+Sheet1,H17,1940535.35
+Sheet1,A18,4
+Sheet1,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Sheet1,C18,3467251.09
+Sheet1,D18,650587.82000000007
+Sheet1,E18,434211.63
+Sheet1,F18,75038.53
+Sheet1,G18,236.78000000000003
+Sheet1,H18,4627325.8500000006
+Sheet1,A19,5
+Sheet1,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Sheet1,C19,32189
+Sheet1,D19,6836
+Sheet1,E19,13201
+Sheet1,F19,559
+Sheet1,G19,116
+Sheet1,H19,52901
+Sheet1,A20,6
+Sheet1,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Sheet1,C20,11475
+Sheet1,D20,1642
+Sheet1,E20,4825
+Sheet1,F20,160
+Sheet1,G20,53
+Sheet1,H20,18155
+Sheet1,A21,7
+Sheet1,B21,Percentage of total prescriptions that were 340B
+Sheet1,C21,35.648824132467617
+Sheet1,D21,24.019894675248686
+Sheet1,E21,36.55026134383759
+Sheet1,F21,28.622540250447226
+Sheet1,G21,45.689655172413794
+Sheet1,H21,34.318821950435719
+Sheet1,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Sheet1,A25,8
+Sheet1,C25,Commercial Insurance/Private Insurance:
+Sheet1,D25,Medicare:
+Sheet1,E25,Medicaid (all states):
+Sheet1,F25,Other Third-Party Payor:
+Sheet1,G25,Uninsured/Self-Pay:
+Sheet1,H25,Indeterminate (Explain)
+Sheet1,I25,TOTAL:
+Sheet1,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Sheet1,C26,162767.06
+Sheet1,D26,226931.32
+Sheet1,E26,261187.28
+Sheet1,F26,6705.97
+Sheet1,G26,19831.73
+Sheet1,H26,0
+Sheet1,I26,677423.36
+Sheet1,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Sheet1,C27,318370.20999999996
+Sheet1,D27,476187.9
+Sheet1,E27,568948.30000000005
+Sheet1,F27,16081.06
+Sheet1,G27,41497.380000000005
+Sheet1,H27,0
+Sheet1,I27,1421084.85
+Sheet1,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Sheet1,C28,79472
+Sheet1,D28,101633
+Sheet1,E28,80504
+Sheet1,F28,2953
+Sheet1,G28,16544
+Sheet1,H28,0
+Sheet1,I28,281106
+Sheet1,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Sheet1,C29,2734
+Sheet1,D29,3771
+Sheet1,E29,3071
+Sheet1,F29,140
+Sheet1,G29,1151
+Sheet1,H29,0
+Sheet1,I29,10867
+Sheet1,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Sheet1,C30,3.4402053553452787
+Sheet1,D30,3.7104090206920981
+Sheet1,E30,3.8147172811288885
+Sheet1,F30,4.740941415509651
+Sheet1,G30,6.9572050290135401
+Sheet1,H30,#DIV/0!
+Sheet1,I30,3.865801512596672
+Sheet1,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+Sheet1,I32,-
+Sheet1,B33,Section 3: Administered Drugs
+Sheet1,D34,Commercial Insurance/Private Insurance:
+Sheet1,E34,Medicare:
+Sheet1,F34,Medicaid (all states):
+Sheet1,G34,Other Third-Party Payor:
+Sheet1,H34,Uninsured/Self-Pay:
+Sheet1,I34,TOTAL:
+Sheet1,A35,9
+Sheet1,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Sheet1,D35,6062587.8700000001
+Sheet1,E35,5996168.4100000001
+Sheet1,F35,984977.79
+Sheet1,G35,635787.61
+Sheet1,H35,27684.44
+Sheet1,I35,13707206.119999999
+Sheet1,A36,10
+Sheet1,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Sheet1,C36,Actual Payments
+Sheet1,I36,0
+Sheet1,C37,Estimated Payments*
+Sheet1,D37,7839259.2599999998
+Sheet1,E37,7716785.1200000001
+Sheet1,F37,951009.28000000003
+Sheet1,G37,799214.15
+Sheet1,H37,35557.93
+Sheet1,I37,17341825.739999998
+Sheet1,C38,TOTAL
+Sheet1,D38,7839259.2599999998
+Sheet1,E38,7716785.1200000001
+Sheet1,F38,951009.28000000003
+Sheet1,G38,799214.15
+Sheet1,H38,35557.93
+Sheet1,I38,17341825.739999998
+Sheet1,A39,11
+Sheet1,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Sheet1,D39,72731
+Sheet1,E39,72208
+Sheet1,F39,10563
+Sheet1,G39,7445
+Sheet1,H39,334
+Sheet1,I39,163281
+Sheet1,A40,12
+Sheet1,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+Sheet1,D40,24597
+Sheet1,E40,24613
+Sheet1,F40,3255
+Sheet1,G40,2529
+Sheet1,H40,112
+Sheet1,I40,55106
+Sheet1,A41,13
+Sheet1,B41,Percentage of total prescriptions that were 340B
+Sheet1,D41,33.819141768984338
+Sheet1,E41,34.086250830932862
+Sheet1,F41,30.815109343936381
+Sheet1,G41,33.969106783075894
+Sheet1,H41,33.532934131736525
+Sheet1,I41,33.749180859989835
+Sheet1,B43,Section 4: Administrative Costs of the 340B Program
+Sheet1,B45,Payments to External Entities:
+Sheet1,A46,14
+Sheet1,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Sheet1,C46,646659.18999999994
+Sheet1,A47,15
+Sheet1,B47,Total Payments to 340B Third Party Administrators:
+Sheet1,C47,423313.11
+Sheet1,A48,16
+Sheet1,B48,Total Payments to 340B Consulting Entities (including audit support):
+Sheet1,C48,47325
+Sheet1,A49,17
+Sheet1,B49,340B Software and Information Technology Costs:
+Sheet1,C49,-
+Sheet1,A50,18
+Sheet1,B50,Other Payments to External Entities:
+Sheet1,C50,-
+Sheet1,B52,Internal Costs to Administer the 340B Program
+Sheet1,A53,19
+Sheet1,B53,Staffing Costs (340B dedicated):
+Sheet1,C53,109476
+Sheet1,A54,20
+Sheet1,B54,Information Technology Costs:
+Sheet1,C54,6167
+Sheet1,A55,21
+Sheet1,B55,Other internal costs:
+Sheet1,C55,1966.66
+Sheet1,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Sheet1,A59,22
+Sheet1,B59,Covered Entity's total number of Contract Pharmacies:
+Sheet1,C59,35
+Sheet1,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Sheet1,C63,Detailed Description of Item:
+Sheet1,D63,Expenditures from 340B funds:
+Sheet1,A64,23
+Sheet1,B64,Programs or Services funded/purchased with 340B funds:
+Sheet1,B65,Program/Service 1:
+Sheet1,C65,-
+Sheet1,D65,-
+Sheet1,B66,Program/Service 2:
+Sheet1,C66,-
+Sheet1,D66,-
+Sheet1,B67,Program/Service 3:
+Sheet1,C67,-
+Sheet1,D67,-
+Sheet1,B68,Program/Service 4:
+Sheet1,C68,-
+Sheet1,D68,-
+Sheet1,B69,Program/Service 5:
+Sheet1,C69,-
+Sheet1,D69,-
+Sheet1,B71,Equipment purchased with 340B Funds:
+Sheet1,B72,Item 1:
+Sheet1,C72,-
+Sheet1,D72,-
+Sheet1,B73,Item 2:
+Sheet1,C73,-
+Sheet1,D73,-
+Sheet1,B74,Item 3:
+Sheet1,C74,-
+Sheet1,D74,-
+Sheet1,B75,Item 4:
+Sheet1,C75,-
+Sheet1,D75,-
+Sheet1,B76,Item 5:
+Sheet1,C76,-
+Sheet1,D76,-
+Sheet1,B78,Other uses of 340B funds not otherwise listed above:
+Sheet1,C78,-
+Sheet1,D78,-
+Sheet1,B80,(Narrative) Provide additional detail/context as necessary:
+Sheet1,C80,-
+Sheet1,A82,24
+Sheet1,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Sheet1,C82,"Our 340B Story
+
+About Avita Health System
+
+Avita Health System is a nonprofit, patient-centered health care system in North Central Ohio. It was established in 2011 as the parent company of Bucyrus and Galion Hospitals. In 2017, Avita opened its third hospital, located in Ontario, and now has over 40 clinics and service locations in Crawford and Richland counties with more than 150 employed medical providers, 1,000 affiliated medical providers, and 2,400 employees. Avita services 9 counties with populations totaling over 500,000 Ohioans. Avita’s mission is to improve the health and well-being of those we serve by providing exceptional patient experiences across the continuum of care and consistently exceeding national benchmarks for quality, care, and service.  Unique to the area, Avita is an independent, locally governed health care system with a board of directors that live in the communities where health services are provided.  As a nonprofit health system, Avita values charitable giving and provided over $48 million in uncompensated, unreimbursed, and charity care in FY2025. 
+
+Benefits of the 340B Program
+
+Avita Health System relies on the 340B Drug Pricing Program in order to “stretch scarce Federal resources as far as possible, reaching more eligible patients and providing more comprehensive care”, as Congress had originally intended.  The 340B program is funded entirely through drug manufacturer discounts and there is no cost to the taxpayer or community.  The 340B program is critical to ensuring Avita’s role as a safety-net community hospital, thereby providing vital access to comprehensive and life-saving health services, programs, and prescription drugs.  Savings realized through participation in the 340B program are reinvested into Avita Health System’s internal programs and services, or the expansion of external community assistance programs.  These programs and services include, but are not limited to:
+
+The 340B program enables Avita Health System to expand access to medications across the continuum of care. 
+•	Maintaining formulary access to critical medications that, without 340B discounts, could not be sustainably offered due to reimbursement rates below acquisition costs
+•	Patient access to ultra high cost specialty pharmaceuticals and infusions, including immunotherapy, bispecifics, and radioligand therapy at our infusion centers and comprehensive cancer center
+•	Subsidizing chemotherapy and immunotherapy for uninsured and underinsured patients
+•	Providing pediatric vaccines at all pediatrician and family medicine physician practices system-wide, including continuing a neonatal Hepatitis B vaccination program that provides the birth dose at no charge to patients 
+•	Expanding access to outpatient pharmacy services through a second entity-owned retail pharmacy in Crestline, Ohio, restoring essential pharmaceutical care to a community that had become a pharmacy desert. 
+
+The 340B Program enables Avita Health System to stretch scarce federal resources as far as possible, reaching more eligible patients and providing more comprehensive services.
+
+•	Maintaining community access to 24/7 critical services including emergency medicine (ER), inpatient care, surgery, advanced imaging, and intensive care at all three Avita Health System hospitals
+•	Continuing our commitment to women’s health and perinatal care by continuing to provide Maternity & Obstetric services in Crawford County, while expanding services in Richland County 
+•	Expanding access to specialized services and medical expertise, such as cardiac catheterization, inpatient hemodialysis/CRRT, and telestroke medicine 
+•	Providing critical support for ICU and Med/Surg patients with pulmonologists, intensivists, nephrologists, neurologists, cardiologists, and other specialists that enable patients to receive care close to home, without transferring out of the system. 
+•	Expanding outpatient access to specialty medical and surgical services in our rural, Critical Access Hospitals, including rheumatology, urology, orthopedics, spinal surgery, gastroenterology, pain management, ENT, and wound care (including hyperbaric oxygen treatment) allowing patients to receive expert care close to home
+•	Access to adult and pediatric occupational therapy, physical therapy, speech therapy and audiology services
+•	Expanding access to state-of-the-art technology, including robotic surgery, 3D mammography, 3T MRI, and LINAC with RapidArc® Dynamic planning.
+•	Expanding cancer care for our communities through medical oncology and infusion services at all three Avita Heath System hospitals and a new, state-of-the-art comprehensive Cancer Center in Richland County offering radiation oncology services in addition to medical oncology and infusion. 
+•	Nurse navigation services for oncology patients to guide them through their cancer care journey
+•	Access to charity and indigent care programs, as well as financial assistance for basic medical services, oncology and other specialty medications
+•	Access to patient billing advocates and financial counselors to assist with needs beyond direct medical care, such as gas, electricity, transportation, etc.
+•	Absorbing waived self-administered drug charges for Medicare observation patients
+•	Outpatient social work services to support patients with psychosocial needs and care coordination
+•	Access to psychiatric and addiction medicine services for patients with mental health and substance use disorders.
+•	Crisis intervention services for patients experiencing mental health or behavioral health emergencies
+•	Access to full service Home Health and Hospice care across an 8 county region, including inpatient hospice and respite care. 
+•	Providing ambulatory clinical pharmacy services (Medication Therapy Management clinics) to at-risk patients to improve medication adherence and outcomes through disease state management
+•	Expanding access to patient assistance programs through pharmacist coordinated Medication Access Programs and Drug Repository Services 
+•	Partnerships with local communities to provide community health improvement services, such as diabetes prevention, prenatal support, and tobacco cessation
+•	Offer free sports physicals for the community and access to athletic training services to school districts in local and surrounding counties
+•	Sensory kits for neurodivergent pediatric patients in the Emergency Department to support their comfort and care experience
+•	24/7 access to forensic services, including free medical screenings and exams for victims of sexual assault and abuse, child abuse, domestic violence, human trafficking, and other criminal offenses for victims in Crawford, Richland, and surrounding counties. 
+•	Access to 365 day Walk In Clinic services at 3 separate locations across Richland county.
+•	Access to pre-employment evaluations, post-accident services, and training programs for local employers through our WorkWell Occupational Health services.
+•	Staff tuition assistance and subsidy programs to support continuing education and professional development
+•	Nurse education partnerships with local nursing schools, enabling staff to complete nursing school at no cost to them, strengthening our workforce and community
+
+Impact of Scaling back the 340B Program
+
+Avita Health System is committed to our mission of improving the health and wellbeing of those we serve. We fulfill our mission primarily through the services and programs that we offer our patients, as well as through the support that we give to our communities. Scaling back the 340B Program would threaten our capacity to maintain access to the full scope of medications and services described above, jeopardizing essential care in our rural communities where healthcare options are already limited."

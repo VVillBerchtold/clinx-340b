@@ -1,0 +1,319 @@
+sheet,cell,value
+Steubenville,B1,Ohio Department of Health
+Steubenville,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+Steubenville,B4,Reporting Period:
+Steubenville,C4,"January 1, 2025 - December 31, 2025"
+Steubenville,B5,Primary Contact Name:
+Steubenville,C5,[contact detail withheld]
+Steubenville,B6,Email:
+Steubenville,C6,[contact detail withheld]
+Steubenville,B7,Phone Number:
+Steubenville,C7,[contact detail withheld]
+Steubenville,A8,Data Element
+Steubenville,B8,HRSA 340B ID:
+Steubenville,C8,DSH360211
+Steubenville,D9,Lettered Prefix:
+Steubenville,E9,Number:
+Steubenville,A10,1
+Steubenville,D10,DSH
+Steubenville,E10,360211
+Steubenville,C12,NPI1
+Steubenville,D12,NPI2
+Steubenville,E12,NPI3
+Steubenville,F12,NPI4
+Steubenville,G12,NPI5
+Steubenville,H12,NPI6
+Steubenville,I12,NPI7
+Steubenville,J12,NPI8
+Steubenville,K12,NPI9
+Steubenville,L12,NPI10
+Steubenville,M12,NPI11
+Steubenville,N12,NPI12
+Steubenville,O12,NPI13
+Steubenville,P12,NPI14
+Steubenville,Q12,NPI15
+Steubenville,R12,NPI16
+Steubenville,S12,NPI17
+Steubenville,T12,NPI18
+Steubenville,U12,NPI19
+Steubenville,V12,NPI20
+Steubenville,A13,2
+Steubenville,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+Steubenville,C13,1285715144
+Steubenville,D13,-
+Steubenville,E13,-
+Steubenville,F13,-
+Steubenville,G13,-
+Steubenville,H13,-
+Steubenville,I13,-
+Steubenville,J13,-
+Steubenville,K13,-
+Steubenville,L13,-
+Steubenville,M13,-
+Steubenville,N13,-
+Steubenville,O13,-
+Steubenville,P13,-
+Steubenville,Q13,-
+Steubenville,R13,-
+Steubenville,S13,-
+Steubenville,T13,-
+Steubenville,U13,-
+Steubenville,V13,-
+Steubenville,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+Steubenville,C16,Commercial Insurance/Private Insurance:
+Steubenville,D16,Medicare:
+Steubenville,E16,Medicaid (all states):
+Steubenville,F16,Other Third-Party Payor:
+Steubenville,G16,Uninsured/Self-Pay:
+Steubenville,H16,TOTAL:
+Steubenville,I16,Notes
+Steubenville,A17,3
+Steubenville,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+Steubenville,C17,N/A
+Steubenville,D17,N/A
+Steubenville,E17,N/A
+Steubenville,F17,N/A
+Steubenville,G17,N/A
+Steubenville,H17,0
+Steubenville,I17,Hospital does not dispense retail drugs
+Steubenville,A18,4
+Steubenville,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+Steubenville,C18,N/A
+Steubenville,D18,N/A
+Steubenville,E18,N/A
+Steubenville,F18,N/A
+Steubenville,G18,N/A
+Steubenville,H18,0
+Steubenville,I18,Hospital does not dispense retail drugs
+Steubenville,A19,5
+Steubenville,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+Steubenville,C19,N/A
+Steubenville,D19,N/A
+Steubenville,E19,N/A
+Steubenville,F19,N/A
+Steubenville,G19,N/A
+Steubenville,H19,0
+Steubenville,I19,Hospital does not dispense retail drugs
+Steubenville,A20,6
+Steubenville,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+Steubenville,C20,N/A
+Steubenville,D20,N/A
+Steubenville,E20,N/A
+Steubenville,F20,N/A
+Steubenville,G20,N/A
+Steubenville,H20,0
+Steubenville,I20,Hospital does not dispense retail drugs
+Steubenville,A21,7
+Steubenville,B21,Percentage of total prescriptions that were 340B
+Steubenville,C21,#VALUE!
+Steubenville,D21,#VALUE!
+Steubenville,E21,#VALUE!
+Steubenville,F21,#VALUE!
+Steubenville,G21,#VALUE!
+Steubenville,H21,#DIV/0!
+Steubenville,I21,Hospital does not dispense retail drugs
+Steubenville,B24,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+Steubenville,A26,8
+Steubenville,C26,Commercial Insurance/Private Insurance:
+Steubenville,D26,Medicare:
+Steubenville,E26,Medicaid (all states):
+Steubenville,F26,Other Third-Party Payor:
+Steubenville,G26,Uninsured/Self-Pay:
+Steubenville,H26,Indeterminate (Explain)
+Steubenville,I26,TOTAL:
+Steubenville,J26,Notes
+Steubenville,B27,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Steubenville,C27,667496.56999999995
+Steubenville,D27,1634215.73
+Steubenville,E27,0
+Steubenville,F27,0
+Steubenville,G27,0
+Steubenville,H27,0
+Steubenville,I27,2301712.2999999998
+Steubenville,B28,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+Steubenville,C28,744368.4
+Steubenville,D28,1822419.19
+Steubenville,E28,0
+Steubenville,F28,0
+Steubenville,G28,0
+Steubenville,H28,0
+Steubenville,I28,2566787.59
+Steubenville,J28,Hospital carves out all Medicaid from Contract Pharmacies
+Steubenville,B29,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+Steubenville,C29,3513
+Steubenville,D29,2780
+Steubenville,E29,2215
+Steubenville,F29,0
+Steubenville,G29,30
+Steubenville,H29,0
+Steubenville,I29,8538
+Steubenville,B30,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+Steubenville,C30,215
+Steubenville,D30,294
+Steubenville,E30,0
+Steubenville,F30,0
+Steubenville,G30,0
+Steubenville,H30,0
+Steubenville,I30,509
+Steubenville,B31,Percentage of total Covered-Entity associated prescriptions that were 340B:
+Steubenville,C31,6.1201252490748645
+Steubenville,D31,10.575539568345324
+Steubenville,E31,0
+Steubenville,F31,#DIV/0!
+Steubenville,G31,0
+Steubenville,H31,#DIV/0!
+Steubenville,I31,5.9615835090185056
+Steubenville,H33,"(Required if ""Indeterminate"" used above) Explanation:"
+Steubenville,I33,-
+Steubenville,B34,Section 3: Administered Drugs
+Steubenville,D35,Commercial Insurance/Private Insurance:
+Steubenville,E35,Medicare:
+Steubenville,F35,Medicaid (all states):
+Steubenville,G35,Other Third-Party Payor:
+Steubenville,H35,Uninsured/Self-Pay:
+Steubenville,I35,TOTAL:
+Steubenville,J35,Notes
+Steubenville,A36,9
+Steubenville,B36,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+Steubenville,D36,5444666.5899999999
+Steubenville,E36,10624811.699999999
+Steubenville,F36,3058100.34
+Steubenville,G36,688561.65
+Steubenville,H36,301808.59999999998
+Steubenville,I36,20117948.879999999
+Steubenville,A37,10
+Steubenville,B37,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+Steubenville,C37,Actual Payments
+Steubenville,D37,0
+Steubenville,E37,0
+Steubenville,F37,0
+Steubenville,G37,0
+Steubenville,H37,0
+Steubenville,I37,0
+Steubenville,C38,Estimated Payments*
+Steubenville,D38,12359222.83
+Steubenville,E38,9985537.9900000002
+Steubenville,F38,2267703.7200000002
+Steubenville,G38,681486.3
+Steubenville,H38,89118.75
+Steubenville,I38,25383069.59
+Steubenville,J38,"Hospital does not have the technology to break out actual drug payments because money is recieved in lump sums, even separately billable drugs. Hospital used a charge ratio of and applied to outpatient payments received."
+Steubenville,C39,TOTAL
+Steubenville,D39,12359222.83
+Steubenville,E39,9985537.9900000002
+Steubenville,F39,2267703.7200000002
+Steubenville,G39,681486.3
+Steubenville,H39,89118.75
+Steubenville,I39,25383069.59
+Steubenville,A40,11
+Steubenville,B40,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+Steubenville,D40,209010
+Steubenville,E40,906907
+Steubenville,F40,211177
+Steubenville,G40,36725
+Steubenville,H40,25386
+Steubenville,I40,1389205
+Steubenville,A41,12
+Steubenville,B41,Total number of Prescriptions administered by the Covered Entity (340B)
+Steubenville,D41,81359
+Steubenville,E41,158765
+Steubenville,F41,45697
+Steubenville,G41,10288
+Steubenville,H41,4510
+Steubenville,I41,300619
+Steubenville,A42,13
+Steubenville,B42,Percentage of total prescriptions that were 340B
+Steubenville,D42,38.925888713458683
+Steubenville,E42,17.506205156647813
+Steubenville,F42,21.639193662188593
+Steubenville,G42,28.01361470388019
+Steubenville,H42,17.765697628614198
+Steubenville,I42,21.639642817294781
+Steubenville,B44,Section 4: Administrative Costs of the 340B Program
+Steubenville,B46,Payments to External Entities:
+Steubenville,D46,Notes:
+Steubenville,A47,14
+Steubenville,B47,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+Steubenville,C47,218411.41
+Steubenville,A48,15
+Steubenville,B48,Total Payments to 340B Third Party Administrators:
+Steubenville,C48,57300.55
+Steubenville,D48,Add monthly M/U fees
+Steubenville,A49,16
+Steubenville,B49,Total Payments to 340B Consulting Entities (including audit support):
+Steubenville,C49,-
+Steubenville,A50,17
+Steubenville,B50,340B Software and Information Technology Costs:
+Steubenville,C50,-
+Steubenville,D50,Included in payments to TPA
+Steubenville,A51,18
+Steubenville,B51,Other Payments to External Entities:
+Steubenville,C51,-
+Steubenville,B53,Internal Costs to Administer the 340B Program
+Steubenville,A54,19
+Steubenville,B54,Staffing Costs (340B dedicated):
+Steubenville,C54,22251.15
+Steubenville,D54,This number includes National 340B Team support
+Steubenville,A55,20
+Steubenville,B55,Information Technology Costs:
+Steubenville,C55,-
+Steubenville,A56,21
+Steubenville,B56,Other internal costs:
+Steubenville,C56,-
+Steubenville,B58,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+Steubenville,A60,22
+Steubenville,B60,Covered Entity's total number of Contract Pharmacies:
+Steubenville,C60,28
+Steubenville,B62,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+Steubenville,E62,Notes:
+Steubenville,C64,Detailed Description of Item:
+Steubenville,D64,Expenditures from 340B funds:
+Steubenville,A65,23
+Steubenville,B65,Programs or Services funded/purchased with 340B funds:
+Steubenville,C65,-
+Steubenville,E65,Hospital operates at at a substantial loss. 340B cost avoidance helps keep our doors open to continue to provide care in our community.
+Steubenville,B66,Program/Service 1:
+Steubenville,C66,-
+Steubenville,D66,-
+Steubenville,B67,Program/Service 2:
+Steubenville,C67,-
+Steubenville,D67,-
+Steubenville,B68,Program/Service 3:
+Steubenville,C68,-
+Steubenville,D68,-
+Steubenville,B69,Program/Service 4:
+Steubenville,C69,-
+Steubenville,D69,-
+Steubenville,B70,Program/Service 5:
+Steubenville,C70,-
+Steubenville,D70,-
+Steubenville,C71,-
+Steubenville,B72,Equipment purchased with 340B Funds:
+Steubenville,C72,-
+Steubenville,E72,Hospital operates at at a substantial loss. 340B cost avoidance helps keep our doors open to continue to provide care in our community.
+Steubenville,B73,Item 1:
+Steubenville,C73,-
+Steubenville,D73,-
+Steubenville,B74,Item 2:
+Steubenville,C74,-
+Steubenville,D74,-
+Steubenville,B75,Item 3:
+Steubenville,C75,-
+Steubenville,D75,-
+Steubenville,B76,Item 4:
+Steubenville,C76,-
+Steubenville,D76,-
+Steubenville,B77,Item 5:
+Steubenville,C77,-
+Steubenville,D77,-
+Steubenville,C78,-
+Steubenville,B79,Other uses of 340B funds not otherwise listed above:
+Steubenville,C79,-
+Steubenville,D79,-
+Steubenville,C80,-
+Steubenville,B81,(Narrative) Provide additional detail/context as necessary:
+Steubenville,C81,-
+Steubenville,C82,-
+Steubenville,A83,24
+Steubenville,B83,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+Steubenville,C83,"Trinity Hospital Holding Company is Disproportionate Share Hospital, part of the Trinity Health System located in Steubenville, Ohio. We are located in a federally designated Health Professional Shortage Area (HPSA). Trinity Hospital provides care to a service area of just over 200,000 individuals. Despite operating at a significant loss, Trinity provides over $17 million in net community benefits including health improvement services, professional education, as well as financial assistance to uninsured or under insured patients. The 340B program helps offset these costs. The program supports our Outpatient Infusion Center, which provides comprehensive cancer care, chemotherapy and non-oncology infusion services in the patient’s home community. It also helps fund a clinical pharmacist that works in patient care areas to improve medication outcomes."

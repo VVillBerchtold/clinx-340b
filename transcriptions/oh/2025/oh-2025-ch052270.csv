@@ -1,0 +1,295 @@
+schedule,line,row_kind,label_as_filed,name_as_filed,description_as_filed,ndc_as_filed,amount_as_filed,claims_as_filed,answer_as_filed,page,verification,note,source_cell
+in_house_acquisition_cost,commercial,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,Commercial Insurance/Private Insurance:,,1246189.0300000391,,,1,two_file_reads,,C17
+in_house_acquisition_cost,medicare,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,Medicare:,,2271311.7699999874,,,1,two_file_reads,,D17
+in_house_acquisition_cost,medicaid,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,Medicaid (all states):,,2418840.1200000551,,,1,two_file_reads,,E17
+in_house_acquisition_cost,other_third_party,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,Other Third-Party Payor:,,0,,,1,two_file_reads,,F17
+in_house_acquisition_cost,uninsured,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,Uninsured/Self-Pay:,,113703.68999999946,,,1,two_file_reads,,G17
+in_house_acquisition_cost,total,total,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity,,TOTAL:,,6050044.6100000814,,,1,two_file_reads,,H17
+in_house_payments_received,commercial,detail,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,Commercial Insurance/Private Insurance:,,2772515.6000000155,,,1,two_file_reads,,C18
+in_house_payments_received,medicare,detail,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,Medicare:,,9020863.7299999818,,,1,two_file_reads,,D18
+in_house_payments_received,medicaid,detail,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,Medicaid (all states):,,5715378.9699999914,,,1,two_file_reads,,E18
+in_house_payments_received,other_third_party,detail,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,Other Third-Party Payor:,,0,,,1,two_file_reads,,F18
+in_house_payments_received,uninsured,detail,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,Uninsured/Self-Pay:,,326382.13999999751,,,1,two_file_reads,,G18
+in_house_payments_received,total,total,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity,,TOTAL:,,17835140.439999986,,,1,two_file_reads,,H18
+in_house_rx_all,commercial,detail,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,Commercial Insurance/Private Insurance:,,,12541,,1,two_file_reads,,C19
+in_house_rx_all,medicare,detail,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,Medicare:,,,27804,,1,two_file_reads,,D19
+in_house_rx_all,medicaid,detail,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,Medicaid (all states):,,,23307,,1,two_file_reads,,E19
+in_house_rx_all,other_third_party,detail,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,Other Third-Party Payor:,,,0,,1,two_file_reads,,F19
+in_house_rx_all,uninsured,detail,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,Uninsured/Self-Pay:,,,18809,,1,two_file_reads,,G19
+in_house_rx_all,total,total,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B),,TOTAL:,,,82461,,1,two_file_reads,,H19
+in_house_rx_340b,commercial,detail,Total number of Prescriptions dispensed by the Covered Entity (340B),,Commercial Insurance/Private Insurance:,,,12541,,1,two_file_reads,,C20
+in_house_rx_340b,medicare,detail,Total number of Prescriptions dispensed by the Covered Entity (340B),,Medicare:,,,27804,,1,two_file_reads,,D20
+in_house_rx_340b,medicaid,detail,Total number of Prescriptions dispensed by the Covered Entity (340B),,Medicaid (all states):,,,23307,,1,two_file_reads,,E20
+in_house_rx_340b,other_third_party,detail,Total number of Prescriptions dispensed by the Covered Entity (340B),,Other Third-Party Payor:,,,0,,1,two_file_reads,,F20
+in_house_rx_340b,uninsured,detail,Total number of Prescriptions dispensed by the Covered Entity (340B),,Uninsured/Self-Pay:,,,18809,,1,two_file_reads,,G20
+in_house_rx_340b,total,total,Total number of Prescriptions dispensed by the Covered Entity (340B),,TOTAL:,,,82461,,1,two_file_reads,,H20
+in_house_rx_pct,commercial,detail,Percentage of total prescriptions that were 340B,,Commercial Insurance/Private Insurance:,,100,,,1,two_file_reads,,C21
+in_house_rx_pct,medicare,detail,Percentage of total prescriptions that were 340B,,Medicare:,,100,,,1,two_file_reads,,D21
+in_house_rx_pct,medicaid,detail,Percentage of total prescriptions that were 340B,,Medicaid (all states):,,100,,,1,two_file_reads,,E21
+in_house_rx_pct,other_third_party,detail,Percentage of total prescriptions that were 340B,,Other Third-Party Payor:,,#DIV/0!,,,1,two_file_reads,,F21
+in_house_rx_pct,uninsured,detail,Percentage of total prescriptions that were 340B,,Uninsured/Self-Pay:,,100,,,1,two_file_reads,,G21
+in_house_rx_pct,total,total,Percentage of total prescriptions that were 340B,,TOTAL:,,100,,,1,two_file_reads,,H21
+contract_acquisition_cost,commercial,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Commercial Insurance/Private Insurance:,,597635.82999999996,,,1,two_file_reads,,C26
+contract_acquisition_cost,medicare,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Medicare:,,930269.48,,,1,two_file_reads,,D26
+contract_acquisition_cost,medicaid,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Medicaid (all states):,,828091.46,,,1,two_file_reads,,E26
+contract_acquisition_cost,other_third_party,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Other Third-Party Payor:,,4072.8,,,1,two_file_reads,,F26
+contract_acquisition_cost,uninsured,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Uninsured/Self-Pay:,,23797.75,,,1,two_file_reads,,G26
+contract_acquisition_cost,indeterminate,detail,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Indeterminate (Explain),,31400.25,,,1,two_file_reads,,H26
+contract_acquisition_cost,total,total,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,TOTAL:,,2383867.3199999998,,,1,two_file_reads,,J26
+contract_payments_received,commercial,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Commercial Insurance/Private Insurance:,,1325703.01,,,1,two_file_reads,,C27
+contract_payments_received,medicare,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Medicare:,,2241716.89,,,1,two_file_reads,,D27
+contract_payments_received,medicaid,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Medicaid (all states):,,2183460.5099999998,,,1,two_file_reads,,E27
+contract_payments_received,other_third_party,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Other Third-Party Payor:,,0,,,1,two_file_reads,,F27
+contract_payments_received,uninsured,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Uninsured/Self-Pay:,,0,,,1,two_file_reads,,G27
+contract_payments_received,indeterminate,detail,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,Indeterminate (Explain),,91299.02,,,1,two_file_reads,,H27
+contract_payments_received,total,total,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:,,TOTAL:,,5750880.4100000001,,,1,two_file_reads,,J27
+contract_rx_all,commercial,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Commercial Insurance/Private Insurance:,,,29886,,1,two_file_reads,,C28
+contract_rx_all,medicare,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Medicare:,,,39443,,1,two_file_reads,,D28
+contract_rx_all,medicaid,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Medicaid (all states):,,,52450,,1,two_file_reads,,E28
+contract_rx_all,other_third_party,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Other Third-Party Payor:,,,114,,1,two_file_reads,,F28
+contract_rx_all,uninsured,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Uninsured/Self-Pay:,,,5410,,1,two_file_reads,,G28
+contract_rx_all,indeterminate,detail,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,Indeterminate (Explain),,,0,,1,two_file_reads,,H28
+contract_rx_all,total,total,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):,,TOTAL:,,,127303,,1,two_file_reads,,J28
+contract_rx_340b,commercial,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Commercial Insurance/Private Insurance:,,,12848,,1,two_file_reads,,C29
+contract_rx_340b,medicare,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Medicare:,,,23985,,1,two_file_reads,,D29
+contract_rx_340b,medicaid,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Medicaid (all states):,,,27252,,1,two_file_reads,,E29
+contract_rx_340b,other_third_party,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Other Third-Party Payor:,,,9,,1,two_file_reads,,F29
+contract_rx_340b,uninsured,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Uninsured/Self-Pay:,,,3165,,1,two_file_reads,,G29
+contract_rx_340b,indeterminate,detail,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,Indeterminate (Explain),,,0,,1,two_file_reads,,H29
+contract_rx_340b,total,total,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:,,TOTAL:,,,67259,,1,two_file_reads,,J29
+contract_rx_pct,commercial,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Commercial Insurance/Private Insurance:,,42.990028776015528,,,1,two_file_reads,,C30
+contract_rx_pct,medicare,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Medicare:,,60.80926907182517,,,1,two_file_reads,,D30
+contract_rx_pct,medicaid,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Medicaid (all states):,,51.958055290753101,,,1,two_file_reads,,E30
+contract_rx_pct,other_third_party,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Other Third-Party Payor:,,7.8947368421052628,,,1,two_file_reads,,F30
+contract_rx_pct,uninsured,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Uninsured/Self-Pay:,,58.50277264325323,,,1,two_file_reads,,G30
+contract_rx_pct,indeterminate,detail,Percentage of total Covered-Entity associated prescriptions that were 340B:,,Indeterminate (Explain),,#DIV/0!,,,1,two_file_reads,,H30
+contract_rx_pct,total,total,Percentage of total Covered-Entity associated prescriptions that were 340B:,,TOTAL:,,52.833790248462329,,,1,two_file_reads,,J30
+administered_acquisition_cost,commercial,detail,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,Commercial Insurance/Private Insurance:,,0,,,1,two_file_reads,,D35
+administered_acquisition_cost,medicare,detail,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,Medicare:,,0,,,1,two_file_reads,,E35
+administered_acquisition_cost,medicaid,detail,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,Medicaid (all states):,,0,,,1,two_file_reads,,F35
+administered_acquisition_cost,other_third_party,detail,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,Other Third-Party Payor:,,0,,,1,two_file_reads,,G35
+administered_acquisition_cost,uninsured,detail,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,Uninsured/Self-Pay:,,0,,,1,two_file_reads,,H35
+administered_acquisition_cost,total,total,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity,,TOTAL:,,0,,,1,two_file_reads,,J35
+administered_payments_actual,commercial,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,Commercial Insurance/Private Insurance:,,0,,,1,two_file_reads,,D36
+administered_payments_actual,medicare,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,Medicare:,,0,,,1,two_file_reads,,E36
+administered_payments_actual,medicaid,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,Medicaid (all states):,,0,,,1,two_file_reads,,F36
+administered_payments_actual,other_third_party,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,Other Third-Party Payor:,,0,,,1,two_file_reads,,G36
+administered_payments_actual,uninsured,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,Uninsured/Self-Pay:,,0,,,1,two_file_reads,,H36
+administered_payments_actual,total,total,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,TOTAL:,,0,,,1,two_file_reads,,J36
+administered_payments_actual,cell_C,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Actual Payments,,,,Actual Payments,,,1,two_file_reads,,C36
+administered_payments_estimated,commercial,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,Commercial Insurance/Private Insurance:,,0,,,1,two_file_reads,,D37
+administered_payments_estimated,medicare,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,Medicare:,,0,,,1,two_file_reads,,E37
+administered_payments_estimated,medicaid,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,Medicaid (all states):,,0,,,1,two_file_reads,,F37
+administered_payments_estimated,other_third_party,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,Other Third-Party Payor:,,0,,,1,two_file_reads,,G37
+administered_payments_estimated,uninsured,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,Uninsured/Self-Pay:,,0,,,1,two_file_reads,,H37
+administered_payments_estimated,total,total,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,TOTAL:,,0,,,1,two_file_reads,,J37
+administered_payments_estimated,cell_C,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - Estimated Payments*,,,,Estimated Payments*,,,1,two_file_reads,,C37
+administered_payments_total,commercial,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,Commercial Insurance/Private Insurance:,,0,,,1,two_file_reads,,D38
+administered_payments_total,medicare,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,Medicare:,,0,,,1,two_file_reads,,E38
+administered_payments_total,medicaid,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,Medicaid (all states):,,0,,,1,two_file_reads,,F38
+administered_payments_total,other_third_party,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,Other Third-Party Payor:,,0,,,1,two_file_reads,,G38
+administered_payments_total,uninsured,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,Uninsured/Self-Pay:,,0,,,1,two_file_reads,,H38
+administered_payments_total,total,total,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,TOTAL:,,0,,,1,two_file_reads,,J38
+administered_payments_total,cell_C,detail,Aggregate Payments Received for all 340B drugs administered by the Covered Entity - TOTAL,,,,TOTAL,,,1,two_file_reads,,C38
+administered_rx_all,commercial,detail,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,Commercial Insurance/Private Insurance:,,,0,,1,two_file_reads,,D39
+administered_rx_all,medicare,detail,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,Medicare:,,,0,,1,two_file_reads,,E39
+administered_rx_all,medicaid,detail,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,Medicaid (all states):,,,0,,1,two_file_reads,,F39
+administered_rx_all,other_third_party,detail,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,Other Third-Party Payor:,,,0,,1,two_file_reads,,G39
+administered_rx_all,uninsured,detail,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,Uninsured/Self-Pay:,,,0,,1,two_file_reads,,H39
+administered_rx_all,total,total,Total number of Prescriptions administered by the Covered Entity (340B and non-340B),,TOTAL:,,,0,,1,two_file_reads,,J39
+administered_rx_340b,commercial,detail,Total number of Prescriptions administered by the Covered Entity (340B),,Commercial Insurance/Private Insurance:,,,0,,1,two_file_reads,,D40
+administered_rx_340b,medicare,detail,Total number of Prescriptions administered by the Covered Entity (340B),,Medicare:,,,0,,1,two_file_reads,,E40
+administered_rx_340b,medicaid,detail,Total number of Prescriptions administered by the Covered Entity (340B),,Medicaid (all states):,,,0,,1,two_file_reads,,F40
+administered_rx_340b,other_third_party,detail,Total number of Prescriptions administered by the Covered Entity (340B),,Other Third-Party Payor:,,,0,,1,two_file_reads,,G40
+administered_rx_340b,uninsured,detail,Total number of Prescriptions administered by the Covered Entity (340B),,Uninsured/Self-Pay:,,,0,,1,two_file_reads,,H40
+administered_rx_340b,total,total,Total number of Prescriptions administered by the Covered Entity (340B),,TOTAL:,,,0,,1,two_file_reads,,J40
+administered_rx_pct,commercial,detail,Percentage of total prescriptions that were 340B,,Commercial Insurance/Private Insurance:,,#DIV/0!,,,1,two_file_reads,,D41
+administered_rx_pct,medicare,detail,Percentage of total prescriptions that were 340B,,Medicare:,,#DIV/0!,,,1,two_file_reads,,E41
+administered_rx_pct,medicaid,detail,Percentage of total prescriptions that were 340B,,Medicaid (all states):,,#DIV/0!,,,1,two_file_reads,,F41
+administered_rx_pct,other_third_party,detail,Percentage of total prescriptions that were 340B,,Other Third-Party Payor:,,#DIV/0!,,,1,two_file_reads,,G41
+administered_rx_pct,uninsured,detail,Percentage of total prescriptions that were 340B,,Uninsured/Self-Pay:,,#DIV/0!,,,1,two_file_reads,,H41
+administered_rx_pct,total,total,Percentage of total prescriptions that were 340B,,TOTAL:,,#DIV/0!,,,1,two_file_reads,,J41
+costs,contract_pharmacies,detail,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):,,,,-,,,1,two_file_reads,,C46
+costs,third_party_administrators,detail,Total Payments to 340B Third Party Administrators:,,,,569613,,,1,two_file_reads,,C47
+costs,consultants,detail,Total Payments to 340B Consulting Entities (including audit support):,,,,8000,,,1,two_file_reads,,C48
+costs,software_it,detail,340B Software and Information Technology Costs:,,,,-,,,1,two_file_reads,,C49
+costs,other_external,detail,Other Payments to External Entities:,,,,-,,,1,two_file_reads,,C50
+costs,staffing,detail,Staffing Costs (340B dedicated):,,,,919908,,,1,two_file_reads,,C53
+costs,internal_it,detail,Information Technology Costs:,,,,-,,,1,two_file_reads,,C54
+costs,other_internal,detail,Other internal costs:,,,,91691,,,1,two_file_reads,,C55
+contract_pharmacies,count,detail,Covered Entity's total number of Contract Pharmacies:,,,,133,,,1,two_file_reads,,C59
+identity,reporting_period,detail,Reporting Period:,,,,,,"January 1, 2025 - December 31, 2025",1,two_file_reads,,C4
+identity,hrsa_id,detail,HRSA 340B ID:,,,,,,CH052270,1,two_file_reads,,C8
+identity,id_prefix,detail,HRSA 340B ID:,,Lettered Prefix:,,,,CH,1,two_file_reads,,D10
+identity,id_number,detail,HRSA 340B ID:,,Number:,,,,052270,1,two_file_reads,,E10
+identity,npi_1,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,,,,,FQHC NPI'S,1,two_file_reads,,C13
+identity,npi_2,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,LOGAN PHARM,,,,N/A,1,two_file_reads,,D13
+identity,npi_3,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,90 HOSP MH,,,,N/A,1,two_file_reads,,E13
+identity,npi_4,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,90 HOSP AD,,,,N/A,1,two_file_reads,,F13
+identity,npi_5,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,90 HOSP PC,,,,1023491511,1,two_file_reads,,G13
+identity,npi_6,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,225 GOLDEN ROCKET,,,,1376227876,1,two_file_reads,,H13
+identity,npi_7,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,200 GOLDEN ROCKET,,,,1003500919,1,two_file_reads,,I13
+identity,npi_8,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,100 WEST AVE,,,,1356106330,1,two_file_reads,,J13
+identity,npi_9,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,CHILLICOTHE PC,,,,1942291794,1,two_file_reads,,K13
+identity,npi_10,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,COOLVILLE PC,,,,1770929762,1,two_file_reads,,L13
+identity,npi_11,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,REEDSVILLE,,,,1598374993,1,two_file_reads,,M13
+identity,npi_12,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,8461 SR 144-STEWART,,,,1245778125,1,two_file_reads,,N13
+identity,npi_13,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,GALLIPOLIS,,,,1396258687,1,two_file_reads,,O13
+identity,npi_14,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,CHILLICOTHE DENTAL,,,,1215449020,1,two_file_reads,,P13
+identity,npi_15,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,LOGAN PC,,,,1669463360,1,two_file_reads,,Q13
+identity,npi_16,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,MCARTHUR,,,,1497746101,1,two_file_reads,,R13
+identity,npi_17,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NELSONVILLE-MT ST MARYS,,,,1659362374,1,two_file_reads,,S13
+identity,npi_18,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NELSONVILLE-4 BUCKEYE DR,,,,1548937667,1,two_file_reads,,T13
+identity,npi_19,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,NEW LEX,,,,1255322962,1,two_file_reads,,U13
+identity,npi_20,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,POMEROY,,,,1861686024,1,two_file_reads,,V13
+identity,npi_21,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,RACINE DENTAL,,,,1083388839,1,two_file_reads,,W13
+identity,npi_22,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,REYNOLDSBURG,,,,1386390631,1,two_file_reads,,X13
+identity,npi_23,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,18500 JACKSONVILLE RD-TOMCAT CENTER,,,,1164826129,1,two_file_reads,,Y13
+identity,npi_24,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,THE PLAINS-25 S CLINTON ST,,,,1730691858,1,two_file_reads,,Z13
+identity,npi_25,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,RESPITE-DAIRY LANE,,,,1093227118,1,two_file_reads,,AA13
+identity,npi_26,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,BELPRE-RICHMILLER LN,,,,1659883775,1,two_file_reads,,AB13
+identity,npi_27,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,JACKSON 2 B URLINGTON RD,,,,1740793942,1,two_file_reads,,AC13
+identity,npi_28,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,JACKSON 1 MCCARTY LN,,,,1427575216,1,two_file_reads,,AD13
+identity,npi_29,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,LOGAN BH,,,,1083169163,1,two_file_reads,,AE13
+identity,npi_30,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,REACH KIMBERLY RD,,,,1780196592,1,two_file_reads,,AF13
+identity,npi_31,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,REACH BARLOW VINCENT,,,,1952887994,1,two_file_reads,,AG13
+identity,npi_32,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,REACH CHESHIRE,,,,1477157212,1,two_file_reads,,AH13
+identity,npi_33,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,LOGAN HS,,,,1780330969,1,two_file_reads,,AI13
+identity,npi_34,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,MARIETTA,,,,1699475004,1,two_file_reads,,AJ13
+identity,npi_35,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,MEIGS HS,,,,1215621461,1,two_file_reads,,AK13
+identity,npi_36,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,LOGAN HOCKING MS,,,,1487348629,1,two_file_reads,,AL13
+identity,npi_37,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,VINTON MS,,,,1093492662,1,two_file_reads,,AM13
+identity,npi_38,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,BUNDY ES,,,,1114601846,1,two_file_reads,,AN13
+identity,npi_39,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,VINTON HS,,,,1740967314,1,two_file_reads,,AO13
+identity,npi_40,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,FORT FRYE MS,,,,1881371458,1,two_file_reads,,AP13
+identity,npi_41,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,LOWELL ES,,,,1861178766,1,two_file_reads,,AQ13
+identity,npi_42,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,ATHENS MS,,,,1316727415,1,two_file_reads,,AR13
+identity,npi_43,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,ATHENS HS,,,,1851171300,1,two_file_reads,,AS13
+identity,npi_44,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,BEVERLY CENTER ES,,,,1811795941,1,two_file_reads,,AT13
+identity,npi_45,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,COOLVILLE ES,,,,1790583649,1,two_file_reads,,AU13
+identity,npi_46,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,TRI COUNTY CAREER CTR,,,,1245038199,1,two_file_reads,,AV13
+identity,npi_47,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,TRIMBLE HS,,,,1063210912,1,two_file_reads,,AW13
+identity,npi_48,detail,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies),,WARREN FULL CLINIC,,,,1518765189,1,two_file_reads,,AX13
+uses,program_1_description,detail,Primary Care,,,,,,"Providing affordable, high quality, integrated primary medical care and care coordination services in Ross, Vinton, Hocking, Athens, Perry, Meigs, Vinton, and Franklin Counties in Ohio.",1,two_file_reads,,C65
+uses,program_1_amount,detail,Primary Care,,,,13757639,,,1,two_file_reads,,D65
+uses,program_2_description,detail,Behavioral Health,,,,,,"Providing behavioral health services including:  psychiatry, therapy, case management, transportation, crisis response and residential crisis stablization services in Athens, Hocking, Vinton, Gallia, Jackson, Meigs and Washington Counties in Ohio.",1,two_file_reads,,C66
+uses,program_2_amount,detail,Behavioral Health,,,,38578856,,,1,two_file_reads,,D66
+uses,program_3_description,detail,Dental,,,,,,"Providing comprehensive oral health services in Athens, Gallia, Meigs, Perry, Ross and Vinton Counties in Ohio.",1,two_file_reads,,C67
+uses,program_3_amount,detail,Dental,,,,5652659,,,1,two_file_reads,,D67
+uses,program_4_description,detail,School-based health centers,,,,,,"Providing school-based health center services with integrated primary care and behavioral health across five school districts in Athens, Meigs and Washington Counties in Ohio.",1,two_file_reads,,C68
+uses,program_4_amount,detail,School-based health centers,,,,1701039,,,1,two_file_reads,,D68
+uses,program_5_description,detail,,,,,,,-,1,two_file_reads,,C69
+uses,equipment_1_description,detail,Item 1:,,,,,,-,1,two_file_reads,,C72
+uses,equipment_1_amount,detail,Item 1:,,,,-,,,1,two_file_reads,,D72
+uses,equipment_2_description,detail,Item 2:,,,,,,-,1,two_file_reads,,C73
+uses,equipment_2_amount,detail,Item 2:,,,,-,,,1,two_file_reads,,D73
+uses,equipment_3_description,detail,Item 3:,,,,,,-,1,two_file_reads,,C74
+uses,equipment_3_amount,detail,Item 3:,,,,-,,,1,two_file_reads,,D74
+uses,equipment_4_description,detail,Item 4:,,,,,,-,1,two_file_reads,,C75
+uses,equipment_4_amount,detail,Item 4:,,,,-,,,1,two_file_reads,,D75
+uses,equipment_5_description,detail,Item 5:,,,,,,-,1,two_file_reads,,C76
+uses,equipment_5_amount,detail,Item 5:,,,,-,,,1,two_file_reads,,D76
+uses,other_uses_description,detail,Other uses of 340B funds not otherwise listed above:,,,,,,-,1,two_file_reads,,C78
+uses,other_uses_amount,detail,Other uses of 340B funds not otherwise listed above:,,,,-,,,1,two_file_reads,,D78
+uses,narrative,detail,(Narrative) Provide additional detail/context as necessary:,,,,,,-,1,two_file_reads,,C80
+uses,alternative_narrative,detail,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used.",,,,,,-,1,two_file_reads,,C82
+other_cells,cell_D12,detail,,,,,,,LOGAN PHARM,1,two_file_reads,,D12
+other_cells,cell_E12,detail,,,,,,,90 HOSP MH,1,two_file_reads,,E12
+other_cells,cell_F12,detail,,,,,,,90 HOSP AD,1,two_file_reads,,F12
+other_cells,cell_G12,detail,,,,,,,90 HOSP PC,1,two_file_reads,,G12
+other_cells,cell_H12,detail,,,,,,,225 GOLDEN ROCKET,1,two_file_reads,,H12
+other_cells,cell_I12,detail,,,,,,,200 GOLDEN ROCKET,1,two_file_reads,,I12
+other_cells,cell_J12,detail,,,,,,,100 WEST AVE,1,two_file_reads,,J12
+other_cells,cell_K12,detail,,,,,,,CHILLICOTHE PC,1,two_file_reads,,K12
+other_cells,cell_L12,detail,,,,,,,COOLVILLE PC,1,two_file_reads,,L12
+other_cells,cell_M12,detail,,,,,,,REEDSVILLE,1,two_file_reads,,M12
+other_cells,cell_N12,detail,,,,,,,8461 SR 144-STEWART,1,two_file_reads,,N12
+other_cells,cell_O12,detail,,,,,,,GALLIPOLIS,1,two_file_reads,,O12
+other_cells,cell_P12,detail,,,,,,,CHILLICOTHE DENTAL,1,two_file_reads,,P12
+other_cells,cell_Q12,detail,,,,,,,LOGAN PC,1,two_file_reads,,Q12
+other_cells,cell_R12,detail,,,,,,,MCARTHUR,1,two_file_reads,,R12
+other_cells,cell_S12,detail,,,,,,,NELSONVILLE-MT ST MARYS,1,two_file_reads,,S12
+other_cells,cell_T12,detail,,,,,,,NELSONVILLE-4 BUCKEYE DR,1,two_file_reads,,T12
+other_cells,cell_U12,detail,,,,,,,NEW LEX,1,two_file_reads,,U12
+other_cells,cell_V12,detail,,,,,,,POMEROY,1,two_file_reads,,V12
+other_cells,cell_W12,detail,,,,,,,RACINE DENTAL,1,two_file_reads,,W12
+other_cells,cell_X12,detail,,,,,,,REYNOLDSBURG,1,two_file_reads,,X12
+other_cells,cell_Y12,detail,,,,,,,18500 JACKSONVILLE RD-TOMCAT CENTER,1,two_file_reads,,Y12
+other_cells,cell_Z12,detail,,,,,,,THE PLAINS-25 S CLINTON ST,1,two_file_reads,,Z12
+other_cells,cell_AA12,detail,,,,,,,RESPITE-DAIRY LANE,1,two_file_reads,,AA12
+other_cells,cell_AB12,detail,,,,,,,BELPRE-RICHMILLER LN,1,two_file_reads,,AB12
+other_cells,cell_AC12,detail,,,,,,,JACKSON 2 B URLINGTON RD,1,two_file_reads,,AC12
+other_cells,cell_AD12,detail,,,,,,,JACKSON 1 MCCARTY LN,1,two_file_reads,,AD12
+other_cells,cell_AE12,detail,,,,,,,LOGAN BH,1,two_file_reads,,AE12
+other_cells,cell_AF12,detail,,,,,,,REACH KIMBERLY RD,1,two_file_reads,,AF12
+other_cells,cell_AG12,detail,,,,,,,REACH BARLOW VINCENT,1,two_file_reads,,AG12
+other_cells,cell_AH12,detail,,,,,,,REACH CHESHIRE,1,two_file_reads,,AH12
+other_cells,cell_AI12,detail,,,,,,,LOGAN HS,1,two_file_reads,,AI12
+other_cells,cell_AJ12,detail,,,,,,,MARIETTA,1,two_file_reads,,AJ12
+other_cells,cell_AK12,detail,,,,,,,MEIGS HS,1,two_file_reads,,AK12
+other_cells,cell_AL12,detail,,,,,,,LOGAN HOCKING MS,1,two_file_reads,,AL12
+other_cells,cell_AM12,detail,,,,,,,VINTON MS,1,two_file_reads,,AM12
+other_cells,cell_AN12,detail,,,,,,,BUNDY ES,1,two_file_reads,,AN12
+other_cells,cell_AO12,detail,,,,,,,VINTON HS,1,two_file_reads,,AO12
+other_cells,cell_AP12,detail,,,,,,,FORT FRYE MS,1,two_file_reads,,AP12
+other_cells,cell_AQ12,detail,,,,,,,LOWELL ES,1,two_file_reads,,AQ12
+other_cells,cell_AR12,detail,,,,,,,ATHENS MS,1,two_file_reads,,AR12
+other_cells,cell_AS12,detail,,,,,,,ATHENS HS,1,two_file_reads,,AS12
+other_cells,cell_AT12,detail,,,,,,,BEVERLY CENTER ES,1,two_file_reads,,AT12
+other_cells,cell_AU12,detail,,,,,,,COOLVILLE ES,1,two_file_reads,,AU12
+other_cells,cell_AV12,detail,,,,,,,TRI COUNTY CAREER CTR,1,two_file_reads,,AV12
+other_cells,cell_AW12,detail,,,,,,,TRIMBLE HS,1,two_file_reads,,AW12
+other_cells,cell_AX12,detail,,,,,,,WARREN FULL CLINIC,1,two_file_reads,,AX12
+other_cells,cell_C14,detail,,,,,,,FFS NPI'S,1,two_file_reads,,C14
+other_cells,cell_D14,detail,,,,,,,1568970333,1,two_file_reads,,D14
+other_cells,cell_E14,detail,,,,,,,1699010348,1,two_file_reads,,E14
+other_cells,cell_F14,detail,,,,,,,1790021608,1,two_file_reads,,F14
+other_cells,cell_G14,detail,,,,,,,1427417542,1,two_file_reads,,G14
+other_cells,cell_H14,detail,,,,,,,N/A,1,two_file_reads,,H14
+other_cells,cell_I14,detail,,,,,,,N/A,1,two_file_reads,,I14
+other_cells,cell_J14,detail,,,,,,,1093570079,1,two_file_reads,,J14
+other_cells,cell_K14,detail,,,,,,,1659468908,1,two_file_reads,,K14
+other_cells,cell_L14,detail,,,,,,,1912343955,1,two_file_reads,,L14
+other_cells,cell_M14,detail,,,,,,,1780293183,1,two_file_reads,,M14
+other_cells,cell_N14,detail,,,,,,,1114466729,1,two_file_reads,,N14
+other_cells,cell_O14,detail,,,,,,,1962919506,1,two_file_reads,,O14
+other_cells,cell_P14,detail,,,,,,,1215627476,1,two_file_reads,,P14
+other_cells,cell_Q14,detail,,,,,,,1881781144,1,two_file_reads,,Q14
+other_cells,cell_R14,detail,,,,,,,1003903360,1,two_file_reads,,R14
+other_cells,cell_S14,detail,,,,,,,1902993264,1,two_file_reads,,S14
+other_cells,cell_T14,detail,,,,,,,1194492215,1,two_file_reads,,T14
+other_cells,cell_U14,detail,,,,,,,1972690238,1,two_file_reads,,U14
+other_cells,cell_V14,detail,,,,,,,1013101757,1,two_file_reads,,V14
+other_cells,cell_W14,detail,,,,,,,1588354740,1,two_file_reads,,W14
+other_cells,cell_X14,detail,,,,,,,1568118818,1,two_file_reads,,X14
+other_cells,cell_Y14,detail,,,,,,,1174931000,1,two_file_reads,,Y14
+other_cells,cell_Z14,detail,,,,,,,1114439239,1,two_file_reads,,Z14
+other_cells,cell_AA14,detail,,,,,,,1750893871,1,two_file_reads,,AA14
+other_cells,cell_AB14,detail,,,,,,,1144732348,1,two_file_reads,,AB14
+other_cells,cell_AC14,detail,,,,,,,1861909400,1,two_file_reads,,AC14
+other_cells,cell_AD14,detail,,,,,,,1316463961,1,two_file_reads,,AD14
+other_cells,cell_AE14,detail,,,,,,,1982159067,1,two_file_reads,,AE14
+other_cells,cell_AF14,detail,,,,,,,1508378316,1,two_file_reads,,AF14
+other_cells,cell_AG14,detail,,,,,,,1831675859,1,two_file_reads,,AG14
+other_cells,cell_AH14,detail,,,,,,,1275137010,1,two_file_reads,,AH14
+other_cells,cell_AI14,detail,,,,,,,N/A,1,two_file_reads,,AI14
+other_cells,cell_AJ14,detail,,,,,,,1326748781,1,two_file_reads,,AJ14
+other_cells,cell_AK14,detail,,,,,,,N/A,1,two_file_reads,,AK14
+other_cells,cell_AL14,detail,,,,,,,N/A,1,two_file_reads,,AL14
+other_cells,cell_AM14,detail,,,,,,,N/A,1,two_file_reads,,AM14
+other_cells,cell_AN14,detail,,,,,,,N/A,1,two_file_reads,,AN14
+other_cells,cell_AO14,detail,,,,,,,N/A,1,two_file_reads,,AO14
+other_cells,cell_AP14,detail,,,,,,,N/A,1,two_file_reads,,AP14
+other_cells,cell_AQ14,detail,,,,,,,N/A,1,two_file_reads,,AQ14
+other_cells,cell_AR14,detail,,,,,,,N/A,1,two_file_reads,,AR14
+other_cells,cell_AS14,detail,,,,,,,N/A,1,two_file_reads,,AS14
+other_cells,cell_AT14,detail,,,,,,,N/A,1,two_file_reads,,AT14
+other_cells,cell_AU14,detail,,,,,,,N/A,1,two_file_reads,,AU14
+other_cells,cell_AV14,detail,,,,,,,N/A,1,two_file_reads,,AV14
+other_cells,cell_AW14,detail,,,,,,,N/A,1,two_file_reads,,AW14
+other_cells,cell_AX14,detail,,,,,,,1427856095,1,two_file_reads,,AX14
+other_cells,cell_J32,detail,,,,,,,"CaptureRX, one of our third party processors, is not able to provide data by payer group",1,two_file_reads,,J32
+other_cells,cell_B65,detail,,,,,,,Primary Care,1,two_file_reads,,B65
+other_cells,cell_B66,detail,,,,,,,Behavioral Health,1,two_file_reads,,B66
+other_cells,cell_B67,detail,,,,,,,Dental,1,two_file_reads,,B67
+other_cells,cell_B68,detail,,,,,,,School-based health centers,1,two_file_reads,,B68

@@ -1,0 +1,298 @@
+sheet,cell,value
+odh-340b-collection-tool,B1,Ohio Department of Health
+odh-340b-collection-tool,B2,ORC 3701.88 340B Covered Entity Reporting Template 
+odh-340b-collection-tool,B4,Reporting Period:
+odh-340b-collection-tool,C4,"January 1, 2025 - December 31, 2025"
+odh-340b-collection-tool,B5,Primary Contact Name:
+odh-340b-collection-tool,C5,[contact detail withheld]
+odh-340b-collection-tool,B6,Email:
+odh-340b-collection-tool,C6,[contact detail withheld]
+odh-340b-collection-tool,B7,Phone Number:
+odh-340b-collection-tool,C7,[contact detail withheld]
+odh-340b-collection-tool,A8,Data Element
+odh-340b-collection-tool,B8,HRSA 340B ID:
+odh-340b-collection-tool,C8,CH059880
+odh-340b-collection-tool,D9,Lettered Prefix:
+odh-340b-collection-tool,E9,Number:
+odh-340b-collection-tool,A10,1
+odh-340b-collection-tool,D10,-
+odh-340b-collection-tool,E10,-
+odh-340b-collection-tool,C12,NPI1
+odh-340b-collection-tool,D12,NPI2
+odh-340b-collection-tool,E12,NPI3
+odh-340b-collection-tool,F12,NPI4
+odh-340b-collection-tool,G12,NPI5
+odh-340b-collection-tool,H12,NPI6
+odh-340b-collection-tool,I12,NPI7
+odh-340b-collection-tool,J12,NPI8
+odh-340b-collection-tool,K12,NPI9
+odh-340b-collection-tool,L12,NPI10
+odh-340b-collection-tool,M12,NPI11
+odh-340b-collection-tool,N12,NPI12
+odh-340b-collection-tool,O12,NPI13
+odh-340b-collection-tool,P12,NPI14
+odh-340b-collection-tool,Q12,NPI15
+odh-340b-collection-tool,R12,NPI16
+odh-340b-collection-tool,S12,NPI17
+odh-340b-collection-tool,T12,NPI18
+odh-340b-collection-tool,U12,NPI19
+odh-340b-collection-tool,V12,NPI20
+odh-340b-collection-tool,A13,2
+odh-340b-collection-tool,B13,National Provider Identifier(s) associated with this Covered Entity (DO NOT REPORT Contract Pharmacies)
+odh-340b-collection-tool,C13,1053337675
+odh-340b-collection-tool,D13,1154347789
+odh-340b-collection-tool,E13,1922024553
+odh-340b-collection-tool,F13,1790439156
+odh-340b-collection-tool,G13,1174867881
+odh-340b-collection-tool,H13,1578244687
+odh-340b-collection-tool,I13,1760136113
+odh-340b-collection-tool,J13,1073407748
+odh-340b-collection-tool,K13,1326932096
+odh-340b-collection-tool,L13,-
+odh-340b-collection-tool,M13,-
+odh-340b-collection-tool,N13,-
+odh-340b-collection-tool,O13,-
+odh-340b-collection-tool,P13,-
+odh-340b-collection-tool,Q13,-
+odh-340b-collection-tool,R13,-
+odh-340b-collection-tool,S13,-
+odh-340b-collection-tool,T13,-
+odh-340b-collection-tool,U13,-
+odh-340b-collection-tool,V13,-
+odh-340b-collection-tool,B15,Section 1: Dispensed Drugs (billed through in-house Covered Entity Pharmacies)
+odh-340b-collection-tool,C16,Commercial Insurance/Private Insurance:
+odh-340b-collection-tool,D16,Medicare:
+odh-340b-collection-tool,E16,Medicaid (all states):
+odh-340b-collection-tool,F16,Other Third-Party Payor:
+odh-340b-collection-tool,G16,Uninsured/Self-Pay:
+odh-340b-collection-tool,H16,TOTAL:
+odh-340b-collection-tool,A17,3
+odh-340b-collection-tool,B17,Aggregate Acquisition Cost for all 340B drugs dispensed by the Covered Entity
+odh-340b-collection-tool,C17,0
+odh-340b-collection-tool,D17,0
+odh-340b-collection-tool,E17,442701.05549999996
+odh-340b-collection-tool,F17,555362.54799999995
+odh-340b-collection-tool,G17,304381.39649999997
+odh-340b-collection-tool,H17,1302445
+odh-340b-collection-tool,A18,4
+odh-340b-collection-tool,B18,Aggregate Payments Received for all 340B drugs dispensed by the Covered Entity
+odh-340b-collection-tool,C18,0
+odh-340b-collection-tool,D18,0
+odh-340b-collection-tool,E18,1083346.6148999999
+odh-340b-collection-tool,F18,1359043.8263999999
+odh-340b-collection-tool,G18,744860.55869999994
+odh-340b-collection-tool,H18,3187251
+odh-340b-collection-tool,A19,5
+odh-340b-collection-tool,B19,Total number of Prescriptions dispensed by the Covered Entity (340B and non-340B)
+odh-340b-collection-tool,C19,0
+odh-340b-collection-tool,D19,0
+odh-340b-collection-tool,E19,12115.3956
+odh-340b-collection-tool,F19,14855.349880000002
+odh-340b-collection-tool,G19,8330.0028000000002
+odh-340b-collection-tool,H19,35644
+odh-340b-collection-tool,A20,6
+odh-340b-collection-tool,B20,Total number of Prescriptions dispensed by the Covered Entity (340B)
+odh-340b-collection-tool,C20,0
+odh-340b-collection-tool,D20,0
+odh-340b-collection-tool,E20,11267.317908000001
+odh-340b-collection-tool,F20,13815.475388400002
+odh-340b-collection-tool,G20,7746.9026040000008
+odh-340b-collection-tool,H20,33149
+odh-340b-collection-tool,A21,7
+odh-340b-collection-tool,B21,Percentage of total prescriptions that were 340B
+odh-340b-collection-tool,C21,#DIV/0!
+odh-340b-collection-tool,D21,#DIV/0!
+odh-340b-collection-tool,E21,0.93
+odh-340b-collection-tool,F21,0.93
+odh-340b-collection-tool,G21,0.93
+odh-340b-collection-tool,H21,0.93
+odh-340b-collection-tool,B23,Section 2: Dispensed Drugs (billed through Contract Pharmacies)
+odh-340b-collection-tool,A25,8
+odh-340b-collection-tool,C25,Commercial Insurance/Private Insurance:
+odh-340b-collection-tool,D25,Medicare:
+odh-340b-collection-tool,E25,Medicaid (all states):
+odh-340b-collection-tool,F25,Other Third-Party Payor:
+odh-340b-collection-tool,G25,Uninsured/Self-Pay:
+odh-340b-collection-tool,H25,Indeterminate (Explain)
+odh-340b-collection-tool,I25,TOTAL:
+odh-340b-collection-tool,B26,Aggregate Acquisition Cost for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+odh-340b-collection-tool,C26,0
+odh-340b-collection-tool,D26,0
+odh-340b-collection-tool,E26,0
+odh-340b-collection-tool,F26,1646844
+odh-340b-collection-tool,G26,0
+odh-340b-collection-tool,H26,0
+odh-340b-collection-tool,I26,1770307
+odh-340b-collection-tool,B27,Aggregate Payments Received for all 340B drugs dispensed by all Contract Pharmacies on behalf of the Covered Entity above:
+odh-340b-collection-tool,C27,0
+odh-340b-collection-tool,D27,0
+odh-340b-collection-tool,E27,0
+odh-340b-collection-tool,F27,2910868
+odh-340b-collection-tool,G27,0
+odh-340b-collection-tool,H27,0
+odh-340b-collection-tool,I27,2805852
+odh-340b-collection-tool,B28,Total number of Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity (340B and non-340B):
+odh-340b-collection-tool,C28,0
+odh-340b-collection-tool,D28,0
+odh-340b-collection-tool,E28,0
+odh-340b-collection-tool,F28,3485
+odh-340b-collection-tool,G28,0
+odh-340b-collection-tool,H28,0
+odh-340b-collection-tool,I28,3485
+odh-340b-collection-tool,B29,Total number of 340B Prescriptions filled by all Contract Pharmacies on behalf of the Covered Entity:
+odh-340b-collection-tool,C29,0
+odh-340b-collection-tool,D29,0
+odh-340b-collection-tool,E29,0
+odh-340b-collection-tool,F29,3485
+odh-340b-collection-tool,G29,0
+odh-340b-collection-tool,H29,0
+odh-340b-collection-tool,I29,3485
+odh-340b-collection-tool,B30,Percentage of total Covered-Entity associated prescriptions that were 340B:
+odh-340b-collection-tool,C30,#DIV/0!
+odh-340b-collection-tool,D30,#DIV/0!
+odh-340b-collection-tool,E30,#DIV/0!
+odh-340b-collection-tool,F30,#DIV/0!
+odh-340b-collection-tool,G30,#DIV/0!
+odh-340b-collection-tool,H30,#DIV/0!
+odh-340b-collection-tool,I30,#DIV/0!
+odh-340b-collection-tool,H32,"(Required if ""Indeterminate"" used above) Explanation:"
+odh-340b-collection-tool,I32,-
+odh-340b-collection-tool,B33,Section 3: Administered Drugs
+odh-340b-collection-tool,D34,Commercial Insurance/Private Insurance:
+odh-340b-collection-tool,E34,Medicare:
+odh-340b-collection-tool,F34,Medicaid (all states):
+odh-340b-collection-tool,G34,Other Third-Party Payor:
+odh-340b-collection-tool,H34,Uninsured/Self-Pay:
+odh-340b-collection-tool,I34,TOTAL:
+odh-340b-collection-tool,A35,9
+odh-340b-collection-tool,B35,Aggregate Acquisition Cost for all 340B drugs administered by the Covered Entity
+odh-340b-collection-tool,D35,0
+odh-340b-collection-tool,E35,0
+odh-340b-collection-tool,F35,0
+odh-340b-collection-tool,G35,0
+odh-340b-collection-tool,H35,0
+odh-340b-collection-tool,I35,0
+odh-340b-collection-tool,A36,10
+odh-340b-collection-tool,B36,Aggregate Payments Received for all 340B drugs administered by the Covered Entity
+odh-340b-collection-tool,C36,Actual Payments
+odh-340b-collection-tool,D36,0
+odh-340b-collection-tool,E36,0
+odh-340b-collection-tool,F36,0
+odh-340b-collection-tool,G36,0
+odh-340b-collection-tool,H36,0
+odh-340b-collection-tool,I36,0
+odh-340b-collection-tool,C37,Estimated Payments*
+odh-340b-collection-tool,D37,0
+odh-340b-collection-tool,E37,0
+odh-340b-collection-tool,F37,0
+odh-340b-collection-tool,G37,0
+odh-340b-collection-tool,H37,0
+odh-340b-collection-tool,I37,0
+odh-340b-collection-tool,C38,TOTAL
+odh-340b-collection-tool,D38,0
+odh-340b-collection-tool,E38,0
+odh-340b-collection-tool,F38,0
+odh-340b-collection-tool,G38,0
+odh-340b-collection-tool,H38,0
+odh-340b-collection-tool,I38,0
+odh-340b-collection-tool,A39,11
+odh-340b-collection-tool,B39,Total number of Prescriptions administered by the Covered Entity (340B and non-340B)
+odh-340b-collection-tool,D39,0
+odh-340b-collection-tool,E39,0
+odh-340b-collection-tool,F39,0
+odh-340b-collection-tool,G39,0
+odh-340b-collection-tool,H39,0
+odh-340b-collection-tool,I39,0
+odh-340b-collection-tool,A40,12
+odh-340b-collection-tool,B40,Total number of Prescriptions administered by the Covered Entity (340B)
+odh-340b-collection-tool,D40,0
+odh-340b-collection-tool,E40,0
+odh-340b-collection-tool,F40,0
+odh-340b-collection-tool,G40,0
+odh-340b-collection-tool,H40,0
+odh-340b-collection-tool,I40,0
+odh-340b-collection-tool,A41,13
+odh-340b-collection-tool,B41,Percentage of total prescriptions that were 340B
+odh-340b-collection-tool,D41,#DIV/0!
+odh-340b-collection-tool,E41,#DIV/0!
+odh-340b-collection-tool,F41,#DIV/0!
+odh-340b-collection-tool,G41,#DIV/0!
+odh-340b-collection-tool,H41,#DIV/0!
+odh-340b-collection-tool,I41,#DIV/0!
+odh-340b-collection-tool,B43,Section 4: Administrative Costs of the 340B Program
+odh-340b-collection-tool,B45,Payments to External Entities:
+odh-340b-collection-tool,A46,14
+odh-340b-collection-tool,B46,Total Payments made to Contract Pharmacies by the Covered Entity (includes dispensing fees and profit sharing arrangements):
+odh-340b-collection-tool,C46,25483.370000000003
+odh-340b-collection-tool,A47,15
+odh-340b-collection-tool,B47,Total Payments to 340B Third Party Administrators:
+odh-340b-collection-tool,C47,277107.83
+odh-340b-collection-tool,A48,16
+odh-340b-collection-tool,B48,Total Payments to 340B Consulting Entities (including audit support):
+odh-340b-collection-tool,C48,-
+odh-340b-collection-tool,A49,17
+odh-340b-collection-tool,B49,340B Software and Information Technology Costs:
+odh-340b-collection-tool,C49,-
+odh-340b-collection-tool,A50,18
+odh-340b-collection-tool,B50,Other Payments to External Entities:
+odh-340b-collection-tool,B52,Internal Costs to Administer the 340B Program
+odh-340b-collection-tool,A53,19
+odh-340b-collection-tool,B53,Staffing Costs (340B dedicated):
+odh-340b-collection-tool,C53,314773.12
+odh-340b-collection-tool,A54,20
+odh-340b-collection-tool,B54,Information Technology Costs:
+odh-340b-collection-tool,C54,39364
+odh-340b-collection-tool,A55,21
+odh-340b-collection-tool,B55,Other internal costs:
+odh-340b-collection-tool,C55,558705.15
+odh-340b-collection-tool,B57,Section 5: Information Regarding the Covered Entity's Contract Pharmacies
+odh-340b-collection-tool,A59,22
+odh-340b-collection-tool,B59,Covered Entity's total number of Contract Pharmacies:
+odh-340b-collection-tool,C59,86
+odh-340b-collection-tool,B61,Section 6: Detailed Accounting of Covered Entity's Expenditures from 340B Profits
+odh-340b-collection-tool,C63,Detailed Description of Item:
+odh-340b-collection-tool,D63,Expenditures from 340B funds:
+odh-340b-collection-tool,A64,23
+odh-340b-collection-tool,B64,Programs or Services funded/purchased with 340B funds:
+odh-340b-collection-tool,B65,Program/Service 1: Interpreting Services
+odh-340b-collection-tool,C65,"Interpreting costs for our patients who do not speak English as a first language. This includes an outsourced interpreting company, and salaries for our interpreting staff."
+odh-340b-collection-tool,D65,266204.71000000002
+odh-340b-collection-tool,B66,Program/Service 2: Pharmacy Delivery Services
+odh-340b-collection-tool,C66,Pharmacy delivery and mailing service to ensure continuity of care when a patient does not have the resources to pick up their prescription
+odh-340b-collection-tool,D66,3590
+odh-340b-collection-tool,B67,Program/Service 3: Answering Service
+odh-340b-collection-tool,C67,After Hours Answering Service
+odh-340b-collection-tool,D67,10519
+odh-340b-collection-tool,B68,Program/Service 4: Case Management
+odh-340b-collection-tool,C68,Case Management for patients
+odh-340b-collection-tool,D68,29941.96
+odh-340b-collection-tool,B69,Program/Service 5:
+odh-340b-collection-tool,C69,-
+odh-340b-collection-tool,D69,-
+odh-340b-collection-tool,B71,Equipment purchased with 340B Funds:
+odh-340b-collection-tool,B72,Item 1:
+odh-340b-collection-tool,C72,-
+odh-340b-collection-tool,D72,-
+odh-340b-collection-tool,B73,Item 2:
+odh-340b-collection-tool,C73,-
+odh-340b-collection-tool,D73,-
+odh-340b-collection-tool,B74,Item 3:
+odh-340b-collection-tool,C74,-
+odh-340b-collection-tool,D74,-
+odh-340b-collection-tool,B75,Item 4:
+odh-340b-collection-tool,C75,-
+odh-340b-collection-tool,D75,-
+odh-340b-collection-tool,B76,Item 5:
+odh-340b-collection-tool,C76,-
+odh-340b-collection-tool,D76,-
+odh-340b-collection-tool,B78,Other uses of 340B funds not otherwise listed above:
+odh-340b-collection-tool,C78,-
+odh-340b-collection-tool,D78,-
+odh-340b-collection-tool,B80,(Narrative) Provide additional detail/context as necessary:
+odh-340b-collection-tool,C80,-
+odh-340b-collection-tool,A82,24
+odh-340b-collection-tool,B82,"If Covered Entity cannot provide a detailed accounting as requested above, provide a detailed narrative regarding how 340B funds/profits are used."
+odh-340b-collection-tool,C82,-
+odh-340b-collection-tool,B83,"The HealthCare Connection utilizes savings generated through the 340B Drug Pricing Program to expand access to comprehensive healthcare services for underserved and vulnerable populations in our community. Rather than distributing these funds as profit, 340B savings are reinvested into programs and services that support our mission as a Federally Qualified Health Center."
+odh-340b-collection-tool,B85,"Specifically, 340B savings help offset the cost of providing care to uninsured and underinsured patients, support expanded pharmacy services, maintain medication access programs, and fund clinical staff and care coordination services that are not fully reimbursed by third-party payers. These funds also help sustain behavioral health, dental, vision, and primary care services, improve patient access through extended hours and care management, and support investments in technology, equipment, and infrastructure that enhance patient care."
+odh-340b-collection-tool,B87,"As reimbursement rates often do not fully cover the cost of providing comprehensive healthcare services, 340B savings are essential to maintaining financial sustainability while allowing The HealthCare Connection to continue expanding services, improving health outcomes, and reducing barriers to care for the communities we serve."

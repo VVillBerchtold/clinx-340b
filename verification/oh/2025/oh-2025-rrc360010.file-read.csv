@@ -1,0 +1,248 @@
+page,schedule,line,amount,claims,answer
+1,in_house_acquisition_cost,commercial,14272.9762116441,,
+1,in_house_acquisition_cost,medicare,23387.1557246272,,
+1,in_house_acquisition_cost,medicaid,6692.31785701056,,
+1,in_house_acquisition_cost,other_third_party,352.263078364682,,
+1,in_house_acquisition_cost,uninsured,1560.86034544183,,
+1,in_house_acquisition_cost,total,46265.5732170884,,
+1,in_house_payments_received,commercial,105870.728136119,,
+1,in_house_payments_received,medicare,173475.746675673,,
+1,in_house_payments_received,medicaid,49640.702396886,,
+1,in_house_payments_received,other_third_party,2612.93426465003,,
+1,in_house_payments_received,uninsured,11577.7829963668,,
+1,in_house_payments_received,total,343177.894469695,,
+1,in_house_rx_all,commercial,,10367.4467532468,
+1,in_house_rx_all,medicare,,16988,
+1,in_house_rx_all,medicaid,,4861.64482758621,
+1,in_house_rx_all,other_third_party,,255.5,
+1,in_house_rx_all,uninsured,,1133.57575757576,
+1,in_house_rx_all,total,,33606.1673384087,
+1,in_house_rx_340b,commercial,,1785.31558441558,
+1,in_house_rx_340b,medicare,,2925,
+1,in_house_rx_340b,medicaid,,837.422068965517,
+1,in_house_rx_340b,other_third_party,,43.8,
+1,in_house_rx_340b,uninsured,,195.339393939394,
+1,in_house_rx_340b,total,,5786.8770473205,
+1,in_house_rx_pct,commercial,17.2203979138497,,
+1,in_house_rx_pct,medicare,17.21803626089,,
+1,in_house_rx_pct,medicaid,17.2250770811922,,
+1,in_house_rx_pct,other_third_party,17.1428571428571,,
+1,in_house_rx_pct,uninsured,17.2321428571429,,
+1,in_house_rx_pct,total,17.2196876515182,,
+1,contract_acquisition_cost,commercial,0,,
+1,contract_acquisition_cost,medicare,0,,
+1,contract_acquisition_cost,medicaid,0,,
+1,contract_acquisition_cost,other_third_party,0,,
+1,contract_acquisition_cost,uninsured,0,,
+1,contract_acquisition_cost,indeterminate,0,,
+1,contract_acquisition_cost,total,0,,
+1,contract_payments_received,commercial,0,,
+1,contract_payments_received,medicare,0,,
+1,contract_payments_received,medicaid,0,,
+1,contract_payments_received,other_third_party,0,,
+1,contract_payments_received,uninsured,0,,
+1,contract_payments_received,indeterminate,0,,
+1,contract_payments_received,total,0,,
+1,contract_rx_all,commercial,,0,
+1,contract_rx_all,medicare,,0,
+1,contract_rx_all,medicaid,,0,
+1,contract_rx_all,other_third_party,,0,
+1,contract_rx_all,uninsured,,0,
+1,contract_rx_all,indeterminate,,0,
+1,contract_rx_all,total,,0,
+1,contract_rx_340b,commercial,,0,
+1,contract_rx_340b,medicare,,0,
+1,contract_rx_340b,medicaid,,0,
+1,contract_rx_340b,other_third_party,,0,
+1,contract_rx_340b,uninsured,,0,
+1,contract_rx_340b,indeterminate,,0,
+1,contract_rx_340b,total,,0,
+1,contract_rx_pct,commercial,#DIV/0!,,
+1,contract_rx_pct,medicare,#DIV/0!,,
+1,contract_rx_pct,medicaid,#DIV/0!,,
+1,contract_rx_pct,other_third_party,#DIV/0!,,
+1,contract_rx_pct,uninsured,#DIV/0!,,
+1,contract_rx_pct,indeterminate,#DIV/0!,,
+1,contract_rx_pct,total,#DIV/0!,,
+1,administered_acquisition_cost,commercial,620753.57,,
+1,administered_acquisition_cost,medicare,1018486.73,,
+1,administered_acquisition_cost,medicaid,291657.56,,
+1,administered_acquisition_cost,other_third_party,14693.58,,
+1,administered_acquisition_cost,uninsured,67228.17,,
+1,administered_acquisition_cost,total,2012819.61,,
+1,administered_payments_actual,commercial,1430432.55736845,,
+1,administered_payments_actual,medicare,1737727.19141879,,
+1,administered_payments_actual,medicaid,287158.837836012,,
+1,administered_payments_actual,other_third_party,22697.7716045488,,
+1,administered_payments_actual,uninsured,0,,
+1,administered_payments_actual,total,3478016.3582278,,
+1,administered_payments_actual,cell_C,Actual Payments,,
+1,administered_payments_estimated,commercial,3610101.21214287,,
+1,administered_payments_estimated,medicare,10989068.42,,
+1,administered_payments_estimated,medicaid,2004988.92473793,,
+1,administered_payments_estimated,other_third_party,104481.406428571,,
+1,administered_payments_estimated,uninsured,572223.131636364,,
+1,administered_payments_estimated,total,17280863.0949458,,
+1,administered_payments_estimated,cell_C,Estimated Payments*,,
+1,administered_payments_total,commercial,5040533.76951131,,
+1,administered_payments_total,medicare,12726795.6114188,,
+1,administered_payments_total,medicaid,2292147.76257394,,
+1,administered_payments_total,other_third_party,127179.17803312,,
+1,administered_payments_total,uninsured,572223.131636364,,
+1,administered_payments_total,total,20758879.4531736,,
+1,administered_payments_total,cell_C,TOTAL,,
+1,administered_rx_all,commercial,,136045,
+1,administered_rx_all,medicare,,223214,
+1,administered_rx_all,medicaid,,63919,
+1,administered_rx_all,other_third_party,,3219,
+1,administered_rx_all,uninsured,,14733,
+1,administered_rx_all,total,,441130,
+1,administered_rx_340b,commercial,,44053,
+1,administered_rx_340b,medicare,,72280,
+1,administered_rx_340b,medicaid,,20697,
+1,administered_rx_340b,other_third_party,,1041,
+1,administered_rx_340b,uninsured,,4770,
+1,administered_rx_340b,total,,142841,
+1,administered_rx_pct,commercial,32.3811973979198,,
+1,administered_rx_pct,medicare,32.3814814482963,,
+1,administered_rx_pct,medicaid,32.3800434925453,,
+1,administered_rx_pct,other_third_party,32.3392357875117,,
+1,administered_rx_pct,uninsured,32.376298106292,,
+1,administered_rx_pct,total,32.380704100832,,
+1,costs,contract_pharmacies,NA,,
+1,costs,third_party_administrators,39959.05,,
+1,costs,consultants,382.49,,
+1,costs,software_it,NA,,
+1,costs,other_external,1457.67,,
+1,costs,staffing,"$38,471.42
+",,
+1,costs,internal_it,NA,,
+1,costs,other_internal,NA,,
+1,contract_pharmacies,count,0,,
+1,identity,reporting_period,,,"January 1, 2025 - December 31, 2025"
+1,identity,hrsa_id,,,RRC360010
+1,identity,id_prefix,,,RRC
+1,identity,id_number,,,360010
+1,identity,npi_1,,,1003849910
+1,identity,npi_2,,,1003854951
+1,identity,npi_3,,,1013194604
+1,identity,npi_4,,,1023089653
+1,identity,npi_5,,,1023316700
+1,identity,npi_6,,,1033135009
+1,identity,npi_7,,,1033161948
+1,identity,npi_8,,,1033549712
+1,identity,npi_9,,,1043291784
+1,identity,npi_10,,,1043484769
+1,identity,npi_11,,,1073972550
+1,identity,npi_12,,,1083696710
+1,identity,npi_13,,,1124286828
+1,identity,npi_14,,,1154962918
+1,identity,npi_15,,,1164855904
+1,identity,npi_16,,,1174030878
+1,identity,npi_17,,,1174575526
+1,identity,npi_18,,,1184428336
+1,identity,npi_19,,,1194763045
+1,identity,npi_20,,,1194790055
+1,identity,npi_21,,,1215169826
+1,identity,npi_22,,,1215234976
+1,identity,npi_23,,,1215989298
+1,identity,npi_24,,,1215989611
+1,identity,npi_25,,,1225009442
+1,identity,npi_26,,,1225231103
+1,identity,npi_27,,,1235183542
+1,identity,npi_28,,,1245212869
+1,identity,npi_29,,,1295717593
+1,identity,npi_30,,,1306145040
+1,identity,npi_31,,,1326282807
+1,identity,npi_32,,,1336506443
+1,identity,npi_33,,,1346348091
+1,identity,npi_34,,,1346607017
+1,identity,npi_35,,,1366433195
+1,identity,npi_36,,,1366469975
+1,identity,npi_37,,,1376512988
+1,identity,npi_38,,,1376779702
+1,identity,npi_39,,,1386663730
+1,identity,npi_40,,,1396071130
+1,identity,npi_41,,,1407259849
+1,identity,npi_42,,,1457381782
+1,identity,npi_43,,,1487952354
+1,identity,npi_44,,,1497801237
+1,identity,npi_45,,,1497932289
+1,identity,npi_46,,,1508024209
+1,identity,npi_47,,,1518170323
+1,identity,npi_48,,,1528013984
+1,identity,npi_49,,,1538302377
+1,identity,npi_50,,,1538587720
+1,identity,npi_51,,,1588298285
+1,identity,npi_52,,,1588414049
+1,identity,npi_53,,,1598719346
+1,identity,npi_54,,,1598738718
+1,identity,npi_55,,,1609424415
+1,identity,npi_56,,,1609809433
+1,identity,npi_57,,,1629092168
+1,identity,npi_58,,,1649208679
+1,identity,npi_59,,,1649507815
+1,identity,npi_60,,,1659318772
+1,identity,npi_61,,,1659539344
+1,identity,npi_62,,,1679511463
+1,identity,npi_63,,,1679525919
+1,identity,npi_64,,,1679886816
+1,identity,npi_65,,,1700828712
+1,identity,npi_66,,,1710933031
+1,identity,npi_67,,,1720319809
+1,identity,npi_68,,,1740787068
+1,identity,npi_69,,,1770082471
+1,identity,npi_70,,,1770687162
+1,identity,npi_71,,,1780603662
+1,identity,npi_72,,,1801177894
+1,identity,npi_73,,,1801343496
+1,identity,npi_74,,,1801807870
+1,identity,npi_75,,,1811069685
+1,identity,npi_76,,,1811932049
+1,identity,npi_77,,,1811979420
+1,identity,npi_78,,,1821035940
+1,identity,npi_79,,,1841239274
+1,identity,npi_80,,,1851373476
+1,identity,npi_81,,,1861702599
+1,identity,npi_82,,,1871606921
+1,identity,npi_83,,,1871606927
+1,identity,npi_84,,,1902827876
+1,identity,npi_85,,,1902858152
+1,identity,npi_86,,,1912139312
+1,identity,npi_87,,,1942248737
+1,identity,npi_88,,,1962879569
+1,identity,npi_89,,,1972619849
+1,identity,npi_90,,,1992963680
+1,contract_pharmacy_notes,indeterminate_explanation,,,NA
+1,uses,program_1_description,,,Please see narrative section
+1,uses,program_1_amount,Please see narrative section,,
+1,uses,program_2_description,,,Please see narrative section
+1,uses,program_2_amount,Please see narrative section,,
+1,uses,program_3_description,,,Please see narrative section
+1,uses,program_3_amount,Please see narrative section,,
+1,uses,program_4_description,,,Please see narrative section
+1,uses,program_4_amount,Please see narrative section,,
+1,uses,program_5_description,,,Please see narrative section
+1,uses,program_5_amount,Please see narrative section,,
+1,uses,equipment_1_description,,,Please see narrative section
+1,uses,equipment_1_amount,Please see narrative section,,
+1,uses,equipment_2_description,,,Please see narrative section
+1,uses,equipment_2_amount,Please see narrative section,,
+1,uses,equipment_3_description,,,Please see narrative section
+1,uses,equipment_3_amount,Please see narrative section,,
+1,uses,equipment_4_description,,,Please see narrative section
+1,uses,equipment_4_amount,Please see narrative section,,
+1,uses,equipment_5_description,,,Please see narrative section
+1,uses,equipment_5_amount,Please see narrative section,,
+1,uses,other_uses_description,,,Please see narrative section
+1,uses,other_uses_amount,Please see narrative section,,
+1,uses,narrative,,,"""Cleveland Clinic uses the 340B Drug Pricing Program to continue to provide the highest quality care for the communities we serve. By lowering the cost of eligible outpatient medications, 340B helps us redirect resources into patient care, pharmacy access and essential services for people who might otherwise have limited access to treatment. For Cleveland Clinic, 340B helps us stretch limited resources so we can continue serving as a safety net for highly specialized care, while also supporting patients experiencing unmet needs.
+Cleveland Clinic uses the 340B benefit to help provide access to care, preserve access points and reinvest in broader community health efforts. In 2024 alone (the most recent year for which complete data are available), we provided $337.7 million in free or discounted care to more than 139,000 patients, contributed $1.49 billion in community benefit across Ohio, Florida and Nevada, and provided $28.7 million in subsidized health services that meet important community needs despite operating at a loss.
+340B also helps Cleveland Clinic maintain pharmacy access and reduce barriers to medication adherence. Examples include operating 27 retail pharmacy locations across Northeast Ohio, opening a new community pharmacy at South Pointe Hospital in 2025, delivering, at no delivery cost, discharge prescriptions to patients and providing transition-of-care pharmacist support for patients after discharge.
+For more information on how Cleveland Clinic uses 340B savings please visit our website at https://my.clevelandclinic.org/about/community/reports/340b-program
+"""
+1,uses,alternative_narrative,,,"""Cleveland Clinic uses the 340B Drug Pricing Program to continue to provide the highest quality care for the communities we serve. By lowering the cost of eligible outpatient medications, 340B helps us redirect resources into patient care, pharmacy access and essential services for people who might otherwise have limited access to treatment. For Cleveland Clinic, 340B helps us stretch limited resources so we can continue serving as a safety net for highly specialized care, while also supporting patients experiencing unmet needs.
+Cleveland Clinic uses the 340B benefit to help provide access to care, preserve access points and reinvest in broader community health efforts. In 2024 alone (the most recent year for which complete data are available), we provided $337.7 million in free or discounted care to more than 139,000 patients, contributed $1.49 billion in community benefit across Ohio, Florida and Nevada, and provided $28.7 million in subsidized health services that meet important community needs despite operating at a loss.
+340B also helps Cleveland Clinic maintain pharmacy access and reduce barriers to medication adherence. Examples include operating 27 retail pharmacy locations across Northeast Ohio, opening a new community pharmacy at South Pointe Hospital in 2025, delivering, at no delivery cost, discharge prescriptions to patients and providing transition-of-care pharmacist support for patients after discharge.
+For more information on how Cleveland Clinic uses 340B savings please visit our website at https://my.clevelandclinic.org/about/community/reports/340b-program
+"""

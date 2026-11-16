@@ -9,6 +9,7 @@ from __future__ import annotations
 import csv
 import io
 import json
+import tomllib
 from collections.abc import Mapping
 from decimal import Decimal
 from pathlib import Path
@@ -29,6 +30,7 @@ from filings340b.load import load_filings
 from filings340b.model import PUBLISHABLE, Filing
 from filings340b.money import plain
 from filings340b.sealing import withheld_for
+from filings340b.smallcounts import REVEALS_SMALL
 from filings340b.tieout import checks, measures
 
 Table = list[dict[str, str]]
@@ -89,22 +91,49 @@ def _check_notes(notes: Table, filings: tuple[Filing, ...]) -> None:
             )
 
 
-def _entities(filings: tuple[Filing, ...]) -> Table:
+HRSA_EXTRACT = "hrsa-oh-extract"
+
+
+def _hrsa(root: Path) -> dict[str, dict[str, str]]:
+    """Read what HRSA's list holds for each Ohio entity, from the committed extract."""
+    path = root / "reference" / f"{HRSA_EXTRACT}.csv"
+    if not path.exists():
+        return {}
+    with (root / "reference" / f"{HRSA_EXTRACT}.source.toml").open("rb") as handle:
+        list_date = str(tomllib.load(handle)["list_date"])
+    out: dict[str, dict[str, str]] = {}
+    for record in _read_table(path):
+        if record["entity_id"] in out:
+            continue
+        subdivision = record["hrsa_subdivision_name"]
+        name = record["hrsa_name"]
+        out[record["entity_id"]] = {
+            "hrsa_name": f"{name} ({subdivision})" if name and subdivision else name,
+            "hrsa_id_spelling": record["hrsa_id_340b"],
+            "hrsa_list_date": list_date,
+            "hrsa_match": record["match"],
+        }
+    return out
+
+
+def _entities(filings: tuple[Filing, ...], hrsa: dict[str, dict[str, str]]) -> Table:
     seen: dict[str, dict[str, str]] = {}
     for filing in filings:
         meta = filing.meta
-        seen.setdefault(
-            meta.entity_id,
-            {
-                "entity_id": meta.entity_id,
-                "state": meta.state,
-                "entity_type": meta.entity_type,
-                "name_as_filed": meta.name_as_filed,
-                "opais_ids_as_filed": meta.opais_ids_as_filed,
-                "entity_type_as_filed": meta.entity_type_as_filed,
-                "city_as_filed": meta.city_as_filed,
-            },
-        )
+        for entity_id in (meta.entity_id, *meta.other_entity_ids):
+            seen.setdefault(
+                entity_id,
+                {
+                    "entity_id": entity_id,
+                    "state": meta.state,
+                    "entity_type": meta.entity_type,
+                    "name_as_filed": meta.name_as_filed,
+                    "opais_ids_as_filed": meta.opais_ids_as_filed,
+                    "entity_type_as_filed": meta.entity_type_as_filed,
+                    "city_as_filed": meta.city_as_filed,
+                    **{column: hrsa.get(entity_id, {}).get(column, "") for column in HRSA_COLUMNS},
+                },
+            )
     return [seen[key] for key in sorted(seen)]
 
 
@@ -133,6 +162,7 @@ def _filings(filings: tuple[Filing, ...]) -> Table:
             "submission_as_filed": f.meta.submission_as_filed,
             "cover_page_url": f.source.cover_page_url,
             "record_kind": f.meta.record_kind,
+            "other_entity_ids": "; ".join(f.meta.other_entity_ids),
         }
         for f in filings
     ]
@@ -169,6 +199,8 @@ def _line_items(
         for row in filing.rows:
             reason = withheld.get((row.filing_id, row.schedule, row.line), "")
             payee = row.schedule in PAYEE_SCHEDULES
+            # A withheld percentage would let a reader work out a withheld count.
+            hidden = reason == REVEALS_SMALL
             out.append(
                 {
                     "filing_id": row.filing_id,
@@ -181,8 +213,8 @@ def _line_items(
                     "category": categories.get((row.filing_id, row.schedule, row.line), ""),
                     "description_as_filed": row.description_as_filed,
                     "ndc_as_filed": row.ndc_as_filed,
-                    "amount_as_filed": row.amount_as_filed,
-                    "amount": plain(row.amount),
+                    "amount_as_filed": "" if hidden else row.amount_as_filed,
+                    "amount": "" if hidden else plain(row.amount),
                     "unit": form_of(filing.meta.form).unit_of(row.schedule, row.line),
                     "claims_as_filed": "" if reason else row.claims_as_filed,
                     "claims": "" if row.claims is None or reason else str(row.claims),
@@ -191,6 +223,7 @@ def _line_items(
                     "page": str(row.page),
                     "verification": row.verification.value,
                     "note": row.note,
+                    "source_cell": row.source_cell,
                 }
             )
     return out
@@ -287,6 +320,8 @@ def _json_bytes(document: Mapping[str, object]) -> bytes:
     return (text + "\n").encode("utf-8")
 
 
+HRSA_COLUMNS = ("hrsa_name", "hrsa_id_spelling", "hrsa_list_date", "hrsa_match")
+
 COLUMNS: dict[str, list[str]] = {
     "entities": [
         "entity_id",
@@ -296,6 +331,7 @@ COLUMNS: dict[str, list[str]] = {
         "opais_ids_as_filed",
         "entity_type_as_filed",
         "city_as_filed",
+        *HRSA_COLUMNS,
     ],
     "filings": [
         "filing_id",
@@ -320,6 +356,7 @@ COLUMNS: dict[str, list[str]] = {
         "submission_as_filed",
         "cover_page_url",
         "record_kind",
+        "other_entity_ids",
     ],
     "attachments": [
         "filing_id",
@@ -355,6 +392,7 @@ COLUMNS: dict[str, list[str]] = {
         "page",
         "verification",
         "note",
+        "source_cell",
     ],
     "discrepancies": [
         "filing_id",
@@ -385,7 +423,7 @@ def build_outputs(root: Path) -> dict[str, bytes]:
     notes = _read_table(reference / "discrepancy_notes.csv")
     _check_notes(notes, filings)
     tables: dict[str, Table] = {
-        "entities": _entities(filings),
+        "entities": _entities(filings, _hrsa(root)),
         "filings": _filings(filings),
         "attachments": _attachments(filings),
         "line_items": _line_items(

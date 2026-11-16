@@ -29,14 +29,9 @@ from filings340b.sealing import (
     write_sums,
 )
 from filings340b.smallcounts import REVEALS_SMALL, RowKey
+from filings340b.textcheck import cells_file
 
 LineKey = tuple[str, str]
-
-
-def cells_file(root: Path, filing: Filing) -> Path:
-    """Return where a workbook filing's copy of its template sheet's cells is kept."""
-    folder = root / "sources" / filing.meta.state.lower() / str(filing.meta.reporting_year)
-    return folder / "cells" / f"{Path(filing.source.file_name).stem}.csv"
 
 
 def withheld_marker(reason: str) -> str:
@@ -106,7 +101,7 @@ def _transcription_file(root: Path, filing: Filing) -> Path:
     return folder / f"{filing.meta.filing_id}.csv"
 
 
-def seal(root: Path) -> str:
+def seal(root: Path) -> str:  # noqa: PLR0912
     """Seal every filing under ``root`` and return a one-line summary."""
     filings = load_filings(root, check_sums=False)
     if any(is_unknown(r) for f in filings for r in f.rows):
@@ -158,7 +153,10 @@ def seal(root: Path) -> str:
             in_cells += _mask_cells(cells_file(root, filing), by_cell)
     for path, entries in sums.items():
         write_sums(path, entries)
-    return (
-        f"sealed {len(held)} withheld cells: {cleared[0]} emptied in transcriptions, "
-        f"{cleared[1]} in image-read files, {in_cells} in cells files"
+    summary = (
+        f"sealed {len(held)} withheld counts: {cleared[0]} emptied in transcriptions, "
+        f"{cleared[1]} in image-read files"
     )
+    if any(form_of(f.meta.form).workbook for f in filings):
+        summary += f", {in_cells} in cells files"
+    return summary
