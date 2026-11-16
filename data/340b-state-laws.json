@@ -270,7 +270,7 @@
       "bill": "SB 25-071",
       "binds": "Drug manufacturers, third-party logistics providers and repackagers; hospitals that are 340B covered entities",
       "citation": "C.R.S. 6-29-101 to 6-29-105; 25-3-134; 6-1-105 (1)(oooo)",
-      "effective_date": "",
+      "effective_date": "2025-08-06",
       "enforcement": "A breach is a deceptive trade practice the Attorney General may pursue for civil penalties; each package of drugs counts once. The pharmacy board may discipline a licensee.",
       "kinds": [
         "contract-pharmacy",
@@ -278,16 +278,16 @@
         "use-of-savings"
       ],
       "law_id": "co-2025-sb25-071",
-      "limits": "Data that federal law requires is allowed. Limited distribution required by 21 U.S.C. 355-1 is allowed. The savings limits and the report apply to reporting hospitals, not clinics. Takes effect after the ninety days allowed for a referendum petition.",
-      "more_sha256": "",
-      "more_text": "",
-      "more_url": "",
+      "limits": "Data that federal law requires is allowed. Limited distribution required by 21 U.S.C. 355-1 is allowed. The savings limits and the report apply to reporting hospitals, not clinics. The final fiscal note says the act takes effect on August 6, 2025, assuming no referendum petition is filed. The hospital report goes in the annual report under C.R.S. 25.5-1-703 (3), and the act does not require public disclosure of records the open records act protects.",
+      "more_sha256": "8203ac6006bc4c65b16e092b12170f95f15c737ca951ab072c132d8634a57523",
+      "more_text": "sources/laws/co/co-2025-sb25-071.more.txt",
+      "more_url": "https://leg.colorado.gov/bill_files/84411/download",
       "quote": "SHALL NOT, DIRECTLY OR INDIRECTLY , DENY , RESTRICT, PROHIBIT, DISCRIMINATE AGAINST, OR OTHERWISE LIMIT THE ACQUISITION OF A 340B DRUG BY , OR DELIVERY OF A 340B DRUG TO , A 340B COVERED ENTITY",
       "retrieved": "2026-11-15",
       "session_year": "2025",
       "signed_date": "2025-05-30",
       "source_form": "pdf",
-      "source_note": "The saved page prints no calendar date for the start.",
+      "source_note": "The session law prints the day of signing and no calendar date for the start. The start date is from the final fiscal note, the second saved page.",
       "source_sha256": "2da3ab9862cb23ad4bcf15e7c1872ebb466ba11ea824402be69f890bbab6486c",
       "source_text": "sources/laws/co/co-2025-sb25-071.txt",
       "source_url": "https://leg.colorado.gov/laws/session-laws/SB25-071/313/download",
@@ -508,7 +508,7 @@
         "study"
       ],
       "law_id": "il-2026-hb2371",
-      "limits": "Hospitals with fewer than 100 licensed beds, Critical Access Hospitals, Safety-Net Hospitals and 340B grantees need not report until January 1, 2029. The Medicaid report is due by January 1, 2028. 340B dispensing is limited to patients who had an outpatient service in the last 18 months.",
+      "limits": "The yearly report is set for August 1, 2026 and each August 1 after; the act took effect August 7, 2026. Hospitals with fewer than 100 licensed beds, Critical Access Hospitals, Safety-Net Hospitals and 340B grantees need not report until January 1, 2029 and report on or before August 1, 2029. The Medicaid report is one report, due by January 1, 2028; where the Department lacks data it gives an estimate and says what it lacks. 340B dispensing is limited to patients who had an outpatient service in the last 18 months.",
       "more_sha256": "",
       "more_text": "",
       "more_url": "",
@@ -522,7 +522,7 @@
       "source_text": "sources/laws/il/il-2026-hb2371.txt",
       "source_url": "https://www.ilga.gov/Legislation/PublicActs/View/104-0758",
       "state": "IL",
-      "summary": "No person, a drug manufacturer included, may deny, restrict or place conditions on 340B drugs reaching a covered entity or its contract pharmacy, limit the number or place of contract pharmacies, or demand pricing or claims data. Covered entities file a yearly 340B report with the General Assembly and keep a policy against duplicate discounts; the state Medicaid agency reports once on 340B units and savings.",
+      "summary": "No person, a drug manufacturer included, may deny, restrict or place conditions on 340B drugs reaching a covered entity or its contract pharmacy, limit the number or place of contract pharmacies, or demand pricing or claims data. Covered entities file a yearly 340B report with the General Assembly and keep a policy against duplicate discounts. The Department of Healthcare and Family Services reports once to the General Assembly on Medicaid drug units, the units subject to a rebate, and an estimate of net costs or savings from 340B purchases.",
       "title": "Patient Access to Pharmacy Protection Act"
     },
     {
@@ -1968,6 +1968,35 @@
       "title": ""
     },
     {
+      "act": "Acts 2026, Special Session I, ch. 1",
+      "bill": "HB 30",
+      "binds": "340B covered entities that dispense a 340B drug to a Medicaid enrollee; the Department of Medical Assistance Services",
+      "citation": "Appropriation Act, Item 291, paragraph UUUUU",
+      "effective_date": "",
+      "enforcement": "",
+      "kinds": [
+        "reporting",
+        "medicaid"
+      ],
+      "law_id": "va-2026-hb30",
+      "limits": "The data is confidential and used only for program integrity, rebate administration and policy evaluation. The Department writes the duty into provider enrollment agreements and Medicaid managed care contracts. The text is one paragraph of the Medicaid item of the budget for the fiscal years 2027 and 2028.",
+      "more_sha256": "",
+      "more_text": "",
+      "more_url": "",
+      "quote": "Each 340B covered entity that dispenses a 340B drug to a Medicaid enrollee shall report such information to the Department of Medical Assistance Services (DMAS), on a quarterly basis and in a format prescribed by DMAS",
+      "retrieved": "2026-11-16",
+      "session_year": "2026",
+      "signed_date": "",
+      "source_form": "web page",
+      "source_note": "The saved page is the whole of Item 291. It prints the chapter of the budget act, not a signing or effective date.",
+      "source_sha256": "0e4873594795e430d9c49ad950a5f72637e7768390b8cafda655471d73dba7da",
+      "source_text": "sources/laws/va/va-2026-hb30.txt",
+      "source_url": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/1/291/",
+      "state": "VA",
+      "summary": "Each covered entity reports to the Department of Medical Assistance Services every quarter, for each 340B drug it dispenses to a Medicaid enrollee: the drug code, date, quantity, 340B acquisition cost, amount billed, amount reimbursed, whether the claim went through an in-house pharmacy, a contract pharmacy or a virtual inventory arrangement, and any contract pharmacy. The Department uses the data to find duplicate discounts, to leave 340B claims off rebate invoices where federal law requires, and to report the aggregate value of 340B discounts to the Director of Planning and Budget and two committee chairs by December 1 of each year.",
+      "title": ""
+    },
+    {
       "act": "Act 131 of 2022",
       "bill": "H.353",
       "binds": "Pharmacy benefit managers and other third parties that pay for drugs",
@@ -2234,7 +2263,7 @@
     },
     {
       "name": "Social Services Law 367-a (Medicaid pharmacy benefit)",
-      "reason": "Read on November 16, 2026 through a reading tool: subdivision 9 sets what Medicaid pays for a drug bought under 340B at the amount the covered entity paid. The Senate's page answers a program with a robot check, so no word-for-word copy is saved yet.",
+      "reason": "Read on November 16, 2026 through a reading tool: subdivision 9 sets what Medicaid pays for a drug bought under 340B at the amount the covered entity paid. The 340B wording is in the earliest version the state's Open Legislation service holds (September 22, 2014); no page read prints the chapter or the year of the act that added it, so a row's session year is not known. The Senate's page answers a program with a robot check, so no word-for-word copy is saved yet.",
       "source_url": "https://www.nysenate.gov/legislation/laws/SOS/367-A",
       "state": "NY"
     },
@@ -2558,6 +2587,11 @@
       "host": "le.utah.gov",
       "owner": "Utah State Legislature",
       "state": "UT"
+    },
+    {
+      "host": "budget.lis.virginia.gov",
+      "owner": "Virginia General Assembly, Legislative Information System",
+      "state": "VA"
     },
     {
       "host": "law.lis.virginia.gov",

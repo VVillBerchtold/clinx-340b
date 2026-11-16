@@ -39,7 +39,7 @@ Five notes on reading across states:
 
 ## State laws about 340B (new in 0.6.0)
 
-Beside the filings, the dataset now lists the state laws that name the 340B program: 76 laws in 41 states, each one read on the state's own website.
+Beside the filings, the dataset now lists the state laws that name the 340B program: 77 laws in 41 states, each one read on the state's own website.
 
 | File | What it is |
 |---|---|

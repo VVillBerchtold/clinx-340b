@@ -1,0 +1,58 @@
+SB 25-071 Fiscal Note Legislative Council Staff Nonpartisan Services for Colorado's Legislature SB 25-071:
+PROHIBIT RESTRICTIONS ON 340B DRUGS Prime Sponsors:
+Fiscal Analyst:
+Sen.
+Michaelson Jenet;
+Rich Brendan Fung, [phone number on the page] Rep.
+Martinez;
+Taggart [email address on the page] Bill Outcome:
+Signed into Law Version:
+Final Fiscal Note Drafting number:
+LLS 25-0361 Date:
+June 27, 2025 Fiscal note status:
+This final fiscal note reflects the enacted bill.
+Summary Information Overview.
+The bill prohibits manufacturers from imposing restrictions on 340B Drug Pricing Program facilities and requires covered hospitals to include certain information in their annual reports.
+Types of impacts.
+The bill is projected to affect the following areas on an ongoing basis: • Minimal State Revenue • Local Government • State Expenditures Appropriations.
+No appropriation is required.
+Table 1 State Fiscal Impacts Budget Year Out Year Type of Impact1 FY 2025-26 FY 2026-27 State Revenue $0 $0 State Expenditures $49,500 $0 Transferred Funds $0 $0 Change in TABOR Refunds $0 $0 Change in State FTE 0.0 FTE 0.0 FTE 1 Fund sources for these impacts are shown in the tables below.
+SB 25-071 Page 2 June 27, 2025 Summary of Legislation The bill prohibits pharmaceutical manufacturers and other related entities from imposing limitations or restrictions on covered hospitals, contract pharmacies, federally qualified health centers, or other facilities participating in the federal 340B Drug Pricing Program.
+Manufacturers may not require covered entities or pharmacies to submit health information unless it is directly related to a claim under a federal health care program.
+Additionally, covered hospitals are required to report the following information to the Department of Health Care Policy Financing (HCPF): • annual 340B savings from participating in the program; • how these savings are utilized; • market rate costs to acquire 340B drugs; and • the total operating costs related to providing charitable care.
+The bill also prohibits the use of 340B savings for certain expenses, including administrative compensation, penalties and fines, advertising, and lobbying, among others.
+Noncompliance with these provisions is a deceptive trade practice.
+Individuals regulated by the State Board of Pharmacy who violate these provisions may also face disciplinary action.
+Background The 340B Drug Pricing Program is a federal program that requires drug manufacturers participating in Medicaid to provide outpatient drugs to covered entities at a discount.
+To participate in the 340B program, covered entities comply with all program requirements administered by the federal Health Resources & Services Administration.
+In Colorado, an estimated 68 hospitals and 20 federally qualified health centers participate in the 340B program.
+State Revenue Starting in FY 2025-26, the bill may increase state revenue from civil penalties and court filing fees by a minimal amount.
+Civil Penalties Under the Colorado Consumer Protection Act, a person committing a deceptive trade practice may be subject to a civil penalty of up to $20,000 for each violation.
+Additional penalties may be imposed for subsequent violations of a court order or injunction.
+This revenue is classified as a damage award and not subject to TABOR.
+Given the uncertainty about the number of cases that may be pursued by the Attorney General and district attorneys, as well as the wide range in potential penalty amounts, the fiscal note cannot estimate the potential impact of these civil penalties.
+SB 25-071 Page 3 June 27, 2025 Filing Fees The bill may increase revenue to the Judicial Department from an increase in civil case filings.
+Revenue from filing fees is subject to TABOR.
+State Expenditures The bill increases state expenditures in the Department of Health Care Policy and Financing by about $50,000 in FY 2025-26 split evenly between the General Fund and federal funds, which can be absorbed within existing resources.
+Workload will also minimally increase in several other agencies, as described below.
+Department of Health Care Policy and Financing In FY 2025-26, expenditures in HCPF will increase by $49,500 to contract with a vendor to update the current hospital report template, data system, and metrics with information required under the bill.
+Based on the scope of new reporting requirements, the fiscal note estimates that a contractor will perform 225 hours of work at a rate of $220 per hour.
+However, it is assumed that the department can absorb these costs as part of their statutorily-required contract review process for reporting community health facilities.
+Workload will also minimally increase to review these hospital reports for the financial benefit of the 340B program, which can also be absorbed within existing appropriations.
+Department of Public Health and Environment Workload in the Department of Public Health and Environment may increase if hospitals fail to publish certain information and the department investigates complaints about noncompliance.
+This workload is expected to be minimal and no change in appropriations is required.
+Department of Regulatory Agencies The bill minimally increases workload in the Department of Regulatory Agencies to conduct outreach to individuals regulated by the State Board of Pharmacy.
+This workload is expected to be minimal and no change in appropriations is required.
+Department of Law Workload in the Department of Law will minimally increase to the extent that deceptive trade practice complaints are filed.
+The department will review complaints under the bill and prioritize investigations as necessary within the overall number of deceptive trade practice complaints and available resources.
+SB 25-071 Page 4 June 27, 2025 Judicial Department The trial courts in the Judicial Department may have an increase in cases filed under the Colorado Consumer Protection Act from the addition of a new deceptive trade practice.
+It is assumed that pharmaceutical manufacturers and covered hospitals will abide by the law and that any violation of the legislation will result in minimal number of new cases.
+The fiscal note assumes that this can be accomplished within existing resources and that no change in appropriations is required.
+Department of Personnel and Administration In future years, expenditures in the Department of Personnel and Administration may increase if employees on the state insurance plan access more 340B drugs, state insurers receive fewer rebates from pharmaceutical manufacturers, and increased costs are passed down to the state.
+This impact is dependent on actions taken by state employees, 340B hospitals, contract pharmacies, and the state insurers.
+Therefore, costs cannot be estimated but are expected to be minimal.
+Local Government Similar to the state, to the extent district attorneys receive deceptive trade practice complaints related to the new deceptive trade practice under the bill, workload will increase to investigate complaints and seek relief when appropriate.
+It is assumed most such cases will be handled at the state level by the Attorney General.
+Effective Date The bill was signed into law by the Governor on May 30, 2025, and takes effect on August 6, 2025, assuming no referendum petition is filed.
+State and Local Government Contacts Health Care Policy and Financing Law Higher Education Public Health and Environment Human Services Regulatory Agencies Judicial The revenue and expenditure impacts in this fiscal note represent changes from current law under the bill for each fiscal year.
+For additional information about fiscal notes, please visit the General Assembly website.

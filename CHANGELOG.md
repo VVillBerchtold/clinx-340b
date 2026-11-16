@@ -2,6 +2,19 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
+## Unreleased
+
+### Added (state laws)
+
+- Virginia's 2026 budget act, HB 30, Item 291, paragraph UUUUU (`va-2026-hb30`): covered entities report Medicaid 340B claim data quarterly to the Department of Medical Assistance Services, which reports the aggregate value of 340B discounts by December 1 each year. The table then has 77 laws in 41 states.
+
+### Changed (state laws)
+
+- Illinois HB 2371 (`il-2026-hb2371`): the summary and limits now describe Section 25, the one Medicaid report by January 1, 2028, and give the date set for the first yearly report of Section 20.
+- Colorado SB 25-071 (`co-2025-sb25-071`): `effective_date` is 2025-08-06, from the final fiscal note, now saved as the row's second page.
+- `state-laws-not-listed.csv`: New York's entry says the 340B wording is already in the earliest version the state service holds (2014) and the act that added it is not known.
+- `laws/hosts.csv`: the Virginia budget site.
+
 ## 0.8.0 (tagged `v0.8.0`, 16 November 2026)
 
 Adds Ohio, and three state laws. No Rhode Island, Vermont, Minnesota, Idaho or Maine value, row or order changes. Four columns are added to `entities.csv`, one to `filings.csv` and one to `line_items.csv`; they are blank for the other states.
