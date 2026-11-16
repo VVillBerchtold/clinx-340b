@@ -457,7 +457,8 @@ def run(
             "",
             *[f"- {line}" for line in found],
             "",
-            "The watch changed nothing in the dataset. Anything new still has to be read and entered.",
+            "The watch changed nothing in the dataset.",
+            "Anything new still has to be read and entered.",
         ])  # fmt: skip
         issues.append({"title": f"{source.state}: {source.what} changed", "body": body})
 
