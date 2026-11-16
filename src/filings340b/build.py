@@ -90,8 +90,14 @@ def _check_notes(notes: Table, filings: tuple[Filing, ...]) -> None:
 
 
 def _entities(filings: tuple[Filing, ...]) -> Table:
+    """List each entity once, as its most recent record prints it.
+
+    An entity that has records for two years (Minnesota's report is read for 2023 and 2024)
+    keeps the name, type and city of the later year. Each record's own printed name is in
+    its rows (``label_as_filed``).
+    """
     seen: dict[str, dict[str, str]] = {}
-    for filing in filings:
+    for filing in sorted(filings, key=lambda f: f.meta.reporting_year, reverse=True):
         meta = filing.meta
         seen.setdefault(
             meta.entity_id,
