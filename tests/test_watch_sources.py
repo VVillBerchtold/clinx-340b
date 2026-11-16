@@ -222,6 +222,13 @@ def test_the_tool_names_itself_and_never_as_a_browser() -> None:
     assert "Mozilla" not in code and "verify_mode" not in code and "CERT_NONE" not in code
 
 
+def test_no_tool_in_the_repository_calls_itself_a_browser() -> None:
+    for path in sorted((ROOT / "tools").glob("*.py")):
+        assert "Mozilla" not in path.read_text(), f"{path.name} names a browser"
+    law_tool = (ROOT / "tools" / "save_law_text.py").read_text()
+    assert f'CLIENT = "{watch.CLIENT}"' in law_tool
+
+
 def test_the_sources_list_and_the_saved_copies_agree() -> None:
     sources = watch.read_sources(ROOT / "watch" / "sources.csv")
     assert len(sources) >= 8

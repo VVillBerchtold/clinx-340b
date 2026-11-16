@@ -37,7 +37,7 @@ Four notes on reading across states:
 
 ## State laws about 340B (new in 0.6.0)
 
-Beside the filings, the dataset now lists the state laws that name the 340B program: 73 laws in 38 states, each one read on the state's own website.
+Beside the filings, the dataset now lists the state laws that name the 340B program: 75 laws in 40 states, each one read on the state's own website.
 
 | File | What it is |
 |---|---|
@@ -51,7 +51,7 @@ How to read it:
 - **Every link goes to a legislature's or a state office's own site.** [`laws/hosts.csv`](laws/hosts.csv) lists them. No row was taken from a tracker or from someone else's summary.
 - **A blank means the official page does not print it.** A signing date, an effective date, a bill number or an act number is filled only where a saved page prints it. Montana's code, for one, prints the chapter of an act and not its bill number.
 - **Each law has one or more of seven kinds**: contract pharmacy access, payer and PBM non-discrimination, reporting, Medicaid, use of savings, study, and other. [`laws/kinds.csv`](laws/kinds.csv) says what each means.
-- **No row for a state means none was found, not that none exists.** Nothing was found for Alabama, Alaska, the District of Columbia, Florida, Georgia, Kansas, Massachusetts, New Jersey, New York, South Carolina, Texas, Wisconsin or Wyoming. Georgia, Kansas and New York have entries in the not-listed file. If you know of a law that is missing, open an issue with the link to the state's page.
+- **No row for a state means none was found, not that none exists.** Nothing was found for Alaska, the District of Columbia, Florida, Kansas, Massachusetts, New Jersey, New York, South Carolina, Texas, Wisconsin or Wyoming. Kansas and New York have entries in the not-listed file. If you know of a law that is missing, open an issue with the link to the state's page.
 - **It is a list of what was enacted.** It does not follow court cases about these laws, bills that have not passed, or how a law is enforced in practice. The summaries are plain-words descriptions; the law's own text is the record. None of it is legal advice.
 
 [METHODS.md](METHODS.md) section 10 says how each law was found, read and checked.

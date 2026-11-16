@@ -39,6 +39,34 @@
   ],
   "laws": [
     {
+      "act": "Act 2021-341",
+      "bill": "SB 227",
+      "binds": "Pharmacy benefits managers",
+      "citation": "Ala. Code 27-45A-10 (8) to (10)",
+      "effective_date": "2021-07-01",
+      "enforcement": "The Commissioner of Insurance enforces the chapter and may suspend or revoke a license or impose civil penalties for a violation.",
+      "kinds": [
+        "payer-nondiscrimination"
+      ],
+      "law_id": "al-2021-sb227",
+      "limits": "The rule on payment amounts leaves out drugs paid for, directly or indirectly, by Medicaid. The act applies to pharmacy benefits manager contracts on and after October 1, 2021. It refers to the program by its section of federal law, 42 U.S.C. 256b, and does not use the name 340B.",
+      "more_sha256": "b85e88bef76d61715965b0696caa4fd2b75acf25df517403f21b8d7383680c57",
+      "more_text": "sources/laws/al/al-2021-sb227.more.txt",
+      "more_url": "https://aldoi.gov/Licensing/PharmacyBM.aspx",
+      "quote": "Require a claim for a drug to include a modifier to indicate that the drug is subject to an agreement under 42 U.S.C. § 256b.",
+      "retrieved": "2026-11-16",
+      "session_year": "2021",
+      "signed_date": "",
+      "source_form": "pdf",
+      "source_note": "The enrolled bill prints no act number and no date of approval. The act number is from the Department of Insurance page on pharmacy benefits managers, the second saved page.",
+      "source_sha256": "dcee135102dcdcb6a6ed6298da7eab143cf21cd0dac9cfd71bd87745f02dab08",
+      "source_text": "sources/laws/al/al-2021-sb227.txt",
+      "source_url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2021RS/PrintFiles/SB227-Enr.pdf",
+      "state": "AL",
+      "summary": "A pharmacy benefits manager may not pay an entity a different amount for a drug on the ground that the drug was bought under 340B or that the entity takes part in the program. Where an entity takes part, the manager may not charge it a fee, charge-back or other adjustment, limit its place in the pharmacy network, require it to contract with a named pharmacy, put a limit or an added charge on a patient who gets drugs from it, or add other requirements. A claim may not be required to carry a marker that the drug is a 340B drug.",
+      "title": ""
+    },
+    {
       "act": "Act 1103 of 2021",
       "bill": "HB 1881",
       "binds": "Insurers, pharmacy benefit managers and other payers; drug manufacturers",
@@ -322,6 +350,34 @@
       "source_url": "https://delcode.delaware.gov/title18/c033a/sc07/index.html",
       "state": "DE",
       "summary": "A pharmacy benefits manager or purchaser may not treat a 340B covered entity or its contract pharmacy less well for taking part in 340B: no payment below the national average drug acquisition cost, no added fees, clawbacks, audits or claim re-submissions, and no interference with a patient's choice.",
+      "title": ""
+    },
+    {
+      "act": "",
+      "bill": "SB 313; HB 946",
+      "binds": "Pharmacy benefits managers",
+      "citation": "O.C.G.A. 33-64-9.1",
+      "effective_date": "2021-01-01",
+      "enforcement": "The Commissioner of Insurance may assess a monetary penalty for each transaction in violation of the chapter.",
+      "kinds": [
+        "payer-nondiscrimination"
+      ],
+      "law_id": "ga-2020-sb313",
+      "limits": "The rules on filing methods and on the four-month report do not reach Medicaid where the department pays providers directly; they do reach Medicaid managed care. The acts refer to the program by its section of federal law, 42 U.S.C. 256b, and do not use the name 340B.",
+      "more_sha256": "7417e56aafc07a790e0a4fcca8209534638ff4bb21452f5a48e7d104e6672799",
+      "more_text": "sources/laws/ga/ga-2020-sb313.more.txt",
+      "more_url": "https://gov.georgia.gov/document/2020-signed-legislation/hb-946/download",
+      "quote": "Discriminate in reimbursement, assess any fees or adjustments, or exclude a pharmacy from the pharmacy benefit manager's network on the basis that the pharmacy dispenses drugs subject to an agreement under 42 U.S.C. Section 256b",
+      "retrieved": "2026-11-16",
+      "session_year": "2020",
+      "signed_date": "",
+      "source_form": "pdf",
+      "source_note": "Two acts of 2020, SB 313 and HB 946, add this section in the same words; HB 946 is the second saved page. Both are the signed copies on the Governor's site, which print no act number and no date of signing. The section takes effect on January 1, 2021, and its rule on 340B pharmacies applies on and after July 1, 2021. The saved text does not show which words of the older law are struck out.",
+      "source_sha256": "20a341c9addeaba387db4cf30345b0e0dee1948f1a1df88d252c2f6f4778b6f0",
+      "source_text": "sources/laws/ga/ga-2020-sb313.txt",
+      "source_url": "https://gov.georgia.gov/document/2020-signed-legislation/sb-313/download",
+      "state": "GA",
+      "summary": "On and after July 1, 2021, a pharmacy benefits manager may not pay a pharmacy differently, charge it fees or adjustments, or leave it out of its network on the basis that the pharmacy dispenses 340B drugs. The report a manager publishes every four months, on what it paid pharmacies against the national average drug acquisition cost, leaves out 340B drugs.",
       "title": ""
     },
     {
@@ -2113,12 +2169,6 @@
   "license": "CC-BY-4.0",
   "not_listed": [
     {
-      "name": "O.C.G.A. 33-64-9.1 (SB 313 and HB 946 of 2020)",
-      "reason": "The official text of this section was not reached; the pages that were read did not show its 340B words.",
-      "source_url": "",
-      "state": "GA"
-    },
-    {
       "name": "HB 1001 of 2025 (state budget)",
       "reason": "The budget's text was not read.",
       "source_url": "",
@@ -2169,6 +2219,16 @@
   ],
   "sites": [
     {
+      "host": "aldoi.gov",
+      "owner": "Alabama Department of Insurance",
+      "state": "AL"
+    },
+    {
+      "host": "alison.legislature.state.al.us",
+      "owner": "Alabama Legislature",
+      "state": "AL"
+    },
+    {
       "host": "arkleg.state.ar.us",
       "owner": "Arkansas General Assembly",
       "state": "AR"
@@ -2207,6 +2267,11 @@
       "host": "legis.delaware.gov",
       "owner": "Delaware General Assembly",
       "state": "DE"
+    },
+    {
+      "host": "gov.georgia.gov",
+      "owner": "Office of the Governor of Georgia",
+      "state": "GA"
     },
     {
       "host": "data.capitol.hawaii.gov",

@@ -1,4 +1,6 @@
 host,state,owner
+aldoi.gov,AL,Alabama Department of Insurance
+alison.legislature.state.al.us,AL,Alabama Legislature
 arkleg.state.ar.us,AR,Arkansas General Assembly
 www.azleg.gov,AZ,Arizona State Legislature
 leginfo.legislature.ca.gov,CA,California Legislature
@@ -7,6 +9,7 @@ leg.colorado.gov,CO,Colorado General Assembly
 www.cga.ct.gov,CT,Connecticut General Assembly
 delcode.delaware.gov,DE,"State of Delaware, Delaware Code Online"
 legis.delaware.gov,DE,Delaware General Assembly
+gov.georgia.gov,GA,Office of the Governor of Georgia
 data.capitol.hawaii.gov,HI,Hawaii State Legislature
 www.legis.iowa.gov,IA,Iowa Legislature
 legislature.idaho.gov,ID,Idaho Legislature

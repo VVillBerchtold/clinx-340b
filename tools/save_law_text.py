@@ -10,6 +10,10 @@ The page is fetched with ``curl``. A PDF is turned into text with ``pdftotext`` 
 a web page has its markup taken off. The build does not need any of these tools: it reads
 the saved text. This script exists so anyone can make a saved text again and compare.
 
+The tool gives its own name on every request, ``ClinX Open Data Reader``, with the address
+of the page that explains how ClinX reads public files. A site that refuses a plain fetch
+under that name is read by a person in a browser and saved with ``--from-file``.
+
 What is changed on the way, and nothing else:
 
 * runs of spaces and line breaks become one space, and the text is then broken into
@@ -68,10 +72,8 @@ MARGIN_NUMBER = re.compile(r"^\s*\d{1,3}(\s+|$)")
 # Markup whose content is not text on the page, and markup that ends a line.
 UNSEEN = frozenset({"script", "style", "noscript"})
 BREAKS = frozenset({"p", "br", "div", "tr", "li", "h1", "h2", "h3", "h4", "td"})
-BROWSER = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 "
-    "(KHTML, like Gecko) Version/17.0 Safari/605.1.15"
-)
+# The name this tool gives on every request. It never calls itself a browser.
+CLIENT = "ClinX Open Data Reader (+https://clinx.org/methods/)"
 
 
 class _PageText(HTMLParser):
@@ -200,7 +202,7 @@ def main() -> int:
         return 0
     with tempfile.TemporaryDirectory() as folder:
         page = Path(folder) / "page"
-        _run([_tool("curl"), "-sS", "-L", "--compressed", "--max-time", "90", "-A", BROWSER,
+        _run([_tool("curl"), "-sS", "-L", "--compressed", "--max-time", "90", "-A", CLIENT,
               "-o", str(page), args.url])  # fmt: skip
         print(save(args.root, args.law_id, page, **options))
     return 0

@@ -2,6 +2,17 @@
 
 This project follows [semantic versioning](https://semver.org/). A corrected figure is a patch release and names the filing, schedule and line.
 
+## 0.8.0 (not tagged yet)
+
+### Added (state laws, 0.8.0)
+
+- Two laws, both rules for pharmacy benefits managers that refer to the 340B program only by its section of federal law, 42 U.S.C. 256b: Alabama's SB 227 of 2021 (`al-2021-sb227`, Ala. Code 27-45A-10) and Georgia's SB 313 and HB 946 of 2020 (`ga-2020-sb313`, O.C.G.A. 33-64-9.1, two acts with the same words in one row). The table now has 75 laws in 40 states. Georgia's entry leaves `state-laws-not-listed.csv`.
+- `laws/hosts.csv`: the Alabama Legislature, the Alabama Department of Insurance and the Office of the Governor of Georgia.
+
+### Changed (0.8.0)
+
+- `tools/save_law_text.py` gives its own name on every request, `ClinX Open Data Reader`, with the address of the page that explains how ClinX reads public files. Until now it sent a browser's name. A test stops any tool in `tools/` from naming a browser. No saved text changes.
+
 ## 0.7.0 (tagged `v0.7.0`, 16 November 2026)
 
 Adds Maine and Minnesota's earlier year, and a daily look at each state's source page. No Rhode Island, Vermont, Idaho or Minnesota 2024-data value, row or order changes, and no column is added. Every row of both new sources was read against the page images by a second reader, and the two reads agreed on all of them.
