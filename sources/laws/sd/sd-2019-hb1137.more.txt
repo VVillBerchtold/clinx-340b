@@ -1,3 +1,6 @@
+[ClinX] Second saved page for sd-2019-hb1137 (HB 1137 of 2019), read from https://sdlegislature.gov/api/Statutes/58-29E-15.html?all=true
+[ClinX] It is kept beside sd-2019-hb1137.txt, the law's own text, for what that page does not print, such as a date or a code section number. It may be a different document from the law itself.
+
 SDLRC - Codified Law 58-29E-15 - Discrimination prohibited--340B entity--Exclusions. 58-29E-15.
 Discrimination prohibited--340B entity--Exclusions.
 Neither a pharmacy benefit manager nor a pharmacy benefit manager affiliate may, directly or indirectly, discriminate against a 340B entity or a pharmacy under contract with a 340B entity, on the basis that the 340B entity or a pharmacy under contract with a 340B entity participates in the 340B drug discount program by imposing terms or conditions that differ from a similarly situated entity that does not participate in the 340B drug discount program.

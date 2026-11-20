@@ -1,3 +1,6 @@
+[ClinX] Second saved page for ms-2024-hb728 (HB 728 of 2024), read from https://billstatus.ls.state.ms.us/2024/pdf/history/HB/HB0728.xml
+[ClinX] It is kept beside ms-2024-hb728.txt, the law's own text, for what that page does not print, such as a date or a code section number. It may be a different document from the law itself.
+
 2024 Regular Session Prescription drugs; prohibit discriminating actions against 340B drug discount program entities.
 AN ACT TO BE KNOWN AS THE DEFENDING AFFORDABLE PRESCRIPTION DRUG COSTS ACT;
 TO PROVIDE DEFINITIONS FOR THE PURPOSE OF THE ACT;

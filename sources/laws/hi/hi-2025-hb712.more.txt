@@ -1,3 +1,6 @@
+[ClinX] Second saved page for hi-2025-hb712 (HB 712 of 2025), read from https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2025/SLH2025_Act143.pdf
+[ClinX] It is kept beside hi-2025-hb712.txt, the law's own text, for what that page does not print, such as a date or a code section number. It may be a different document from the law itself.
+
 ACT 143 ACT 143 H.B.
 NO. 712 A Bill for an Act Relating to Health.
 Be It Enacted by the Legislature of the State of Hawaii:

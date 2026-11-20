@@ -16,7 +16,7 @@ from conftest import Maker
 
 from filings340b.build import build_outputs
 from filings340b.errors import DataError
-from filings340b.laws import COLUMNS, date_forms, load_laws, load_not_listed
+from filings340b.laws import COLUMNS, date_forms, load_laws, load_not_listed, more_header
 
 KINDS = (
     "kind,label,description\n"
@@ -168,18 +168,22 @@ def test_the_federal_section_counts_as_naming_the_program(make_repo: Maker) -> N
     assert len(laws) == 1
 
 
-def with_history(root: Path, **changes: str) -> dict[str, str]:
+def with_history(
+    root: Path, *, header: bool = True, history: str = HISTORY, **changes: str
+) -> dict[str, str]:
     """Save the bill history beside the law's page and return a row that names it."""
+    row = a_row(
+        signed_date="2025-06-01",
+        more_url="https://history.example.invalid/h1",
+        more_text="sources/laws/ri/ri-2025-h1.more.txt",
+    )
+    row.update({k: v for k, v in changes.items() if k != "more_sha256"})
+    saved = (more_header(row) if header else "") + history
     path = root / "sources" / "laws" / "ri" / "ri-2025-h1.more.txt"
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(HISTORY, encoding="utf-8")
-    row = {
-        "signed_date": "2025-06-01",
-        "more_url": "https://history.example.invalid/h1",
-        "more_text": "sources/laws/ri/ri-2025-h1.more.txt",
-        "more_sha256": hashlib.sha256(HISTORY.encode()).hexdigest(),
-    }
-    return a_row(**{**row, **changes})
+    path.write_text(saved, encoding="utf-8")
+    row["more_sha256"] = changes.get("more_sha256") or hashlib.sha256(saved.encode()).hexdigest()
+    return row
 
 
 def test_a_date_printed_on_the_second_saved_page_is_accepted(make_repo: Maker) -> None:
@@ -193,6 +197,35 @@ def test_a_second_page_that_changed_stops_the_build(make_repo: Maker) -> None:
     row = with_history(root, more_sha256="0" * 64)
     with pytest.raises(DataError, match="SHA-256"):
         load_laws(write_laws(root, [row]))
+
+
+def test_a_second_page_without_its_header_stops_the_build(make_repo: Maker) -> None:
+    root = make_repo()
+    with pytest.raises(DataError, match="ClinX header"):
+        load_laws(write_laws(root, [with_history(root, header=False)]))
+
+
+def test_a_date_in_the_header_alone_does_not_count(make_repo: Maker) -> None:
+    root = make_repo()
+    note = "The second saved page is the history; it was signed 06/01/2025."
+    row = with_history(root, history="H 1. Signed by Governor.\n", source_note=note)
+    assert "06/01/2025" in (root / row["more_text"]).read_text(encoding="utf-8")
+    with pytest.raises(DataError, match="signed_date"):
+        load_laws(write_laws(root, [row]))
+
+
+def test_the_header_names_the_law_and_gives_the_rows_reason() -> None:
+    row = a_row(
+        more_url="https://history.example.invalid/h1",
+        source_note="The bill prints no date. The second saved page is the act of 2001.",
+    )
+    header = more_header(row)
+    assert header.startswith(
+        "[ClinX] Second saved page for ri-2025-h1 (H 1 of 2025), "
+        "read from https://history.example.invalid/h1\n"
+    )
+    assert header.endswith("The second saved page is the act of 2001.\n\n")
+    assert "The bill prints no date" not in header
 
 
 def test_a_date_is_found_however_the_page_prints_it() -> None:

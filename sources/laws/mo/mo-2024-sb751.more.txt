@@ -1,3 +1,6 @@
+[ClinX] Second saved page for mo-2024-sb751 (SB 751 of 2024), read from https://www.senate.mo.gov/24info/pdf-bill/tat/SB751.pdf
+[ClinX] It is kept beside mo-2024-sb751.txt, the law's own text, for what that page does not print, such as a date or a code section number. It may be a different document from the law itself.
+
 SECOND REGULAR SESSION [TRULY AGREED TO AND FINALLY PASSED] SENATE SUBSTITUTE FOR SENATE BILL NO. 751 102ND GENERAL ASSEMBLY 2024 4271S.05T AN ACT To amend chapter 376, RSMo, by adding thereto one new section relating to the distribution of 340B drugs.
 Be it enacted by the General Assembly of the State of Missouri, as follows:
 Section A.

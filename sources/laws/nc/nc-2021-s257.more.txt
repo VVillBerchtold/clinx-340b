@@ -1,3 +1,6 @@
+[ClinX] Second saved page for nc-2021-s257 (S 257 of 2021), read from https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_58/GS_58-56A-50.html
+[ClinX] It is kept beside nc-2021-s257.txt, the law's own text, for what that page does not print, such as a date or a code section number. It may be a different document from the law itself.
+
 G.S. 58-56A-50 § 58-56A-50.
 Contracts with 340B covered entities.
 (a) A contract entered into between a pharmacy benefits manager and a 340B covered entity's pharmacy or between a pharmacy benefits manager and a 340B contract pharmacy shall not do any of the following:

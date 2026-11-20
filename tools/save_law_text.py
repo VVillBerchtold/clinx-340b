@@ -25,7 +25,11 @@ What is changed on the way, and nothing else:
   print the contact details of members and staff; the saved text does not need them.
 
 ``--more`` saves the row's second official page (its ``more_url``) beside the first, as
-``<law_id>.more.txt``.
+``<law_id>.more.txt``. That file opens with two lines marked ``[ClinX]``, made from the
+law's row in ``laws/laws.csv``: which law the page belongs to, the address it was read
+from, and why it is kept (a second page can be another document, such as an older act).
+A reader who finds the file on its own can then tell what it is. The build takes the lines
+off before it reads the page's words.
 
 ``--flow`` reads a PDF in reading order instead of keeping its layout: use it for a law
 printed in two columns. ``--ocr`` reads a scanned PDF with Tesseract (300 dots per inch);
@@ -36,6 +40,7 @@ hand, for a site that refuses a plain fetch; the address is still recorded in th
 from __future__ import annotations
 
 import argparse
+import csv
 import hashlib
 import html
 import re
@@ -45,6 +50,8 @@ import tempfile
 import unicodedata
 from html.parser import HTMLParser
 from pathlib import Path
+
+from filings340b.laws import LAWS_FILE, more_header
 
 EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 EMAIL_MARKER = "[email address on the page]"
@@ -164,6 +171,14 @@ def page_text(page: Path, *, flow: bool = False, ocr: bool = False) -> tuple[str
     return "web page", tidy("".join(reader.parts), from_pdf=False)
 
 
+def _row(root: Path, law_id: str, url: str) -> dict[str, str]:
+    """Return the law's row, with ``more_url`` set to the address being saved."""
+    path = root / LAWS_FILE
+    rows = list(csv.DictReader(path.open(encoding="utf-8", newline=""))) if path.is_file() else []
+    row = next((r for r in rows if r["law_id"] == law_id), {"law_id": law_id})
+    return {**row, "more_url": url}
+
+
 def save(  # noqa: PLR0913 - one switch for each way a page is read
     root: Path,
     law_id: str,
@@ -172,9 +187,12 @@ def save(  # noqa: PLR0913 - one switch for each way a page is read
     flow: bool = False,
     ocr: bool = False,
     more: bool = False,
+    url: str = "",
 ) -> str:
     """Write the saved text for one law and return ``form sha256 path``."""
     form, text = page_text(page, flow=flow, ocr=ocr)
+    if more:
+        text = more_header(_row(root, law_id, url)) + text
     name = f"{law_id}.more.txt" if more else f"{law_id}.txt"
     target = root / "sources" / "laws" / law_id[:2] / name
     target.parent.mkdir(parents=True, exist_ok=True)
@@ -196,7 +214,7 @@ def main() -> int:
     args = parser.parse_args()
     if not args.url.startswith("https://"):
         raise SystemExit("the address of an official page starts with https://")
-    options = {"flow": args.flow, "ocr": args.ocr, "more": args.more}
+    options = {"flow": args.flow, "ocr": args.ocr, "more": args.more, "url": args.url}
     if args.from_file is not None:
         print(save(args.root, args.law_id, args.from_file, **options))
         return 0

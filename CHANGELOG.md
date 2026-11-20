@@ -14,6 +14,7 @@ This project follows [semantic versioning](https://semver.org/). A corrected fig
 - Colorado SB 25-071 (`co-2025-sb25-071`): `effective_date` is 2025-08-06, from the final fiscal note, now saved as the row's second page.
 - `state-laws-not-listed.csv`: New York's entry says the 340B wording is already in the earliest version the state service holds (2014) and the act that added it is not known.
 - `laws/hosts.csv`: the Virginia budget site.
+- Each law's second saved page (`<law_id>.more.txt`, 56 files) now opens with two lines marked `[ClinX]` that name the law it belongs to, the address it was read from and why it is kept. The words of the pages are unchanged; their `more_sha256` values change. `tools/save_law_text.py --more` writes the lines from the law's row, and the build stops if a second page lacks them. Prompted by a reader that found Texas's second page, the act of 2001 (SB 347), and could not tell why it sat under the act of 2013.
 
 ## 0.8.0 (tagged `v0.8.0`, 16 November 2026)
 

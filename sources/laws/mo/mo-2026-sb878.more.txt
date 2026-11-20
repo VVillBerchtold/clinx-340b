@@ -1,3 +1,6 @@
+[ClinX] Second saved page for mo-2026-sb878 (SB 878 (merged with HB 2372) of 2026), read from https://www.senate.mo.gov/26info/pdf-bill/tat/SB878.pdf
+[ClinX] It is kept beside mo-2026-sb878.txt, the law's own text, for what that page does not print, such as a date or a code section number. It may be a different document from the law itself.
+
 SECOND REGULAR SESSION [TRULY AGREED TO AND FINALLY PASSED] HOUSE COMMITTEE SUBSTITUTE FOR SENATE SUBSTITUTE FOR SENATE COMMITTEE SUBSTITUTE FOR SENATE BILL NO. 878 103RD GENERAL ASSEMBLY 2026 5598H.07T AN ACT To repeal sections 195.417, 338.010, 338.012, and 579.060, RSMo, and to enact in lieu thereof ten new sections relating to pharmaceutical drugs and devices, with penalty provisions.
 Be it enacted by the General Assembly of the State of Missouri, as follows:
 Section A.

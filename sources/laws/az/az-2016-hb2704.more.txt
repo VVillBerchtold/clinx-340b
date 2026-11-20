@@ -1,3 +1,6 @@
+[ClinX] Second saved page for az-2016-hb2704 (HB 2704 of 2016), read from https://www.azleg.gov/ars/36/02930-03.htm
+[ClinX] It is kept beside az-2016-hb2704.txt, the law's own text, for what that page does not print, such as a date or a code section number. It may be a different document from the law itself.
+
 36-2930.03 - 340B drug pricing; requirements; applicability; annual report; definitions 36-2930.03. 340B drug pricing; requirements; applicability; annual report; definitions A.
 Beginning the later of January 1, 2017 or on approval by the centers for medicare and medicaid services: 1. 340B covered entities shall submit point-of-sale prescription and physician-administered drug claims for members for drugs that are identified in the 340B pricing file, whether or not the drugs are purchased under the 340B drug pricing program.
 The claims shall include a professional fee and the lesser of either:

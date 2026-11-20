@@ -1,3 +1,6 @@
+[ClinX] Second saved page for ne-2022-lb767 (LB 767 of 2022), read from https://www.nebraskalegislature.gov/FloorDocs/107/PDF/Final/LB767.pdf
+[ClinX] It is kept beside ne-2022-lb767.txt, the law's own text, for what that page does not print, such as a date or a code section number. It may be a different document from the law itself.
+
 LB767 LB767 2022 2022 LEGISLATURE OF NEBRASKA ONE HUNDRED SEVENTH LEGISLATURE SECOND SESSION LEGISLATIVE BILL 767 FINAL READING Introduced by Kolterman, 24;
 Aguilar, 35;
 Bostar, 29;

@@ -112,6 +112,40 @@ def _one_space(text: str) -> str:
     return " ".join(text.split())
 
 
+# A second saved page opens with these lines, so a reader who finds the file on its own
+# knows which law it belongs to and why it is there. The check takes them off again.
+HEADER_MARK = "[ClinX] "
+_SECOND_PAGE = re.compile(r"second (saved )?page", re.IGNORECASE)
+
+
+def more_header(row: dict[str, str]) -> str:
+    """Return the lines that open a law's second saved page, from the law's row."""
+    law = row["law_id"]
+    named = f" ({row['bill']} of {row['session_year']})" if row.get("bill") else ""
+    first = f"{HEADER_MARK}Second saved page for {law}{named}, read from {row['more_url']}"
+    why = (
+        f"{HEADER_MARK}It is kept beside {law}.txt, the law's own text, for what that page "
+        "does not print, such as a date or a code section number. "
+        "It may be a different document from the law itself."
+    )
+    sentences = re.split(r"(?<=\.)\s+", row.get("source_note", ""))
+    reason = " ".join(sentence for sentence in sentences if _SECOND_PAGE.search(sentence))
+    if reason:
+        why += " " + reason
+    return f"{first}\n{why}\n\n"
+
+
+def _without_header(law: str, text: str, more_url: str) -> str:
+    """Return a second page's words after checking and taking off its opening lines."""
+    lines = text.split("\n")
+    expected = f"{HEADER_MARK}Second saved page for {law}"
+    if not lines[0].startswith(expected) or not lines[0].endswith(f", read from {more_url}"):
+        raise DataError(f"{law}: the second saved page does not open with its ClinX header")
+    while lines and (lines[0].startswith(HEADER_MARK) or not lines[0].strip()):
+        lines.pop(0)
+    return "\n".join(lines)
+
+
 def _a_date(value: str, where: str) -> date | None:
     if not value:
         return None
@@ -211,7 +245,9 @@ def _check_words(row: dict[str, str]) -> None:
         raise DataError(f"{law}: source_form is one of {', '.join(sorted(SOURCE_FORMS))}")
 
 
-def _saved(root: Path, law: str, expected: str, named: str, digest: str) -> str:
+def _saved(  # noqa: PLR0913 - the row's three columns for one file, and how to return it
+    root: Path, law: str, expected: str, named: str, digest: str, *, keep_lines: bool = False
+) -> str:
     """Return a saved text on one line, after checking it is the file the row names."""
     if named != expected:
         raise DataError(f"{law}: the saved text is {expected}, not {named!r}")
@@ -221,7 +257,8 @@ def _saved(root: Path, law: str, expected: str, named: str, digest: str) -> str:
     content = path.read_bytes()
     if hashlib.sha256(content).hexdigest() != digest:
         raise DataError(f"{law}: {expected} is not the file whose SHA-256 the row names")
-    return _one_space(content.decode("utf-8"))
+    words = content.decode("utf-8")
+    return words if keep_lines else _one_space(words)
 
 
 def _check_source(root: Path, row: dict[str, str]) -> None:
@@ -241,7 +278,8 @@ def _check_source(root: Path, row: dict[str, str]) -> None:
         raise DataError(f"{law}: the quote is not in the saved text word for word")
     if row["more_url"]:
         more = (folder / f"{law}.more.txt").as_posix()
-        text += " " + _saved(root, law, more, row["more_text"], row["more_sha256"])
+        page = _saved(root, law, more, row["more_text"], row["more_sha256"], keep_lines=True)
+        text += " " + _one_space(_without_header(law, page, row["more_url"]))
     elif row["more_text"] or row["more_sha256"]:
         raise DataError(f"{law}: more_text and more_sha256 are empty where more_url is")
     printed = text.lower()

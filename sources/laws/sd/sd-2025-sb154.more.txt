@@ -1,3 +1,6 @@
+[ClinX] Second saved page for sd-2025-sb154 (SB 154 of 2025), read from https://mylrc.sdlegislature.gov/api/Documents/284050.pdf
+[ClinX] It is kept beside sd-2025-sb154.txt, the law's own text, for what that page does not print, such as a date or a code section number. It may be a different document from the law itself.
+
 25.627.15 100th Legislative Session 154 2025 South Dakota Legislature Senate Bill 154 ENROLLED AN ACT ENTITLED An Act to prohibit pharmaceutical manufacturers from interfering in contracts between 340B entities and pharmacies and to provide a penalty therefor.
 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF SOUTH DAKOTA:
 Section 1.
